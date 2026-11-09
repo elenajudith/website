@@ -159,6 +159,16 @@ const PLANET_ICONS={
 const readingValue=r=>`${r.group}: ${r.name}`;
 // Elena 2026-10-29: Übersicht „1:1 Begleitung“ mit allen Einzelangeboten (Texte: content/sessions-overview.json)
 const sessionsOverviewData=JSON.parse(fs.readFileSync(new URL('../content/sessions-overview.json',import.meta.url)));
+// Elena 2026-11-09: Kunst-Seite nur noch mit zwei Kacheln (Musik, Kleidung)
+function artMain(locale){
+ const en=locale==='en',t=(de,e)=>en?e:de,p=en?'/en':'',etsy=site.social.etsy||'https://www.etsy.com/shop/aestheticmattersshop';
+ const tiles=[
+  {href:p+'/music/',ext:false,img:'mu-header',pos:'50% 35%',alt:t('Elena mit Gitarre','Elena with her guitar'),eb:t('STIMME · LIVE · DJ-SETS','VOICE · LIVE · DJ SETS'),title:t('Musik','Music'),text:t('Medicine Music, Konzerte, DJ- und Hybrid-Sets.','Medicine music, concerts, DJ and hybrid sets.'),link:t('Entdecken','Explore')},
+  {href:etsy,ext:true,img:'fo-drei-duene',pos:'50% 40%',alt:t('Drei Männer in Umhängen auf einer Sanddüne','Three men in cloaks on a sand dune'),eb:t('HANDGEMACHT · EINZELSTÜCKE','HANDMADE · ONE OF A KIND'),title:t('Kleidung','Clothing'),text:t('Meine Kleidung findest du in meinem Etsy-Shop.','You can find my clothing in my Etsy shop.'),link:t('Zum Shop','Visit the shop')}];
+ const ext=x=>x.ext?' target="_blank" rel="noopener noreferrer"':'';
+ const html=tiles.map((x,i)=>`<article class="overview-tile${i%2?' overview-tile-alt':''}"><a class="overview-image" href="${esc(x.href)}"${ext(x)} tabindex="-1" aria-hidden="true" style="--focus:${x.pos}">${photoImg({id:x.img,alt:x.alt},locale,'(max-width: 700px) 100vw, 45vw')}</a><div class="overview-copy"><p class="eyebrow">${x.eb}</p><h2><a href="${esc(x.href)}"${ext(x)}>${x.title}</a></h2><p>${x.text}</p><a class="text-link" href="${esc(x.href)}"${ext(x)}>${x.link}</a></div></article>`).join('');
+ return `<section class="page-intro shell overview-intro"><p class="eyebrow">${t('KUNST','ART')}</p><h1>${t('Kunst','Art')}</h1></section><section class="overview-tiles shell">${html}</section>`;
+}
 function sessionsOverview(locale){
  const en=locale==='en',c=sessionsOverviewData[en?'en':'de'],t=(de,e)=>en?e:de,p=en?'/en':'';
  const tiles=sessionsOverviewData.tiles.map((tile,i)=>{const x=tile[en?'en':'de'];return `<article class="overview-tile${i%2?' overview-tile-alt':''}"><a class="overview-image" href="${p}${tile.href}" tabindex="-1" aria-hidden="true" style="--focus:${tile.position||'50% 40%'}">${photoImg({id:tile.image,alt:tile.alt},locale,'(max-width: 700px) 100vw, 45vw')}</a><div class="overview-copy"><p class="eyebrow">${esc(x.eyebrow)}</p><h2><a href="${p}${tile.href}">${esc(x.title)}</a></h2><p>${esc(x.text)}</p><a class="text-link" href="${p}${tile.href}">${t('Entdecken','Explore')}</a></div></article>`;}).join('');
@@ -439,6 +449,8 @@ export function finalize(html,{locale='de',route='/'}){
   $('main').html(sessionsMain(locale));
  }else if(slug==='datenschutz'){
   $('main').html(datenschutzMain(locale));
+ }else if(slug==='my-art'){
+  $('main').html(artMain(locale));
  }else if(slug==='music'){
   $('main').html(musicMain(locale));
  }else if(slug==='services'){
@@ -482,7 +494,7 @@ export function finalize(html,{locale='de',route='/'}){
   if(slug==='services'){
    const cards=$('.retreat-section,.course-section');cards.find('.retreat-card>p,.section-note').remove();catalogue=cards.toString();
   }
-  if(slug==='my-art')catalogue=`<section class="shell final-art-links" id="clothing"><a class="button" href="${esc(site.social.etsy||'https://www.etsy.com/shop/aestheticmattersshop')}">Etsy</a><a class="text-link" href="${prefix}/music/">${en?'Music':'Musik'}</a></section>`;
+  if(false)catalogue=`<section class="shell final-art-links" id="clothing"><a class="button" href="${esc(site.social.etsy||'https://www.etsy.com/shop/aestheticmattersshop')}">Etsy</a><a class="text-link" href="${prefix}/music/">${en?'Music':'Musik'}</a></section>`;
   const enquiry=['services','my-art'].includes(slug)?'':`<section class="shell final-enquiry"><a class="button" href="${prefix}/contact/?${new URLSearchParams({...(historical?{intent:'retreat'}:site.courses.some(c=>c.slug===slug)?{intent:'course'}:{})})}#contact-form">${en?'Enquire by email or WhatsApp':'Per E-Mail oder WhatsApp anfragen'}</a></section>`;
   $('main').html(intro.toString()+historyNote+sourceSection+extra+catalogue+gallery+quoteSection(slug,locale)+enquiry+related+banner);
  }

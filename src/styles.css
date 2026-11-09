@@ -625,3 +625,14 @@ footer .wordmark .logo-img{height:64px}
 .video-note{font-size:11px;letter-spacing:.08em;opacity:.7}
 
 .form-status{margin-top:14px;font-size:14px;color:var(--olive)}
+
+/* Elena 2026-11-09: Instagram-Kacheln auf der Startseite */
+.insta-grid{padding:70px 0 90px}
+.insta-head{display:flex;flex-direction:column;align-items:center;gap:8px;margin-bottom:28px;text-align:center}
+.insta-handle{font-family:Editorial,Georgia,serif;font-style:italic;font-size:clamp(24px,2.6vw,34px);color:var(--ink);text-decoration:none}
+.insta-handle:hover{text-decoration:underline}
+.insta-tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;max-width:900px;margin:0 auto}
+.insta-tile{display:block;aspect-ratio:4/5;overflow:hidden}
+.insta-tile img{width:100%;height:100%;object-fit:cover;transition:transform .5s,opacity .3s}
+.insta-tile:hover img{transform:scale(1.04);opacity:.92}
+@media(max-width:650px){.insta-grid{padding:50px 0 60px}.insta-tiles{gap:3px}}

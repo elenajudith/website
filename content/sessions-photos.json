@@ -5129,6 +5129,132 @@
     "en": "Multiple exposure of a woman in the forest"
    },
    "position": "50% 40%"
+  },
+  {
+   "id": "ig-1",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-1.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-1",
+   "alt": {
+    "de": "Elena sitzt mit Trommel und Feder unter einem efeubewachsenen Baum",
+    "en": "Elena sitzt mit Trommel und Feder unter einem efeubewachsenen Baum"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ig-2",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-2.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-2",
+   "alt": {
+    "de": "Zeichnung einer Nautilusmuschel",
+    "en": "Zeichnung einer Nautilusmuschel"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ig-3",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-3.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-3",
+   "alt": {
+    "de": "Hand am Hals und geflochtener Zopf",
+    "en": "Hand am Hals und geflochtener Zopf"
+   },
+   "position": "50% 30%"
+  },
+  {
+   "id": "ig-4",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-4.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-4",
+   "alt": {
+    "de": "Ein Finger zeichnet Kreise in den Sand",
+    "en": "Ein Finger zeichnet Kreise in den Sand"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ig-5",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-5.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-5",
+   "alt": {
+    "de": "Ein Kreis von Frauen meditiert im Wald",
+    "en": "Ein Kreis von Frauen meditiert im Wald"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ig-6",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-6.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-6",
+   "alt": {
+    "de": "Medicine Ceremony: ein Fuß im Sandkreis",
+    "en": "Medicine Ceremony: ein Fuß im Sandkreis"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ig-7",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-7.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-7",
+   "alt": {
+    "de": "Trauma & das innere Kind: Elena mit Hut vor einer Geode",
+    "en": "Trauma & das innere Kind: Elena mit Hut vor einer Geode"
+   },
+   "position": "50% 30%"
+  },
+  {
+   "id": "ig-8",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-8.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-8",
+   "alt": {
+    "de": "Stimme von Andrew zum Inner Child Retreat",
+    "en": "Stimme von Andrew zum Inner Child Retreat"
+   },
+   "position": "50% 0%"
+  },
+  {
+   "id": "ig-9",
+   "role": "instagram",
+   "shape": "rect",
+   "file": "assets/originals/ig-9.jpg",
+   "url": "",
+   "page": "Instagram aestheticmatters",
+   "name": "ig-9",
+   "alt": {
+    "de": "Glockenzelt vor Bergen bei Sonnenuntergang",
+    "en": "Glockenzelt vor Bergen bei Sonnenuntergang"
+   },
+   "position": "50% 50%"
   }
  ]
 }

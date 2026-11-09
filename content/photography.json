@@ -34,6 +34,16 @@
     },
     {
       "ids": [
+        "fo-hut-geode",
+        "fo-hut-gegenlicht",
+        "fo-hut-sepia",
+        "fo-hut-blick",
+        "fo-hut-windspiel",
+        "fo-hut-hand"
+      ]
+    },
+    {
+      "ids": [
         "fo-hanna-olive",
         "fo-hanna-portraet",
         "fo-hanna-olive-hockend",
@@ -100,16 +110,6 @@
         "fo-reise-haus-om",
         "fo-reise-wueste",
         "fo-reise-tipi"
-      ]
-    },
-    {
-      "ids": [
-        "fo-hut-geode",
-        "fo-hut-gegenlicht",
-        "fo-hut-sepia",
-        "fo-hut-blick",
-        "fo-hut-windspiel",
-        "fo-hut-hand"
       ]
     }
   ],

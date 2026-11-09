@@ -109,7 +109,7 @@ if(form){
  const updateWhatsapp=()=>{if(whatsapp)whatsapp.href=`https://wa.me/4917697672396?text=${encodeURIComponent(subject()+'\n\n'+body())}`;};
  form.addEventListener('input',updateWhatsapp);form.addEventListener('change',updateWhatsapp);updateWhatsapp();
  whatsapp?.addEventListener('click',event=>{if(!form.reportValidity())event.preventDefault();});
- form.addEventListener('submit',event=>{event.preventDefault();if(!form.reportValidity())return;location.href=`mailto:elena.fritsch1991@googlemail.com?subject=${encodeURIComponent(subject())}&body=${encodeURIComponent(body())}`;});
+ form.addEventListener('submit',event=>{event.preventDefault();if(!form.reportValidity())return;location.href=`mailto:hallo@elenajudith.de?subject=${encodeURIComponent(subject())}&body=${encodeURIComponent(body())}`;});
 }
 
 // Galleries remain horizontally scrollable without JavaScript; buttons add precise navigation.

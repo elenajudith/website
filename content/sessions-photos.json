@@ -4809,6 +4809,20 @@
    "position": "50% 25%"
   },
   {
+   "id": "tp-leonie",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-leonie.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Leonie",
+   "alt": {
+    "de": "Leonie",
+    "en": "Leonie"
+   },
+   "position": "53% 55%"
+  },
+  {
    "id": "tp-swantje",
    "role": "portrait",
    "shape": "circle",

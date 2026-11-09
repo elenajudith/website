@@ -101,6 +101,16 @@
         "fo-reise-wueste",
         "fo-reise-tipi"
       ]
+    },
+    {
+      "ids": [
+        "fo-hut-geode",
+        "fo-hut-gegenlicht",
+        "fo-hut-sepia",
+        "fo-hut-blick",
+        "fo-hut-windspiel",
+        "fo-hut-hand"
+      ]
     }
   ],
   "de": {

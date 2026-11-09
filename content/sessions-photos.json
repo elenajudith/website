@@ -4109,6 +4109,90 @@
    "position": "50% 35%"
   },
   {
+   "id": "fo-hut-geode",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-geode.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "82861bbf-image.jpg",
+   "alt": {
+    "de": "Eine Frau in rosa Kleid und Hut sitzt in einer großen Kristallgeode",
+    "en": "A woman in a pink dress and hat sitting in a large crystal geode"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hut-gegenlicht",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-gegenlicht.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "b0881399-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit Hut lächelt im Gegenlicht der Abendsonne",
+    "en": "A woman in a hat smiling against the evening sun"
+   },
+   "position": "50% 30%"
+  },
+  {
+   "id": "fo-hut-sepia",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-sepia.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "6712758e-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit Hut und gefalteten Händen unter Bäumen, sepia",
+    "en": "A woman in a hat with folded hands under trees, sepia"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-hut-blick",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-blick.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "3fde7146-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit Hut lehnt an der Geode und blickt zur Seite",
+    "en": "A woman in a hat leaning on the geode and looking aside"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-hut-windspiel",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-windspiel.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "d64fd97a-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit Hut und gefalteten Händen neben einem Windspiel im Abendlicht",
+    "en": "A woman in a hat with folded hands beside a wind chime in evening light"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-hut-hand",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hut-hand.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "f8bf6bbf-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit Hut sitzt in der Geode, die Hand am Kinn",
+    "en": "A woman in a hat sitting in the geode, hand at her chin"
+   },
+   "position": "50% 35%"
+  },
+  {
    "id": "fo-drei-blueten",
    "role": "photography",
    "shape": "rect",

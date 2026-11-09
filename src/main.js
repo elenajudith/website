@@ -97,6 +97,23 @@ if(testimonialSection){
  }else{inView=true;}
  schedule();
 }
+
+// Elena 2026-11-09: Formulare senden direkt über Web3Forms an Elenas Postfach.
+const W3F_KEY='a8678858-629f-4783-8b9f-9952e356c3d6';
+const sendForm=async(form,subject,text)=>{
+ const en=document.documentElement.lang==='en',btn=form.querySelector('button[type="submit"]');
+ let note=form.querySelector('.form-status');if(!note){note=document.createElement('p');note.className='form-status';note.setAttribute('role','status');btn.after(note);}
+ const name=form.elements.name?.value.trim()||'',contact=form.elements.contact?.value.trim()||'';
+ btn.disabled=true;note.textContent=en?'Sending …':'Wird gesendet …';
+ try{
+  const data={access_key:W3F_KEY,subject:subject,from_name:name||'Website',name:name,kontakt:contact,nachricht:text,seite:location.href};
+  if(/@/.test(contact))data.replyto=contact;
+  const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(data)});
+  const j=await r.json();if(!j.success)throw new Error(j.message);
+  form.reset();note.textContent=en?'Thank you! Your message has arrived. I will get back to you soon.':'Danke! Deine Nachricht ist angekommen. Ich melde mich bald bei dir.';
+ }catch(e){note.textContent=en?'That did not work, sorry. Please write to me at hallo@elenajudith.de or on WhatsApp.':'Das hat leider nicht geklappt. Schreib mir bitte an hallo@elenajudith.de oder per WhatsApp.';}
+ finally{btn.disabled=false;}
+};
 const form=document.querySelector('#contact-form');
 if(form){
  const params=new URLSearchParams(location.search);
@@ -109,7 +126,7 @@ if(form){
  const updateWhatsapp=()=>{if(whatsapp)whatsapp.href=`https://wa.me/4917697672396?text=${encodeURIComponent(subject()+'\n\n'+body())}`;};
  form.addEventListener('input',updateWhatsapp);form.addEventListener('change',updateWhatsapp);updateWhatsapp();
  whatsapp?.addEventListener('click',event=>{if(!form.reportValidity())event.preventDefault();});
- form.addEventListener('submit',event=>{event.preventDefault();if(!form.reportValidity())return;location.href=`mailto:elena.fritsch1991@googlemail.com?subject=${encodeURIComponent(subject())}&body=${encodeURIComponent(body())}`;});
+ form.addEventListener('submit',event=>{event.preventDefault();if(!form.reportValidity())return;sendForm(form,subject(),body());});
 }
 
 // Galleries remain horizontally scrollable without JavaScript; buttons add precise navigation.
@@ -179,16 +196,16 @@ document.querySelectorAll('[data-language-link]').forEach(link=>{
  const target=new URL(link.href);target.search=location.search;target.hash=location.hash;link.href=target.href;
 });
 
-// Elena 2026-10-29: Anfrageformular für 1:1 Sitzungen. Bereitet E-Mail oder WhatsApp-Nachricht vor; es wird nichts automatisch gesendet.
+// Elena 2026-10-29: Anfrageformular für 1:1 Sitzungen. Sendet über Web3Forms oder bereitet eine WhatsApp-Nachricht vor.
 const sessionForm=document.querySelector('#session-form');
 if(sessionForm){
  const f=sessionForm.elements,wa=sessionForm.querySelector('[data-session-whatsapp]');
  const label=name=>sessionForm.querySelector(`label[for="${f[name].id}"]`)?.textContent||name;
- const message=()=>['name','reading','mode','birthdate','birthtime','birthplace','dates','message'].filter(n=>f[n]&&f[n].type!=='hidden'&&f[n].value.trim()).map(n=>`${label(n)}: ${f[n].value.trim()}`).join('\n');
+ const message=()=>['name','contact','reading','mode','birthdate','birthtime','birthplace','dates','message'].filter(n=>f[n]&&f[n].type!=='hidden'&&f[n].value.trim()).map(n=>`${label(n)}: ${f[n].value.trim()}`).join('\n');
  const update=()=>{wa.href=`${sessionForm.dataset.whatsapp}?text=${encodeURIComponent(sessionForm.dataset.subject+'\n\n'+message())}`;};
  sessionForm.addEventListener('input',update);sessionForm.addEventListener('change',update);update();
  const valid=()=>{if(!f.name.value.trim()){f.name.focus();f.name.setAttribute('aria-invalid','true');return false;}f.name.removeAttribute('aria-invalid');return true;};
  wa.addEventListener('click',e=>{if(!valid())e.preventDefault();});
- sessionForm.addEventListener('submit',e=>{e.preventDefault();if(!valid())return;location.href=`mailto:${sessionForm.dataset.email}?subject=${encodeURIComponent(sessionForm.dataset.subject+': '+f.reading.value)}&body=${encodeURIComponent(message())}`;});
+ sessionForm.addEventListener('submit',e=>{e.preventDefault();if(!valid()||!sessionForm.reportValidity())return;sendForm(sessionForm,sessionForm.dataset.subject+': '+f.reading.value,message());});
  document.querySelectorAll('[data-choose-reading]').forEach(a=>a.addEventListener('click',()=>{f.reading.value=a.dataset.chooseReading;update();}));
 }

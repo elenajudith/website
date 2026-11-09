@@ -1,0 +1,863 @@
+{
+  "description": "Onlinekurse (Elena 03.11.2026): Texte von elenajudith.de, nur Tippfehler korrigiert; Archetypen: Abschnitt „Who We Are“ entfernt, Katharina Louise wird als Mit-Kursleiterin erwähnt (Elena 03.11.2026), DE übersetzt aus dem englischen Original.",
+  "dreaming-reality": {
+    "hero": {
+      "id": "dr-kette",
+      "shape": "arch",
+      "position": "50% 35%",
+      "alt": {
+        "de": "Mehrfachbelichtung einer Frau mit geschlossenen Augen und goldenem Halsreif",
+        "en": "Multiple exposure of a woman with closed eyes and a golden neck ring"
+      }
+    },
+    "de": {
+      "eyebrow": "ONLINEKURS · SELBSTLERNKURS",
+      "title": "Dreaming Reality",
+      "subtitle": "Onlinekurs",
+      "claim": "Über die Kunst der wahrhaftigen Manifestation",
+      "tags": "Traumdeutung · Yoga Nidra & Hypnose · Biohacking & Epigenetik · Schlafoptimierung · Bewusste Entspannung · Theta Healing · Luzides Träumen · 1:1 Session · Pflanzenmedizin",
+      "questions": [
+        "Du bist genervt von Larifari-Manifestations-Bypassing und möchtest Techniken erlernen, die wahrhaft & lang anhaltend funktionieren?",
+        "Du möchtest dich besser fühlen und Tag und Nacht in einem ausgeruhten, aufmerksamen und kreativen Prozess befinden?",
+        "Du willst dich und dein Unterbewusstsein besser kennenlernen und als SchöpferIn deines Lebens Verantwortung übernehmen, während du gleichzeitig mit dem, was das Universum für dich vorherbestimmt hat, in Einklang gehst?"
+      ],
+      "questionsIntro": "",
+      "after": "Werde zur ErschafferIn deiner Träume.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nach einem intensiven Live Onlinekurs im Winter 2022 biete ich „Dreaming Reality“ nun als Selbstlernkurs mit 13h Videomaterial, Kursunterlagen und einer Gratis 1:1 Einzelsession an."
+        },
+        {
+          "type": "statement",
+          "text": "Starte jederzeit in deinem Tempo!"
+        },
+        {
+          "type": "video",
+          "id": "BtezfcZlKz0",
+          "title": "DREAMING REALITY - Onlinekurs mit Elena Judith",
+          "title_en": "DREAMING REALITY - online course with Elena Judith"
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "dr-gebet-profil",
+            "shape": "oval",
+            "position": "50% 40%",
+            "alt": {
+              "de": "Eine Frau mit geschlossenen Augen und aneinandergelegten Händen",
+              "en": "A woman with closed eyes and hands pressed together"
+            }
+          }
+        },
+        {
+          "type": "heading",
+          "text": "Was ist der freie Wille?"
+        },
+        {
+          "type": "lead",
+          "text": "Existiert er überhaupt?"
+        },
+        {
+          "type": "p",
+          "text": "Selbstbestimmung. Entscheidungsfreiheit. Gestaltung. Manifestation. Loslassen. Hingeben. Schicksal."
+        },
+        {
+          "type": "statement",
+          "text": "99,9 Prozent all unserer Gedanken verlaufen unterbewusst oder unbewusst."
+        },
+        {
+          "type": "p",
+          "text": "Lies diesen Satz noch einmal."
+        },
+        {
+          "type": "p",
+          "text": "Egal, wie wir es wenden und drehen, eins ist gewiss: Unser Unterbewusstsein bestimmt und leitet in hohem Maße unsere Lebenswelt. Problematisch wird es dann, wenn wir keinen Zugang zu dieser Dimension haben; wenn wir uns steuern lassen, anstatt in Einklang zu gehen."
+        },
+        {
+          "type": "p",
+          "text": "Kennst du dich gut? Was ist mit deinen unterbewussten und unbewussten Mustern und Denkweisen? Schon im Wort, in der Definition, zeigt sich das Paradoxon: Würdest du sie kennen und durchschauen, so wären sie nicht mehr unterbewusst, sondern bewusst."
+        },
+        {
+          "type": "p",
+          "text": "Da sie allzu oft die Zügel in der Hand haben, wenn es um deine Entscheidungen, dein Verhalten sowie deine Denkmuster geht, wäre es da nicht praktisch, eine Technik zu kennen, um all diese Dinge aus dem Unterbewusstsein ins Licht des Bewusstseins zu bringen?"
+        },
+        {
+          "type": "quote",
+          "text": "„Um die Dinge zu verändern, müssen wir uns ihrer zunächst einmal bewusst werden.“ - Erich Fromm"
+        },
+        {
+          "type": "statement",
+          "text": "Klarheit. Desillusion. Ent-Deckung."
+        },
+        {
+          "type": "p",
+          "text": "Yoga Nidra schafft genau dies - mit dieser wunderbaren, tiefgehenden Medizin lüften wir den Schleier, bringen wir die Dunkelheit ins Licht, machen wir das Unbewusste bewusst."
+        },
+        {
+          "type": "p",
+          "text": "Was dann geschieht, ist allein deine Entscheidung. Was du mit den neuen Erkenntnissen anfangen möchtest, ob du mit und an ihnen arbeiten willst oder nicht - du hast die Wahl (oder wird auch dies von einer mysteriösen höheren Macht entschieden? Was glaubst du? ✨✨✨✨)"
+        },
+        {
+          "type": "lead",
+          "text": "Probier es aus! In meinen Yoga-Nidra-Transmissions. Als Teil meines Onlinekurses DREAMING REALITY."
+        },
+        {
+          "type": "lead",
+          "text": "In diesem tiefgehenden, intensiven und holistischen Selbstlern-Onlinekurs wirst du folgende Tools kennenlernen & vertiefen:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Yoga Nidra, Theta Healing & Hypnose",
+            "Auflösen & Neuprogrammieren von Glaubenssätzen auf zellularer epigenetischer Ebene",
+            "Tipps für besseren Schlaf und bewusste Entspannung & Stressreduktion im Alltag",
+            "Kreatives Schreiben & künstlerisch-therapeutische Traumarbeit",
+            "Traumanalyse und Arbeit mit den Archetypen (Tiefenpsychologie nach C.G. Jung)",
+            "Sozial- und kulturanthropologische Sichtweisen auf die Traumwelt & ihre Bedeutung",
+            "Buddhistische Schlafmeditation",
+            "Kräuterwissen und Räuchern",
+            "Channeling und Beten als Kommunikation mit der göttlichen Quelle",
+            "Manifestation durch Trance",
+            "Regelmäßige Hausaufgaben, Impulse, Journaling-Fragen",
+            "Anleitungen für Rituale"
+          ]
+        },
+        {
+          "type": "lead",
+          "text": "Und du lernst:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Deine Träume auf deine persönliche Art und Weise zu deuten und mit ihnen zu arbeiten",
+            "Deine Träume luzider, also klarer und bewusster, werden zu lassen und im Schlaf Wunder in dein Leben zu verankern",
+            "Dich selbst durch eine Yoga Nidra Reise zu führen, die dich gut schlafen, intensiv träumen und tiefgehend heilen lässt",
+            "Magie und Synchronizitäten in dein Leben zu ziehen"
+          ]
+        },
+        {
+          "type": "statement",
+          "text": "Bist du bereit für dein traumhaftes Leben jenseits aller Träume?",
+          "strong": true
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "dr-blaue-augen",
+            "shape": "circle",
+            "position": "50% 40%",
+            "alt": {
+              "de": "Eine Frau blickt mit hellen Augen nach oben, dreifach belichtet",
+              "en": "A woman with light eyes looking upward, triple exposure"
+            }
+          }
+        },
+        {
+          "type": "carousel",
+          "ids": [
+            "dr-kapuze-ringe",
+            "dr-namaste",
+            "dr-tanz",
+            "dr-umarmung-ringe",
+            "dr-haende-glas",
+            "dr-sw-baum",
+            "dr-blick-profil",
+            "dr-wald"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Übers Träumen"
+        },
+        {
+          "type": "lead",
+          "text": "Integration is key. Die eigentliche Arbeit beginnt nach der Session, nach dem Retreat, nach der Medizinzeremonie."
+        },
+        {
+          "type": "p",
+          "text": "Auch bei meinen Yoga Nidra Sessions liegen mir die Integration Circles sehr am Herzen. Raum zu schaffen und ihn zu halten. Für das Erlebte. Das Gefühlte. In den Austausch zu gehen. Fragen zu beantworten und Antworten aus uns selbst und untereinander entstehen zu lassen. Oder die gemeinsam gehaltene Stille als Antwort zu empfangen."
+        },
+        {
+          "type": "p",
+          "text": "In den Kreisen nach den Nidra-Reisen kommt natürlich oft das Thema TRÄUMEN auf. Und so habe ich im Laufe all der Jahre eine unfassbar hohe Anzahl an Träumen erzählt bekommen. Gefühlt sind es tausende (ich habe echt unendlich viele Yoga Nidra Reisen geleitet & erwähne gern, dass es eine meiner meistgenutzten Medicines ist!)."
+        },
+        {
+          "type": "p",
+          "text": "Ich könnte ein Buch darüber schreiben (eines Tages vielleicht, wenn mir jemand einen Zeitumkehrer schenkt, Hello Hermine! 🙋🏽‍♀️)."
+        },
+        {
+          "type": "p",
+          "text": "Die große Vielfalt, der Facettenreichtum und die Komplexität der Bedeutung von Träumen haben mich dabei immer tief beeindruckt. Langsam, aber sicher, durch meine tiefenpsychologischen und jungschen Ansätze, meine Arbeit im Bereich Unterbewusstsein, Archetypen und Hypnose und durch meine Hellfühligkeit, fing ich an, Muster zu erkennen."
+        },
+        {
+          "type": "statement",
+          "text": "Jedoch bin ich bei der klassischen Traumdeutung sehr vorsichtig. Niemals würde ich mir anmaßen, den Traum einer anderen Seele einfach zu ~ deuten ~."
+        },
+        {
+          "type": "p",
+          "text": "Viele Wege führen durch Symbole, Metaphern und Mythen hinein in die Traumanalyse. Es gibt viele verschiedene Arten dieser Kunst. Kulturhistorisch und soziokulturell unterscheiden sie sich sehr. Und natürlich auf persönlicher, individueller Ebene von Seele zu Seele."
+        },
+        {
+          "type": "p",
+          "text": "Eine Deutung kann nur im tiefen und feinfühligen Austausch mit dieser Seele selbst geschehen. Gemeinsam. Mit der Kraft des Inneren Kindes, des Unterbewussten, des Unbewussten, der Ahnen und der göttlichen Quelle."
+        },
+        {
+          "type": "lead",
+          "text": "Wirst du schlau aus deinen Träumen? Oder verwirren sie dich eher? Im DREAMING REALITY Onlinekurs analysieren wir deine Träume auf besondere Art und Weise. Hast du Lust?"
+        },
+        {
+          "type": "video",
+          "id": "Wq9UaMbioAo",
+          "title": "Schlaf, Anne, schlaf nur ein"
+        },
+        {
+          "type": "heading",
+          "text": "Lerne in deinem Tempo"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Aufgenommene Meditationen und Sessions, ca. 13h Videomaterial",
+            "Rituale & Zeremonien. Anleitungen für die Natur und Zuhause",
+            "Abwechslungsreiche Hausaufgaben und Impulse für die Tage dazwischen"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hörst du den Ruf?"
+        },
+        {
+          "type": "p",
+          "text": "Du bekommst alle Aufzeichnungen und das Kursmaterial zugeschickt, sodass du in deinem Tempo lernen kannst. Der Kurs beinhaltet sehr viel theoretisches und praktisches Wissen, das du direkt in deinen Alltag integrieren kannst. Bei unserer 1:1 Session gehe ich dann ganz individuell auf dich und deine Themen rund um deinen Schlaf, deine Träume und das, was du manifestieren möchtest, ein. Durch Yoga Nidra, Hypnosetherapie und die Aktive Imagination nach C. G. Jung können wir hierbei lang anhaltende Veränderungen und Effekte erzielen. Kein WooWoo, sondern neurowissenschaftlich fundierte Methoden. Ich freue mich darauf, gemeinsam mit dir dein Unterbewusstsein zu erkunden und zu erfahren, was für ein immenser Schatz dort zu finden ist."
+        }
+      ],
+      "closing": [
+        "Möchtest du beim Dreaming Reality Onlinekurs dabei sein?",
+        "Dann schreib mir gern und erhalte Infos zu Preisen etc."
+      ],
+      "places": "Ich biete einen großen Sliding Scale & Ratenzahlung an, sodass es allen interessierten Seelen möglich ist, teilzunehmen."
+    },
+    "en": {
+      "eyebrow": "ONLINE COURSE · SELF-STUDY",
+      "title": "Dreaming Reality",
+      "subtitle": "Online course",
+      "claim": "On the art of true manifestation",
+      "tags": "Dream interpretation · Yoga Nidra & hypnosis · Biohacking & epigenetics · Sleep optimisation · Conscious relaxation · Theta healing · Lucid dreaming · 1:1 session · Plant medicine",
+      "questions": [
+        "Tired of wishy-washy manifestation bypassing and want to learn techniques that truly work and last?",
+        "Want to feel better and be in a rested, attentive and creative process day and night?",
+        "Want to get to know yourself and your subconscious better and take responsibility as the creator of your life, while coming into harmony with what the universe has in store for you?"
+      ],
+      "questionsIntro": "",
+      "after": "Become the creator of your dreams.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After an intensive live online course in winter 2022, I now offer “Dreaming Reality” as a self-study course with 13 hours of video, course materials and a free 1:1 session."
+        },
+        {
+          "type": "statement",
+          "text": "Start any time, at your own pace!"
+        },
+        {
+          "type": "video",
+          "id": "BtezfcZlKz0",
+          "title": "DREAMING REALITY - Onlinekurs mit Elena Judith",
+          "title_en": "DREAMING REALITY - online course with Elena Judith"
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "dr-gebet-profil",
+            "shape": "oval",
+            "position": "50% 40%",
+            "alt": {
+              "de": "Eine Frau mit geschlossenen Augen und aneinandergelegten Händen",
+              "en": "A woman with closed eyes and hands pressed together"
+            }
+          }
+        },
+        {
+          "type": "heading",
+          "text": "What is free will?"
+        },
+        {
+          "type": "lead",
+          "text": "Does it even exist?"
+        },
+        {
+          "type": "p",
+          "text": "Self-determination. Freedom of choice. Creation. Manifestation. Letting go. Surrender. Destiny."
+        },
+        {
+          "type": "statement",
+          "text": "99.9 percent of all our thoughts run subconsciously or unconsciously."
+        },
+        {
+          "type": "p",
+          "text": "Read that sentence again."
+        },
+        {
+          "type": "p",
+          "text": "However we turn it, one thing is certain: our subconscious determines and guides our world to a great extent. It becomes a problem when we have no access to this dimension; when we let ourselves be steered instead of moving into harmony."
+        },
+        {
+          "type": "p",
+          "text": "Do you know yourself well? What about your subconscious and unconscious patterns and ways of thinking? The paradox already shows in the word, in the definition: if you knew them and saw through them, they would no longer be subconscious, but conscious."
+        },
+        {
+          "type": "p",
+          "text": "Since they so often hold the reins when it comes to your decisions, your behaviour and your thought patterns, wouldn't it be useful to know a technique to bring all of this out of the subconscious into the light of awareness?"
+        },
+        {
+          "type": "quote",
+          "text": "“In order to change things, we first have to become aware of them.” - Erich Fromm"
+        },
+        {
+          "type": "statement",
+          "text": "Clarity. Disillusion. Dis-covery."
+        },
+        {
+          "type": "p",
+          "text": "Yoga Nidra creates exactly this - with this wonderful, deep medicine we lift the veil, bring the darkness into the light, make the unconscious conscious."
+        },
+        {
+          "type": "p",
+          "text": "What happens then is entirely your decision. What you want to do with the new insights, whether you want to work with them and on them or not - you have the choice (or is this, too, decided by a mysterious higher power? What do you think? ✨✨✨✨)"
+        },
+        {
+          "type": "lead",
+          "text": "Try it! In my Yoga Nidra transmissions. As part of my online course DREAMING REALITY."
+        },
+        {
+          "type": "lead",
+          "text": "In this deep, intensive and holistic self-study online course you will get to know and deepen these tools:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Yoga Nidra, theta healing & hypnosis",
+            "Dissolving & reprogramming beliefs on a cellular, epigenetic level",
+            "Tips for better sleep, conscious relaxation & less stress in everyday life",
+            "Creative writing & artistic-therapeutic dream work",
+            "Dream analysis and work with archetypes (depth psychology after C.G. Jung)",
+            "Social and cultural anthropological views of the dream world & its meaning",
+            "Buddhist sleep meditation",
+            "Herbal knowledge and smudging",
+            "Channeling and prayer as communication with the divine source",
+            "Manifestation through trance",
+            "Regular homework, impulses, journaling questions",
+            "Guidance for rituals"
+          ]
+        },
+        {
+          "type": "lead",
+          "text": "And you learn:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "To interpret your dreams in your own personal way and to work with them",
+            "To let your dreams become more lucid, that is clearer and more conscious, and to anchor miracles in your life while you sleep",
+            "To guide yourself through a Yoga Nidra journey that lets you sleep well, dream intensely and heal deeply",
+            "To draw magic and synchronicities into your life"
+          ]
+        },
+        {
+          "type": "statement",
+          "text": "Are you ready for a dreamlike life beyond all dreams?",
+          "strong": true
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "dr-blaue-augen",
+            "shape": "circle",
+            "position": "50% 40%",
+            "alt": {
+              "de": "Eine Frau blickt mit hellen Augen nach oben, dreifach belichtet",
+              "en": "A woman with light eyes looking upward, triple exposure"
+            }
+          }
+        },
+        {
+          "type": "carousel",
+          "ids": [
+            "dr-kapuze-ringe",
+            "dr-namaste",
+            "dr-tanz",
+            "dr-umarmung-ringe",
+            "dr-haende-glas",
+            "dr-sw-baum",
+            "dr-blick-profil",
+            "dr-wald"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "On dreaming"
+        },
+        {
+          "type": "lead",
+          "text": "Integration is key. The real work begins after the session, after the retreat, after the medicine ceremony."
+        },
+        {
+          "type": "p",
+          "text": "In my Yoga Nidra sessions, too, the integration circles are very close to my heart. Creating space and holding it. For what was experienced. What was felt. Sharing with one another. Answering questions and letting answers arise from within ourselves and between us. Or receiving the silence we hold together as an answer."
+        },
+        {
+          "type": "p",
+          "text": "In the circles after the Nidra journeys, the topic of DREAMS naturally comes up often. And so over all these years I have been told an incredible number of dreams. It feels like thousands (I really have guided countless Yoga Nidra journeys & like to mention that it is one of my most used medicines!)."
+        },
+        {
+          "type": "p",
+          "text": "I could write a book about it (one day perhaps, if someone gives me a time-turner, hello Hermione! 🙋🏽‍♀️)."
+        },
+        {
+          "type": "p",
+          "text": "The great variety, the many facets and the complexity of the meaning of dreams have always deeply impressed me. Slowly but surely, through my depth-psychological and Jungian approaches, my work with the subconscious, archetypes and hypnosis, and through my clairsentience, I began to recognise patterns."
+        },
+        {
+          "type": "statement",
+          "text": "Yet I am very careful with classic dream interpretation. I would never presume to simply ~ interpret ~ another soul's dream."
+        },
+        {
+          "type": "p",
+          "text": "Many paths lead through symbols, metaphors and myths into dream analysis. There are many different forms of this art. They differ greatly in cultural history and socio-culturally. And of course on a personal, individual level, from soul to soul."
+        },
+        {
+          "type": "p",
+          "text": "An interpretation can only happen in deep and sensitive exchange with that soul itself. Together. With the power of the Inner Child, the subconscious, the unconscious, the ancestors and the divine source."
+        },
+        {
+          "type": "lead",
+          "text": "Can you make sense of your dreams? Or do they rather confuse you? In the DREAMING REALITY online course we analyse your dreams in a special way. Would you like to?"
+        },
+        {
+          "type": "video",
+          "id": "Wq9UaMbioAo",
+          "title": "Schlaf, Anne, schlaf nur ein"
+        },
+        {
+          "type": "heading",
+          "text": "Learn at your own pace"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Recorded meditations and sessions, about 13 hours of video",
+            "Rituals & ceremonies. Guidance for nature and at home",
+            "Varied homework and impulses for the days in between"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Do you hear the call?"
+        },
+        {
+          "type": "p",
+          "text": "You receive all recordings and the course materials so that you can learn at your own pace. The course holds a great deal of theoretical and practical knowledge that you can bring straight into your everyday life. In our 1:1 session I then respond entirely to you and your themes around your sleep, your dreams and what you wish to manifest. Through Yoga Nidra, hypnotherapy and Active Imagination after C. G. Jung, we can achieve lasting changes and effects. No woo-woo, but methods grounded in neuroscience. I look forward to exploring your subconscious together with you and discovering what an immense treasure can be found there."
+        }
+      ],
+      "closing": [
+        "Would you like to join the Dreaming Reality online course?",
+        "Then write to me and get all the details on prices and more."
+      ],
+      "places": "I offer a generous sliding scale & instalments, so that every interested soul can take part."
+    }
+  },
+  "a": {
+    "hero": {
+      "id": "web-48",
+      "shape": "arch",
+      "position": "50% 30%",
+      "alt": {
+        "de": "Gemälde einer Madonna mit blauem, blumenbesticktem Schleier",
+        "en": "Painting of a Madonna with a blue, flower-embroidered veil"
+      }
+    },
+    "de": {
+      "eyebrow": "ONLINEKURS · 5 WOCHEN",
+      "title": "She Who Bleeds But Cannot Die",
+      "subtitle": "The Archetypes of the Goddess",
+      "claim": "Eine 5-wöchige Online-Reise durch die Archetypen der Großen Mutter",
+      "tags": "Aufgezeichneter Videokurs - über 13 Stunden Material, sofort erhältlich",
+      "questionsIntro": "Wer sind wir?",
+      "questions": [
+        "Wie ist unsere Beziehung zur Natur?",
+        "Speichert unser Körper alte Bilder einer ursprünglichen Beziehung zur Natur und zum Göttlichen?",
+        "Wie sahen unsere Ahninnen die weibliche Beziehung zur Natur, und wie spiegelte sie sich in den verschiedenen Göttinnen wider?",
+        "Woher kommt unsere unglaubliche Kraft? Wie kann sie erfahren werden? Wie können wir sie vertiefen?",
+        "Wie hängen Schmerz und der individuelle und kollektive Schmerzkörper zusammen?",
+        "Teilen wir als Frauen denselben Schmerz oder teilen wir seine Quelle? Können wir ihn gemeinsam überwinden und transformieren?"
+      ],
+      "after": "Lass es uns gemeinsam herausfinden!",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Diesen Kurs habe ich gemeinsam mit Katharina Louise gehalten."
+        },
+        {
+          "type": "p",
+          "text": "Inmitten dieser turbulenten, die Menschheit verändernden Zeit scheinen diese Fragen wichtiger denn je."
+        },
+        {
+          "type": "p",
+          "text": "Wir als Frauen sind mehr denn je herausgefordert und gefragt, die Energien positiv zu halten, in der Liebe und fest in uns verankert zu bleiben, Licht ins kollektive Bewusstsein zu senden und so alles und alle um uns herum zu stärken und zu unterstützen."
+        },
+        {
+          "type": "statement",
+          "text": "Gemeinsam erheben wir uns.",
+          "strong": true
+        },
+        {
+          "type": "p",
+          "text": "Zu einem Neubeginn, zu einer lang ersehnten und lang erwarteten Transformation. Zu einer Wiedergeburt für uns und für Mutter Erde. Einander erneuert begegnen, uns wiederfinden, um uns zu vereinen. Zusammenkommen und kreativ sein. Einander unterstützen und ermutigen."
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-49",
+            "shape": "rect",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: eine leuchtende Gestalt mit Wurzeln unter einem Sternenkreis",
+              "en": "Painting: a glowing figure with roots beneath a circle of stars"
+            }
+          }
+        },
+        {
+          "type": "heading",
+          "text": "The future is female!"
+        },
+        {
+          "type": "p",
+          "text": "Eine Neue Erde braucht eine starke weibliche Kraft, ein Prinzip und eine ethische Ausrichtung der Gesellschaft, die auf den weiblichen Attributen und Gaben der Weichheit, der Fürsorge, der emotionalen Intelligenz, des Gebens und der bedingungslosen Liebe beruht. Im Zuge der noch immer andauernden Unterdrückung von Frauen haben viele von uns gelernt, unsere Göttliche Weibliche Kraft, unsere innerste Kraft, zu verstecken oder zu unterdrücken."
+        },
+        {
+          "type": "statement",
+          "text": "Aber sie kann niemals sterben",
+          "strong": true
+        },
+        {
+          "type": "p",
+          "text": "Die Große Göttin ist immer in jeder von uns. Sie wartet nur darauf, sich immer wieder zu wandeln, neu zu erwachen, stärker als je zuvor; zu erblühen, zu funkeln und Neues zu erschaffen im ewigen Kreislauf des Lebens. Unsere Große Mutter hat uns immer geholfen, indem sie in verschiedenen Gestalten und Archetypen erschienen ist."
+        },
+        {
+          "type": "p",
+          "text": "Entdecke mit uns die verschiedenen Formen, in denen sie erscheint, und ihre verschiedenen Arten, uns das göttlich-weibliche Prinzip der bedingungslosen Liebe und Weisheit in all seinen Facetten zu zeigen. Dabei erforschen wir auch, wie diese verschiedenen Energien in uns selbst und in unserem Leben wirken. Wir alle tragen all diese Archetypen in uns, ob wir uns dessen bewusst sind oder nicht. In verschiedenen Lebensphasen verbinden wir uns vielleicht mehr mit der einen oder anderen, oder wir brauchen oder rufen eine bestimmte Göttin und einen bestimmten Archetyp an."
+        },
+        {
+          "type": "statement",
+          "text": "Alle Sessions sind aufgezeichnet, über 13h Material! Du kannst in deinem eigenen Tempo damit arbeiten."
+        },
+        {
+          "type": "heading",
+          "text": "Jede Woche widmen wir uns einer anderen Göttin und einem anderen Archetyp"
+        },
+        {
+          "type": "lead",
+          "text": "Isis / Maria Magdalena"
+        },
+        {
+          "type": "p",
+          "text": "Sie schenkt uns ihre Weisheit der Rosenlinie und zeigt uns die Bedeutung des Christusbewusstseins durch Mitgefühl, Vergebung und das Dienen."
+        },
+        {
+          "type": "lead",
+          "text": "Kali / Durga"
+        },
+        {
+          "type": "p",
+          "text": "Sie zeigt uns, dass wir, um spirituelle Stärke zu verkörpern, zuerst alles sterben lassen müssen, was uns nicht mehr dient. Dadurch schenkt sie uns die Kraft der wilden Liebe, die durch die göttliche Mutter in uns lebt."
+        },
+        {
+          "type": "lead",
+          "text": "Frau Holle / Baba Yaga"
+        },
+        {
+          "type": "p",
+          "text": "Sie zeigt uns den rechten Lebenswandel durch Rituale und Übergangsriten und die Einweihungen durch die Tore von Leben und Tod, wie wir Demut angesichts von Schicksal und Karma verkörpern und wie wir unseren freien Willen richtig einsetzen."
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-50",
+            "shape": "arch",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: drei Frauen und eine Eule in einem Bogen",
+              "en": "Painting: three women and an owl in an arch"
+            }
+          }
+        },
+        {
+          "type": "lead",
+          "text": "White Buffalo Calf Woman"
+        },
+        {
+          "type": "p",
+          "text": "Sie lehrt uns die Kraft von Ritual, Zeremonie und Gebet, ehrt die Medizin der Erde und zeigt uns, wie wir in einer ausgewogenen Beziehung zu ihren Lebenszyklen sein können."
+        },
+        {
+          "type": "lead",
+          "text": "Oxum"
+        },
+        {
+          "type": "p",
+          "text": "Sie lehrt uns, dass es keine Schöpfung gibt ohne die magische Kraft unserer Weiblichkeit und Sinnlichkeit. Durch sie lernen wir, durch unsere Süße magnetisch zu sein, und die hohen magischen Lehren des Wassers, die durch die weibliche Blutlinie fließen."
+        },
+        {
+          "type": "heading",
+          "text": "Was du in diesem Kurs erlebst und bekommst"
+        },
+        {
+          "type": "p",
+          "text": "13h aufgezeichnetes Videomaterial, in dem wir den mythischen, „herstorischen“ und kulturellen Hintergrund und die Geschichte jeder Göttin kennenlernen. Praktische Anregungen, wie du ihre Weisheit durch Ritual, Zeremonie und Verkörperungspraktiken in deinen Alltag integrierst."
+        },
+        {
+          "type": "p",
+          "text": "Wir werfen auch einen Blick auf den politischen Aspekt, wie sich das Patriarchat überhaupt etabliert hat. Wie hat all das begonnen? Warum erleben wir heute noch immer die immensen Folgen in Form von Ungleichheit und Ungerechtigkeit? Außerdem sprechen wir darüber, wie die Unterdrückung der weiblichen Energie, der Anima, in Männern zu einer Externalisierung geführt hat, die in der Unterdrückung des heiligen Weiblichen im Allgemeinen und damit in der Unterdrückung, dem Missbrauch und der Beherrschung und Kontrolle von Frauen mündet."
+        },
+        {
+          "type": "p",
+          "text": "Wir glauben, dass Aktivismus ohne Spiritualität leer ist und ihm Tiefe fehlt, weil er nur eine bestimmte Dimension berührt. UND Spiritualität ohne Aktivismus ist zu esoterisch und führt nicht zu den notwendigen Schritten und Veränderungen, die wir so dringend brauchen."
+        },
+        {
+          "type": "statement",
+          "text": "Politischer Aktivismus, eingebettet in Rituale und Zeremonien, Gebete und Magie - das wollen wir!",
+          "strong": true
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-51",
+            "shape": "oval",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: eine Frau mit Laterne in einem Boot zwischen Bäumen",
+              "en": "Painting: a woman with a lantern in a boat among trees"
+            }
+          }
+        },
+        {
+          "type": "lead",
+          "text": "Im Laufe unserer Online-Reise bekommst und erlebst du:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Journaling & Poesie",
+            "Lieder und Medizinmusik",
+            "Geführte Meditationen",
+            "Vorträge, Diskussionen und Teilkreise",
+            "Aufzeichnungen jeder Session",
+            "Eine wunderschöne Verbindung authentischer und starker Schwesternschaft und Bruderschaft, in der wir einander unterstützen und stärken und in der wir wirklich roh und authentisch wir selbst sein können"
+          ]
+        },
+        {
+          "type": "statement",
+          "text": "Alle Geschlechter und Orientierungen sind willkommen! Wir brauchen euch alle, um die Neue Erde zu erschaffen."
+        }
+      ],
+      "closing": [
+        "Interessiert?",
+        "Schreib mir eine Nachricht und erhalte die 13 Stunden Videomaterial.",
+        "So viel Liebe, Elena Judith & Katharina Louise"
+      ],
+      "places": "Schreib mir, um mehr über meinen Sliding Scale zu erfahren."
+    },
+    "en": {
+      "eyebrow": "ONLINE COURSE · 5 WEEKS",
+      "title": "She Who Bleeds But Cannot Die",
+      "subtitle": "The Archetypes of the Goddess",
+      "claim": "A 5 week online journey through the Archetypes of the Great Mother",
+      "tags": "Recorded video course - you can buy over 13 hours of material now",
+      "questionsIntro": "Who are we?",
+      "questions": [
+        "What is our relationship with nature?",
+        "Does our body store old images of an original relationship with nature & the divine?",
+        "What were the concepts of our ancestors regarding the feminine relationship with nature and how was this reflected in the various female Goddesses?",
+        "Where does our incredible strength come from? How can it be experienced? How can we deepen it?",
+        "What is the relationship between pain and the individual and collective pain body?",
+        "Are we as women sharing the same pain or do we share its source? Can we overcome it together and transform it?"
+      ],
+      "after": "Let’s find out together!",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "I held this course together with Katharina Louise."
+        },
+        {
+          "type": "p",
+          "text": "In the midst of this turbulent, human-changing time, these questions seem more important than ever."
+        },
+        {
+          "type": "p",
+          "text": "We as women are challenged and asked more than ever before to keep the energies positive, to remain in love and firmly anchored in ourselves, to send out light into the collective consciousness and thus to strengthen and support everything and everyone around us."
+        },
+        {
+          "type": "statement",
+          "text": "Together we rise.",
+          "strong": true
+        },
+        {
+          "type": "p",
+          "text": "To a new beginning, to a long-needed and long-awaited transformation. To a rebirth for us and for Mother Earth. Meeting each other renewed, finding ourselves again in order to unite. Getting together and being creative. Supporting and encouraging each other."
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-49",
+            "shape": "rect",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: eine leuchtende Gestalt mit Wurzeln unter einem Sternenkreis",
+              "en": "Painting: a glowing figure with roots beneath a circle of stars"
+            }
+          }
+        },
+        {
+          "type": "heading",
+          "text": "The future is female!"
+        },
+        {
+          "type": "p",
+          "text": "A New Earth needs a strong feminine power, principle and ethical orientation of society based on the feminine attributes and gifts of softness, care, emotional intelligence, giving and unconditional love. In the course of the still ongoing suppression of women, many of us have learned to hide or suppress our Divine Feminine Power, our innermost force."
+        },
+        {
+          "type": "statement",
+          "text": "But she can never die",
+          "strong": true
+        },
+        {
+          "type": "p",
+          "text": "The Great Goddess is always in each one of us. She is just waiting to change over and over again, to awaken anew, stronger than ever before; to blossom and sparkle and create something new in the eternal cycle of life. Our Great Mother has always helped us by appearing in different shapes and Archetypes."
+        },
+        {
+          "type": "p",
+          "text": "Discover with us the different forms she appears in and her different ways of showing us the divine feminine principle of unconditional love and wisdom in all its facets. Thereby we will also explore how these different energies play out in ourselves and in our lives. We all have all those Archetypes inside of us, whether we are conscious of them or not. In different phases of our lives we might connect more to one or another, or we might need or call upon one certain Goddess and Archetype."
+        },
+        {
+          "type": "statement",
+          "text": "All sessions are recorded, over 13h of material! You can work with them at your own pace."
+        },
+        {
+          "type": "heading",
+          "text": "Every week we will focus on another Goddess & Archetype"
+        },
+        {
+          "type": "lead",
+          "text": "Isis / Mary Magdalene"
+        },
+        {
+          "type": "p",
+          "text": "She gifts us her wisdom of the rose lineage and shows us the meaning of the Christ consciousness through compassion, forgiveness and being in service."
+        },
+        {
+          "type": "lead",
+          "text": "Kali / Durga"
+        },
+        {
+          "type": "p",
+          "text": "She shows us that in order to embody spiritual strength, we first need to let die everything that no longer serves us. Thereby she gifts us the strength of the fierce love that lives in us through the divine mother."
+        },
+        {
+          "type": "lead",
+          "text": "Frau Holle / Baba Yaga"
+        },
+        {
+          "type": "p",
+          "text": "She shows us right livelihood through rituals and rites of passage and the initiations through the doors of life and death, how to embody humility in the face of destiny and karma, and how to use our free will correctly."
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-50",
+            "shape": "arch",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: drei Frauen und eine Eule in einem Bogen",
+              "en": "Painting: three women and an owl in an arch"
+            }
+          }
+        },
+        {
+          "type": "lead",
+          "text": "White Buffalo Calf Woman"
+        },
+        {
+          "type": "p",
+          "text": "She teaches us the power of ritual, ceremony and prayer, honouring the medicine of the earth, and shows us how to be in a balanced relationship with her cycles of life."
+        },
+        {
+          "type": "lead",
+          "text": "Oxum"
+        },
+        {
+          "type": "p",
+          "text": "She teaches us that there is no creation without the magical power of our femininity and sensuality. Through her we learn to be magnetic through our sweetness, and the high magic teachings of water which run through the feminine bloodline."
+        },
+        {
+          "type": "heading",
+          "text": "What you will experience & get in this course"
+        },
+        {
+          "type": "p",
+          "text": "13h of recorded video material where we learn about the mythical, herstorical and cultural background and story of every Goddess. Practical advice on how to integrate their wisdom into your daily life through ritual, ceremony and embodiment practices."
+        },
+        {
+          "type": "p",
+          "text": "We will also include insights into the political aspect of how patriarchy got established in the first place. How did all of this start? Why are we nowadays still experiencing all the immense consequences in terms of inequality and injustice? We will further discuss how the suppression of the feminine energy, the Anima, inside of men has caused an externalisation resulting in the suppression of the sacred feminine in general and thereby the suppression, abuse, dominance and control over women."
+        },
+        {
+          "type": "p",
+          "text": "We believe that activism without spirituality is empty and lacking depth, as it only touches and affects a certain dimension. AND spirituality without activism is too esoteric, not leading to the necessary steps and changes we so desperately need."
+        },
+        {
+          "type": "statement",
+          "text": "Political activism embedded in rituals and ceremony, prayers and magic - that’s what we want!",
+          "strong": true
+        },
+        {
+          "type": "photo",
+          "photo": {
+            "id": "web-51",
+            "shape": "oval",
+            "position": "50% 50%",
+            "alt": {
+              "de": "Gemälde: eine Frau mit Laterne in einem Boot zwischen Bäumen",
+              "en": "Painting: a woman with a lantern in a boat among trees"
+            }
+          }
+        },
+        {
+          "type": "lead",
+          "text": "In the course of our online journey you will receive and experience:"
+        },
+        {
+          "type": "pills",
+          "items": [
+            "Journaling & poetry",
+            "Songs and medicine music",
+            "Guided meditations",
+            "Lectures, discussions and sharing circles",
+            "Recordings of every session",
+            "A beautiful union of authentic and strong sisterhood and brotherhood where we support and empower each other and where we can truly be our raw and authentic selves"
+          ]
+        },
+        {
+          "type": "statement",
+          "text": "All genders and orientations are welcome! We need all of you for creating the New Earth."
+        }
+      ],
+      "closing": [
+        "Interested?",
+        "Simply drop me a message to receive the 13h of video material.",
+        "So much love, Elena Judith & Katharina Louise"
+      ],
+      "places": "Drop me a message to find out more about my sliding scale."
+    }
+  }
+}

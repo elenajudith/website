@@ -1,0 +1,313 @@
+{
+ "description": "Seite „1:1 Begleitung“ (neu gestaltet am 29.10.2026 mit Elena). Texte aus der bisherigen Website; entfernt: Absatz „Allen Menschen, die darüber lachen …“ und der englische Text (steht jetzt auf der englischen Seite); geglättet: „…ist es ein revolutionärer Akt, wir selbst zu sein.“; Preisangabe 108 Euro entfernt (Preis auf Anfrage). Kleine Korrekturen: „uraltes System“ → „uralte System“, „unsere menschlichen DNA“ → „unsere menschliche DNA“. Englisch: Text aus dem Drive-Dokument (ohne den Absatz mit dem Mond, der dort mit einem anderen Satz verschmolzen ist); Kurzbeschreibungen der Lesungen auf Englisch sind Übersetzungsvorschläge.",
+ "de": {
+  "subtitle": "mit WESTLICHER ASTROLOGIE und HUMAN DESIGN",
+  "questions": [
+   "Tust du dich schwer, deine Richtung im Leben zu finden?",
+   "Findest du dich in deinem Inneren sowie in deinem sozialen Leben immer wieder in sich wiederholenden Situationen und Mustern gefangen?",
+   "Hast du Schwierigkeiten, dich selbst und die Dinge, die in deinem Leben passieren, zu verstehen und zu deuten? Fällt es dir schwer, Entscheidungen zu treffen?",
+   "Möchtest du mehr Toleranz und Mitgefühl dir selbst und anderen gegenüber entwickeln?",
+   "Oder möchtest du einfach nur neue Inspiration bekommen? Den Job finden, der wirklich und authentisch zu dir passt?",
+   "Suchst du nach Antworten, die über dein kognitives Verständnis hinausgehen? Willst du das Gesamtbild erkennen?",
+   "Bist du bereit, deine Mission im Leben anzunehmen? Und dein höchstes Potenzial auszuschöpfen?"
+  ],
+  "astrology": [
+   {
+    "type": "lead",
+    "text": "Ich bin zutiefst fasziniert und überzeugt von den Auswirkungen, die die Planeten unseres Sonnensystems auf unser Leben und unsere Persönlichkeit haben. Auf unsere individuellen Energien. Für mich sind Astrologie und Human Design magische Werkzeuge, die ich auf einer sehr tiefen Ebene spüren kann. In meinem Alltag fühlen sie sich greifbar und – was manche Skeptiker überraschen könnte – sehr rational, praktisch, geerdet und logisch an – nicht einfach nur esoterisch."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-uhr-venedig"
+   },
+   {
+    "type": "heading",
+    "text": "Westliche Astrologie – die uralte Wissenschaft und mysteriöse Weisheit der Planeten"
+   },
+   {
+    "type": "quote",
+    "text": "As above, so below. Alles ist in allem."
+   },
+   {
+    "type": "p",
+    "text": "Die Planeten unseres Sonnensystems arbeiten mit uns und sie arbeiten durch uns. Wenn wir es zulassen, werden sie zu unseren Verbündeten. Sie beginnen einen heiligen Tanz mit Körper, Geist und Seele. Sie leuchten, sie werfen Licht, auch auf unsere Schatten. Sie beeinflussen, wie Pflanzen wachsen und wie Wasser fließt."
+   },
+   {
+    "type": "lead",
+    "text": "Dein persönliches Horoskop ist wie ein kosmischer Abdruck der planetaren Konstellationen zum Zeitpunkt deiner Geburt. Ein galaktisches Zeugnis, ein Festhalten deines einzigartigen Wesens hier auf der Erde. Deine Seele hat sich entschieden, zu einem bestimmten Zeitpunkt in der Menschheitsgeschichte, an einem bestimmten Ort, unter einer bestimmten Konstellation der Sterne und Planeten geboren zu werden, und es liegt nun an dir, ob du das annehmen, daraus lernen und das Beste daraus machen möchtest."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-wiese"
+   },
+   {
+    "type": "p",
+    "text": "Dein immenses Potenzial liegt in diesem galaktischen Fußabdruck. Er ist wie eine Karte, mit der du durch dein Leben navigieren kannst."
+   },
+   {
+    "type": "p",
+    "text": "Diese Karte kann dir zeigen, wie du deine Mission und dein Ziel hier auf Erden finden und erfüllen kannst. Sie kann dir zeigen, warum manche Dinge für dich schwieriger sind als für andere, und dadurch Kampf in Mitgefühl verwandeln."
+   },
+   {
+    "type": "statement",
+    "text": "Deshalb ist Astrologie für mich Alchemie."
+   },
+   {
+    "type": "lead",
+    "text": "Entdecke deine Begabungen und Talente, deine spezifische energetische Dynamik. Finde den Schlüssel zu sich wiederholenden Themen, Dynamiken, Vorlieben, Tendenzen und Mustern in deinem Familienleben, deinem Liebesleben und deinen Beziehungen."
+   }
+  ],
+  "humanDesign": [
+   {
+    "type": "heading",
+    "text": "Human Design Reading"
+   },
+   {
+    "type": "p",
+    "text": "Ich liebe Human Design, da es die westliche Astrologie mit folgendem kombiniert:"
+   },
+   {
+    "type": "list",
+    "items": [
+     "die Mysterienschule der Kabbalah (die jüdische Mystik, die mich mit meinen israelischen Wurzeln verbindet)",
+     "das Chakra-System (mit dem ich seit unzähligen Jahren arbeite, seit ich mich in Yoga verliebt habe)",
+     "das faszinierende uralte System des I Ching",
+     "und schließlich unsere menschliche DNA mit all ihren unglaublichen Gaben und Eigenschaften, die wir von unseren Vorfahren geerbt haben."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Die Verschmelzung dieser uralten Wissenschaften, die aktueller und zeitgenössischer nicht sein könnten und sich mit unserer persönlichen und kollektiven Entwicklung und Evolution als Menschheit befassen, verbinden die intuitive spirituelle weibliche Essenz (Eros) mit dem männlichen Energieansatz ( Logos) von Logik und Vernunft."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-uhr-astronomisch"
+   },
+   {
+    "type": "lead",
+    "text": "Der Grund, warum Human Design so lebensverändernd ist, ist, dass es uns einlädt, UNS SO ZU AKZEPTIEREN, WIE WIR SIND."
+   },
+   {
+    "type": "quote",
+    "text": "In einer Welt, in der uns ständig gesagt wird, dass wir entweder nicht gut genug oder zu viel sind, ist es ein revolutionärer Akt, wir selbst zu sein."
+   },
+   {
+    "type": "p",
+    "text": "Anstatt zu versuchen, uns selbst zu verändern und in eine Kiste zu passen oder jemand zu sein, der wir eigentlich nicht sind, dürfen wir den Versuch unternehmen, zu verstehen und zu akzeptieren warum wir so sind, wie wir sind."
+   },
+   {
+    "type": "p",
+    "text": "Woher wir kommen und in welche Richtung wir gehen und wirken dürfen. Wie wir mit den Talenten und Geschenken, die wir geerbt sowie von der göttlichen Quelle erhalten haben, arbeiten können. Und wie wir Entscheidungen treffen können, die unsere Einzigartigkeit und unserer natürlichen Freude entsprechen und die wirklich und wahrhaftig zu uns passen – ausgerichtet auf unsere Aufgabe in diesem Leben."
+   },
+   {
+    "type": "p",
+    "text": "Wir können uns endlich so akzeptieren, wie wir sind, mit all unseren Facetten, all unseren Farben, all den wunderschönen, widersprüchlichen, einzigartigen und fragmentierten Anteilen unserer Seele."
+   },
+   {
+    "type": "p",
+    "text": "Anstatt uns mit anderen zu vergleichen, werden wir eingeladen, uns auf unsere ganz persönlichen Gaben und Talente zu konzentrieren, die uns das Universum gegeben hat, um unseren eigenen Beitrag zur menschlichen Evolution zu leisten."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-portraet-nah"
+   },
+   {
+    "type": "statement",
+    "text": "Die Welt braucht uns genau so wie wir sind!"
+   },
+   {
+    "type": "p",
+    "text": "Vereint in unseren Unterschieden. Es ist an der Zeit, sich dem hinzugeben. Es ist an der Zeit, unser Licht scheinen zu lassen."
+   },
+   {
+    "type": "p",
+    "text": "Wenn wir uns selbst verstehen und akzeptieren, können wir auch andere besser verstehen und akzeptieren. Wir können uns den Menschen in unserem Leben von einem nicht-wertenden Standpunkt aus nähern."
+   },
+   {
+    "type": "lead",
+    "text": "Und dies ist ein großer Schritt in Richtung Frieden auf Erden."
+   },
+   {
+    "type": "p",
+    "text": "Basierend auf deinem einzigartigen Design wirst du lernen:"
+   },
+   {
+    "type": "list",
+    "items": [
+     "wie du durch dein Leben navigierst und Entscheidungen triffst",
+     "das Beste und Erfüllendste aus deinen Gaben und Talenten kreieren und manifestieren kannst",
+     "dich und andere besser verstehen kannst"
+    ]
+   }
+  ],
+  "readings": [
+   {
+    "group": "Westliche Astrologie",
+    "name": "Das Basic-Reading",
+    "proposal": true,
+    "text": [
+     "Du erfährst die wichtigsten Konstellationen deines Geburtshoroskops: wo deine Planeten stehen, in welchen Zeichen und Häusern – und was sie über deine Persönlichkeit, deine Stärken und deine Herausforderungen erzählen."
+    ]
+   },
+   {
+    "group": "Westliche Astrologie",
+    "name": "Das erweiterte Reading",
+    "proposal": true,
+    "text": [
+     "Wir schauen gemeinsam auf einen Lebensbereich, der dir gerade am Herzen liegt – zum Beispiel Beruf und Berufung, Liebe und Beziehungen oder Familie – und darauf, was dein Horoskop dir dafür mitgibt."
+    ]
+   },
+   {
+    "name": "Das Grundlagen-Reading",
+    "text": [
+     "Enthält dein einzigartiges Chart, deinen Designtyp, deine Autorität, dein Profil und eine vollständige Reise durch die neun Zentren."
+    ],
+    "group": "Human Design"
+   },
+   {
+    "name": "Das erweiterte Reading",
+    "text": [
+     "Enthält deine Tore und Kanäle, deine spezifischen Gaben und Talente, die du in Gruppen und Beziehungen einbringst, sowie deine persönliche Lebensaufgabe."
+    ],
+    "group": "Human Design"
+   },
+   {
+    "name": "Das Genschlüssel-Reading",
+    "text": [
+     "Eine wunderschöne Fortsetzung bzw. Erweiterung des Human Design Systems, das von dem inspirierenden Richard Rudd in diese Welt gebracht wurde.",
+     "Es verbindet unsere menschliche DNA und all unsere generationsübergreifenden karmischen Themen und Signaturen, die wir als Menschheit zusammenweben, um gemeinsam die nächste Stufe der Evolution zu erreichen.",
+     "Diese Lehren führen dich tief in deine Lebensaufgabe und deinen genetischen Code ein, den du mit ins kosmische Spiel bringst – Du als funkelnder Teil des großen Puzzles bist wichtig und machst einen Unterschied auf dieser Welt!",
+     "Sobald du deine Schatten transformieren und deine inhärenten Gaben und Siddhis entschlüsseln und freigeben vermagst, bist du mit dem kollektiven Erwachen, dem großen SHIFT, synchronisiert!"
+    ],
+    "group": "Human Design"
+   }
+  ],
+  "readingsNote": [
+   "Alle Sitzungen beinhalten immer psychospirituelles Coaching und persönliche Beratung.",
+   "Sie dauern jeweils 90 – 120 Minuten und können separat gebucht werden."
+  ],
+  "readingsProposalNote": "Die beiden Astrologie-Readings hat Elena am 29.10.2026 ergänzt; Beschreibung als Vorschlag formuliert (proposal: true).",
+  "groupIntro": {
+   "Westliche Astrologie": "Diese Readings drehen sich um dein Geburtshoroskop.",
+   "Human Design": "Diese drei Readings drehen sich um dein Human Design."
+  }
+ },
+ "en": {
+  "title": "Find out who you have always been",
+  "subtitle": "Astrology And Human Design sessions – online and in person",
+  "body": [
+   {
+    "type": "lead",
+    "text": "I am deeply fascinated and convinced of the impact the planets of our solar system have on our lifes and personalities, on our individual energies."
+   },
+   {
+    "type": "p",
+    "text": "For me Astrology and Human Design are magical tools which I can feel on a very profound level in my everyday life, they feel tangible and - what might surprise some sceptics- very rational and logical to me rather than simply esoteric."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-uhr-venedig"
+   },
+   {
+    "type": "lead",
+    "text": "The reason why Human Design is so life changing is because it makes us understand and accept ourselves."
+   },
+   {
+    "type": "quote",
+    "text": "In a world where we are constantly being told that we are either not good enough or too much to handle, being ourselves is a revolutionary act."
+   },
+   {
+    "type": "p",
+    "text": "Instead of trying to change ourselves and to fit into a box or to be like someone else, we finally need to understand and accept why we are the way we are, where we come from, how we can work with the resources we inherited and withhold, and how we can make decisions which fit to us and feel naturally aligned with our purpose. We can make a step towards accepting ourselves the way we are, with all our facetts, all our colours, all our beautifully scattered and fragmented pieces of our soul."
+   },
+   {
+    "type": "p",
+    "text": "Instead of comparing ourselves to others we are being invited to focus on our personal gifts and talents, our unique blueprints given to us by the Universe in order to contribute our own part to Human Evolution."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-uhr-astronomisch"
+   },
+   {
+    "type": "statement",
+    "text": "The world needs us exactly the way we are! Unified in our differences - it is time to surrender. It is time to shine our light!"
+   },
+   {
+    "type": "p",
+    "text": "When we understand and accept ourselves we can also understand and accept others more - we can approach the people in our lives from a non - judgemental point of view. And this is a huge step towards peace on earth."
+   },
+   {
+    "type": "heading",
+    "text": "How can you benefit from Human Design?"
+   },
+   {
+    "type": "p",
+    "text": "As the name already says the Human Design System reveals how we are designed and therefore who we are as unique differentiated beings. It has the potential to awaken us to our true self. The individual can find their specific role in the bigger picture and understand their own limitations as well as advantages."
+   },
+   {
+    "type": "list",
+    "items": [
+     "It can work as a guideline of how your Life Purpose is supposed to flow through you",
+     "It helps in making correct decisions and further lead you in the right direction of your Life Purpose",
+     "It demonstrates how your cognition works properly",
+     "It maps out the conditioned mind but also reveals how you can change your conditioning"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sessions-portraet-nah"
+   },
+   {
+    "type": "lead",
+    "text": "To sum it up in one sentence: Living and operating in alignment to our design can lead to more flow and success in our lives."
+   }
+  ],
+  "readings": [
+   {
+    "group": "Western astrology",
+    "name": "The basic reading",
+    "proposal": true,
+    "text": [
+     "The most important constellations in your birth chart: where your planets stand, in which signs and houses – and what they tell you about your personality, your strengths and your challenges."
+    ]
+   },
+   {
+    "group": "Western astrology",
+    "name": "The extended reading",
+    "proposal": true,
+    "text": [
+     "Together we look at one area of life that is close to your heart right now – for example work and calling, love and relationships, or family – and at what your chart has to offer for it."
+    ]
+   },
+   {
+    "name": "The foundation reading",
+    "text": [
+     "Your unique chart, your type, your authority, your profile and a full journey through the nine centres."
+    ],
+    "group": "Human Design"
+   },
+   {
+    "name": "The extended reading",
+    "text": [
+     "Your gates and channels, the specific gifts and talents you bring into groups and relationships, and your personal life purpose."
+    ],
+    "group": "Human Design"
+   },
+   {
+    "name": "Gene Keys reading",
+    "text": [
+     "A beautiful continuation of the Human Design system, brought into the world by the inspiring Richard Rudd. It takes you deep into your life purpose and the genetic code you bring into the cosmic play."
+    ],
+    "group": "Human Design"
+   }
+  ],
+  "readingsNote": [
+   "Every session includes psychospiritual coaching and personal guidance.",
+   "Each session lasts 90 – 120 minutes and can be booked separately."
+  ],
+  "groupIntro": {
+   "Western astrology": "These readings are about your birth chart.",
+   "Human Design": "These three readings are about your Human Design."
+  }
+ }
+}

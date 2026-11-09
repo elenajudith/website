@@ -1,0 +1,570 @@
+{
+ "description": "Seite Schweigewochenende / Silent Retreat (Elena 2026-10-30): Text von der alten Seite ohne „Über Elena“, Titel „Schweigen im Schwarzwald“. Fotos aus Drive „Schweigewochenende“ und von den bisherigen Seiten; unscharfe/ältere Fotos nur im Karussell. EN = Übersetzung (Vorschlag).",
+ "hero": {
+  "id": "sil-kueche-blumen"
+ },
+ "de": {
+  "eyebrow": "SCHWEIGEWOCHENENDE · SCHWARZWALD",
+  "title": "Schweigen im Schwarzwald",
+  "subtitle": "",
+  "claim": "Ein Wochenende in Stille im wunderschönen und magischen Schwarzwald. Wenn du genau hinhörst, kannst du sie vernehmen. Sie ruft dich.",
+  "dateLabel": "SÄGENDOMEL BEI ST. PETER, SCHWARZWALD",
+  "date": "Nächster Termin in Planung · Warteliste",
+  "blocks": [
+   {
+    "type": "banner",
+    "id": "sil-tannen-blick"
+   },
+   {
+    "type": "quote",
+    "text": "“Open your mouth only if what you are going to say is more beautiful than silence.”"
+   },
+   {
+    "type": "lead",
+    "text": "In der Stille bin ich ganz."
+   },
+   {
+    "type": "p",
+    "text": "Ein Wochenende in Stille. Im wunderschönen und magischen Schwarzwald, meiner Heimat <3"
+   },
+   {
+    "type": "p",
+    "text": "In unserer hektischen und lauten Welt haben wir den Zugang zu diesem kostbaren Geschenk der Tiefe und der Wahrheit fast vollständig verloren."
+   },
+   {
+    "type": "statement",
+    "text": "Komm mit mir auf eine Reise zurück zur Natur. Zu dir selbst. Zu deiner inneren Stimme."
+   },
+   {
+    "type": "photo",
+    "id": "sil-kuppel-decke"
+   },
+   {
+    "type": "p",
+    "text": "Gerade jetzt, in diesen transformierenden, alles neu ordnenden und äußerst herausfordernden Zeiten sind wir eingeladen, den Blick nach innen zu richten und zu reflektieren - der Transformation, die in uns und durch uns geschieht, den Raum zu geben, den sie benötigt und verdient."
+   },
+   {
+    "type": "p",
+    "text": "All das, was wir ständig über uns selbst und die Welt dazulernen, all die Angst, all die Unsicherheit, all die Wunder, all der neue Raum, der sich geöffnet hat - all dies darf INTEGRIERT werden."
+   },
+   {
+    "type": "quote",
+    "text": "Nie ist dies so sehr möglich wie IN DER STILLE."
+   },
+   {
+    "type": "photo",
+    "id": "sil-singkreis"
+   },
+   {
+    "type": "heading",
+    "text": "Ein Wochenende in Stille"
+   },
+   {
+    "type": "p",
+    "text": "Gemeinsam mit dir möchte ich erleben:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Bewusstes Schweigen in der Gruppe",
+     "Yoga Nidra und Astralreisen",
+     "Bewusstsein von und für Mutter Erde",
+     "Verschiedene geführte Meditationen",
+     "Alleinsein in Stille",
+     "Naturtherapie / Wandern in Stille",
+     "Erdzeremonien",
+     "Tanz",
+     "Sound Healing",
+     "Kreatives und therapeutisches Schreiben",
+     "Authentic & conscious relating",
+     "und vieles vieles mehr!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Außerdem gibt es gutes, gesundes Essen und kuschelige Schlafplätze ♥"
+   },
+   {
+    "type": "photo",
+    "id": "ic-yoga-kuppel"
+   },
+   {
+    "type": "lead",
+    "text": "Dieses Wochenende ist perfekt für Menschen, die über eine Vipassana-Meditation oder ein anderes langes Schweigeretreat nachdenken und erstmal reinschnuppern möchten in die wunderbar duftende Stille :)"
+   },
+   {
+    "type": "statement",
+    "text": "Also suitable for non German speakers! Instructions can be given in English. There is only one universal language - silence!"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-kueche",
+     "sil-gelaende",
+     {
+      "id": "v2-place",
+      "shape": "rect",
+      "position": "50% 55%",
+      "alt": {
+       "de": "Das Retreat-Gelände mit Zeltdach und Kuppelzelt im Schwarzwald",
+       "en": "The retreat land with a canopy and dome tent in the Black Forest"
+      }
+     },
+     "sil-tafel",
+     "sil-kuppel-holz",
+     "sil-tal-kuppel",
+     "sil-kuppel-innen",
+     "sil-wiese-weg",
+     "sil-blumenwiese",
+     "sil-tal-weit",
+     "sil-huegel-baum",
+     "sil-elena-arme",
+     "sil-steg",
+     "sil-kuppel-mitte",
+     "sil-kerzen-kuppel",
+     "sil-wildblumen",
+     {
+      "id": "web-36",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Blick über den Schwarzwald",
+       "en": "View over the Black Forest"
+      }
+     },
+     {
+      "id": "web-37",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Ein kleiner Wasserfall im Wald",
+       "en": "A small waterfall in the forest"
+      }
+     },
+     "sil-kuehe",
+     "sil-huette-hang",
+     "sil-waldlichtung",
+     "sil-kuppel-nacht",
+     "sil-kuppel-sterne",
+     "sil-kuppel-nah",
+     "sil-gras-hoch"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sil-altar-blumen"
+   },
+   {
+    "type": "heading",
+    "text": "Du kennst bereits alle Antworten. Du musst dich bloß erinnern."
+   },
+   {
+    "type": "lead",
+    "text": "Wir werden im Einklang mit Mutter Natur leben, als Tribe, der wir immer schon waren."
+   },
+   {
+    "type": "p",
+    "text": "Ich arbeite intensiv mit Yoga Nidra, Astralreisen und luzidem Träumen. Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat. Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf. Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "quote",
+    "text": "Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen). Yoga Nidra ist eine holistische (ganzheitliche) Therapie- und Heilmethode, die wissenschaftlich erforscht und bewiesen ist und weltweit erfolgreich bei Schlafstörungen, Angstpatienten, Alpträumen, in der Traumatherapie und vielem mehr eingesetzt wird."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "Mehr über Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sil-yoga-1",
+     "sil-yoga-2",
+     "sil-yoga-3",
+     "sil-yoga-4",
+     "sil-yoga-5",
+     "sil-fuesse-bach",
+     "sil-ruhe-gras",
+     "sil-ruhe-garten",
+     "sil-pause-decken",
+     "sil-altar-notiz",
+     "sil-altar-stumpf",
+     "sil-altar",
+     "sil-altar-scheibe",
+     "sil-kuppel-runde",
+     "yoga-alm-weit",
+     "yoga-herbstwiese",
+     "sil-altar-baumscheibe",
+     "sil-liegen-kuehe",
+     "sil-yoga-huette",
+     "sil-liegen-kuppel",
+     "sil-wiese-ruhen"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sil-nidra-kuppel"
+   },
+   {
+    "type": "heading",
+    "text": "In der Stille sind wir ganz"
+   },
+   {
+    "type": "lead",
+    "text": "Ein ganzes Wochenende lang hören wir genau hin. Wir vernehmen sie. Sie ruft uns."
+   },
+   {
+    "type": "p",
+    "text": "Gemeinsam entdecken wir sie wieder. Dieses Schweigeretreat ist eine Reise zurück zur Natur. Zu uns selbst. Zu unserer inneren Stimme und unserer wahren Essenz. Wir kennen bereits alle Antworten. Endlich werden wir erinnert."
+   },
+   {
+    "type": "p",
+    "text": "Als Tribe, der wir immer schon waren, leben wir in Einklang mit Mutter Natur. Wir arbeiten intensiv mit Yoga Nidra und Astralreisen, verschiedenen Meditationen, Hatha Yoga sowie unserem geliebten magischen Tarot. Weitere Nahrung für die Seele: Wandern in Stille. Kühe füttern. Schreiben."
+   },
+   {
+    "type": "quote",
+    "text": "Die kleinen Momente des Lebens sind nicht klein."
+   },
+   {
+    "type": "photo",
+    "id": "sil-elena-kuehe"
+   },
+   {
+    "type": "lead",
+    "text": "Wie viel wir kommunizieren. Wie sehr wir uns spüren. Und nicht ein Wort. Danke."
+   },
+   {
+    "type": "p",
+    "text": "Und dieses unglaubliche Stück Land, das in mein Leben kam … Wenn ich hier bin, will ich nirgendwo anders sein. Nicht in Indien, nicht in Israel, nicht in Thailand."
+   },
+   {
+    "type": "statement",
+    "text": "Ein kleiner Vorgeschmack für alle Interessierten: Versuch mal, aufmerksam der Stille zu lauschen und gleichzeitig an etwas zu denken. Und? Klappt nicht? G e n i a l  o d e r ?!"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-waldkreis",
+     "sil-elena-kuppel",
+     "sil-elena-trommel",
+     "sil-gruppe-wald",
+     "sil-wandern-1",
+     "sil-wandern-2",
+     "sil-blind-1",
+     "sil-blind-2",
+     "sil-blind-3",
+     "sil-blind-4",
+     "sil-austausch",
+     "sil-elena-lachen",
+     "sil-haende",
+     "sil-gruppe-wiese",
+     {
+      "id": "web-34",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Kleine Gruppe sitzt schweigend auf einer Wiese mit Blick über den Schwarzwald",
+       "en": "A small group sitting in silence on a meadow overlooking the Black Forest"
+      }
+     },
+     "sil-kreis-sitzen",
+     "sil-essen-tafel",
+     "sil-kerze-nacht",
+     "sil-gruppe-sonne"
+    ]
+   }
+  ],
+  "closing": [
+   "Spürst du den Ruf?",
+   "Ich freue mich auf eine neue Runde Schweigen mit dir!",
+   "Ich biete einen Sliding Scale für die Preise an."
+  ],
+  "places": "Die Plätze sind begrenzt, da ich ausschließlich mit extrem kleinen Gruppen arbeite, um wirklich in die Tiefe gehen zu können."
+ },
+ "en": {
+  "eyebrow": "SILENT RETREAT · BLACK FOREST",
+  "title": "Silent Retreat",
+  "subtitle": "",
+  "claim": "A weekend in silence in the beautiful and magical Black Forest. If you listen closely, you can hear it. It is calling you.",
+  "dateLabel": "SÄGENDOMEL NEAR ST. PETER, BLACK FOREST",
+  "date": "Next date being planned · Waiting list",
+  "blocks": [
+   {
+    "type": "banner",
+    "id": "sil-tannen-blick"
+   },
+   {
+    "type": "quote",
+    "text": "“Open your mouth only if what you are going to say is more beautiful than silence.”"
+   },
+   {
+    "type": "lead",
+    "text": "In silence I am whole."
+   },
+   {
+    "type": "p",
+    "text": "A weekend in silence. In the beautiful and magical Black Forest, my home <3"
+   },
+   {
+    "type": "p",
+    "text": "In our hectic and loud world we have almost completely lost access to this precious gift of depth and truth."
+   },
+   {
+    "type": "statement",
+    "text": "Come with me on a journey back to nature. Back to yourself. Back to your inner voice."
+   },
+   {
+    "type": "photo",
+    "id": "sil-kuppel-decke"
+   },
+   {
+    "type": "p",
+    "text": "Especially now, in these transformative, reordering and extremely challenging times, we are invited to turn our gaze inward and reflect - to give the transformation happening in us and through us the space it needs and deserves."
+   },
+   {
+    "type": "p",
+    "text": "All that we keep learning about ourselves and the world, all the fear, all the uncertainty, all the wonders, all the new space that has opened up - all of this may be INTEGRATED."
+   },
+   {
+    "type": "quote",
+    "text": "Never is this as possible as IN SILENCE."
+   },
+   {
+    "type": "photo",
+    "id": "sil-singkreis"
+   },
+   {
+    "type": "heading",
+    "text": "A weekend in silence"
+   },
+   {
+    "type": "p",
+    "text": "Together with you I would like to experience:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Conscious silence in the group",
+     "Yoga Nidra and astral travel",
+     "Awareness of and for Mother Earth",
+     "Various guided meditations",
+     "Being alone in silence",
+     "Nature therapy / walking in silence",
+     "Earth ceremonies",
+     "Dance",
+     "Sound healing",
+     "Creative and therapeutic writing",
+     "Authentic & conscious relating",
+     "and much, much more!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "There is also good, healthy food and cosy places to sleep ♥"
+   },
+   {
+    "type": "photo",
+    "id": "ic-yoga-kuppel"
+   },
+   {
+    "type": "lead",
+    "text": "This weekend is perfect for people who are thinking about a Vipassana meditation or another long silent retreat and would like to get a first taste of this wonderfully fragrant silence :)"
+   },
+   {
+    "type": "statement",
+    "text": "Also suitable for non German speakers! Instructions can be given in English. There is only one universal language - silence!"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-kueche",
+     "sil-gelaende",
+     {
+      "id": "v2-place",
+      "shape": "rect",
+      "position": "50% 55%",
+      "alt": {
+       "de": "Das Retreat-Gelände mit Zeltdach und Kuppelzelt im Schwarzwald",
+       "en": "The retreat land with a canopy and dome tent in the Black Forest"
+      }
+     },
+     "sil-tafel",
+     "sil-kuppel-holz",
+     "sil-tal-kuppel",
+     "sil-kuppel-innen",
+     "sil-wiese-weg",
+     "sil-blumenwiese",
+     "sil-tal-weit",
+     "sil-huegel-baum",
+     "sil-elena-arme",
+     "sil-steg",
+     "sil-kuppel-mitte",
+     "sil-kerzen-kuppel",
+     "sil-wildblumen",
+     {
+      "id": "web-36",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Blick über den Schwarzwald",
+       "en": "View over the Black Forest"
+      }
+     },
+     {
+      "id": "web-37",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Ein kleiner Wasserfall im Wald",
+       "en": "A small waterfall in the forest"
+      }
+     },
+     "sil-kuehe",
+     "sil-huette-hang",
+     "sil-waldlichtung",
+     "sil-kuppel-nacht",
+     "sil-kuppel-sterne",
+     "sil-kuppel-nah",
+     "sil-gras-hoch"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sil-altar-blumen"
+   },
+   {
+    "type": "heading",
+    "text": "You already know all the answers. You just have to remember."
+   },
+   {
+    "type": "lead",
+    "text": "We will live in harmony with Mother Nature, as the tribe we have always been."
+   },
+   {
+    "type": "p",
+    "text": "I work intensively with Yoga Nidra, astral travel and lucid dreaming. Yoga Nidra is a guided deep meditation that has its origins in the ancient Indian tradition of Tantra. Through deep relaxation of body, mind and soul and the shift of our brain waves to theta waves (the same waves that are activated in hypnosis), we enter a trance-like space between waking and sleep. In this way we gain direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "quote",
+    "text": "An impulse planted in the subconscious can unfold in our lives far more easily than one given in the waking state!"
+   },
+   {
+    "type": "p",
+    "text": "We also learn to distinguish more clearly between states such as waking, sleeping, dozing and dreaming and to become more lucid, that is, more aware and awake, which also helps us to have more pleasant dreams and nights. In this way we practise lucid dreaming and out-of-body experiences (astral travel). Yoga Nidra is a holistic method of therapy and healing that has been researched scientifically and is used successfully around the world for sleep disorders, anxiety, nightmares, in trauma therapy and much more."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "More about Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sil-yoga-1",
+     "sil-yoga-2",
+     "sil-yoga-3",
+     "sil-yoga-4",
+     "sil-yoga-5",
+     "sil-fuesse-bach",
+     "sil-ruhe-gras",
+     "sil-ruhe-garten",
+     "sil-pause-decken",
+     "sil-altar-notiz",
+     "sil-altar-stumpf",
+     "sil-altar",
+     "sil-altar-scheibe",
+     "sil-kuppel-runde",
+     "yoga-alm-weit",
+     "yoga-herbstwiese",
+     "sil-altar-baumscheibe",
+     "sil-liegen-kuehe",
+     "sil-yoga-huette",
+     "sil-liegen-kuppel",
+     "sil-wiese-ruhen"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sil-nidra-kuppel"
+   },
+   {
+    "type": "heading",
+    "text": "In silence we are whole"
+   },
+   {
+    "type": "lead",
+    "text": "For a whole weekend we listen closely. We hear it. It is calling us."
+   },
+   {
+    "type": "p",
+    "text": "Together we rediscover it. This silent retreat is a journey back to nature. Back to ourselves. Back to our inner voice and our true essence. We already know all the answers. At last we are reminded."
+   },
+   {
+    "type": "p",
+    "text": "As the tribe we have always been, we live in harmony with Mother Nature. We work intensively with Yoga Nidra and astral travel, various meditations, Hatha yoga and our beloved magical tarot. More food for the soul: walking in silence. Feeding the cows. Writing."
+   },
+   {
+    "type": "quote",
+    "text": "The small moments of life are not small."
+   },
+   {
+    "type": "photo",
+    "id": "sil-elena-kuehe"
+   },
+   {
+    "type": "lead",
+    "text": "How much we communicate. How deeply we feel each other. And not a single word. Thank you."
+   },
+   {
+    "type": "p",
+    "text": "And this incredible piece of land that came into my life … When I am here, I don't want to be anywhere else. Not in India, not in Israel, not in Thailand."
+   },
+   {
+    "type": "statement",
+    "text": "A little foretaste for anyone interested: try listening attentively to the silence and thinking about something at the same time. Well? Doesn't work? B r i l l i a n t, isn't it?!"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-waldkreis",
+     "sil-elena-kuppel",
+     "sil-elena-trommel",
+     "sil-gruppe-wald",
+     "sil-wandern-1",
+     "sil-wandern-2",
+     "sil-blind-1",
+     "sil-blind-2",
+     "sil-blind-3",
+     "sil-blind-4",
+     "sil-austausch",
+     "sil-elena-lachen",
+     "sil-haende",
+     "sil-gruppe-wiese",
+     {
+      "id": "web-34",
+      "shape": "rect",
+      "position": "50% 50%",
+      "alt": {
+       "de": "Kleine Gruppe sitzt schweigend auf einer Wiese mit Blick über den Schwarzwald",
+       "en": "A small group sitting in silence on a meadow overlooking the Black Forest"
+      }
+     },
+     "sil-kreis-sitzen",
+     "sil-essen-tafel",
+     "sil-kerze-nacht",
+     "sil-gruppe-sonne"
+    ]
+   }
+  ],
+  "closing": [
+   "Do you feel the call?",
+   "I look forward to a new round of silence with you!",
+   "I offer a sliding scale for the prices."
+  ],
+  "places": "Places are limited, because I only work with extremely small groups so that we can really go deep."
+ }
+}

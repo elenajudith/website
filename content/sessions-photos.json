@@ -1,0 +1,5036 @@
+{
+ "description": "Fotos der Seite „1:1 Begleitung“ (29.10.2026). Bilder neu erzeugen: npm run images:about",
+ "photos": [
+  {
+   "id": "sessions-header",
+   "role": "header",
+   "shape": "arch",
+   "position": "50% 8%",
+   "file": "assets/originals/sessions-header.jpg",
+   "url": "https://drive.google.com/file/d/1XW7eAPjY4SurS9-w1FBTSkm5VijGOvhZ/view",
+   "page": "https://drive.google.com/drive/folders/1JdK4m-YefRqsvfFonvzlwLdzbDqYtFuF",
+   "name": "IMG_9189.JPG",
+   "alt": {
+    "de": "Elena hält ein Buch mit einem astrologischen Kreis und zwei Kristalle",
+    "en": "Elena holding a book with an astrological wheel and two crystals"
+   }
+  },
+  {
+   "id": "sessions-uhr-venedig",
+   "role": "single",
+   "shape": "rect",
+   "position": "50% 70%",
+   "file": "assets/originals/sessions-uhr-venedig.jpg",
+   "url": "https://drive.google.com/file/d/1kcjM5QTb3TJfdFdsPRrIM-LEkDs5PpRv/view",
+   "page": "https://drive.google.com/drive/folders/1JdK4m-YefRqsvfFonvzlwLdzbDqYtFuF",
+   "name": "pexels-shlok-rana-2150773572-38289656.jpg",
+   "alt": {
+    "de": "Astronomische Uhr mit Tierkreiszeichen an einer Fassade in Venedig",
+    "en": "Astronomical clock with zodiac signs on a facade in Venice"
+   },
+   "credit": "Shlok Rana / Pexels"
+  },
+  {
+   "id": "sessions-wiese",
+   "role": "single",
+   "shape": "oval",
+   "position": "50% 35%",
+   "file": "assets/originals/sessions-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1jD5SsGS4RRHF4AxP3Vdb_TNyW2IB-8SL/view",
+   "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+   "name": "IMG_9429.jpeg",
+   "alt": {
+    "de": "Elena auf einer Wiese, die Hand auf dem Herzen, den Blick nach oben gerichtet",
+    "en": "Elena in a meadow, hand on her heart, looking up"
+   }
+  },
+  {
+   "id": "sessions-uhr-astronomisch",
+   "role": "single",
+   "shape": "circle",
+   "position": "45% 58%",
+   "file": "assets/originals/sessions-uhr-astronomisch.jpg",
+   "url": "https://drive.google.com/file/d/12BFmM0hjmsq8wanG8c2PpmhlmT75f0KQ/view",
+   "page": "https://drive.google.com/drive/folders/1JdK4m-YefRqsvfFonvzlwLdzbDqYtFuF",
+   "name": "pexels-paul-37978728.jpg",
+   "alt": {
+    "de": "Astronomische Uhr mit Sonne, Mond und Tierkreis",
+    "en": "Astronomical clock with sun, moon and zodiac"
+   },
+   "credit": "Paul / Pexels"
+  },
+  {
+   "id": "sessions-portraet-nah",
+   "role": "single",
+   "shape": "arch",
+   "position": "50% 40%",
+   "file": "assets/originals/sessions-portraet-nah.jpg",
+   "url": "https://drive.google.com/file/d/1AKsEvzrwwsW4ra-Nc3-HapPm39kJjBFx/view",
+   "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+   "name": "DSC_1119 2.JPG",
+   "alt": {
+    "de": "Nahaufnahme von Elena, das Kinn auf die Hand gestützt",
+    "en": "Close-up of Elena, her chin resting on her hand"
+   }
+  },
+  {
+   "id": "sessions-kambo-frosch",
+   "role": "overview",
+   "file": "assets/originals/sessions-kambo-frosch.jpg",
+   "url": "https://drive.google.com/file/d/14BewE5-ALIHzgvbSLkL6_QmeYD4dflT1/view",
+   "page": "Drive-Ordner Kambo (IMG_8770.JPG)",
+   "name": "IMG_8770.JPG",
+   "alt": {
+    "de": "Ein grüner Affenfrosch auf einem Ast",
+    "en": "A green monkey frog on a branch"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sessions-fotografie",
+   "role": "overview",
+   "file": "assets/originals/sessions-fotografie.jpg",
+   "url": "https://drive.google.com/file/d/1waSHX5KnDwqwMhFU-5TUoTKZGQnwuhI7/view",
+   "page": "Drive-Ordner fotografie (DSC_0064.JPG)",
+   "name": "DSC_0064.JPG",
+   "alt": {
+    "de": "Zwei Frauen lachen gemeinsam in die Kamera",
+    "en": "Two women laughing into the camera together"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "sessions-kambo-frosch-cut",
+   "role": "kambo",
+   "shape": "none",
+   "file": "assets/originals/kambo-frosch.png",
+   "url": "https://drive.google.com/file/d/14BewE5-ALIHzgvbSLkL6_QmeYD4dflT1/view",
+   "page": "Drive-Ordner Kambo",
+   "name": "IMG_8770.JPG (freigestellt)",
+   "alt": {
+    "de": "Ein grüner Affenfrosch klettert an einem Ast",
+    "en": "A green monkey frog climbing along a branch"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sessions-kambo-trommel",
+   "role": "kambo",
+   "shape": "arch",
+   "file": "assets/originals/kambo-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1So_NyDu9zmZjQVxPAIexvxcNc745TW3W/view",
+   "page": "Drive-Ordner Kambo",
+   "name": "IMG_8377.HEIC",
+   "alt": {
+    "de": "Rahmentrommel, Blumen und Kambo-Stäbchen auf einem Tuch",
+    "en": "Frame drum, flowers and kambo sticks on a cloth"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "sessions-kambo-garten",
+   "role": "kambo",
+   "shape": "rect",
+   "file": "assets/originals/kambo-garten-sanft.jpg",
+   "url": "https://drive.google.com/file/d/1BoXz2eDMN-9D4oOqdAEVVg6_yZOn-_m2/view",
+   "page": "Drive-Ordner Kambo",
+   "name": "IMG_0793.JPEG",
+   "alt": {
+    "de": "Elena Judith und eine Klientin während einer Zeremonie im Garten",
+    "en": "Elena Judith and a client during a ceremony in a garden"
+   },
+   "position": "45% 55%",
+   "note": "Farben leicht gedämpft und wärmer (Elena 29.10.): Sättigung 80 %, Kontrast 94 %, leicht wärmer"
+  },
+  {
+   "id": "sessions-kambo-wiese",
+   "role": "kambo",
+   "shape": "rect",
+   "file": "assets/originals/kambo-wiese-sanft.jpg",
+   "url": "https://drive.google.com/file/d/1kaL9iKYYQv95FdaBpAdjK6_Q6zNatsQG/view",
+   "page": "Drive-Ordner Kambo",
+   "name": "IMG_1269.JPEG",
+   "alt": {
+    "de": "Elena Judith mit zwei Menschen auf einer Wiese",
+    "en": "Elena Judith with two people on a lawn"
+   },
+   "position": "50% 75%",
+   "note": "Farben leicht gedämpft und wärmer (Elena 29.10.): Sättigung 80 %, Kontrast 94 %, leicht wärmer"
+  },
+  {
+   "id": "sessions-kambo-werkzeug",
+   "role": "kambo",
+   "shape": "rect",
+   "file": "assets/originals/kambo-werkzeug.jpg",
+   "url": "https://drive.google.com/file/d/11mWreoSUTiETcZ5foREcr1aevasa9Ip4/view",
+   "page": "Drive-Ordner Kambo",
+   "name": "IMG_8772.PNG",
+   "alt": {
+    "de": "Federfächer, Kakaoschalen und Palo Santo auf einem Batiktuch",
+    "en": "Feather fan, cacao pods and palo santo on a batik cloth"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "yoga-zelt-stehend",
+   "role": "yoga",
+   "shape": "arch",
+   "file": "assets/originals/yoga-zelt-stehend.jpg",
+   "url": "https://drive.google.com/file/d/1vA8k0n5hb-45XX19A9kKSMlfV-v3ohx2/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1262.jpg",
+   "alt": {
+    "de": "Elena Judith leitet Yoga Nidra unter einem Zeltdach im Wald",
+    "en": "Elena Judith guiding Yoga Nidra under a tent roof in the forest"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "yoga-zelt-anleitung",
+   "role": "yoga",
+   "shape": "oval",
+   "file": "assets/originals/yoga-zelt-anleitung.jpg",
+   "url": "https://drive.google.com/file/d/1LOvO4njmGWAGqn3NoixSEWGDavFoZOGu/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1127.jpg",
+   "alt": {
+    "de": "Elena Judith spricht zu einer liegenden Gruppe",
+    "en": "Elena Judith speaking to a group lying down"
+   },
+   "position": "30% 50%"
+  },
+  {
+   "id": "yoga-buehne-trommel",
+   "role": "yoga",
+   "shape": "circle",
+   "file": "assets/originals/yoga-buehne-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1-rK2znUmyJHYAhysLXFRysmP49JMJpRM/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_2087.JPG",
+   "alt": {
+    "de": "Elena Judith trommelt auf einer Bühne im Wald",
+    "en": "Elena Judith drumming on a stage in the forest"
+   },
+   "position": "45% 45%"
+  },
+  {
+   "id": "yoga-bambus",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-bambus.jpg",
+   "url": "https://drive.google.com/file/d/1ZS10kKaErd_1VOS-mifDpXsAgPEesPPZ/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_5749.JPEG",
+   "alt": {
+    "de": "Yoga Nidra in einem Bambuspavillon",
+    "en": "Yoga Nidra in a bamboo pavilion"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "yoga-alm",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-alm-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1sRDZHaueMHLdYpAV2Qmygt7bE_bXetwc/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_6519.JPG",
+   "alt": {
+    "de": "Eine Gruppe liegt auf einer Bergwiese",
+    "en": "A group lying on a mountain meadow"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-alm-weit",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-alm-weit-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/13RLrR-e1a9HdtHejgJdgvZSqUqwb5mvx/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_6523.JPEG",
+   "alt": {
+    "de": "Bergwiese mit liegender Gruppe",
+    "en": "Mountain meadow with a group lying down"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-kuppelzelt",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-kuppelzelt-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1U4aHRrTLsQQBrMEgV4X6f66MFztuOP-o/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "e9235a4f.jpg",
+   "alt": {
+    "de": "Meditation in einem Kuppelzelt",
+    "en": "Meditation in a dome tent"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-herbstwiese",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-herbstwiese-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1hR8v5ZrcCTr26SSQRT0c6iVx3LYwtblM/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "40AFA0B0.jpg",
+   "alt": {
+    "de": "Liegende Menschen auf einer Herbstwiese",
+    "en": "People lying on an autumn meadow"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-kerzenkreis",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-kerzenkreis-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1mcCHGypcfroEu_QCRH1jotdocx9evdmN/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_7790.jpg",
+   "alt": {
+    "de": "Ein Kreis mit Kerzen am Abend",
+    "en": "A circle with candles in the evening"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-zelt-arme",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-zelt-arme-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1PBbjoLzvBGGFJQsnSW0mJ1FlHvjmHTmL/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1151.jpg",
+   "alt": {
+    "de": "Elena Judith mit erhobenen Armen über einer liegenden Gruppe",
+    "en": "Elena Judith with raised arms above a group lying down"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-zelt-gebet",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-zelt-gebet-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1eD7cmLyg0nn8TIlZFUZJFSWed_h_7Q8f/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1131.jpg",
+   "alt": {
+    "de": "Elena Judith mit gefalteten Händen",
+    "en": "Elena Judith with folded hands"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-zelt-gruppe",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-zelt-gruppe-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1LuoAXBfL0OMBObOnMTZANVkr6aJiblfQ/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1253.jpg",
+   "alt": {
+    "de": "Viele Menschen liegen unter einem Zeltdach",
+    "en": "Many people lying under a tent roof"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-zelt-wald",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-zelt-wald-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1rKcuSDLilKqvqKGcyBSuGmopM1srpr_e/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1123.jpg",
+   "alt": {
+    "de": "Elena Judith leitet eine Gruppe unter einem Zelt",
+    "en": "Elena Judith guiding a group under a tent"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-saal",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-saal-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/107ZzRpUMXI2BOt1taFP2HAZoHpCjbqKy/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_3145.jpg",
+   "alt": {
+    "de": "Yoga Nidra in einem hellen Saal",
+    "en": "Yoga Nidra in a bright hall"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-waldbuehne",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-waldbuehne-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1Foh08zro0GHyZIk-HHnm0xU_lAn7QOxK/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_2086.jpg",
+   "alt": {
+    "de": "Eine Gruppe liegt vor einer Waldbühne",
+    "en": "A group lying in front of a forest stage"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-buehne-lesen",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-buehne-lesen-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1rnGwbrZK2owL6n13OCf_2MJphdM7vD_H/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_2088.JPG",
+   "alt": {
+    "de": "Elena Judith liest auf einer Bühne im Wald",
+    "en": "Elena Judith reading on a stage in the forest"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-abendkreis",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-abendkreis-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1pKC1ks26UmJZFhJp8f9m_ar0tZxsQUiG/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "image1.jpg",
+   "alt": {
+    "de": "Ein Kreis auf Teppichen am Abend",
+    "en": "A circle on rugs in the evening"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-herbst-kuppel",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-herbst-kuppel-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1vXiM21aPyiuy88cHv_nhA4p-6y4LBJae/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "IMG_1295.HEIC",
+   "alt": {
+    "de": "Menschen liegen auf einer Wiese vor einem Kuppelzelt",
+    "en": "People lying on a meadow in front of a dome tent"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-pexels-decke",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-pexels-decke-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1kaeKOAQi2VPBR3aWsAmb2LRrjzg6crkp/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "pexels-pnw-prod-8981327.jpg",
+   "alt": {
+    "de": "Eine Frau liegt entspannt auf einer Decke im Grünen",
+    "en": "A woman lying relaxed on a blanket in nature"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-pexels-paar",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-pexels-paar-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1R5Gau2cTbdtW5U4tH3DVedu2_4UfCdF-/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "pexels-chris-f-38966-27309510.jpg",
+   "alt": {
+    "de": "Zwei Menschen liegen im Gras",
+    "en": "Two people lying in the grass"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "yoga-pexels-feld",
+   "role": "yoga",
+   "shape": "rect",
+   "file": "assets/originals/yoga-pexels-feld-angepasst.jpg",
+   "url": "https://drive.google.com/file/d/1zCFil8-T2eeUc6m3bcSdsjbG7xjqXr5q/view",
+   "page": "Drive-Ordner Yoga Nidra",
+   "name": "pexels-cottonbro-5616967.jpg",
+   "alt": {
+    "de": "Eine Frau liegt in einem weiten Feld",
+    "en": "A woman lying in a wide field"
+   },
+   "position": "50% 50%",
+   "note": "Farben für das Karussell angeglichen (Elena 29.10.)"
+  },
+  {
+   "id": "ic-kreis-felsen",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-kreis-felsen.jpg",
+   "url": "https://drive.google.com/file/d/1-ZLuQ1wTGD9ISkarDoSCT52D-gSr3K_F/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1028.JPG",
+   "alt": {
+    "de": "Elena Judith spricht in einer Runde auf einem Felsplateau",
+    "en": "Elena Judith speaking in a circle on a rocky plateau"
+   },
+   "position": "50% 45%"
+  },
+  {
+   "id": "ic-meditation-kuppel",
+   "role": "inner-child",
+   "shape": "oval",
+   "file": "assets/originals/ic-meditation-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1B-_My_QcAnvMvtBjHIp7IFqk9nanQ3vi/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "fb6ab621.JPEG",
+   "alt": {
+    "de": "Meditation auf einer Wiese vor einem Kuppelzelt",
+    "en": "Meditation on a meadow in front of a dome tent"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "ic-feuer",
+   "role": "inner-child",
+   "shape": "circle",
+   "file": "assets/originals/ic-feuer.jpg",
+   "url": "https://drive.google.com/file/d/1Yeg-aRcPALz-EuvTZ58EORLUO1dkGjgq/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "24bf6607.jpg",
+   "alt": {
+    "de": "Runde am Lagerfeuer",
+    "en": "Gathering around the campfire"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "ic-elena-gitarre",
+   "role": "inner-child",
+   "shape": "arch",
+   "file": "assets/originals/ic-elena-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/1Wd8DHl0S4m73V4ddxcLkkIHH6ZWU0eAy/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1035.JPG",
+   "alt": {
+    "de": "Elena Judith singt mit Gitarre im hohen Gras",
+    "en": "Elena Judith singing with a guitar in tall grass"
+   },
+   "position": "40% 50%"
+  },
+  {
+   "id": "ic-gruppe-felsen",
+   "role": "inner-child",
+   "shape": "arch",
+   "file": "assets/originals/ic-gruppe-felsen.jpg",
+   "url": "https://drive.google.com/file/d/1TUYqEn1yEWZh-oIqr8jSIsbSvKI6Ak7S/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1033.JPG",
+   "alt": {
+    "de": "Gruppe zwischen Felsen mit Blick ins Tal",
+    "en": "Group between rocks overlooking the valley"
+   },
+   "position": "60% 70%"
+  },
+  {
+   "id": "ic-waldkreis",
+   "role": "inner-child",
+   "shape": "oval",
+   "file": "assets/originals/ic-waldkreis.jpg",
+   "url": "https://drive.google.com/file/d/10iBmwtCf2d8vyxkJVY8Ak3Oo0d0i6pOU/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_7751.JPEG",
+   "alt": {
+    "de": "Kleine Runde beim Schreiben im Wald",
+    "en": "Small circle writing in the forest"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "ic-felsen-sprechen",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-felsen-sprechen.jpg",
+   "url": "https://drive.google.com/file/d/1jI2i5SPko0rGbaCXLO778AUv964qtLSg/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_2919.JPG",
+   "alt": {
+    "de": "Teilnehmerin spricht in der Runde",
+    "en": "A participant speaking in the circle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-drei-frauen",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-drei-frauen.jpg",
+   "url": "https://drive.google.com/file/d/1I6tisMEiOhtKUHSxjzuFylTEqShGkiVg/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1055.JPG",
+   "alt": {
+    "de": "Drei Frauen sitzen an einem Baum",
+    "en": "Three women sitting at a tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-elena-gras",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-elena-gras.jpg",
+   "url": "https://drive.google.com/file/d/1CLTbEoSqyLo-uesJ1o84diVoZ_Yp28kr/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1046.JPG",
+   "alt": {
+    "de": "Elena Judith an einem Baum im Gras",
+    "en": "Elena Judith at a tree in the grass"
+   },
+   "position": "65% 40%"
+  },
+  {
+   "id": "ic-elena-karte",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-elena-karte.jpg",
+   "url": "https://drive.google.com/file/d/1J2Jnl47eApoHD3EBwC22rPk6mXRqTtRz/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1050.JPG",
+   "alt": {
+    "de": "Elena Judith mit einer Orakelkarte",
+    "en": "Elena Judith holding an oracle card"
+   },
+   "position": "50% 45%"
+  },
+  {
+   "id": "ic-frau-lachen",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-frau-lachen.jpg",
+   "url": "https://drive.google.com/file/d/1lNSt9NMTDgjbiZEf5crUsU2M6C92oC3M/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1045.JPG",
+   "alt": {
+    "de": "Lachende Teilnehmerin an einem Baum",
+    "en": "A laughing participant at a tree"
+   },
+   "position": "50% 45%"
+  },
+  {
+   "id": "ic-frau-sitzend",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-frau-sitzend.jpg",
+   "url": "https://drive.google.com/file/d/1dP702y__fcVl9Uv9NdJNDDBP-rctVXms/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1041.JPG",
+   "alt": {
+    "de": "Teilnehmerin sitzt lachend im Gras",
+    "en": "A participant sitting and laughing in the grass"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-frau-augen-zu",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-frau-augen-zu.jpg",
+   "url": "https://drive.google.com/file/d/1IoxpxJhI9-SV89NmWtanoJHneZ2qWJdY/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1042.JPG",
+   "alt": {
+    "de": "Teilnehmerin mit geschlossenen Augen im Gras",
+    "en": "A participant with closed eyes in the grass"
+   },
+   "position": "45% 40%"
+  },
+  {
+   "id": "ic-paar-baum",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-paar-baum.jpg",
+   "url": "https://drive.google.com/file/d/1fmmZbm7NiclX2ezzRjTarD74LCkxbEMv/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1058.JPG",
+   "alt": {
+    "de": "Zwei Teilnehmende lachen an einem Baum",
+    "en": "Two participants laughing at a tree"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ic-elena-stab",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-elena-stab.jpg",
+   "url": "https://drive.google.com/file/d/1yNVaM2FkwRZ_9yWOs93ONIRHcRQfcW6c/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1025.JPG",
+   "alt": {
+    "de": "Elena Judith mit einem Stab auf dem Berg",
+    "en": "Elena Judith with a staff on the mountain"
+   },
+   "position": "45% 40%"
+  },
+  {
+   "id": "ic-elena-augen-zu",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-elena-augen-zu.jpg",
+   "url": "https://drive.google.com/file/d/1A6e5VoS2Pm3DXlHtE4JojaIunB1IEgsO/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1021.JPG",
+   "alt": {
+    "de": "Elena Judith mit geschlossenen Augen",
+    "en": "Elena Judith with closed eyes"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "ic-elena-portraet",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-elena-portraet.jpg",
+   "url": "https://drive.google.com/file/d/1mPILMIqGo4mJ0dFXOCDRMKw0O5F2jgoL/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1024.JPG",
+   "alt": {
+    "de": "Porträt von Elena Judith vor Wolken",
+    "en": "Portrait of Elena Judith against clouds"
+   },
+   "position": "40% 40%"
+  },
+  {
+   "id": "ic-wanderung",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-wanderung.jpg",
+   "url": "https://drive.google.com/file/d/1WBXUSOlBSelK6_ePbcrztsE1sYO-rUNh/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1012.JPG",
+   "alt": {
+    "de": "Gruppe wandert einen Hügel hinauf",
+    "en": "Group walking up a hill"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "ic-yoga-kuppel",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-yoga-kuppel-sanft.jpg",
+   "url": "https://drive.google.com/file/d/1z823D8s2ZTjDF4ArrZ6bLV9-lNvRjeqF/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "a70a282f.JPEG",
+   "alt": {
+    "de": "Yoga auf einer Wiese vor einem Kuppelzelt",
+    "en": "Yoga on a meadow in front of a dome tent"
+   },
+   "position": "50% 60%",
+   "note": "Grün und Kontrast gedämpft (Elena 30.10.)"
+  },
+  {
+   "id": "ic-gruppe-wiese",
+   "role": "inner-child",
+   "shape": "circle",
+   "file": "assets/originals/ic-gruppe-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1HeuWLSfhekZvd8reYVbdFDWCLdma_itJ/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "0ec458a4.JPEG",
+   "alt": {
+    "de": "Ausgelassene Gruppe auf einer Wiese",
+    "en": "A joyful group on a meadow"
+   },
+   "position": "45% 55%"
+  },
+  {
+   "id": "ic-kreis-karten",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-kreis-karten.jpg",
+   "url": "https://drive.google.com/file/d/1jS18mIkl1aeMb9g1YiYvwbeVP8shfvPU/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "2e8684fe.jpg",
+   "alt": {
+    "de": "Runde mit Karten und Blumen auf der Wiese",
+    "en": "Circle with cards and flowers on the meadow"
+   },
+   "position": "40% 50%"
+  },
+  {
+   "id": "ic-kueche",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-kueche.jpg",
+   "url": "https://drive.google.com/file/d/1i-b7q4KuKAYiyZN8Z62SdnrweEEYlQCF/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_1417.JPG",
+   "alt": {
+    "de": "Offene Küche unter einem Sonnendach",
+    "en": "Open-air kitchen under a canopy"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-kreis-wiese",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-kreis-wiese-sanft.jpg",
+   "url": "https://drive.google.com/file/d/1bXk2BKP1pOVqPbml3SRcBMGYJ240gvUW/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_0726.JPG",
+   "alt": {
+    "de": "Großer Kreis auf einer Frühlingswiese",
+    "en": "A large circle on a spring meadow"
+   },
+   "position": "50% 60%",
+   "note": "Grün gedämpft (Elena 30.10.)"
+  },
+  {
+   "id": "ic-kerzen-gitarre",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-kerzen-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/13O974N-1QUyy_c6vEb8UJL264viztGS7/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "IMG_2600-1.JPG",
+   "alt": {
+    "de": "Singkreis bei Kerzenlicht",
+    "en": "Singing circle by candlelight"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-indien-felsen",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-indien-felsen.jpg",
+   "url": "https://drive.google.com/file/d/1vF8CB4gD0ry9F6SrCeisMK-MoW2OPHBd/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "dd807bd5.jpg",
+   "alt": {
+    "de": "Ruhen vor großen Felsen in der Abendsonne",
+    "en": "Resting in front of huge rocks in the evening sun"
+   },
+   "position": "50% 75%"
+  },
+  {
+   "id": "ic-indien-yoga",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-indien-yoga.jpg",
+   "url": "https://drive.google.com/file/d/1JAWJF_S2yjvqrb8tm8-xRWLcR9U5aPoe/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "c2001eb4.JPEG",
+   "alt": {
+    "de": "Yoga zwischen Felsen",
+    "en": "Yoga between rocks"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "ic-kristall",
+   "role": "inner-child",
+   "shape": "arch",
+   "file": "assets/originals/ic-kristall.jpg",
+   "url": "https://drive.google.com/file/d/11f6e-JBonZUVN2oEPjtSuuidj15kZFAI/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "31237901.JPG",
+   "alt": {
+    "de": "Ein Kristall hängt in einem Baum",
+    "en": "A crystal hanging in a tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-gruppe-baum-trommel",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-gruppe-baum-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1A4Uz87VfeP7rWkeh81rp5W-79QglG-f5/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "AD379FD7.JPG",
+   "alt": {
+    "de": "Gruppe vor dem großen Baum mit Trommel und Gitarre",
+    "en": "Group in front of the big tree with drum and guitar"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-frauen-baum",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-frauen-baum.jpg",
+   "url": "https://drive.google.com/file/d/1q0-kWSvx2wyfIHXXs3YgB8Gb8lhM9T7j/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "IMG_5135.JPG",
+   "alt": {
+    "de": "Fünf Frauen sitzen vor dem großen Baum, davor ein Altar mit Trommel",
+    "en": "Five women sitting at the big tree with an altar and a drum"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "ic-gruppe-efeu",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-gruppe-efeu.jpg",
+   "url": "https://drive.google.com/file/d/1nRnZp6Ml38E9JCMSJ6TS238bDgccgulk/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "IMG_6650.heic",
+   "alt": {
+    "de": "Gruppe im Efeu unter dem großen Baum",
+    "en": "Group in the ivy under the big tree"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "ic-altar",
+   "role": "inner-child",
+   "shape": "arch",
+   "file": "assets/originals/ic-altar.jpg",
+   "url": "https://drive.google.com/file/d/1coL_jgMUm4k5sqR2eEFfSWr1A2ukMxy-/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "178E30F1.JPG",
+   "alt": {
+    "de": "Ein Altar aus Zapfen und Steinen auf einem weißen Tuch",
+    "en": "An altar of cones and stones on a white cloth"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "ic-baum-klettern",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-baum-klettern.jpg",
+   "url": "https://drive.google.com/file/d/1TKRo23CyvNuXZjxJHX0EIDrvldBnHS_b/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "IMG_5069.HEIC",
+   "alt": {
+    "de": "Jemand sitzt hoch oben im großen Baum",
+    "en": "Someone sitting high up in the big tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-baum-sonne",
+   "role": "inner-child",
+   "shape": "rect",
+   "file": "assets/originals/ic-baum-sonne.jpg",
+   "url": "https://drive.google.com/file/d/1SMQmgjWIOqrPgc-fmRkP2-MiPcLkkMdn/view",
+   "page": "Google Drive (Elena, 29.10.)",
+   "name": "IMG_5024.HEIC",
+   "alt": {
+    "de": "Sonne scheint durch die Äste des großen Baums",
+    "en": "Sun shining through the branches of the big tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "ic-sepia-baum",
+   "role": "inner-child",
+   "shape": "oval",
+   "file": "assets/originals/ic-sepia-baum.jpg",
+   "url": "https://drive.google.com/file/d/1VRy5hyTosxI5kHWKESpXjCvCSxJgmeOk/view",
+   "page": "Drive-Ordner inner child retreat",
+   "name": "3A7D68FE.JPEG",
+   "alt": {
+    "de": "Elena Judith lehnt mit geschlossenen Augen an einem Baumstamm",
+    "en": "Elena Judith leaning against a tree trunk with closed eyes"
+   },
+   "position": "40% 40%"
+  },
+  {
+   "id": "sots-kreis-feuer",
+   "role": "song-of-the-soul",
+   "shape": "arch",
+   "file": "assets/originals/sots-kreis-feuer.jpg",
+   "url": "https://drive.google.com/file/d/1f2y47xe5JSFM9CaKgTQjUG6XHGgUL2Z7/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_006.png",
+   "alt": {
+    "de": "Ein großer Kreis um ein Feuer mit Blüten in einem tropischen Garten",
+    "en": "A large circle around a fire with flowers in a tropical garden"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-temazcal",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-temazcal.jpg",
+   "url": "https://drive.google.com/file/d/1IjG7Lllmh3N4fXt3185xWwZjLOHPzynN/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_007.png",
+   "alt": {
+    "de": "Eine runde Schwitzhütte aus Stein",
+    "en": "A round stone sweat lodge"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-klangreise",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-klangreise.jpg",
+   "url": "https://drive.google.com/file/d/1EM3OuhfzzSXnDR8BbmR_dGygvYfIlE7j/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_004.png",
+   "alt": {
+    "de": "Klangreise mit Gong, Klangschalen und Handpan",
+    "en": "Sound journey with gong, singing bowls and handpan"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-haus-huegel",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-haus-huegel.jpg",
+   "url": "https://drive.google.com/file/d/1_TTnVetmXs7bNc0rkeQpgzPfhls2Yv9x/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_002.png",
+   "alt": {
+    "de": "Holzhaus am Hang zwischen Bananenstauden",
+    "en": "Wooden house on the hillside among banana plants"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-glashaus",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-glashaus.jpg",
+   "url": "https://drive.google.com/file/d/1zE4894ZmmQTFo-EaKGiyBDVJkLGypY1o/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_005.png",
+   "alt": {
+    "de": "Großes Holzhaus mit grünem Dach im Wald",
+    "en": "Large wooden house with a green roof in the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-om-dome",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-om-dome.jpg",
+   "url": "https://drive.google.com/file/d/1yl-2-XnZAC8TjclvfXO4F8thacN4IohH/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_009.png",
+   "alt": {
+    "de": "Eingang zu einem weißen Kuppelhaus im Garten",
+    "en": "Entrance to a white dome house in the garden"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-lichterhaus",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-lichterhaus.jpg",
+   "url": "https://drive.google.com/file/d/1OlBOiNZvUxaNwgJmmpHA7uGKbOqQy9n2/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_010.png",
+   "alt": {
+    "de": "Haus mit Strohdach und Lichterketten in der Dämmerung",
+    "en": "House with a thatched roof and fairy lights at dusk"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-yoga-deck",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-yoga-deck.jpg",
+   "url": "https://drive.google.com/file/d/1Qohffa4jVjJu0FYXKr3gCoDaKUs6eFWp/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_003.png",
+   "alt": {
+    "de": "Yoga auf einer offenen Holzplattform mit Blick auf den See",
+    "en": "Yoga on an open wooden deck overlooking the lake"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-milchstrasse",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-milchstrasse.jpg",
+   "url": "https://drive.google.com/file/d/1XRX56KAgAi4BvLjrS7TFfwZwmcEP7dve/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_011.png",
+   "alt": {
+    "de": "Milchstraße über Vulkanen und See",
+    "en": "The Milky Way above volcanoes and lake"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-vulkane",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-vulkane.jpg",
+   "url": "https://drive.google.com/file/d/1BH614TUUiGDSPkloULXBxQrK27CvQpX8/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "Datei_008.png",
+   "alt": {
+    "de": "Vulkane in Wolken bei Sonnenuntergang über dem See",
+    "en": "Volcanoes in clouds at sunset over the lake"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-kreis-bambus",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-kreis-bambus.jpg",
+   "url": "https://drive.google.com/file/d/1amdSzDsOmkGJzUg9C5WD9uW6dhl6Um3h/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5730.JPEG",
+   "alt": {
+    "de": "Runde in einem Bambuspavillon mit Altar",
+    "en": "Circle in a bamboo pavilion with an altar"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-haus-himmel",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-haus-himmel.jpg",
+   "url": "https://drive.google.com/file/d/1wku_V5xbpEU07-hR98z20u0XfKLYRwSd/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5785.JPEG",
+   "alt": {
+    "de": "Haus am Hang unter blauem Himmel",
+    "en": "House on the hillside under a blue sky"
+   },
+   "position": "60% 60%"
+  },
+  {
+   "id": "sots-silhouetten",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-silhouetten.jpg",
+   "url": "https://drive.google.com/file/d/1lQ8L22xGrs9Tkq6dT6I0IJuHFEWR2TyD/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5774.JPG",
+   "alt": {
+    "de": "Silhouetten vor Vulkan und See in der Dämmerung",
+    "en": "Silhouettes in front of volcano and lake at dusk"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-tanz",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-tanz.jpg",
+   "url": "https://drive.google.com/file/d/1fGZPpuZJXaFsrsFjWZA-euzXrjw1Jb3c/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5776.JPG",
+   "alt": {
+    "de": "Tanzende Silhouetten vor dem See",
+    "en": "Dancing silhouettes in front of the lake"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-essen",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-essen.jpg",
+   "url": "https://drive.google.com/file/d/1n4ZzUMTm2apHes5fGYNMWptdBqhf6CTn/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5744.JPG",
+   "alt": {
+    "de": "Frisches Gemüse auf einem Holztisch vor dem Vulkan",
+    "en": "Fresh vegetables on a wooden table in front of the volcano"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-altar",
+   "role": "song-of-the-soul",
+   "shape": "circle",
+   "file": "assets/originals/sots-altar.jpg",
+   "url": "https://drive.google.com/file/d/1JzV9N42L4gDIGwp6BVPl_lSG23ehb_Pf/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_5717.JPEG",
+   "alt": {
+    "de": "Altar mit Salzkristall, Steinen und Karten",
+    "en": "Altar with salt crystal, stones and cards"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-frauen-wand",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-frauen-wand.jpg",
+   "url": "https://drive.google.com/file/d/1UxgA81-DNTFItgGyDsAtQI1YKsxY9o2u/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0746.JPEG",
+   "alt": {
+    "de": "Fünf Frauen vor einer bemalten Holzwand",
+    "en": "Five women in front of a painted wooden wall"
+   },
+   "position": "50% 45%"
+  },
+  {
+   "id": "sots-0501",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0501.jpg",
+   "url": "https://drive.google.com/file/d/1BVcYiv0Mmu6pPHEmiSxlrTggnA8O-A0H/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0501.HEIC",
+   "alt": {
+    "de": "Gartenweg zwischen Pflanzen",
+    "en": "Garden path between plants"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-0517",
+   "role": "song-of-the-soul",
+   "shape": "arch",
+   "file": "assets/originals/sots-0517.jpg",
+   "url": "https://drive.google.com/file/d/1SpTvEPRmVSOuyohrY5hbMG151Y_eS0gz/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0517.HEIC",
+   "alt": {
+    "de": "Elena Judith mit Rassel auf dem Holzboden",
+    "en": "Elena Judith with a rattle on the wooden floor"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "sots-0540",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0540.jpg",
+   "url": "https://drive.google.com/file/d/1lBsX3VcSm5ej0ptxraCkW3UqS1Sque5e/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0540.HEIC",
+   "alt": {
+    "de": "Garten mit Blick auf Vulkan und See",
+    "en": "Garden with a view of volcano and lake"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-0565",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0565.jpg",
+   "url": "https://drive.google.com/file/d/1GQJe5Xal_NSs2cWFaWweaQmuVIYHGBKR/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0565.HEIC",
+   "alt": {
+    "de": "Blick über Dächer und Bäume auf den See",
+    "en": "View over roofs and trees to the lake"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-0619",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0619.jpg",
+   "url": "https://drive.google.com/file/d/1UI2RGF7ZxH1ItaEz5_Hmh_g_WtafUNVY/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0619.HEIC",
+   "alt": {
+    "de": "Elena Judith auf einer runden Plattform unter einem Strohdach",
+    "en": "Elena Judith on a round platform under a thatched roof"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-0622",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0622.jpg",
+   "url": "https://drive.google.com/file/d/1iHG1MZcHE8dEGkvTd4WpJCiT9PjlrpIC/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0622.HEIC",
+   "alt": {
+    "de": "Zwei Frauen sitzen auf einem Mosaikboden",
+    "en": "Two women sitting on a mosaic floor"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "sots-0635",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0635.jpg",
+   "url": "https://drive.google.com/file/d/1QnNZ8mcEi6WWJFCmfdFfuSABasTGWzam/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0635.HEIC",
+   "alt": {
+    "de": "Buffet mit warmem Essen",
+    "en": "Buffet with warm food"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-0662",
+   "role": "song-of-the-soul",
+   "shape": "oval",
+   "file": "assets/originals/sots-0662.jpg",
+   "url": "https://drive.google.com/file/d/1c9W_x_RH622adOpSfwnwbeJA36ZZrlw1/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0662.HEIC",
+   "alt": {
+    "de": "Elena Judith mit Klangschalen vor einem Jaguar-Wandbehang",
+    "en": "Elena Judith with singing bowls in front of a jaguar tapestry"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-0679",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-0679.jpg",
+   "url": "https://drive.google.com/file/d/1gk4gfnozd6Qgmcww8vbluoDMUKprhNzd/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0679.HEIC",
+   "alt": {
+    "de": "Vier Frauen mit Klangschalen und Kerzen",
+    "en": "Four women with singing bowls and candles"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "sots-0793",
+   "role": "song-of-the-soul",
+   "shape": "arch",
+   "file": "assets/originals/sots-0793.jpg",
+   "url": "https://drive.google.com/file/d/1NCIo62GbdH-0h-XjL0HZXxwQ8w7kR8N2/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_0793.HEIC",
+   "alt": {
+    "de": "Elena Judith mit Gitarre und Trommel",
+    "en": "Elena Judith with guitar and drum"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "sots-8858",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8858.jpg",
+   "url": "https://drive.google.com/file/d/1ZDu-nCohYStC_FD-UDpg59eucTOgOBnR/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8858.HEIC",
+   "alt": {
+    "de": "Gemeinsames Essen im Speiseraum",
+    "en": "Shared meal in the dining room"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-8862",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8862.jpg",
+   "url": "https://drive.google.com/file/d/1R5XnO4P94kRLSW1XvvzAOWdO4Jz63Xl-/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8862.HEIC",
+   "alt": {
+    "de": "Runder Ritualplatz unter einem Strohdach",
+    "en": "Round ritual space under a thatched roof"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-8865",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8865.jpg",
+   "url": "https://drive.google.com/file/d/1mYKCAloe2HreLKRqKl1JqFdJg4p3DySG/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8865.HEIC",
+   "alt": {
+    "de": "Garten mit Blick auf den See",
+    "en": "Garden overlooking the lake"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-8866",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8866.jpg",
+   "url": "https://drive.google.com/file/d/1PjayWZGWnJV5RgTVo8xRQYGaEHW4w73D/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8866.HEIC",
+   "alt": {
+    "de": "Bunte Häuschen mit Strohdach im Garten",
+    "en": "Colourful cottages with thatched roofs in the garden"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sots-8867",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8867.jpg",
+   "url": "https://drive.google.com/file/d/16Tt6BsDi4hAqCKsGEjynCYqRm50mx7g4/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8867.HEIC",
+   "alt": {
+    "de": "Seerosenteich vor einer Strohhütte",
+    "en": "Water lily pond in front of a thatched hut"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sots-8885",
+   "role": "song-of-the-soul",
+   "shape": "rect",
+   "file": "assets/originals/sots-8885.jpg",
+   "url": "https://drive.google.com/file/d/1DoGG38aGez8qTDZpI1p8t3b-4XH1tchj/view",
+   "page": "Drive-Ordner song of the soul retreat",
+   "name": "IMG_8885.HEIC",
+   "alt": {
+    "de": "Gartenweg zu einem grünen Kuppelhaus",
+    "en": "Garden path to a green dome house"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-elena-kuppel",
+   "role": "silent-retreat",
+   "shape": "arch",
+   "file": "assets/originals/sil-elena-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1gEfFsTBfN6Sk1qcbaz21KzFhmLv1Gwd1/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_1365.HEIC",
+   "alt": {
+    "de": "Elena Judith mit Trommel vor einem Kuppelzelt auf einer Wiese",
+    "en": "Elena Judith with a drum in front of a dome tent on a meadow"
+   },
+   "position": "55% 45%"
+  },
+  {
+   "id": "sil-elena-trommel",
+   "role": "silent-retreat",
+   "shape": "oval",
+   "file": "assets/originals/sil-elena-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1Z0QTn8JyBZ-2TizmlVfBpsNqtiMzVMf8/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_1378.HEIC",
+   "alt": {
+    "de": "Elena Judith mit einer Trommel mit weißem Vogel",
+    "en": "Elena Judith holding a drum with a white bird"
+   },
+   "position": "40% 35%"
+  },
+  {
+   "id": "sil-altar",
+   "role": "silent-retreat",
+   "shape": "circle",
+   "file": "assets/originals/sil-altar.jpg",
+   "url": "https://drive.google.com/file/d/1KPV3q_Vozxb204vKPqN02WzAbl9qWnwI/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_1412.JPG",
+   "alt": {
+    "de": "Altar auf einer Baumscheibe mit Kristallen, Kerzen und Salbei",
+    "en": "Altar on a tree slice with crystals, candles and sage"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-wildblumen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-wildblumen.jpg",
+   "url": "https://drive.google.com/file/d/1rOEpsvNzk5VVXwShAkRKsnUWwoEIBmQ5/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_5637.JPG",
+   "alt": {
+    "de": "Wildblumen vor einer grünen Hügellandschaft",
+    "en": "Wildflowers in front of green hills"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-decke",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-decke.jpg",
+   "url": "https://drive.google.com/file/d/1K6tYRTcpkWvNbSk2s_YuUxY4aBOUI3KX/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2615.JPG",
+   "alt": {
+    "de": "Blick ins Dach eines Kuppelzelts mit Licht und Schatten",
+    "en": "View into the roof of a dome tent with light and shadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-nidra-kuppel",
+   "role": "silent-retreat",
+   "shape": "arch",
+   "file": "assets/originals/sil-nidra-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1G3QXumXFsaZ0T1CMvqyAy9Yuf7OU4oTN/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "40AFA0B0-E00F-47BF-B6BF-FFC882723491.jpg",
+   "alt": {
+    "de": "Yoga Nidra: Teilnehmende liegen auf Decken vor dem Kuppelzelt",
+    "en": "Yoga Nidra: participants lying on blankets in front of the dome tent"
+   },
+   "position": "50% 60%"
+  },
+  {
+   "id": "sil-kueche-blumen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kueche-blumen.jpg",
+   "url": "https://drive.google.com/file/d/1HCqKMUXvvAqJEBs7p7nyUXPBpkSBMpGH/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_1413.JPG",
+   "alt": {
+    "de": "Offene Küche mit Astern im Vordergrund",
+    "en": "Open-air kitchen with asters in the foreground"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-gelaende",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-gelaende.jpg",
+   "url": "https://drive.google.com/file/d/1SMABQQgJ5HOtCSw58ZvICCcF6hiwPIj9/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2299.jpg",
+   "alt": {
+    "de": "Das Gelände am Hang mit Feuerstelle",
+    "en": "The land on the hillside with a fire pit"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-tafel",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-tafel.jpg",
+   "url": "https://drive.google.com/file/d/1TgarMZ1tKZDxj7AyxUWGQd6XOwirmECC/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2324.JPG",
+   "alt": {
+    "de": "Lange Holztafel unter dem Sonnendach",
+    "en": "Long wooden table under the canopy"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-holz",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-holz.jpg",
+   "url": "https://drive.google.com/file/d/1taVjlF2-QO9jPZUXffV4yGyKXh2tHFOm/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2389.jpg",
+   "alt": {
+    "de": "Kuppelzelt mit Holzstapel",
+    "en": "Dome tent with a woodpile"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-tal-kuppel",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-tal-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1mE1zXv8HEilZvq7AXJ7g2kKNQJ-zTIVL/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2458.JPG",
+   "alt": {
+    "de": "Das Tal mit dem Kuppelzelt",
+    "en": "The valley with the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-innen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-innen.jpg",
+   "url": "https://drive.google.com/file/d/1QjlajfYzKkOG0lZ0u96QynKQNwpCHXML/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6633.HEIC",
+   "alt": {
+    "de": "Blick aus dem Kuppelzelt",
+    "en": "View out of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-wiese-weg",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-wiese-weg.jpg",
+   "url": "https://drive.google.com/file/d/1ZrRLKeOlfZKfaPEb5KKxSp4iYvg6GE9h/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6635.HEIC",
+   "alt": {
+    "de": "Wiese und Weg durch das Gelände",
+    "en": "Meadow and path across the land"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-blumenwiese",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-blumenwiese.jpg",
+   "url": "https://drive.google.com/file/d/1i0A-UX6CsIaqbCFOtptF6h_6AmOUUIMz/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6655.HEIC",
+   "alt": {
+    "de": "Blumenwiese mit Kuppelzelt im Hintergrund",
+    "en": "Flower meadow with the dome tent in the background"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-tal-weit",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-tal-weit.jpg",
+   "url": "https://drive.google.com/file/d/1M37PoYISMmumuu_OOmsnBFmfgy5H9X36/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6687.HEIC",
+   "alt": {
+    "de": "Das grüne Tal",
+    "en": "The green valley"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-huegel-baum",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-huegel-baum.jpg",
+   "url": "https://drive.google.com/file/d/1YieMpwdVp2MnAlyRlK2EGzNnZOhAp3w7/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6861.JPG",
+   "alt": {
+    "de": "Hügel mit einem großen Baum",
+    "en": "Hills with a big tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-elena-arme",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-elena-arme.jpg",
+   "url": "https://drive.google.com/file/d/1A5NOGKZh9DgqTJDM9gVMbJikBpEgmhBm/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2018-07-23-22-46-36.JPG",
+   "alt": {
+    "de": "Elena Judith mit ausgebreiteten Armen auf der Wiese",
+    "en": "Elena Judith with open arms on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-steg",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-steg.jpg",
+   "url": "https://drive.google.com/file/d/1eMWz0b0YYHj7iJ0fPfLZEcvu1po7GIjq/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "39F48F23-9573-4C3D-839C-5CA8D2F11D38.JPG",
+   "alt": {
+    "de": "Holzsteg unter dem Sonnendach",
+    "en": "Wooden deck under the canopy"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-mitte",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-mitte.jpg",
+   "url": "https://drive.google.com/file/d/1Gn3sIfAyWac55LIp06XlX3WIZ0y-OWQq/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2243.JPG",
+   "alt": {
+    "de": "Blumen in der Mitte des Kuppelzelts",
+    "en": "Flowers in the middle of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kerzen-kuppel",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kerzen-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1WNKKIYORsPw1NAPR-DR1vg32xEL_aKcl/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2306.JPG",
+   "alt": {
+    "de": "Kerzenlicht im Kuppelzelt",
+    "en": "Candlelight in the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-1",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-1.jpg",
+   "url": "https://drive.google.com/file/d/1DmYYwmd00UDbXVqYmdx5Kby8es1oqT5A/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_112225.jpg",
+   "alt": {
+    "de": "Yoga auf der Wiese",
+    "en": "Yoga on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-2",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-2.jpg",
+   "url": "https://drive.google.com/file/d/1WcuhTi6ePgDhrJKqT3MNZQfddtEEfF-l/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_112350.jpg",
+   "alt": {
+    "de": "Yoga im Kreis auf der Wiese",
+    "en": "Yoga in a circle on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-3",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-3.jpg",
+   "url": "https://drive.google.com/file/d/1eB6igXb9XIs6_YtH6cj7qrajocBt2qrL/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_113300.jpg",
+   "alt": {
+    "de": "Yoga am Waldrand",
+    "en": "Yoga at the edge of the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-4",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-4.jpg",
+   "url": "https://drive.google.com/file/d/1M0F3decGFhmtZMjZSEmJ-bJ0fEaTP4_t/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_113623.jpg",
+   "alt": {
+    "de": "Herabschauender Hund auf der Wiese",
+    "en": "Downward dog on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-5",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-5.jpg",
+   "url": "https://drive.google.com/file/d/1oWwO65GJOArxgevCkduzm8h2S8xodmh2/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_113900.jpg",
+   "alt": {
+    "de": "Kindhaltung beim Yoga auf der Wiese",
+    "en": "Child's pose during yoga on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-fuesse-bach",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-fuesse-bach.jpg",
+   "url": "https://drive.google.com/file/d/1RuZ7FHvtpX49BIMhDwVvqSkpfjlopFc7/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_20220521_115430.jpg",
+   "alt": {
+    "de": "Füße im Bach",
+    "en": "Feet in the stream"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-ruhe-gras",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-ruhe-gras.jpg",
+   "url": "https://drive.google.com/file/d/1g56NILAs-z3ERiIxmAmC9S5Om3X_DPr/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "_IMG_2435.JPG",
+   "alt": {
+    "de": "Ausruhen im hohen Gras am Waldrand",
+    "en": "Resting in tall grass at the edge of the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-ruhe-garten",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-ruhe-garten.jpg",
+   "url": "https://drive.google.com/file/d/1iYathgicKlh967BQckTJ_-8yDDwFT9IL/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2383.JPG",
+   "alt": {
+    "de": "Ruhen auf der Wiese",
+    "en": "Resting on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-pause-decken",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-pause-decken.jpg",
+   "url": "https://drive.google.com/file/d/1WhqHoPQQRHczxaD9doY1AS6bfZC5aM-x/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2319.JPG",
+   "alt": {
+    "de": "Pause auf Decken vor dem Kuppelzelt",
+    "en": "A break on blankets in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-altar-notiz",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-altar-notiz.jpg",
+   "url": "https://drive.google.com/file/d/1hAJgEAo1k12cftvGOWFG5CPR_ccJNFbH/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "8684A72B-48B8-4C47-8531-551B01427114.jpg",
+   "alt": {
+    "de": "Altar mit einer handgeschriebenen Notiz",
+    "en": "Altar with a handwritten note"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-altar-stumpf",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-altar-stumpf.jpg",
+   "url": "https://drive.google.com/file/d/1TSzxN3WIBFqh884OhV3lC0YB4p7FqZLh/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2296.jpg",
+   "alt": {
+    "de": "Altar mit Blumen auf einem Baumstumpf",
+    "en": "Altar with flowers on a tree stump"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-altar-blumen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-altar-blumen.jpg",
+   "url": "https://drive.google.com/file/d/1i8grDnEmmUPCRiKtbv-lcC1HFWLQPIJM/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6862.JPG",
+   "alt": {
+    "de": "Altar mit Wildblumen und Kristallen",
+    "en": "Altar with wild flowers and crystals"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-altar-scheibe",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-altar-scheibe.jpg",
+   "url": "https://drive.google.com/file/d/1Zj5TqkQtwK3ic4lHnHlcultjWmPMuxcn/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "721A4BBF-46F5-4504-AE92-E4CCD1D9F7EA.JPG",
+   "alt": {
+    "de": "Altar auf einer Baumscheibe",
+    "en": "Altar on a tree slice"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-runde",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-runde.jpg",
+   "url": "https://drive.google.com/file/d/1uVube_E4PfttUdoTyRIVHcFhICe5MRrm/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_8372.JPG",
+   "alt": {
+    "de": "Runde im Kuppelzelt",
+    "en": "Circle in the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-gruppe-wald",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-gruppe-wald.jpg",
+   "url": "https://drive.google.com/file/d/14mXyiQRgb05qDb_pcjlVn7G1XmXvAo7Q/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2262.jpg",
+   "alt": {
+    "de": "Gruppe vor dem Wald",
+    "en": "The group in front of the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-gruppe-wiese",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-gruppe-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1Im8H2CCsThqanD0mo2M60tsdsiJUQw9t/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2460.JPG",
+   "alt": {
+    "de": "Gruppe auf der Wiese",
+    "en": "The group on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-wandern-1",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-wandern-1.jpg",
+   "url": "https://drive.google.com/file/d/134du-mfuesAUCKtzcxnqrjCg8HYP_Jdw/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2410.JPG",
+   "alt": {
+    "de": "Wandern in Stille",
+    "en": "Walking in silence"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-wandern-2",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-wandern-2.jpg",
+   "url": "https://drive.google.com/file/d/1VZjliPbrt4gBwVA_S8O3A71AUiS1Yh2E/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2433.JPG",
+   "alt": {
+    "de": "Unterwegs auf dem Feldweg",
+    "en": "On the field path"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-tannen-blick",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-tannen-blick.jpg",
+   "url": "https://drive.google.com/file/d/1PmgH93CDntjpcmVkuR5Og4kNHZvWm7KC/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2434.JPG",
+   "alt": {
+    "de": "Blick durch Tannen ins Tal",
+    "en": "View through fir trees into the valley"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "sil-blind-1",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-blind-1.jpg",
+   "url": "https://drive.google.com/file/d/18zsIK5Ecg75UE5f6iU6cLF-hlnkJNrDN/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2438.JPG",
+   "alt": {
+    "de": "Führen mit verbundenen Augen",
+    "en": "Guiding with blindfolded eyes"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-blind-2",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-blind-2.jpg",
+   "url": "https://drive.google.com/file/d/1l1osPPwJeMc7YxtxZVJI3DpLSO0WkUH1/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2448.JPG",
+   "alt": {
+    "de": "Gemeinsam über die Wiese",
+    "en": "Together across the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-blind-3",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-blind-3.jpg",
+   "url": "https://drive.google.com/file/d/1EugSE8OMv8NszBXTGgOG8oPecF_UzTrn/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2449.JPG",
+   "alt": {
+    "de": "Hand in Hand über die Wiese",
+    "en": "Hand in hand across the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-blind-4",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-blind-4.jpg",
+   "url": "https://drive.google.com/file/d/1svoa_bQrXG45H1kbqsRRRfsRKSysNfeV/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2452.JPG",
+   "alt": {
+    "de": "Mit verbundenen Augen unterwegs",
+    "en": "On the way with blindfolded eyes"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-austausch",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-austausch.jpg",
+   "url": "https://drive.google.com/file/d/1coVS7Hu07Yk3l4jJhi5TZpVTuNU5GF6v/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_4710.JPG",
+   "alt": {
+    "de": "Zwei Teilnehmerinnen im Austausch",
+    "en": "Two participants in conversation"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-elena-lachen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-elena-lachen.jpg",
+   "url": "https://drive.google.com/file/d/19Tm02sHNeLbQJnzKt2KHaoGhOU1HBsTq/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6664.HEIC",
+   "alt": {
+    "de": "Elena Judith streckt lachend die Zunge raus",
+    "en": "Elena Judith sticking her tongue out, laughing"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-haende",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-haende.jpg",
+   "url": "https://drive.google.com/file/d/1-ue7VCqPpSMe3VNFBhPvQSBKKCW3AIsG/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_6733.jpg",
+   "alt": {
+    "de": "Hände in der Mitte",
+    "en": "Hands in the middle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuehe",
+   "role": "silent-retreat",
+   "shape": "oval",
+   "file": "assets/originals/sil-kuehe-sanft.jpg",
+   "url": "https://drive.google.com/file/d/1ZY3kMWZ4oJui95G3FDig-NMoKWhNtB-p/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "IMG_2412.JPG",
+   "alt": {
+    "de": "Kühe auf der Weide vor dem Schwarzwald",
+    "en": "Cows on the pasture in front of the Black Forest"
+   },
+   "position": "50% 50%",
+   "note": "Blau gedämpft, etwas wärmer (Elena 30.10.)"
+  },
+  {
+   "id": "sil-frauen-wiese",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-frauen-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1-QeqTDARnBFoEBUVo4-45_F9vbnccHUu/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Drei Teilnehmerinnen auf der Wiese",
+    "en": "Three participants on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-huette-hang",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-huette-hang.jpg",
+   "url": "https://drive.google.com/file/d/13tfES_3GhnDWxA6d4iUfxDLS1MVyQ2QO/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Das Sonnendach am grünen Hang",
+    "en": "The canopy on the green hillside"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kreis-sitzen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kreis-sitzen.jpg",
+   "url": "https://drive.google.com/file/d/182HHBew5IXZHunrXs557q0oFKi7G8cjB/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Runde auf Decken im Gras",
+    "en": "A circle on blankets in the grass"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-waldlichtung",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-waldlichtung.jpg",
+   "url": "https://drive.google.com/file/d/1ATcDXI6BU5qgNARSaSwtIe_nmiKya-F/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "_PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Lichtung am Waldrand",
+    "en": "A clearing at the edge of the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-essen-tafel",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-essen-tafel.jpg",
+   "url": "https://drive.google.com/file/d/1Gga5AF3cDGNH9FNZLfeIWfypW61vtm2b/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Gemeinsames Essen unter dem Sonnendach",
+    "en": "Eating together under the canopy"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-altar-baumscheibe",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-altar-baumscheibe.jpg",
+   "url": "https://drive.google.com/file/d/1O6F7af-9NgPvlPzkez3tBI9IL4AlbMBY/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Altar mit Kristallen und Zapfen auf einer Baumscheibe",
+    "en": "Altar with crystals and pine cones on a tree slice"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-elena-kuehe",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-elena-kuehe.jpg",
+   "url": "https://drive.google.com/file/d/1OxOSbykwjvHBXGJ5KzWqDWMVpWGhnGX6/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Elena Judith zwischen Ruhenden auf der Wiese, dahinter Kühe",
+    "en": "Elena Judith among people resting on the meadow, cows behind"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-liegen-kuehe",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-liegen-kuehe.jpg",
+   "url": "https://drive.google.com/file/d/1PZsdysJmP3wuqcc9Zwlg2mtrtlBphIoa/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Ruhen auf der Wiese, im Hintergrund Kühe",
+    "en": "Resting on the meadow with cows in the background"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-nacht",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1SBIzCxEsvS-1ZZOwuH07Ma2L9WLga2cO/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Das Kuppelzelt leuchtet in der Nacht",
+    "en": "The dome tent glowing at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-yoga-huette",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-yoga-huette.jpg",
+   "url": "https://drive.google.com/file/d/1VkQW4DilvBe3dpigWk6BOr6Ty5OjEBVl/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Yoga vor dem Sonnendach",
+    "en": "Yoga in front of the canopy"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kerze-nacht",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kerze-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1eXqso7EVnqvrqZHQy-yBt-bwctAXdcWZ/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Bei Kerzenlicht in der Nacht",
+    "en": "By candlelight at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-gruppe-sonne",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-gruppe-sonne.jpg",
+   "url": "https://drive.google.com/file/d/1e_SYS2FzrVCk2UdQmik9g29Cpg8TDCQd/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Gruppenfoto auf der Wiese",
+    "en": "Group photo on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-liegen-kuppel",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-liegen-kuppel.jpg",
+   "url": "https://drive.google.com/file/d/1iCtRtTtmiX8WfmO13hj_265YjNjWb153/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Liegen im Gras vor dem Kuppelzelt",
+    "en": "Lying in the grass in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-singkreis",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-singkreis.jpg",
+   "url": "https://drive.google.com/file/d/1jZbQ1m_J1gzNfz8vOyQfi9xZX0m5CbHJ/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Singkreis mit Gitarre auf der Wiese",
+    "en": "Singing circle with guitar on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-wiese-ruhen",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-wiese-ruhen.jpg",
+   "url": "https://drive.google.com/file/d/1oOZiy1iIuXCTLtjzRRod9IlhzMIr6nO1/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Ruhen und Dehnen auf der Wiese",
+    "en": "Resting and stretching on the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-sterne",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-sterne.jpg",
+   "url": "https://drive.google.com/file/d/1tmQ2rDRs4VyuMOsB4sEBZ3UVNjaemSld/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Das Kuppelzelt unter dem Sternenhimmel",
+    "en": "The dome tent under the starry sky"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-kuppel-nah",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-kuppel-nah.jpg",
+   "url": "https://drive.google.com/file/d/1u4pQtXR382A64mNKLDUbxPetFxDge0Vq/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Das Kuppelzelt von nahem",
+    "en": "The dome tent up close"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sil-gras-hoch",
+   "role": "silent-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sil-gras-hoch.jpg",
+   "url": "https://drive.google.com/file/d/1wcs175N_iK6tAzdO-_-IszbphkRDeuYo/view",
+   "page": "Drive-Ordner Schweigewochenende",
+   "name": "PHOTO-2026-10-30-21-02-11.jpg",
+   "alt": {
+    "de": "Im hohen Gras",
+    "en": "In the tall grass"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-tipi-innen",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-tipi-innen-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1j6JTNewhFDB1DPhw9u1H4tbP6LKSCzUO/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_4969.JPEG",
+   "alt": {
+    "de": "Redekreis am Feuer im Tipi",
+    "en": "Talking circle by the fire inside the tipi"
+   },
+   "position": "50% 55%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-feuer-gitarre",
+   "role": "schamanisches-retreat",
+   "shape": "oval",
+   "file": "assets/originals/sch-feuer-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/1E1QE1fQ2MBgY-OMcEF54_Tc8TrCG0Dwm/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "809ACFC6-23BB-49A6-A396-9C2AB7B609D5.jpg",
+   "alt": {
+    "de": "Singen mit Gitarre am Lagerfeuer",
+    "en": "Singing with a guitar by the campfire"
+   },
+   "position": "45% 50%"
+  },
+  {
+   "id": "sch-bienen",
+   "role": "schamanisches-retreat",
+   "shape": "circle",
+   "file": "assets/originals/sch-bienen-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1IkDPbJC2gpqE4wd0BiIrbh6z8N9elCT-/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5346.JPEG",
+   "alt": {
+    "de": "Bienen am Flugloch",
+    "en": "Bees at the hive entrance"
+   },
+   "position": "50% 50%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-rauch-kreis",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-rauch-kreis-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1sTgqZUPHs8S6TRlCGfEU9p12WHD_7FLy/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5342.JPG",
+   "alt": {
+    "de": "Zeremonie im Rauch des Feuers",
+    "en": "A ceremony in the smoke of the fire"
+   },
+   "position": "50% 50%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-feuer-kreis",
+   "role": "schamanisches-retreat",
+   "shape": "arch",
+   "file": "assets/originals/sch-feuer-kreis-warm.jpg",
+   "url": "https://drive.google.com/file/d/1g8gmZKt00rtN-W6B3l1i_zJnVNuH7BSo/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5603.JPG",
+   "alt": {
+    "de": "Kreis um das Zeremonienfeuer",
+    "en": "A circle around the ceremonial fire"
+   },
+   "position": "60% 50%",
+   "note": "Farben gedämpft und wärmer fürs Karussell (Elena 03.11.)"
+  },
+  {
+   "id": "sch-tipi-aussen",
+   "role": "schamanisches-retreat",
+   "shape": "oval",
+   "file": "assets/originals/sch-tipi-aussen-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1zxKbgjaZKuZ84j5waLgmluMdIP59Ny_V/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5599.JPG",
+   "alt": {
+    "de": "Das Tipi hinter Kirschzweigen",
+    "en": "The tipi behind cherry branches"
+   },
+   "position": "50% 60%",
+   "note": "Kühlere Farben (Elena 30.10. und 03.11.)"
+  },
+  {
+   "id": "sch-gruppe-altar",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-gruppe-altar-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1D5smPRz8yBw7yuPOLbnlaEabYkrS1TkA/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_6473.HEIC",
+   "alt": {
+    "de": "Gruppe hinter dem Erdaltar",
+    "en": "The group behind the earth altar"
+   },
+   "position": "50% 45%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-tipi-spitze",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-tipi-spitze.jpg",
+   "url": "https://drive.google.com/file/d/1tz9RwXvI-yIjhTMalivXNtSnd49G_tTj/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5598.JPG",
+   "alt": {
+    "de": "Die Spitze des Tipis",
+    "en": "The top of the tipi"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-felsen",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-felsen.jpg",
+   "url": "https://drive.google.com/file/d/1htPZKiY8lEBUwxs4gSVlhyUMp_y6uFwO/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5676.JPEG",
+   "alt": {
+    "de": "Felsen und Wiese unter Wolken",
+    "en": "Rocks and meadow under clouds"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-sternennacht",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-sternennacht.jpg",
+   "url": "https://drive.google.com/file/d/10OGADiBsEI_F-pe7H6P3p0OptqNJQk1x/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5344.JPG",
+   "alt": {
+    "de": "Unter dem Sternenhimmel",
+    "en": "Under the starry sky"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-schwitzhuette",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-schwitzhuette.jpg",
+   "url": "https://drive.google.com/file/d/1WFVsH8SPjf9WOlemadvJIHRtaELrv9Pa/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_6544.HEIC",
+   "alt": {
+    "de": "Die Schwitzhütte bei Nacht",
+    "en": "The sweat lodge at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-huette-nacht",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-huette-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1ymii6oJ09Wxim-RAXcMejqc0J_yaueu4/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5345.JPG",
+   "alt": {
+    "de": "Leuchtende Hütte in der Nacht",
+    "en": "A glowing hut at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-baum",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-baum.jpg",
+   "url": "https://drive.google.com/file/d/1Ln62iCCkLwYTotD9PeCQZx5KDqHkOWt2/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_2984.JPEG",
+   "alt": {
+    "de": "Umarmung eines großen Baumes",
+    "en": "Embracing a big tree"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-elena-deck",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-elena-deck.jpg",
+   "url": "https://drive.google.com/file/d/1xYD-LmKCkIOoL0DycUzNoWcz4T1s1LtU/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_3627.HEIC",
+   "alt": {
+    "de": "Elena Judith auf dem Holzdeck",
+    "en": "Elena Judith on the wooden deck"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-mandala",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-mandala-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1_ZQq9SOz6zdyfvJ1ohlby_vfyH8NXzG/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_6990.JPEG",
+   "alt": {
+    "de": "Mandala aus Erde, Blättern und Kerzen",
+    "en": "Mandala of earth, leaves and candles"
+   },
+   "position": "50% 50%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-altar-tuch",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-altar-tuch.jpg",
+   "url": "https://drive.google.com/file/d/1ptWa-62PoQ0JJP7kbN-gAOzq7la1oIeB/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_6478.HEIC",
+   "alt": {
+    "de": "Altar auf einem gewebten Tuch",
+    "en": "Altar on a woven cloth"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "sch-feuer-kerze",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-feuer-kerze-warm.jpg",
+   "url": "https://drive.google.com/file/d/1y6UY4OhgAU-K_A7QQFsle9KlEFyiIvZq/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_5602.JPG",
+   "alt": {
+    "de": "Kerze am Zeremonienfeuer",
+    "en": "A candle at the ceremonial fire"
+   },
+   "position": "50% 50%",
+   "note": "Farblich an den Kreis ums Feuer angeglichen (Elena 03.11.)"
+  },
+  {
+   "id": "sch-kreis-garten",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-kreis-garten-kuehl.jpg",
+   "url": "https://drive.google.com/file/d/1ft-_pXhJaZTZVHLC_AQHxh-lwZORpuKU/view",
+   "page": "Drive-Ordner Schamanisches Retreat",
+   "name": "IMG_3648.HEIC",
+   "alt": {
+    "de": "Zeremonie im Garten",
+    "en": "A ceremony in the garden"
+   },
+   "position": "50% 50%",
+   "note": "Etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-web-42-kuehl",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-web-42-kuehl.jpg",
+   "url": "https://www.elenajudith.de/wp-content/uploads/2024/12/IMG_4973-1.jpg",
+   "page": "Alte Website elenajudith.de, Schamanisches Retreat",
+   "name": "IMG_4973-1.jpg",
+   "alt": {
+    "de": "Gruppe im Kreis in der Kindhaltung um die Feuerstelle",
+    "en": "The group in a circle in child's pose around the fire pit"
+   },
+   "position": "50% 50%",
+   "note": "Foto der alten Website, etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "sch-web-43-kuehl",
+   "role": "schamanisches-retreat",
+   "shape": "rect",
+   "file": "assets/originals/sch-web-43-kuehl.jpg",
+   "url": "https://www.elenajudith.de/wp-content/uploads/2024/12/IMG_5674.jpg",
+   "page": "Alte Website elenajudith.de, Schamanisches Retreat",
+   "name": "IMG_5674.jpg",
+   "alt": {
+    "de": "Gemeinsam am Zeremonienfeuer",
+    "en": "Together at the ceremonial fire"
+   },
+   "position": "50% 50%",
+   "note": "Foto der alten Website, etwas kühlere Farben (Elena 03.11.)"
+  },
+  {
+   "id": "kr-kreis-wiese",
+   "role": "kraft",
+   "shape": "rect",
+   "file": "assets/originals/kr-kreis-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1knT6klvxk1rYbu1Gh-RVcfLiEJzhvIpy/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9200.jpg",
+   "alt": {
+    "de": "Runde auf der Wiese vor dem Kuppelzelt",
+    "en": "A circle on the meadow in front of the dome tent"
+   },
+   "position": "50% 55%"
+  },
+  {
+   "id": "kr-feuer-gitarre",
+   "role": "kraft",
+   "shape": "oval",
+   "file": "assets/originals/kr-feuer-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/1yhtx1fDPMKp1Wis7GYa8JQdFkqoyQWqD/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9952.heic",
+   "alt": {
+    "de": "Singen mit Gitarre am nächtlichen Feuer",
+    "en": "Singing with a guitar by the fire at night"
+   },
+   "position": "45% 55%"
+  },
+  {
+   "id": "kr-gruppe",
+   "role": "kraft",
+   "shape": "rect",
+   "file": "assets/originals/kr-gruppe.jpg",
+   "url": "https://drive.google.com/file/d/18k6QYIjROKGvBBP-w5AXTyKVYr7Kh-vR/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9199.jpg",
+   "alt": {
+    "de": "Gruppe vor dem Kuppelzelt am Altar",
+    "en": "The group by the altar in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "kr-feuer-trommel",
+   "role": "kraft",
+   "shape": "rect",
+   "file": "assets/originals/kr-feuer-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1WQ-DkQnMcUdlYVNjNUprywJJ5y2L-4FM/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9173.jpg",
+   "alt": {
+    "de": "Am Feuer mit Trommel vor dem Kuppelzelt",
+    "en": "By the fire with a drum in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "kr-tafel",
+   "role": "kraft",
+   "shape": "rect",
+   "file": "assets/originals/kr-tafel.jpg",
+   "url": "https://drive.google.com/file/d/1msBMDgxMRwjOk-AEAf7NtSeEAUS8Yrcc/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9175.jpg",
+   "alt": {
+    "de": "Große Runde um die Feuerstelle im Wald",
+    "en": "A large circle around the fire pit in the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "kr-trommel-nacht",
+   "role": "kraft",
+   "shape": "rect",
+   "file": "assets/originals/kr-trommel-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1sfazLx9WgzvztwMq24lZgl3ddztbjeuy/view",
+   "page": "Drive-Ordner Kraft meiner Wurzeln Retreat",
+   "name": "IMG_9174.jpg",
+   "alt": {
+    "de": "Mit der Trommel in der Nacht",
+    "en": "With the drum at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gruppe-trommel",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gruppe-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1HS5g9jgQb48dgWKoqu73ciTqqqDN95Op/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1274.jpg",
+   "alt": {
+    "de": "Frauen in Rot mit einer Trommel vor dem Kuppelzelt",
+    "en": "Women in red with a drum in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-haende",
+   "role": "wise",
+   "shape": "circle",
+   "file": "assets/originals/wi-haende.jpg",
+   "url": "https://drive.google.com/file/d/1SVDKlaRoVuxDAHCJM-TZM_XohhbCmJ_3/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_2593.JPG",
+   "alt": {
+    "de": "Viele Hände berühren sich in der Mitte des Kreises",
+    "en": "Many hands touching in the middle of the circle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kugel-wald",
+   "role": "wise",
+   "shape": "oval",
+   "file": "assets/originals/wi-kugel-wald.jpg",
+   "url": "https://drive.google.com/file/d/1ug0o6Rn47dDAogOuPArPsV6nxsWr9PND/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1315.jpg",
+   "alt": {
+    "de": "Zwei Frauen mit einer Spiegelkugel im Wald",
+    "en": "Two women with a mirror ball in the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kuppel-nacht",
+   "role": "wise",
+   "shape": "circle",
+   "file": "assets/originals/wi-kuppel-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1xmefhhgUfAXEn5I4HEm4BMetJq_HjZG9/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "cf0b5fbb-e202-4dab-96bd-7631d0864636.jpg",
+   "alt": {
+    "de": "Das leuchtende Kuppelzelt bei Nacht",
+    "en": "The glowing dome tent at night"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-wiese-drei",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-wiese-drei.jpg",
+   "url": "https://drive.google.com/file/d/15NmCCXLwzh4GhejQi7Ni6LtgzZIrdli4/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1309.jpg",
+   "alt": {
+    "de": "Drei Frauen in Weiß sitzen auf der Wiese",
+    "en": "Three women in white sitting in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kuppel-rede",
+   "role": "wise",
+   "shape": "arch",
+   "file": "assets/originals/wi-kuppel-rede.jpg",
+   "url": "https://drive.google.com/file/d/1myiayj6SzGlyHwpElvic1vcLJzdnp_K7/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1235.jpg",
+   "alt": {
+    "de": "Zwei Frauen im Redekreis im Kuppelzelt mit Kerze",
+    "en": "Two women in the talking circle in the dome tent with a candle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kuppel-kreis",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kuppel-kreis.jpg",
+   "url": "https://drive.google.com/file/d/18E2d0IkMJt18DoZscP2w4DP-yvGbfn8d/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1251.jpg",
+   "alt": {
+    "de": "Frauen in Rot im Kuppelzelt",
+    "en": "Women in red in the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kuppel-karten",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kuppel-karten.jpg",
+   "url": "https://drive.google.com/file/d/1ABS50bxtJKGzgv7ji1m2dNdivzyuxhIq/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1232.jpg",
+   "alt": {
+    "de": "Kreis im Kuppelzelt mit Karten und Kerzen",
+    "en": "Circle in the dome tent with cards and candles"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kuppel-kerze",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kuppel-kerze.jpg",
+   "url": "https://drive.google.com/file/d/1c5vFHnEnIy4pFQLi2_kBkJxhbnjbQWbX/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1293.jpg",
+   "alt": {
+    "de": "Frauen im Kerzenlicht im Kuppelzelt",
+    "en": "Women by candlelight in the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-karten",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-karten.jpg",
+   "url": "https://drive.google.com/file/d/17aNA2Jm_yCP-pJSuO6RvEXY1xTQQLlfT/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "639243a7-59c1-46d8-ae78-f3834915f8ac.jpg",
+   "alt": {
+    "de": "Karten, Kerzen und Kristalle auf dem Teppich",
+    "en": "Cards, candles and crystals on the rug"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-haende-wiese",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-haende-wiese.jpg",
+   "url": "https://drive.google.com/file/d/12QH1d4HRv_1WqN4m44-zhwwQP_ChbFaN/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1415.JPG",
+   "alt": {
+    "de": "Hände in der Mitte des Kreises",
+    "en": "Hands in the middle of the circle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kreis-wiese",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kreis-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1LYX8btSx3-1y4hdU_7rWWlDFeaXBxyyy/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1420.JPG",
+   "alt": {
+    "de": "Frauen stehen im Kreis auf der Wiese",
+    "en": "Women standing in a circle in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-vier-wiese",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-vier-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1STY5TZ9IPbfFXcRfqpp1v1YRTLK9nqoH/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_2079.JPG",
+   "alt": {
+    "de": "Vier Frauen sitzen lachend auf der Wiese",
+    "en": "Four women laughing in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gitarre",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/16uGMrmwQim6HMx6OM0CCbPsZopDrx7EG/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_2622.JPG",
+   "alt": {
+    "de": "Singkreis mit Gitarre auf der Wiese",
+    "en": "Singing circle with a guitar in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-schreiben",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-schreiben.jpg",
+   "url": "https://drive.google.com/file/d/1kz7qEfyQjio4FnYwyY0y2EIUuSfTspNb/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_2598.JPG",
+   "alt": {
+    "de": "Frauen beim Schreiben auf der Wiese",
+    "en": "Women writing in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gruppe-altar",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gruppe-altar.jpg",
+   "url": "https://drive.google.com/file/d/1sNG0c72ZFpA8s0fOacDs-BavDxrnLHBD/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_2620.JPG",
+   "alt": {
+    "de": "Die Gruppe hinter dem Altar auf der Wiese",
+    "en": "The group behind the altar in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-wald-bach",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-wald-bach.jpg",
+   "url": "https://drive.google.com/file/d/1uLyTEjO8THwyXQBJe6rtOgaH6o7wkwbk/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "472C9F4A-D113-413C-85E9-9521BE95876A.JPEG",
+   "alt": {
+    "de": "Frauen in Rot sitzen am Bach im Wald",
+    "en": "Women in red sitting by the stream in the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gruppe-mandala",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gruppe-mandala.jpg",
+   "url": "https://drive.google.com/file/d/1axgGsjAOrWIgBnrhaVTjs6sT6S5-R4b6/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1416.JPG",
+   "alt": {
+    "de": "Die Gruppe um das Mandala vor dem Kuppelzelt",
+    "en": "The group around the mandala in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gruppe-sonne",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gruppe-sonne.jpg",
+   "url": "https://drive.google.com/file/d/1i5MOi5VUvtiN5l3VsHd6YSpeJa29guQa/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1418.JPG",
+   "alt": {
+    "de": "Frauen sitzen in der Sonne",
+    "en": "Women sitting in the sun"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-selfie",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-selfie.jpg",
+   "url": "https://drive.google.com/file/d/1vFW-NfEkOPATru3jmE6HjsfIM2o2DKBt/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1266.jpg",
+   "alt": {
+    "de": "Lachende Frauen vor dem Kuppelzelt",
+    "en": "Laughing women in front of the dome tent"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-gruppe-rot",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-gruppe-rot.jpg",
+   "url": "https://drive.google.com/file/d/1Nr1DA3ld1rP27Vj3DfU61F_3GWb7NKJs/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "IMG_1272.jpg",
+   "alt": {
+    "de": "Gruppenfoto in Rot mit Trommel",
+    "en": "Group photo in red with a drum"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kugel-zwei",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kugel-zwei.jpg",
+   "url": "https://drive.google.com/file/d/13B9Bt9g7fnpaD2Z_K90iNPRvQRXMw01o/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "F4C70C30-1244-4FF4-B536-3740C05361A6.jpg",
+   "alt": {
+    "de": "Zwei Frauen mit Spiegelkugel",
+    "en": "Two women with a mirror ball"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kugel-moos",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kugel-moos.jpg",
+   "url": "https://drive.google.com/file/d/1AoJFno6eKEs_A3fh6R7hjYM0xCjpP1CM/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "a2bff52a-8482-4918-bb9c-4471518c31f7.jpg",
+   "alt": {
+    "de": "Spiegelkugel im Wald",
+    "en": "Mirror ball in the forest"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-kugel-sw",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-kugel-sw.jpg",
+   "url": "https://drive.google.com/file/d/1Oce656EdnOizkhf752diVQMpQDllyNu2/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "2BA79E09-AE67-4C8F-AB7C-E9EA363B6F20.JPEG",
+   "alt": {
+    "de": "Spiegelkugel in Schwarz-Weiß",
+    "en": "Mirror ball in black and white"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-trommel-herbst",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-trommel-herbst.jpg",
+   "url": "https://drive.google.com/file/d/1sD7XT9E6W77i8rRLyAUArewtNhOkEWbf/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "B99C68D4-23A3-4835-A11A-B8CE66E9F81E.jpg",
+   "alt": {
+    "de": "Eine Frau hebt ihre Trommel zum Himmel",
+    "en": "A woman raising her drum to the sky"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "wi-liegend",
+   "role": "wise",
+   "shape": "rect",
+   "file": "assets/originals/wi-liegend.jpg",
+   "url": "https://drive.google.com/file/d/1lIGwzC4vzAFlapXQTlmKTK9rjdb6HuBh/view",
+   "page": "Drive-Ordner Wise In Her Ways Retreat",
+   "name": "FA2CCFD8-D5C2-41B6-BE7B-56AFA501AE77.jpg",
+   "alt": {
+    "de": "Frauen liegen in Rot auf der Wiese",
+    "en": "Women in red lying in the meadow"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "mu-header",
+   "role": "music",
+   "shape": "arch",
+   "file": "assets/originals/mu-header.jpg",
+   "url": "https://drive.google.com/file/d/15EQBWr1T6NUHFu0vxYnFizUDkbnHI9gm/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_1118.JPG",
+   "alt": {
+    "de": "Elena mit Gitarre vor roten Felsen im Abendlicht",
+    "en": "Elena with a guitar in front of red rocks in the evening light"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-see-gitarre",
+   "role": "music",
+   "shape": "oval",
+   "file": "assets/originals/mu-see-gitarre.jpg",
+   "url": "https://drive.google.com/file/d/1mFhBoFIAYDhgB_volfDw4lfDzX2rOWBY/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2425.JPG",
+   "alt": {
+    "de": "Elena spielt Gitarre am See vor einem Vulkan",
+    "en": "Elena playing guitar by the lake in front of a volcano"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-agave",
+   "role": "music",
+   "shape": "arch",
+   "file": "assets/originals/mu-agave.jpg",
+   "url": "https://drive.google.com/file/d/1eny1S-TpDdkMNvV7Uuzmtq08rQ43iV4p/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_3754.jpg",
+   "alt": {
+    "de": "Elena mit Blumenkranz und Gitarre vor einer Agave",
+    "en": "Elena with a flower crown and guitar in front of an agave"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-buehne",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-buehne.jpg",
+   "url": "https://drive.google.com/file/d/1rt3MyRQdmxoEeO4_DkeiaCmlfgRFpXbT/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2447.jpg",
+   "alt": {
+    "de": "Elena singt auf einer geschmückten Bühne",
+    "en": "Elena singing on a decorated stage"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-steg",
+   "role": "music",
+   "shape": "circle",
+   "file": "assets/originals/mu-steg.jpg",
+   "url": "https://drive.google.com/file/d/1XKOcveFYVDum1WOXkUAAvOvid-Xfg3LM/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2920.JPG",
+   "alt": {
+    "de": "Elena hält ihre Gitarre auf einem Steg in die Luft",
+    "en": "Elena holding her guitar up on a jetty"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-zelt",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-zelt.jpg",
+   "url": "https://drive.google.com/file/d/1IJnJIcOj4vhW4o5Emx594G_ZPfVpn5Tm/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2003.jpg",
+   "alt": {
+    "de": "Konzert unter einem roten Zeltdach",
+    "en": "Concert under a red tent roof"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-kreis-1",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-kreis-1.jpg",
+   "url": "https://drive.google.com/file/d/1aVtHHde6GAm45N5CQnmvLl-0GXuHvt5p/view",
+   "page": "Drive-Ordner Musik",
+   "name": "dsc05648.jpg",
+   "alt": {
+    "de": "Elena singt im Kreis mit anderen Musikern",
+    "en": "Elena singing in a circle with other musicians"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-kreis-2",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-kreis-2.jpg",
+   "url": "https://drive.google.com/file/d/1qbfzm8Zi2-5pv1GXIogXB2bzTxVEOmxk/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_0258.JPG",
+   "alt": {
+    "de": "Singkreis mit Gitarren",
+    "en": "Singing circle with guitars"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-mikro",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-mikro.jpg",
+   "url": "https://drive.google.com/file/d/1rdTyN0IXloHoXY-yPJ48bwjmnwaqhqkL/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_6794.JPG",
+   "alt": {
+    "de": "Elena singt mit Gitarre am Mikrofon",
+    "en": "Elena singing with a guitar at the microphone"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-sofa",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-sofa.jpg",
+   "url": "https://drive.google.com/file/d/1tgQTFNyesgIPO_MAiEDbaWovdzgLOdav/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_8053.JPG",
+   "alt": {
+    "de": "Elena spielt Gitarre zwischen Freunden",
+    "en": "Elena playing guitar among friends"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-vida",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-vida.jpg",
+   "url": "https://drive.google.com/file/d/14M2h0ODL2GmOxWNu0tQc-albWP3B3pyl/view",
+   "page": "Drive-Ordner Musik",
+   "name": "ee557f3a-293e-4693-81a7-07528424c323.jpg",
+   "alt": {
+    "de": "Elena auf der Bühne mit Gitarre unter einer Holztreppe",
+    "en": "Elena on stage with a guitar under a wooden staircase"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-holz",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-holz.jpg",
+   "url": "https://drive.google.com/file/d/15KaqPLat8MehIt2kGhtAGOi4CcPZJWvC/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_0512.jpg",
+   "alt": {
+    "de": "Elena mit Gitarre auf einem Holzboden",
+    "en": "Elena with a guitar on a wooden floor"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-wiese",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1JcQkA1HeS2hs3hj_i_GG5W9HlZ3RJ2Lk/view",
+   "page": "Drive-Ordner Musik",
+   "name": "3827a175-cff9-45c3-bc99-3548cdf88f9c.jpg",
+   "alt": {
+    "de": "Elena spielt Gitarre auf der Wiese",
+    "en": "Elena playing guitar in the meadow"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-baum",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-baum.jpg",
+   "url": "https://drive.google.com/file/d/10wfGGCkWJLQ0xHnWdmY7gmhgbZT6TGLA/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2945.JPG",
+   "alt": {
+    "de": "Elena mit Gitarre an einem Baum",
+    "en": "Elena with a guitar by a tree"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-berge",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-berge.jpg",
+   "url": "https://drive.google.com/file/d/10wood03DXpUYdhjOTTeRL0VVorffbML7/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2424.JPG",
+   "alt": {
+    "de": "Elena singt mit Gitarre in den Bergen",
+    "en": "Elena singing with a guitar in the mountains"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-gitarre-sonne",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-gitarre-sonne.jpg",
+   "url": "https://drive.google.com/file/d/1h8kok-koqwLiRV-CepeAL_OHHtl4ohPX/view",
+   "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+   "name": "IMG_9425.JPG",
+   "alt": {
+    "de": "Elena singt mit geschlossenen Augen und spielt Gitarre",
+    "en": "Elena singing with her eyes closed, playing the guitar"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "mu-olivenbaum",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-olivenbaum.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "DSC_1214 2.NEF",
+   "alt": {
+    "de": "Elena mit Gitarre vor einem alten Olivenbaum im Gegenlicht",
+    "en": "Elena with her guitar in front of an old olive tree, backlit by the sun"
+   },
+   "position": "50% 30%"
+  },
+  {
+   "id": "mu-steg-arm",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-steg-arm.jpg",
+   "url": "https://drive.google.com/file/d/158vOBa1RFiqIH3k9zSmqf9G9-AI8TBnA/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_2922.JPG",
+   "alt": {
+    "de": "Elena auf einem Steg am See",
+    "en": "Elena on a jetty by the lake"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-freundinnen",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-freundinnen.jpg",
+   "url": "https://drive.google.com/file/d/1DMy9xHzHoOn9II-T8yUbHyjMQQATHOvu/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_4169.JPG",
+   "alt": {
+    "de": "Zwei Frauen mit Gitarre im Sonnenuntergang",
+    "en": "Two women with a guitar at sunset"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-trommel",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1G7GDLHyLtHTfMnky0b3dsqfBU8qoLq04/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_3083.jpg",
+   "alt": {
+    "de": "Elena sitzt mit Trommel und Harmonium im Gras",
+    "en": "Elena sitting in the grass with a drum and harmonium"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-gras",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-gras.jpg",
+   "url": "https://drive.google.com/file/d/1fz2T-limfhDEJeuW5PSiw_22JE30Iio7/view",
+   "page": "Drive-Ordner Musik",
+   "name": "IMG_0307.jpg",
+   "alt": {
+    "de": "Elena spielt Gitarre im hohen Gras",
+    "en": "Elena playing guitar in tall grass"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-feuer",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-feuer.jpg",
+   "url": "https://drive.google.com/file/d/1T7XquWnq-MqJgS95IUjIYY4ELHC_acRs/view",
+   "page": "Drive-Ordner Musik",
+   "name": "ef240841-ed6c-4665-8951-36f7a640f768.jpg",
+   "alt": {
+    "de": "Elena mit Trommel am Feuer",
+    "en": "Elena with a drum by the fire"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "mu-hut",
+   "role": "music",
+   "shape": "rect",
+   "file": "assets/originals/mu-hut.jpg",
+   "url": "https://drive.google.com/file/d/19-EcI7bvzpVN2YQLNUo30fZhjqzCCqMj/view",
+   "page": "Drive-Ordner Musik",
+   "name": "35d8a62b-72f8-4119-98b3-641e742b86a6.jpg",
+   "alt": {
+    "de": "Elena mit Hut und Gitarre im Wald",
+    "en": "Elena with a hat and guitar in the forest"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-sarah-weide",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-sarah-weide.jpg",
+   "url": "https://drive.google.com/file/d/1-R8AbNTaZBi40bzdOqWFUJkwHZUsU3Cy/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "sarah3.jpg",
+   "alt": {
+    "de": "Schwangere Frau unter Weidenzweigen",
+    "en": "Pregnant woman beneath willow branches"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-sarah-wiese",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-sarah-wiese.jpg",
+   "url": "https://drive.google.com/file/d/1GiAtR0-Cf2MkUvl_fBsxhk_mLA1YvETg/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "sarah11.jpg",
+   "alt": {
+    "de": "Schwangere Frau im hohen Gras",
+    "en": "Pregnant woman in tall grass"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-sarah-licht",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-sarah-licht.jpg",
+   "url": "https://drive.google.com/file/d/1bEbJ0QNdzdzuJYlZL95zfDRfIO6JT8Zn/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "sarah10.jpg",
+   "alt": {
+    "de": "Schwangere Frau im Gegenlicht auf der Wiese",
+    "en": "Pregnant woman backlit in the meadow"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-sarah-paar",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-sarah-paar.jpg",
+   "url": "https://drive.google.com/file/d/1aOcfn4uNEqQxnQfobwvAPOkhs45Ih0nF/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "sarah18.jpg",
+   "alt": {
+    "de": "Werdende Eltern Stirn an Stirn",
+    "en": "Parents-to-be forehead to forehead"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-sarah-blueten",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-sarah-blueten.jpg",
+   "url": "https://drive.google.com/file/d/1R3uoCus_LiQSMENgAY-sJnc4GjAPcDmD/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "sarah16.jpg",
+   "alt": {
+    "de": "Bauch zwischen weißen Blüten",
+    "en": "Belly among white flowers"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-sadhu",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-sadhu.jpg",
+   "url": "https://drive.google.com/file/d/13Eqp_GK55g2S2KK6DnS1uEtWSGPKB8FO/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "853036129_10242358634809772_8653663106212559950_n.jpeg",
+   "alt": {
+    "de": "Porträt eines Sadhu vor Felsen",
+    "en": "Portrait of a sadhu in front of rocks"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-frau-kette",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-frau-kette.jpg",
+   "url": "https://drive.google.com/file/d/1EFKClTvKw7wpjscHaApIHsmvzu-BHCTF/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "852824681_10242358635289784_8240114023997380530_n.jpeg",
+   "alt": {
+    "de": "Lachende Frau mit bunten Ketten",
+    "en": "Laughing woman with colourful necklaces"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-maedchen-rot",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-maedchen-rot.jpg",
+   "url": "https://drive.google.com/file/d/1FzsbWD5zpI8E4LYwJ9AdIYNauVYyj5Xj/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "852404621_10242358645770046_2306834108170918363_n.jpeg",
+   "alt": {
+    "de": "Mädchen in rotem Kleid",
+    "en": "Girl in a red dress"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-kinder",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-kinder.jpg",
+   "url": "https://drive.google.com/file/d/1DqTrIlJGtb1gvzIfhHcI1BQDVzJhW7mH/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "855574551_10242358633209732_7989398364303792086_n.jpeg",
+   "alt": {
+    "de": "Zwei Kinder schauen in die Kamera",
+    "en": "Two children looking into the camera"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-saris",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-saris.jpg",
+   "url": "https://drive.google.com/file/d/15CEAwwYBW1Jiz8a_4FyoHYwFgj_5FlJ/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "_853035998_10242358646650068_8442119488336351049_n.jpeg",
+   "alt": {
+    "de": "Zwei junge Frauen in Saris",
+    "en": "Two young women in saris"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-gang",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-gang.jpg",
+   "url": "https://drive.google.com/file/d/18RVcbu7fphI3F9rlOQJr9cYrWtemYdTI/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "853256618_10242358645730045_8145960704592271592_n.jpeg",
+   "alt": {
+    "de": "Mädchen in einem grünen Gang",
+    "en": "Girls in a green corridor"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-junge",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-junge.jpg",
+   "url": "https://drive.google.com/file/d/1gh7JstMS8TWMPHZwwwM_0OKLBwG8IJzd/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "855844031_10242358635809797_6587104033432399427_n.jpeg",
+   "alt": {
+    "de": "Junge trägt Palmblätter auf dem Kopf",
+    "en": "Boy carrying palm leaves on his head"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-schule",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-schule.jpg",
+   "url": "https://drive.google.com/file/d/1koFizYmzD0repEKzOdVCUL9UFOeOxu_z/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "854808471_10242358632449713_319991304610246088_n.jpeg",
+   "alt": {
+    "de": "Zwei Mädchen beim Essen",
+    "en": "Two girls eating"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-klasse",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-klasse.jpg",
+   "url": "https://drive.google.com/file/d/1NBfgNwd1MBYOWbR99_bcnInl3VnGoNID/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "853791380_10242358643169981_3300868675382848768_n.jpeg",
+   "alt": {
+    "de": "Mädchen in einem vollen Raum",
+    "en": "Girls in a crowded room"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-stand",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-stand.jpg",
+   "url": "https://drive.google.com/file/d/17Kl_MbpYK3tyQ-kVjvKy99UE41qkQ6wk/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "853346390_10242358647450088_4422546814058905371_n.jpeg",
+   "alt": {
+    "de": "Mann an seinem Kokosstand",
+    "en": "Man at his coconut stall"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-werkstatt",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-werkstatt.jpg",
+   "url": "https://drive.google.com/file/d/1HkAMZRV67sR54cRgLLRuWRMafbT9SwLr/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "854956699_10242358632289709_6175075732170645999_n.jpeg",
+   "alt": {
+    "de": "Mann in seiner Werkstatt am Fluss",
+    "en": "Man in his workshop by the river"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-netze",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-netze.jpg",
+   "url": "https://drive.google.com/file/d/1zcLDKwm2nry5W0mJaMgqe3bkFiR44Ob4/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "851328140_10242358635769796_4891802329365787680_n.jpeg",
+   "alt": {
+    "de": "Mann zwischen Fischernetzen",
+    "en": "Man among fishing nets"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-ruinen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-ruinen.jpg",
+   "url": "https://drive.google.com/file/d/1F5IgfFsTNjsImeNTQILEjcu-lwCX5rsd/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "851053199_10242358644170006_7553282353478373562_n.jpeg",
+   "alt": {
+    "de": "Tempelruinen zwischen Felsen und Palmen",
+    "en": "Temple ruins among rocks and palms"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-tempel",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-tempel.jpg",
+   "url": "https://drive.google.com/file/d/1GvShBF6IUUAkCkdADcyolzR7OtqOWnEh/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "854648569_10242358647410087_6891303008585505109_n.jpeg",
+   "alt": {
+    "de": "Tempelturm über dem Fluss",
+    "en": "Temple tower above the river"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-ziegen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-ziegen.jpg",
+   "url": "https://drive.google.com/file/d/1VIy0doA-utv_2CQzWvu24pzWMsVpxzdc/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "855371660_10242358643409987_6916995698151971427_n.jpeg",
+   "alt": {
+    "de": "Ziegenherde vor einem alten Tempel",
+    "en": "Herd of goats in front of an old temple"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-blueten",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-blueten.jpg",
+   "url": "https://drive.google.com/file/d/1q-b3EmLT9eGUTck2ubnc3QNNKWxmIMWU/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "852979702_10242358647930100_4788400315858751249_n.jpeg",
+   "alt": {
+    "de": "Haus unter roten Blüten",
+    "en": "House beneath red blossoms"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-nacht",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-nacht.jpg",
+   "url": "https://drive.google.com/file/d/1qx4_ziO-2VsrzW3AZxaE9ir75IG29POW/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "852684936_10242358646050053_5380342512938008026_n.jpeg",
+   "alt": {
+    "de": "Abendliches Treiben vor einem Tempel",
+    "en": "Evening bustle in front of a temple"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-in-strasse",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-in-strasse.jpg",
+   "url": "https://drive.google.com/file/d/1rL-AEx-ngVEweNRrqPhLBLUySfozeu9T/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "853036074_10242358632969726_5726674137893399607_n.jpeg",
+   "alt": {
+    "de": "Straße mit buntem Lastwagen",
+    "en": "Street with a colourful truck"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-freundinnen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-freundinnen.jpg",
+   "url": "https://drive.google.com/file/d/1waSHX5KnDwqwMhFU-5TUoTKZGQnwuhI7/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "DSC_0064.JPG",
+   "alt": {
+    "de": "Zwei lachende Frauen",
+    "en": "Two laughing women"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-trommel",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-trommel.jpg",
+   "url": "https://drive.google.com/file/d/1TkHxnf8m9tS1xRHIXdqdgyWnzTTJ_BUl/view",
+   "page": "Drive-Ordner fotografie",
+   "name": "IMG_4317.jpg",
+   "alt": {
+    "de": "Trommel im Gegenlicht",
+    "en": "Drum against the light"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-saengerinnen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-saengerinnen.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "0e3a302f-image.jpg",
+   "alt": {
+    "de": "Fünf Sängerinnen in goldenen Kleidern vor einem roten Bus",
+    "en": "Five singers in golden dresses in front of a red bus"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-turbane",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-turbane.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "4bc8b82f-image.jpg",
+   "alt": {
+    "de": "Zwei Frauen mit Turbanen lachen Arm in Arm",
+    "en": "Two women in turbans laughing arm in arm"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-perruecken",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-perruecken.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "08dec0ba-image.jpg",
+   "alt": {
+    "de": "Drei Frauen mit bunten Perücken vor einem Herzbanner",
+    "en": "Three women in colourful wigs in front of a heart banner"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-paar-lachen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-paar-lachen.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "5399b561-image.jpg",
+   "alt": {
+    "de": "Ein Paar umarmt sich und lacht sich an",
+    "en": "A couple embracing and smiling at each other"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-gruppe",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-gruppe.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "c6bdaec0-image.jpg",
+   "alt": {
+    "de": "Menschen sitzen lachend vor einem Vorhang mit Herzen",
+    "en": "People sitting and smiling in front of a curtain with hearts"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-zaertlich",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-zaertlich.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "1c9752c5-image.jpg",
+   "alt": {
+    "de": "Eine Frau legt einem Mann zärtlich die Hand an die Wange",
+    "en": "A woman tenderly touching a man’s cheek"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-schnorchel",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-schnorchel.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "02617b49-image.jpg",
+   "alt": {
+    "de": "Ein Mann mit Taucherbrille und Ananashemd",
+    "en": "A man in a diving mask and pineapple shirt"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-farben",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-farben.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "0e311d62-image.jpg",
+   "alt": {
+    "de": "Frauen in bunten Kostümen vor einem roten Bus",
+    "en": "Women in colourful costumes in front of a red bus"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-umarmung",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-umarmung.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "1bef0f73-image.jpg",
+   "alt": {
+    "de": "Eine innige Umarmung in der Abenddämmerung",
+    "en": "A heartfelt hug at dusk"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-fest-nacht",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-fest-nacht.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "3bcf2ec3-image.jpg",
+   "alt": {
+    "de": "Menschen ruhen nachts auf Kissen im Gras",
+    "en": "People resting on cushions in the grass at night"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-tempel",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-tempel.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "2bde7fdd-image.jpg",
+   "alt": {
+    "de": "Tempelanlage mit Steinfiguren, schwarz-weiß",
+    "en": "Temple with stone figures, black and white"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-kakao",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-kakao.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "9f481801-image.jpg",
+   "alt": {
+    "de": "Eine Frau in bestickter Bluse mit Körben voller Kakaobohnen",
+    "en": "A woman in an embroidered blouse with baskets of cacao beans"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-vulkan",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-vulkan.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "136221f9-image.jpg",
+   "alt": {
+    "de": "Blick über einen See auf einen Vulkan, schwarz-weiß",
+    "en": "View across a lake to a volcano, black and white"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-baden",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-baden.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "92434cb0-image.jpg",
+   "alt": {
+    "de": "Frauen in bunten Saris baden lachend im Fluss",
+    "en": "Women in colourful saris bathing and laughing in a river"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-huetten",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-huetten.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "bd350a0e-image.jpg",
+   "alt": {
+    "de": "Kleine Häuser unter Palmen",
+    "en": "Small houses beneath palm trees"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-tempelschlaf",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-tempelschlaf.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "6bde4c6d-image.jpg",
+   "alt": {
+    "de": "Ein Mädchen ruht auf einem Steinsims im Tempel",
+    "en": "A girl resting on a stone ledge in a temple"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-see",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-see.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "bf7cc5c5-image.jpg",
+   "alt": {
+    "de": "See mit Vulkanen unter einem Baum, schwarz-weiß",
+    "en": "Lake with volcanoes beneath a tree, black and white"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-wueste",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-wueste.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "d73f620c-image.jpg",
+   "alt": {
+    "de": "Hütten am Meer vor einer Bergkette",
+    "en": "Huts by the sea in front of a mountain range"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-silhouette",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-silhouette.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "c4b1133c-image.jpg",
+   "alt": {
+    "de": "Silhouette einer Frau mit Ringen am Strand in der Dämmerung",
+    "en": "Silhouette of a woman with hoops on the beach at dusk"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-haus-om",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-haus-om.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "4778fe8d-image.jpg",
+   "alt": {
+    "de": "Eine Frau in rotem Sari vor einem bemalten Haus mit Om-Zeichen",
+    "en": "A woman in a red sari in front of a painted house with an Om sign"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-tipi",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-tipi.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "c9c634a6-image.jpg",
+   "alt": {
+    "de": "Zwei Freundinnen umarmen sich lachend vor einem Tipi",
+    "en": "Two friends hugging and laughing in front of a tipi"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-reise-lachen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-reise-lachen.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "f434c38b-image.jpg",
+   "alt": {
+    "de": "Eine Frau lacht im warmen Gegenlicht",
+    "en": "A woman laughing in warm backlight"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-drei-gegenlicht",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-drei-gegenlicht.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "d4e03bb6-image.jpg",
+   "alt": {
+    "de": "Drei Männer mit Kapuzen im Gegenlicht",
+    "en": "Three hooded men against the light"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-drei-segen",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-drei-segen.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "7e8fbffe-image.jpg",
+   "alt": {
+    "de": "Ein Mann berührt die Stirn eines anderen, zu dritt im Abendlicht",
+    "en": "One man touching another’s forehead, three of them in the evening light"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-drei-duene",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-drei-duene.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "dcba00e7-image.jpg",
+   "alt": {
+    "de": "Drei Männer in Umhängen auf einer Sanddüne",
+    "en": "Three men in cloaks on a sand dune"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-drei-blick",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-drei-blick.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "044b0f96-image.jpg",
+   "alt": {
+    "de": "Drei Männer mit Kapuzen blicken in die Kamera",
+    "en": "Three hooded men looking into the camera"
+   },
+   "position": "50% 35%"
+  },
+  {
+   "id": "fo-drei-blueten",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-drei-blueten.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "bed55ab3-image.jpg",
+   "alt": {
+    "de": "Zwei Männer liegen mit geschlossenen Augen Kopf an Kopf zwischen orangen Blüten",
+    "en": "Two men lying head to head with closed eyes among orange petals"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "fo-hanna-olive",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-olive.jpg",
+   "url": "https://drive.google.com/file/d/1Wa3G0YAaA09SXPVkYXUKagUS7j0LS5QM/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna1.jpg",
+   "alt": {
+    "de": "Frau im Gegenlicht unter Olivenbäumen",
+    "en": "Woman backlit beneath olive trees"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hanna-portraet",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-portraet.jpg",
+   "url": "https://drive.google.com/file/d/1mlQiAO8sGqcX3lgGIS16ZhYU_oMGcIYv/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna2.jpg",
+   "alt": {
+    "de": "Porträt einer Frau unter einem Olivenbaum",
+    "en": "Portrait of a woman beneath an olive tree"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hanna-korb",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-korb.jpg",
+   "url": "https://drive.google.com/file/d/1PXhZirAIV7_2skdegHgVclFOfz3yZKTf/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna15.jpg",
+   "alt": {
+    "de": "Mutter mit Kind auf dem Rücken und Korb",
+    "en": "Mother carrying her child and a basket"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hanna-weg",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-weg.jpg",
+   "url": "https://drive.google.com/file/d/1aMNNr9JyjltFVIFJu3jP4CRHqZT9UXDe/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna14.jpg",
+   "alt": {
+    "de": "Spaziergang am Wasserkanal vor den Bergen",
+    "en": "A walk along the water channel below the mountains"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hanna-sitzend",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-sitzend.jpg",
+   "url": "https://drive.google.com/file/d/1Fdea0doHTdUPkTpgSajCRGTyp4POUzQa/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna16.jpeg",
+   "alt": {
+    "de": "Frau sitzt zwischen trockenen Gräsern",
+    "en": "Woman sitting among dry grasses"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "tp-andrew",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-andrew.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "andrew.jpg",
+   "alt": {
+    "de": "Andrew",
+    "en": "Andrew"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-chaden",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-chaden.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "chaden.jpg",
+   "alt": {
+    "de": "Chaden",
+    "en": "Chaden"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-chris",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-chris.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "chris.jpg",
+   "alt": {
+    "de": "Chris",
+    "en": "Chris"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-daria",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-daria.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "daria.jpg",
+   "alt": {
+    "de": "Daria",
+    "en": "Daria"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-denise",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-denise.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "denise.jpg",
+   "alt": {
+    "de": "Denise",
+    "en": "Denise"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-imad",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-imad.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "imad.jpg",
+   "alt": {
+    "de": "Imad",
+    "en": "Imad"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-katrin",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-katrin.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "katrin.jpg",
+   "alt": {
+    "de": "Katrin",
+    "en": "Katrin"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-laura",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-laura.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "laura.jpg",
+   "alt": {
+    "de": "Laura",
+    "en": "Laura"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-marcel",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-marcel.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "marcel.jpg",
+   "alt": {
+    "de": "Marcel",
+    "en": "Marcel"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-mareike",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-mareike.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "mareike.jpg",
+   "alt": {
+    "de": "Mareike",
+    "en": "Mareike"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-melanie",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-melanie.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "melanie.jpg",
+   "alt": {
+    "de": "Melanie",
+    "en": "Melanie"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-mielle",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-mielle.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "mielle.jpg",
+   "alt": {
+    "de": "Mielle",
+    "en": "Mielle"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-natalie",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-natalie.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "natalie.jpg",
+   "alt": {
+    "de": "Natalie",
+    "en": "Natalie"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-nina",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-nina.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "nina.jpg",
+   "alt": {
+    "de": "Nina",
+    "en": "Nina"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-sabrina",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-sabrina.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "sabrina.jpg",
+   "alt": {
+    "de": "Sabrina",
+    "en": "Sabrina"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-sarah",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-sarah.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "sarah.jpg",
+   "alt": {
+    "de": "Sarah",
+    "en": "Sarah"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-saskia",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-saskia.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "saskia.jpg",
+   "alt": {
+    "de": "Saskia",
+    "en": "Saskia"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-sibel",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-sibel.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "sibel.jpg",
+   "alt": {
+    "de": "Sibel",
+    "en": "Sibel"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-sonia",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-sonia.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "sonia.jpg",
+   "alt": {
+    "de": "Sonia",
+    "en": "Sonia"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-svea",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-svea.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "svea.jpg",
+   "alt": {
+    "de": "Svea",
+    "en": "Svea"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-vanessa",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-vanessa.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "vanessa.jpg",
+   "alt": {
+    "de": "Vanessa",
+    "en": "Vanessa"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-verena",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-verena.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "verena.jpg",
+   "alt": {
+    "de": "Verena",
+    "en": "Verena"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-wiebke",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-wiebke.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "wiebke.jpg",
+   "alt": {
+    "de": "Wiebke",
+    "en": "Wiebke"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-alina",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-alina.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "alina.jpg",
+   "alt": {
+    "de": "Alina",
+    "en": "Alina"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-lea",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-lea.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "lea.jpg",
+   "alt": {
+    "de": "Lea",
+    "en": "Lea"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-melissa",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-melissa.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "melissa.jpg",
+   "alt": {
+    "de": "Melissa",
+    "en": "Melissa"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-steffi",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-steffi.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Chat-Upload Elena",
+   "name": "steffi.jpg",
+   "alt": {
+    "de": "Steffi",
+    "en": "Steffi"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-alex",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-alex.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "alex",
+   "alt": {
+    "de": "Alex",
+    "en": "Alex"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-jasmin-sch",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-jasmin-sch.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "jasmin-sch",
+   "alt": {
+    "de": "Jasmin",
+    "en": "Jasmin"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-jasmin-wise",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-jasmin-wise.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "jasmin-wise",
+   "alt": {
+    "de": "Jasmin",
+    "en": "Jasmin"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-lisa-wise",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-lisa-wise.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "lisa-wise",
+   "alt": {
+    "de": "Lisa",
+    "en": "Lisa"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-franzi",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-franzi.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "franzi",
+   "alt": {
+    "de": "Franzi",
+    "en": "Franzi"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-rike",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-rike.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "rike",
+   "alt": {
+    "de": "Rike",
+    "en": "Rike"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-kirstin",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-kirstin.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "kirstin",
+   "alt": {
+    "de": "Kirstin",
+    "en": "Kirstin"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-kristina",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-kristina.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "kristina",
+   "alt": {
+    "de": "Kristina",
+    "en": "Kristina"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-elena-song",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-elena-song.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "elena-song",
+   "alt": {
+    "de": "Elena",
+    "en": "Elena"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-elena-valeska",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-elena-valeska.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "elena-valeska",
+   "alt": {
+    "de": "Elena Valeska",
+    "en": "Elena Valeska"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-hannes",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-hannes.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "hannes",
+   "alt": {
+    "de": "Hannes",
+    "en": "Hannes"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-silja",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-silja.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "silja",
+   "alt": {
+    "de": "Silja",
+    "en": "Silja"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-tamara",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-tamara.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "tamara",
+   "alt": {
+    "de": "Tamara",
+    "en": "Tamara"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-issi",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-issi.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "issy",
+   "alt": {
+    "de": "Issi",
+    "en": "Issi"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-kathi",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-kathi.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "kathi",
+   "alt": {
+    "de": "Kathi",
+    "en": "Kathi"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-soraya",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-soraya.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "Soraya.jpg",
+   "alt": {
+    "de": "Soraya",
+    "en": "Soraya"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-sofia",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-sofia.jpg",
+   "url": "https://drive.google.com/file/d/1XcVk1SYZ8fTKMR51UzHe5g_OphCsS0kM/view",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "Sofia.jpg",
+   "alt": {
+    "de": "Sofia",
+    "en": "Sofia"
+   },
+   "position": "50% 25%"
+  },
+  {
+   "id": "tp-swantje",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-swantje.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "Swantje.jpg",
+   "alt": {
+    "de": "Swantje",
+    "en": "Swantje"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-annetta",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-annetta.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "Annetta.jpg",
+   "alt": {
+    "de": "Annetta",
+    "en": "Annetta"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "tp-nadine-ic",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-nadine-ic.jpg",
+   "url": "https://drive.google.com/drive/folders/1-kVwhOS_RHSgkbIqhfBjubPlKr1si3qj",
+   "page": "Drive-Ordner Testimonial Fotos",
+   "name": "Nadine.jpg",
+   "alt": {
+    "de": "Nadine",
+    "en": "Nadine"
+   },
+   "position": "50% 50%"
+  },
+  {
+   "id": "fo-hanna-olive-hockend",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-olive-hockend.jpg",
+   "url": "https://drive.google.com/file/d/17AwQ2WHRIcrc4xKdXl84tokj26vQQj5y/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna4.jpg",
+   "alt": {
+    "de": "Frau hockt im Gegenlicht unter Olivenbäumen",
+    "en": "Woman crouching backlit beneath olive trees"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-hanna-tuch",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-hanna-tuch.jpg",
+   "url": "https://drive.google.com/file/d/1Nz_Vn4I3Nf7ulF5O765957ea-zIwzT5s/view",
+   "page": "Drive-Ordner fotografie/Hanna",
+   "name": "hanna22.jpg",
+   "alt": {
+    "de": "Frau mit braunem Tuch zwischen Felsen",
+    "en": "Woman with a brown cloth among rocks"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-kapuze-ringe",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-kapuze-ringe.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "6fd50f9d-image.jpg",
+   "alt": {
+    "de": "Mehrfachbelichtung einer Frau mit Kapuze und vielen Ringen",
+    "en": "Multiple exposure of a hooded woman wearing many rings"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-kette",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-kette.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "d767a942-image.jpg",
+   "alt": {
+    "de": "Mehrfachbelichtung einer Frau mit geschlossenen Augen und goldenem Halsreif",
+    "en": "Multiple exposure of a woman with closed eyes and a golden neck ring"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-tanz",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-tanz.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "02b77eb9-image.jpg",
+   "alt": {
+    "de": "Eine Frau tanzt zwischen Bäumen, mehrfach belichtet",
+    "en": "A woman dancing among trees, multiple exposure"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-sw-baum",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-sw-baum.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "5b301501-image.jpg",
+   "alt": {
+    "de": "Eine Frau blickt mit den Händen auf der Brust nach oben, schwarz-weiß",
+    "en": "A woman looking up with her hands on her chest, black and white"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-namaste",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-namaste.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "09786d41-image.jpg",
+   "alt": {
+    "de": "Gefaltete Hände mit Ringen, mehrfach belichtet",
+    "en": "Folded hands with rings, multiple exposure"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-gebet-profil",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-gebet-profil.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "617ccb3d-image.jpg",
+   "alt": {
+    "de": "Eine Frau mit geschlossenen Augen und aneinandergelegten Händen",
+    "en": "A woman with closed eyes and hands pressed together"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-blick-profil",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-blick-profil.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "db36047f-image.jpg",
+   "alt": {
+    "de": "Zwei Profile einer Frau mit hellen Augen",
+    "en": "Two profiles of a woman with light eyes"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-haende-glas",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-haende-glas.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "df0396bc-image.jpg",
+   "alt": {
+    "de": "Hände mit Ringen und ein Profil im Spiegelbild",
+    "en": "Hands with rings and a profile in reflection"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-blaue-augen",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-blaue-augen.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "d362343d-image.jpg",
+   "alt": {
+    "de": "Eine Frau blickt mit hellen Augen nach oben, dreifach belichtet",
+    "en": "A woman with light eyes looking upward, triple exposure"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-umarmung-ringe",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-umarmung-ringe.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "5428e392-image.jpg",
+   "alt": {
+    "de": "Eine Frau umarmt sich selbst, Hände voller Ringe",
+    "en": "A woman hugging herself, hands full of rings"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "dr-wald",
+   "role": "course",
+   "shape": "rect",
+   "file": "assets/originals/dr-wald.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "766e3967-image.jpg",
+   "alt": {
+    "de": "Mehrfachbelichtung einer Frau im Wald",
+    "en": "Multiple exposure of a woman in the forest"
+   },
+   "position": "50% 40%"
+  }
+ ]
+}

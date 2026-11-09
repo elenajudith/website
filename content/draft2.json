@@ -1,0 +1,230 @@
+{
+  "banner": {
+    "language": "en",
+    "opening": "In a world that constantly tells you that you are too much or not enough",
+    "statement": "being yourself is a revolutionary act.",
+    "action": "Ready for a revolution?"
+  },
+  "retreatMedia": {
+    "wise-in-her-ways-1": [
+      "web-24",
+      "v2-guitar",
+      "web-22",
+      "web-23"
+    ],
+    "inner-child": [
+      "v2-rocks",
+      "web-44",
+      "web-19",
+      "web-39"
+    ],
+    "song-of-the-soul": [
+      "v2-soul",
+      "web-20",
+      "web-27",
+      "web-28"
+    ],
+    "silent-retreat": [
+      "v2-place",
+      "web-34",
+      "web-36",
+      "web-37"
+    ],
+    "kraft": [
+      "web-38",
+      "web-39",
+      "web-40"
+    ],
+    "schamanisches-retreat": [
+      "web-28",
+      "v2-circle",
+      "web-42",
+      "web-43"
+    ],
+    "dreaming-reality": [
+      "v2-forest",
+      "web-01",
+      "web-53"
+    ],
+    "a": [
+      "web-47",
+      "web-38"
+    ]
+  },
+  "photos": {
+    "v2-garden": [
+      "Elena Judith im rostroten Kleid in einem grünen Garten",
+      "Elena Judith in a rust-red dress in a green garden"
+    ],
+    "v2-portrait": [
+      "Porträt von Elena Judith an einem Baumstamm",
+      "Portrait of Elena Judith beside a tree trunk"
+    ],
+    "v2-concert": [
+      "Elena singt und spielt Gitarre neben einem Cellisten",
+      "Elena singing and playing guitar beside a cellist"
+    ],
+    "v2-rocks": [
+      "Eine kleine Gruppe sitzt zwischen Felsen in einer weiten Landschaft",
+      "A small group sitting between rocks in an open landscape"
+    ],
+    "v2-guitar": [
+      "Eine Gitarre vor einem Fenster mit Blick in eine grüne Berglandschaft",
+      "A guitar by a window overlooking green mountains"
+    ],
+    "v2-forest": [
+      "Sonnenlicht fällt durch den Wald auf eine Person zwischen Farnen",
+      "Sunlight falling through a forest onto a person among ferns"
+    ],
+    "v2-place": [
+      "Eine offene Holzhütte und eine Jurte auf einer grünen Wiese",
+      "An open wooden shelter and a yurt in a green meadow"
+    ],
+    "v2-stilllife": [
+      "Gefäße und Instrumente auf einer Holzfläche",
+      "Vessels and instruments on a wooden surface"
+    ],
+    "v2-soul": [
+      "Menschen in einem offenen Raum mit Blick auf See und Berge",
+      "People in an open room overlooking a lake and mountains"
+    ],
+    "v2-circle": [
+      "Ein Kreis aus Blüten, Blättern und weiteren Naturmaterialien",
+      "A circle arranged from flowers, leaves and other natural materials"
+    ],
+    "v2-artwork": [
+      "Eine helle Spirale auf einem rostroten Untergrund",
+      "A pale spiral on a rust-red surface"
+    ],
+    "web-01": [
+      "Eine Frau an einem Baumstamm",
+      "A woman beside a tree trunk"
+    ],
+    "web-02": [
+      "Eine Gruppe beim Yoga in der Natur",
+      "A group practising yoga outdoors"
+    ],
+    "web-03": [
+      "Elena singt mit einem Mikrofon im Wald",
+      "Elena singing with a microphone in a forest"
+    ],
+    "web-05": [
+      "Sonnenlicht auf einem moosbewachsenen Waldboden",
+      "Sunlight on a moss-covered forest floor"
+    ],
+    "web-15": [
+      "Elena zwischen grünen Pflanzen",
+      "Elena among green plants"
+    ],
+    "web-19": [
+      "Eine Gruppe unter einem Zeltdach",
+      "A group beneath a tent canopy"
+    ],
+    "web-20": [
+      "Menschen in den Ästen eines großen Baumes",
+      "People in the branches of a large tree"
+    ],
+    "web-22": [
+      "Frauen mit ineinander verschränkten Armen",
+      "Women linking arms"
+    ],
+    "web-23": [
+      "Elena mit einer Rahmentrommel",
+      "Elena with a frame drum"
+    ],
+    "web-24": [
+      "Zwei Frauen umarmen sich auf einer Wiese vor einer Kuppel",
+      "Two women embracing in a meadow in front of a dome"
+    ],
+    "web-27": [
+      "Eine Person mit einer Rahmentrommel",
+      "A person with a frame drum"
+    ],
+    "web-28": [
+      "Eine Frau in hellem Kleid zwischen Blättern",
+      "A woman in a pale dress among leaves"
+    ],
+    "web-34": [
+      "Menschen sitzen gemeinsam mit Blick auf die Schwarzwaldhügel",
+      "People sitting together overlooking the Black Forest hills"
+    ],
+    "web-36": [
+      "Grüne Hügel und Wald",
+      "Green hills and forest"
+    ],
+    "web-37": [
+      "Ein Bach zwischen Steinen und Pflanzen",
+      "A stream among stones and plants"
+    ],
+    "web-38": [
+      "Elena zwischen den großen Wurzeln eines Baumes",
+      "Elena among the large roots of a tree"
+    ],
+    "web-39": [
+      "Hände liegen behutsam übereinander",
+      "Hands gently resting on one another"
+    ],
+    "web-40": [
+      "Warmes Licht zwischen Bäumen",
+      "Warm light among trees"
+    ],
+    "web-42": [
+      "Menschen in einem gemeinsamen Kreis",
+      "People gathered in a circle"
+    ],
+    "web-43": [
+      "Ein Feuer in der Natur",
+      "A fire outdoors"
+    ],
+    "web-44": [
+      "Elena sitzt zwischen Bäumen und Felsen",
+      "Elena sitting among trees and rocks"
+    ],
+    "web-46": [
+      "Detail eines Kleidungsstücks",
+      "Detail of a garment"
+    ],
+    "web-47": [
+      "Grüne Hügellandschaft mit Felsen",
+      "Green hills and rocks"
+    ],
+    "web-53": [
+      "Eine Feder vor einem Spiegel",
+      "A feather in front of a mirror"
+    ],
+    "elena-studio": [
+      "Elena Judith am Schreibtisch",
+      "Elena Judith at her desk"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Lisa",
+      "kind": "retreat",
+      "image": "v2-lisa",
+      "quote": [
+        "Die gemeinsamen Meditationen, Gespräche, das Tanzen und Singen, klingen noch immer in mir nach.",
+        "The shared meditations, conversations, dancing and singing still resonate within me."
+      ],
+      "source": "https://www.elenajudith.de/wise-in-her-ways-1/",
+      "excerpt": true
+    },
+    {
+      "name": "Sabrina",
+      "kind": "retreat",
+      "image": "v2-sabrina",
+      "quote": [
+        "Begegnungen mit wundervollen einzigartigen Menschen.",
+        "Encounters with wonderful, unique people."
+      ],
+      "source": "https://www.elenajudith.de/wise-in-her-ways-1/",
+      "excerpt": true
+    }
+  ],
+  "soundcloud": {
+    "track": "Cambia",
+    "source": "https://www.elenajudith.de/",
+    "player": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1019027845&color=%2358634c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false",
+    "documentation": "https://developers.soundcloud.com/docs/api/html5-widget"
+  }
+}

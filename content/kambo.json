@@ -1,0 +1,162 @@
+{
+ "description": "Seite Kambo (Elena 2026-10-29): Texte nach Elenas Flyer (Drive „Design ohne Titel.png“). DE = Übersetzung, EN = Flyer-Text. Keine Bildunterschriften, keine Galerie-Überschrift. Am 29.10. auf Elenas Wunsch vorsichtiger formuliert (keine Heilversprechen).",
+ "de": {
+  "eyebrow": "1:1 BEGLEITUNG · ZEREMONIE",
+  "title": "Kambo-Zeremonien mit Elena Judith",
+  "claim": "Traditionelle Frosch-Medizin aus dem Amazonas",
+  "claim2": "Der natürliche Booster für dein Immunsystem!",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Was ist Kambo?"
+   },
+   {
+    "type": "lead",
+    "text": "Kambo – auch „Frosch-Medizin“ genannt – wird aus dem Sekret des Amazonas-Frosches Phyllomedusa bicolor gewonnen."
+   },
+   {
+    "type": "p",
+    "text": "Seit Hunderten von Jahren nutzen verschiedene Stämme im Amazonas diese traditionelle Medizin – nach ihrer Überlieferung, um ihre Fähigkeiten bei der Jagd zu stärken, Körper, Geist und Seele zu reinigen und negative Energie zu vertreiben, die sogenannte „Panema“."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-kambo-trommel"
+   },
+   {
+    "type": "p",
+    "text": "Auch außerhalb des Amazonas kommen heute viele Menschen zu Kambo, zum Beispiel mit psychischen Beschwerden, chronischen Schmerzen oder Suchtthemen, oder in einer Zeit, in der sie sich körperlich, emotional oder spirituell neu ausrichten möchten."
+   },
+   {
+    "type": "quote",
+    "text": "In seiner Herkunftskultur gilt Kambo als eine der kraftvollsten natürlichen Ressourcen für Körper, Geist und Seele."
+   },
+   {
+    "type": "p",
+    "text": "Das Sekret enthält eine Vielzahl natürlicher Peptide, etwa Dermorphin, mit denen sich auch die Wissenschaft beschäftigt. Wie Kambo auf dich wirkt, ist sehr persönlich."
+   },
+   {
+    "type": "heading",
+    "text": "Was Menschen nach einer Zeremonie erzählen"
+   },
+   {
+    "type": "list",
+    "items": [
+     "ein Gefühl tiefer Reinigung",
+     "mehr Klarheit und wache Sinne",
+     "neue Kraft und Lebendigkeit",
+     "emotionale & spirituelle Blockaden dürfen sich lösen",
+     "Raum, um schmerzhafte Erfahrungen im mentalen und emotionalen Körper loszulassen"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Kambo ersetzt keine ärztliche oder psychotherapeutische Behandlung. Bevor wir eine Zeremonie vereinbaren, sprechen wir in Ruhe über deine Gesundheit."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-kambo-garten"
+   },
+   {
+    "type": "heading",
+    "text": "Meine Zeremonien"
+   },
+   {
+    "type": "lead",
+    "text": "Ich biete individuelle Behandlungen in Form einer privaten Zeremonie an. Sie beinhaltet psychospirituelles Mentoring, Meditation, live gespielte Medizinmusik, Klangheilung und Trommeln und die Kambo-Behandlung – immer mit viel Zeit, Präsenz und Liebe für DICH."
+   },
+   {
+    "type": "quote",
+    "text": "Bei jeder Zeremonie singe ich Icaros der Shipibo, die heilenden Medizinlieder aus dem peruanischen Amazonas."
+   },
+   {
+    "type": "statement",
+    "text": "Ich bin ganzheitliche Therapeutin, habe viele Jahre mit indigenen Stämmen gelebt und von ihnen gelernt und arbeite seit vielen Jahren mit verschiedenen Medizinen – mit Hunderten von Klientinnen und Klienten."
+   }
+  ]
+ },
+ "en": {
+  "eyebrow": "1:1 SESSIONS · CEREMONY",
+  "title": "Kambo ceremonies with Elena Judith",
+  "claim": "Traditional frog medicine from the Amazon",
+  "claim2": "Natural booster for your immune system!",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "What is Kambo?"
+   },
+   {
+    "type": "lead",
+    "text": "Kambo (also known as “frog medicine”) is obtained from the secretion of the Amazon frog Phyllomedusa bicolor."
+   },
+   {
+    "type": "p",
+    "text": "For hundreds of years, various Amazonian tribes have used this traditional medicine – according to their tradition, to strengthen their hunting skills, to cleanse body, mind and soul, and to remove negative energy, the so-called “panema”."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-kambo-trommel"
+   },
+   {
+    "type": "p",
+    "text": "Today many people outside the Amazon come to Kambo as well, for example with psychological complaints, chronic pain or addiction, or at a time when they want to realign themselves physically, emotionally or spiritually."
+   },
+   {
+    "type": "quote",
+    "text": "In its culture of origin, Kambo is regarded as one of the most powerful natural resources for body, mind and soul."
+   },
+   {
+    "type": "p",
+    "text": "The secretion contains a variety of natural peptides, such as dermorphin, that are also studied by science. How Kambo affects you is very personal."
+   },
+   {
+    "type": "heading",
+    "text": "What people share after a ceremony"
+   },
+   {
+    "type": "list",
+    "items": [
+     "a feeling of deep cleansing",
+     "more clarity and awakened senses",
+     "new strength and aliveness",
+     "emotional & spiritual blockages are allowed to release",
+     "space to let go of painful experiences in the mental and emotional body"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Kambo does not replace medical or psychotherapeutic treatment. Before we arrange a ceremony, we take time to talk about your health."
+   },
+   {
+    "type": "photo",
+    "id": "sessions-kambo-garten"
+   },
+   {
+    "type": "heading",
+    "text": "My ceremonies"
+   },
+   {
+    "type": "lead",
+    "text": "I offer individual treatments in the form of a private ceremony. It includes psycho-spiritual mentoring, meditation, live medicine music, sound healing and drumming and the Kambo treatment – always with lots of time, presence and love for YOU."
+   },
+   {
+    "type": "quote",
+    "text": "In every ceremony I sing Shipibo icaros, the healing medicine songs of the Peruvian Amazon."
+   },
+   {
+    "type": "statement",
+    "text": "I am a holistic therapist who has been studying & living with indigenous tribes & working with various medicines for many years – with hundreds of clients."
+   }
+  ]
+ },
+ "gallery": [
+  "web-15",
+  "sessions-kambo-wiese",
+  "sessions-kambo-werkzeug"
+ ],
+ "galleryAlt": {
+  "web-15": {
+   "de": "Elena Judith zwischen alten Bäumen im Wald",
+   "en": "Elena Judith among old trees in the forest"
+  }
+ }
+}

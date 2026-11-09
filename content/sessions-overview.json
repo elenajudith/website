@@ -1,0 +1,95 @@
+{
+ "description": "Übersichtsseite „1:1 Begleitung“ (Elena 2026-10-29, Option 1). Kurztexte sind Vorschläge; Fotos können getauscht werden.",
+ "de": {
+  "eyebrow": "1:1 BEGLEITUNG",
+  "title": "Ein Raum für dich.",
+  "lead": "Ich begleite dich persönlich – online oder vor Ort. Hier findest du alle Wege, wie wir gemeinsam arbeiten können.",
+  "helpTitle": "Nicht sicher, was zu dir passt?",
+  "helpText": "Schreib mir, was dich gerade bewegt. Gemeinsam finden wir heraus, welche Begleitung für dich stimmig ist."
+ },
+ "en": {
+  "eyebrow": "1:1 SESSIONS",
+  "title": "A space for you.",
+  "lead": "I accompany you personally – online or in person. Here you’ll find all the ways we can work together.",
+  "helpTitle": "Not sure what fits you?",
+  "helpText": "Tell me what’s moving you right now. Together we’ll find out which kind of guidance feels right for you."
+ },
+ "tiles": [
+  {
+   "href": "/astrologie-human-design/",
+   "image": "sessions-header",
+   "position": "50% 8%",
+   "alt": {
+    "de": "Elena Judith mit einem Astrologie-Buch",
+    "en": "Elena Judith holding an astrology book"
+   },
+   "de": {
+    "eyebrow": "READINGS",
+    "title": "Astrologie & Human Design",
+    "text": "Finde heraus, wer du immer schon gewesen bist."
+   },
+   "en": {
+    "eyebrow": "READINGS",
+    "title": "Astrology & Human Design",
+    "text": "Find out who you have always been."
+   }
+  },
+  {
+   "href": "/yoga-nidra/",
+   "image": "v2-forest",
+   "position": "50% 50%",
+   "alt": {
+    "de": "Lichtstrahlen in einem Wald",
+    "en": "Rays of light in a forest"
+   },
+   "de": {
+    "eyebrow": "TIEFENENTSPANNUNG",
+    "title": "Yoga Nidra",
+    "text": "Eine geführte Tiefenmeditation, ähnlich einer Hypnosetherapie, die dich in dein Unterbewusstsein führt."
+   },
+   "en": {
+    "eyebrow": "DEEP RELAXATION",
+    "title": "Yoga Nidra",
+    "text": "A guided deep meditation, similar to hypnotherapy, that leads you into your subconscious."
+   }
+  },
+  {
+   "href": "/kambo/",
+   "image": "sessions-kambo-frosch",
+   "position": "50% 50%",
+   "alt": {
+    "de": "Ein grüner Affenfrosch auf einem Ast",
+    "en": "A green monkey frog on a branch"
+   },
+   "de": {
+    "eyebrow": "ZEREMONIE",
+    "title": "Kambo",
+    "text": "Private Zeremonien – mit viel Zeit, Präsenz und Liebe für dich."
+   },
+   "en": {
+    "eyebrow": "CEREMONY",
+    "title": "Kambo",
+    "text": "Private ceremonies – with plenty of time, presence and love for you."
+   }
+  },
+  {
+   "href": "/photography/",
+   "image": "fo-drei-blueten",
+   "position": "50% 45%",
+   "alt": {
+    "de": "Zwei Männer liegen mit geschlossenen Augen Kopf an Kopf zwischen orangen Blüten",
+    "en": "Two men lying head to head with closed eyes among orange petals"
+   },
+   "de": {
+    "eyebrow": "FOTOSHOOTINGS",
+    "title": "Fotoshootings",
+    "text": "Raum, dich zu zeigen – dort, wo ich gerade bin."
+   },
+   "en": {
+    "eyebrow": "PHOTOGRAPHY",
+    "title": "Photo shoots",
+    "text": "Space to show yourself – wherever I happen to be."
+   }
+  }
+ ]
+}

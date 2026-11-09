@@ -1,0 +1,158 @@
+{
+  "description": "Seite Fotografie (Elena 2026-10-29). Texte von Elena; EN = Übersetzung (Vorschlag). Ort: hier ändern, wenn Elena woanders ist. Karussells folgen, sobald Elena die Fotos hochlädt (carousels: Liste von {title?, ids:[...]}).",
+  "location": {
+    "de": "Órgiva, Andalusien",
+    "en": "Órgiva, Andalusia"
+  },
+  "hero": {
+    "id": "fo-drei-blueten",
+    "shape": "arch",
+    "alt": {
+      "de": "Zwei Männer liegen mit geschlossenen Augen Kopf an Kopf zwischen orangen Blüten",
+      "en": "Two men lying head to head with closed eyes among orange petals"
+    },
+    "position": "50% 45%"
+  },
+  "carousels": [
+    {
+      "ids": [
+        "fo-sarah-weide",
+        "fo-sarah-wiese",
+        "fo-sarah-licht",
+        "fo-sarah-paar",
+        "fo-sarah-blueten"
+      ]
+    },
+    {
+      "ids": [
+        "fo-drei-blueten",
+        "fo-drei-gegenlicht",
+        "fo-drei-segen",
+        "fo-drei-duene",
+        "fo-drei-blick"
+      ]
+    },
+    {
+      "ids": [
+        "fo-hanna-olive",
+        "fo-hanna-portraet",
+        "fo-hanna-olive-hockend",
+        "fo-hanna-korb",
+        "fo-hanna-weg",
+        "fo-hanna-sitzend",
+        "fo-hanna-tuch"
+      ]
+    },
+    {
+      "ids": [
+        "fo-in-sadhu",
+        "fo-in-frau-kette",
+        "fo-in-maedchen-rot",
+        "fo-in-kinder",
+        "fo-in-saris",
+        "fo-in-gang",
+        "fo-in-junge",
+        "fo-in-schule",
+        "fo-in-klasse",
+        "fo-in-stand",
+        "fo-in-werkstatt",
+        "fo-in-netze"
+      ]
+    },
+    {
+      "ids": [
+        "fo-in-ruinen",
+        "fo-in-tempel",
+        "fo-in-ziegen",
+        "fo-in-blueten",
+        "fo-in-nacht",
+        "fo-in-strasse",
+        "fo-freundinnen",
+        "fo-trommel"
+      ]
+    },
+    {
+      "ids": [
+        "fo-fest-saengerinnen",
+        "fo-fest-turbane",
+        "fo-fest-perruecken",
+        "fo-fest-paar-lachen",
+        "fo-fest-gruppe",
+        "sessions-fotografie",
+        "fo-fest-zaertlich",
+        "fo-fest-schnorchel",
+        "fo-fest-farben",
+        "fo-fest-umarmung",
+        "fo-fest-nacht"
+      ]
+    },
+    {
+      "ids": [
+        "fo-reise-tempel",
+        "fo-reise-kakao",
+        "fo-reise-vulkan",
+        "fo-reise-lachen",
+        "fo-reise-huetten",
+        "fo-reise-baden",
+        "fo-reise-silhouette",
+        "fo-reise-tempelschlaf",
+        "fo-reise-see",
+        "fo-reise-haus-om",
+        "fo-reise-wueste",
+        "fo-reise-tipi"
+      ]
+    }
+  ],
+  "de": {
+    "eyebrow": "1:1 BEGLEITUNG · FOTOSHOOTINGS",
+    "title": "Dein persönliches Fotoshooting",
+    "blocks": [
+      {
+        "type": "lead",
+        "text": "Seit ich mich erinnern kann, liebe ich es, Momente in Fotos einzufangen."
+      },
+      {
+        "type": "p",
+        "text": "Mein Blick für Ästhetik und Skurriles und mein Gespür für den exakt richtigen Moment schaffen Aufnahmen, die bewegen."
+      },
+      {
+        "type": "quote",
+        "text": "Das Besondere in dir einzufangen, ist mir besonders wichtig."
+      },
+      {
+        "type": "p",
+        "text": "Ein Fotoshooting ist oftmals ein intimer Raum, den ich durch meine Erfahrung als Therapeutin gut, sicher und empathisch halten kann."
+      },
+      {
+        "type": "statement",
+        "text": "KundInnen meiner Shootings berichten außerdem ausnahmslos davon, wie viel Spaß sie mit mir hatten :)"
+      }
+    ]
+  },
+  "en": {
+    "eyebrow": "1:1 SESSIONS · PHOTO SHOOTS",
+    "title": "Your personal photo shoot",
+    "blocks": [
+      {
+        "type": "lead",
+        "text": "For as long as I can remember, I have loved capturing moments in photographs."
+      },
+      {
+        "type": "p",
+        "text": "My eye for aesthetics and the quirky and my sense for exactly the right moment create images that move people."
+      },
+      {
+        "type": "quote",
+        "text": "Capturing what is special about you matters a great deal to me."
+      },
+      {
+        "type": "p",
+        "text": "A photo shoot is often an intimate space, and my experience as a therapist helps me to hold it well, safely and with empathy."
+      },
+      {
+        "type": "statement",
+        "text": "And without exception, the people I have photographed tell me how much fun they had with me :)"
+      }
+    ]
+  }
+}

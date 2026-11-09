@@ -1,0 +1,558 @@
+{
+ "description": "Seite Song of the Soul Retreat (Elena 2026-10-30): Text von der alten Seite ohne „Reset und Initiation“ und „Über uns“, Steffen nicht mehr dabei: wir → ich, wo es um die Leitung geht. Fotos nur aus Drive „song of the soul retreat“ (nicht von der alten Website). Gedicht von Kahlil Gibran nicht übernommen (englische Übersetzung urheberrechtlich geschützt). EN = Übersetzung (Vorschlag).",
+ "hero": {
+  "id": "sots-haus-huegel"
+ },
+ "de": {
+  "eyebrow": "RETREAT · 4 TAGE · FOR ALL GENDERS",
+  "title": "Song of the Soul",
+  "subtitle": "Retreat",
+  "claim": "4 Tage voller Kunst, Therapie und kreativem Schaffen. Gemeinsam erforschen wir deinen wahrhaft einzigartigen kreativen Ausdruck, damit du dich an dein wahres Selbst er-innern, deine Stimme öffnen und deine ganz eigene Melodie schreiben, tanzen, singen und verkörpern kannst.",
+  "dateLabel": "GEBOREN AM LAKE ATITLÁN, GUATEMALA",
+  "date": "Nächster Termin in Planung · Warteliste",
+  "questionsIntro": "Hallo du! Wer bist du?",
+  "questions": [
+   "Bist du mit deinem einzigartigen kreativen Ausdruck verbunden? Mit der pulsierenden Kraft des Universums, die durch dich fließt?",
+   "An welchem Punkt oder Scheideweg in deinem Leben stehst du gerade und was fühlst du?",
+   "Wie erlebst du diese hochgradig transformierenden Zeiten?",
+   "Was beschäftigt dich?",
+   "Was hat sich in deinem Leben verändert, sei es durch den Krieg oder durch private und persönliche Ereignisse?",
+   "Was durfte in dir und durch dich transformiert werden?",
+   "Was kommt als Nächstes? Für dich, für das kollektive Bewusstsein, für die Menschheit und für Mutter Erde?",
+   "Wie drückst du dein einzigartiges Selbst, deine einzigartigen Gaben, deine Talente aus?",
+   "Was ist deine Beziehung zur Mutter Natur?",
+   "Was möchte durch dich geschrieben, gesungen und in Bewegung gesetzt werden?"
+  ],
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "Singst du dein ganz eigenes Lied? Das Lied deiner Seele?"
+   },
+   {
+    "type": "statement",
+    "text": "Time to dive deep and rise rooted!"
+   },
+   {
+    "type": "photo",
+    "id": "sots-0517"
+   },
+   {
+    "type": "lead",
+    "text": "Jede:r von uns kommt mit einer einzigartigen Kombination von Talenten und Gaben auf diese Erde."
+   },
+   {
+    "type": "p",
+    "text": "Mit einer ganz eigenen Signatur, einem ganz eigenen Geschmack, einer ganz eigenen Melodie. Deine Vorfahren haben dir ihre Melodie, ihre Art, sich in dieser Welt zu bewegen, ihre Hoffnungen und Träume und Talente weitergegeben - und auch ihren Schmerz und ihre Wunden."
+   },
+   {
+    "type": "p",
+    "text": "Im Laufe deines Lebens hast du vielleicht einige dieser Gaben entdeckt, du hast sie verfeinert und entwickelt und deine eigenen Wege gefunden, sie auszudrücken und mit der Welt zu teilen. Vielleicht hast du jedoch einige dieser Gaben bereits vergessen. In dieser schnellen und verrückten Welt ist das keine Überraschung. Wir werden abgelenkt und konditioniert. Und uns wird gesagt, dass wir uns klein halten, uns verstecken, einen Schritt zurücktreten sollen."
+   },
+   {
+    "type": "p",
+    "text": "Vielleicht hast du einige der Wunder, die in deiner Seele liegen und darauf warten, sich dir zu offenbaren, noch gar nicht entdeckt. Vielleicht hast du Angst vor deiner eigenen Größe, deiner Kreativität, deinem Potenzial. Möglicherweise hast du dich vor anderen klein gemacht."
+   },
+   {
+    "type": "photo",
+    "id": "sots-0662"
+   },
+   {
+    "type": "lead",
+    "text": "Wir neigen dazu, unsere Herzen zu verschließen, wenn wir Angst haben."
+   },
+   {
+    "type": "p",
+    "text": "Wenn in unserem Leben Traumata auftreten, gehen wir in den FREEZE-Modus, fühlen uns blockiert. Energie kann nicht mehr frei durch uns fließen und wir erleben Blockaden und Hindernisse in unserem kreativen Ausdruck oder verschließen diese Tür gar vollständig. Einige von uns wissen nicht, wie sie zu ihrer kreativen Quelle zurückkehren, ja diesen niemals endenden Brunnen der Inspiration anzapfen können."
+   },
+   {
+    "type": "quote",
+    "text": "All dies ist völlig normal - und doch ist es nie zu spät, du Liebe/r!"
+   },
+   {
+    "type": "p",
+    "text": "In einer Welt, die dir ständig sagt, dass du entweder zu viel oder nicht genug bist, ist es ein revolutionärer Akt, du selbst zu sein!"
+   },
+   {
+    "type": "statement",
+    "text": "ICH GLAUBE WIRKLICH, DASS DIESER PLANET MEHR VON DIR BRAUCHT!"
+   },
+   {
+    "type": "p",
+    "text": "Er braucht mehr Künstler, Geschichtenerzähler, Tänzerinnen, Träumer und Sängerinnen - um diese Welt zu einem bunteren Ort zu machen, an dem die weibliche Energie der Kreativität den Weg weist. Und ja, auch unsere Brüder haben diese weibliche Energie und werden aufgefordert, sie nach außen zu bringen, zu entwickeln und zu teilen! JETZT MEHR DENN JE ZUVOR!"
+   },
+   {
+    "type": "quote",
+    "text": "We are the ones we've been waiting for!"
+   },
+   {
+    "type": "photo",
+    "id": "sots-0793"
+   },
+   {
+    "type": "heading",
+    "text": "Soul Crafting durch Musik, Heilkunst und Medizin"
+   },
+   {
+    "type": "lead",
+    "text": "In diesem intensiven und ganzheitlichen 4-Tage-Retreat möchte ich tief mit dir eintauchen und die Schätze bergen, die auf dem Grund deiner Seele auf dich warten."
+   },
+   {
+    "type": "p",
+    "text": "Ich bin Therapeutin und Künstlerin mit langjähriger Erfahrung und halte weltweit Retreats, 1:1-Sitzungen, Kurse und Seminare - immer in engem Kontakt mit Mutter Natur und stets verbunden mit meiner eigenen Kunst und Kreativität."
+   },
+   {
+    "type": "p",
+    "text": "Mit Hilfe von alten Weisheitslehren und Heiltechniken sowie vielen kreativen Übungen und Tools - und mit der Unterstützung von schamanischer Medizin - werden wir gemeinsam Wege entdecken, um Blockaden und Traumata in die Heilung zu bringen und uns an unsere Gaben und unser innerstes Wesen zu erinnern - den Ruf unserer Seele."
+   },
+   {
+    "type": "p",
+    "text": "Egal, ob du bereits Sänger:in, Musiker:in oder Produzent:in bist, deine Praxis vertiefen und den nächsten Schritt in deiner Karriere machen möchtest, oder ob du diesen Teil von dir noch nicht erkundet hast - ich helfe dir, deine Stimme zu öffnen und deinen ganz eigenen Song zu schreiben und zu singen! Wir werden mit den Werkzeugen des kreativen und therapeutischen Schreibens, der Poesie und des Songwritings arbeiten."
+   },
+   {
+    "type": "photo",
+    "id": "sots-klangreise"
+   },
+   {
+    "type": "lead",
+    "text": "Und selbst wenn du deinen Weg nicht als mit Musik verbunden siehst, ist dieses Retreat das Richtige für dich, wenn du DEINEN Seelensong TANZEN und VERKÖRPERN möchtest."
+   },
+   {
+    "type": "p",
+    "text": "Denn wir werden auch in verschiedene Verkörperungs- und Bewegungspraktiken wie Ecstatic Dance, Yoga Nidra und Hypnotherapie, Yoga und vieles mehr eintauchen."
+   },
+   {
+    "type": "p",
+    "text": "Selbst wenn du nicht planst, Songwriter:in oder professionelle Musiker:in zu werden, kann dies sowohl dein kreatives Schaffen als auch andere Teile deines Lebens bereichern - zum Beispiel deine intimen und romantischen Beziehungen - denn deine kreative Energie entspricht deiner Lebensenergie, deiner sexuellen Energie (auch Kundalini oder Lebenskraft genannt, dein CHI)."
+   },
+   {
+    "type": "p",
+    "text": "Daher wird die Arbeit an der Befreiung deiner Blockaden und dem Zugang zu deiner Inspiration zu einer positiveren, wachen und gesunden Lebensweise führen, dir helfen, bewusste Entscheidungen zu treffen, die dir und deinem Purpose wirklich dienen, dich in einem wachen und energetischen Geisteszustand durch die Welt zu bewegen und dich mit dir selbst, deinen Liebsten und Gott auf eine viel tiefere Weise zu verbinden."
+   },
+   {
+    "type": "heading",
+    "text": "4 Tage voll tiefer Transformation"
+   },
+   {
+    "type": "lead",
+    "text": "Zwischen Riesentannen und Blumenwiesen werden wir eins mit den Elementen von Wasser, Feuer, Erde und Luft."
+   },
+   {
+    "type": "p",
+    "text": "In unserem Prozess werden wir durch die folgenden wunderbaren Tools, Weisheitslehren, Praktiken und Medicines unterstützt:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Yoga",
+     "Kakao-Zeremonie",
+     "Yoga Nidra & Hypnose",
+     "Kambo & Sananga-Medizin (optional)",
+     "Ecstatic Dance Live Set",
+     "Breathwork",
+     "Kreatives & Therapeutisches Schreiben",
+     "Astrologie",
+     "Voice Opening",
+     "Singing & Sharing Circles",
+     "Authentic Relating",
+     "Sound Healing",
+     "Songwriting",
+     "Stille",
+     "Prozessorientierte Naturtherapie",
+     "Aufstellungsarbeit",
+     "und vieles vieles mehr!"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sots-altar"
+   },
+   {
+    "type": "heading",
+    "text": "Yoga Nidra"
+   },
+   {
+    "type": "statement",
+    "text": "Biohacking trifft Hypnotherapie. High Frequency Manifestation trifft Epigenetik."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra, oft als „psychische Schlafmeditation“ übersetzt, ist eine geführte Tiefenmeditation, deren Ursprung vor Tausenden von Jahren in den Tantra-Yoga-Disziplinen zu finden ist. Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel zu Theta-Gehirnwellen gelangen wir in einen tranceähnlichen Zustand, der sich irgendwo zwischen Wachsein und Schlafen befindet. Wir erhalten Zugang zu unseren unterbewussten und unbewussten Schichten des Geistes sowie zur astralen Dimension des Bewusstseins."
+   },
+   {
+    "type": "p",
+    "text": "Indem wir unsere Sinne zurückziehen und das Unterbewusstsein ansprechen, hinterlässt alles, was wir während dieser Praxis erleben und uns selbst erzählen, einen immens tiefen Eindruck auf unseren verschiedenen Bewusstseinsebenen und unser Leben. Es hilft uns, zwischen verschiedenen Zuständen des Wachseins, Träumens und Schlafens zu unterscheiden, und wird daher verwendet, um Astralreisen, außerkörperliche Erfahrungen und luzides Träumen zu praktizieren."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra arbeitet in der astralen Dimension der Akasha-Chronik, die uns die Möglichkeit gibt, direkt in das kollektive Bewusstsein einzutauchen, wo wir buchstäblich die „Vergangenheit“ beeinflussen, Synchronizitäten herbeiziehen und an unserem Karma arbeiten können. Es ermöglicht uns, unsere Zellen auf der epigenetischen Ebene neu zu programmieren und neue Glaubenssysteme auf äußerst effektive und lang anhaltende Weise zu verinnerlichen."
+   },
+   {
+    "type": "p",
+    "text": "Diese psychische Schlafmeditation kann alle möglichen lang vergessenen oder unterdrückten Informationen hervorbringen - Erinnerungen aus unserer Kindheit oder sogar aus unseren vergangenen Inkarnationen - und kann uns neue Ideen, Richtung und Führung für unser Leben aufzeigen. Es ist eine sehr seltene Gelegenheit für unser Wesen, bewusst zu entspannen, anstatt - wie wir es normalerweise tun - den ganzen Tag mit einem verrückten Monkey Mind herumzurennen, dann erschöpft einzuschlafen und diese Denkweise in unseren Träumen fortzusetzen."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra als ganzheitlicher Heilansatz wird erfolgreich in der Traumatherapie, bei der Behandlung von Schlaflosigkeit, Depressionen, PTBS, Angstzuständen und vielem mehr eingesetzt."
+   },
+   {
+    "type": "quote",
+    "text": "Diese unglaubliche Medizin hat mir und unzähligen meiner Klient:innen dabei geholfen, in die Tiefen unserer Seele einzutauchen. Ich fühle mich so gesegnet, einen Weg gefunden zu haben, andere mit Hilfe meiner Stimme durch diese Reise zu führen und Landschaften des Multiversums in den Köpfen der Menschen zu malen."
+   },
+   {
+    "type": "statement",
+    "text": "Reveal to heal."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "Mehr über Yoga Nidra"
+   },
+   {
+    "type": "photo",
+    "id": "sots-yoga-deck"
+   },
+   {
+    "type": "lead",
+    "text": "Selbstverständlich ist für dein leibliches Wohl gesorgt."
+   },
+   {
+    "type": "p",
+    "text": "Du erhältst drei Mahlzeiten am Tag, eine unbegrenzte Anzahl an Getränken und ein gemütliches Bett im Einzelzimmer. Ich biete verschiedene Optionen und Preise an, je nachdem, ob du in einem Zimmer oder in deinem eigenen Zelt oder Camper übernachten möchtest. Frag mich einfach :)"
+   },
+   {
+    "type": "p",
+    "text": "In diesem Retreat werden wir in tiefen Kontakt mit Mutter Erde treten und spüren, wie sie unsere größte Quelle der Heilung ist. Weil wir ein Teil von ihr sind. Weil sie unsere Mutter ist."
+   },
+   {
+    "type": "photo",
+    "id": "sots-frauen-wand"
+   },
+   {
+    "type": "lead",
+    "text": "Ferner werden wir einen Fokus auf das BETEN FÜR DEN FRIEDEN legen."
+   },
+   {
+    "type": "p",
+    "text": "Auf das Allgemeinwohl und ein friedliches Zusammenleben aller fühlenden Wesen. Denn der Krieg in uns und die Kriege um uns herum betreffen uns alle, ob wir uns dessen bewusst sind oder nicht. Ich halte nichts von spirituellem Bypassing und einer „only love and light“-Mentalität, sondern übernehme Verantwortung für die soziokulturellen und politischen Realitäten auf unserem Planeten."
+   },
+   {
+    "type": "statement",
+    "text": "Es gibt keinen Weg zum Frieden. Frieden ist der Weg."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sots-kreis-bambus",
+     "sots-0540",
+     "sots-tanz",
+     "sots-0622",
+     "sots-kreis-feuer",
+     "sots-0679",
+     "sots-essen",
+     "sots-8862",
+     "sots-om-dome",
+     "sots-silhouetten",
+     "sots-0619",
+     "sots-8867",
+     "sots-lichterhaus",
+     "sots-temazcal",
+     "sots-0565",
+     "sots-8858",
+     "sots-glashaus",
+     "sots-0501",
+     "sots-haus-himmel",
+     "sots-8866",
+     "sots-0635",
+     "sots-8885",
+     "sots-8865",
+     "sots-vulkane",
+     "sots-milchstrasse"
+    ]
+   }
+  ],
+  "closing": [
+   "We are the ones we've been waiting for.",
+   "Bist du bereit, dich nicht länger zu verstecken? Bist du bereit, dein innerstes Geschenk der Schöpfung anzunehmen? Fühlst du den Ruf, dir selbst und dieser Welt deine eigene Melodie zu schenken? Möchtest du in diesem verletzlichen Prozess unterstützt und gehalten werden? Und möchtest du auch andere auf ihrem Weg unterstützen?",
+   "Dann komm zu mir, lieber Wanderer, um zu erschaffen, zu wachsen und auch um still zu sein und zu empfangen. Du hast es so sehr verdient. Ich freue mich darauf, dich kennenzulernen. I am rooting for you.",
+   "Mit all meiner Liebe, Elena Judith"
+  ],
+  "places": "Bei diesem Retreat gibt es nur sehr wenige Plätze, da ich ausschließlich mit sehr kleinen Gruppen arbeite, um wirklich in die Tiefe gehen zu können!",
+  "motto": "We are all just walking each other home."
+ },
+ "en": {
+  "eyebrow": "RETREAT · 4 DAYS · FOR ALL GENDERS",
+  "title": "Song of the Soul",
+  "subtitle": "Retreat",
+  "claim": "4 days full of art, therapy and creative work. Together we explore your truly unique creative expression, so that you can remember your true self, open your voice and write, dance, sing and embody your very own melody.",
+  "dateLabel": "BORN AT LAKE ATITLÁN, GUATEMALA",
+  "date": "Next date being planned · Waiting list",
+  "questionsIntro": "Hello you! Who are you?",
+  "questions": [
+   "Are you connected to your unique creative expression? To the pulsating power of the universe flowing through you?",
+   "At what point or crossroads in your life are you right now, and what do you feel?",
+   "How are you experiencing these deeply transformative times?",
+   "What is on your mind?",
+   "What has changed in your life, whether through the war or through private and personal events?",
+   "What has been allowed to transform in you and through you?",
+   "What comes next? For you, for the collective consciousness, for humanity and for Mother Earth?",
+   "How do you express your unique self, your unique gifts, your talents?",
+   "What is your relationship with Mother Nature?",
+   "What wants to be written, sung and set in motion through you?"
+  ],
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "Are you singing your very own song? The song of your soul?"
+   },
+   {
+    "type": "statement",
+    "text": "Time to dive deep and rise rooted!"
+   },
+   {
+    "type": "photo",
+    "id": "sots-0517"
+   },
+   {
+    "type": "lead",
+    "text": "Each of us comes to this earth with a unique combination of talents and gifts."
+   },
+   {
+    "type": "p",
+    "text": "With our very own signature, our very own flavour, our very own melody. Your ancestors passed on to you their melody, their way of moving through this world, their hopes and dreams and talents - and also their pain and their wounds."
+   },
+   {
+    "type": "p",
+    "text": "In the course of your life you may have discovered some of these gifts, refined and developed them and found your own ways to express them and share them with the world. But perhaps you have already forgotten some of these gifts. In this fast and crazy world that is no surprise. We are distracted and conditioned. And we are told to keep ourselves small, to hide, to step back."
+   },
+   {
+    "type": "p",
+    "text": "Perhaps you haven't even discovered some of the wonders that lie in your soul, waiting to reveal themselves to you. Perhaps you are afraid of your own greatness, your creativity, your potential. Maybe you have made yourself small in front of others."
+   },
+   {
+    "type": "photo",
+    "id": "sots-0662"
+   },
+   {
+    "type": "lead",
+    "text": "We tend to close our hearts when we are afraid."
+   },
+   {
+    "type": "p",
+    "text": "When trauma occurs in our lives, we go into FREEZE mode and feel blocked. Energy can no longer flow freely through us and we experience blockages and obstacles in our creative expression, or even close that door completely. Some of us don't know how to return to our creative source, how to tap into this never-ending well of inspiration."
+   },
+   {
+    "type": "quote",
+    "text": "All of this is completely normal - and yet it is never too late, my dear!"
+   },
+   {
+    "type": "p",
+    "text": "In a world that constantly tells you that you are either too much or not enough, being yourself is a revolutionary act!"
+   },
+   {
+    "type": "statement",
+    "text": "I TRULY BELIEVE THAT THIS PLANET NEEDS MORE OF YOU!"
+   },
+   {
+    "type": "p",
+    "text": "It needs more artists, storytellers, dancers, dreamers and singers - to make this world a more colourful place, where the feminine energy of creativity shows the way. And yes, our brothers carry this feminine energy too and are called to bring it out, develop it and share it! NOW MORE THAN EVER!"
+   },
+   {
+    "type": "quote",
+    "text": "We are the ones we've been waiting for!"
+   },
+   {
+    "type": "photo",
+    "id": "sots-0793"
+   },
+   {
+    "type": "heading",
+    "text": "Soul crafting through music, healing arts and medicine"
+   },
+   {
+    "type": "lead",
+    "text": "In this intense and holistic 4-day retreat I want to dive deep with you and recover the treasures waiting for you at the bottom of your soul."
+   },
+   {
+    "type": "p",
+    "text": "I am a therapist and artist with many years of experience and hold retreats, 1:1 sessions, courses and seminars around the world - always in close contact with Mother Nature and always connected to my own art and creativity."
+   },
+   {
+    "type": "p",
+    "text": "With the help of ancient wisdom teachings and healing techniques, many creative exercises and tools - and with the support of shamanic medicine - we will discover ways together to bring blockages and traumas into healing and to remember our gifts and our innermost being - the call of our soul."
+   },
+   {
+    "type": "p",
+    "text": "Whether you are already a singer, musician or producer who wants to deepen your practice and take the next step in your career, or whether you haven't explored this part of yourself yet - I will help you open your voice and write and sing your very own song! We will work with the tools of creative and therapeutic writing, poetry and songwriting."
+   },
+   {
+    "type": "photo",
+    "id": "sots-klangreise"
+   },
+   {
+    "type": "lead",
+    "text": "And even if you don't see your path as connected to music, this retreat is right for you if you want to DANCE and EMBODY YOUR soul song."
+   },
+   {
+    "type": "p",
+    "text": "Because we will also dive into various embodiment and movement practices such as ecstatic dance, Yoga Nidra and hypnotherapy, yoga and much more."
+   },
+   {
+    "type": "p",
+    "text": "Even if you are not planning to become a songwriter or professional musician, this can enrich both your creative work and other parts of your life - for example your intimate and romantic relationships - because your creative energy corresponds to your life energy, your sexual energy (also called kundalini or life force, your CHI)."
+   },
+   {
+    "type": "p",
+    "text": "Working on releasing your blockages and accessing your inspiration will therefore lead to a more positive, awake and healthy way of living, help you make conscious decisions that truly serve you and your purpose, move through the world in an awake and energetic state of mind and connect with yourself, your loved ones and God in a much deeper way."
+   },
+   {
+    "type": "heading",
+    "text": "4 days of deep transformation"
+   },
+   {
+    "type": "lead",
+    "text": "Between giant firs and flower meadows we become one with the elements of water, fire, earth and air."
+   },
+   {
+    "type": "p",
+    "text": "In our process we will be supported by the following wonderful tools, wisdom teachings, practices and medicines:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Yoga",
+     "Cacao ceremony",
+     "Yoga Nidra & hypnosis",
+     "Kambo & sananga medicine (optional)",
+     "Ecstatic dance live set",
+     "Breathwork",
+     "Creative & therapeutic writing",
+     "Astrology",
+     "Voice opening",
+     "Singing & sharing circles",
+     "Authentic relating",
+     "Sound healing",
+     "Songwriting",
+     "Silence",
+     "Process-oriented nature therapy",
+     "Constellation work",
+     "and much, much more!"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sots-altar"
+   },
+   {
+    "type": "heading",
+    "text": "Yoga Nidra"
+   },
+   {
+    "type": "statement",
+    "text": "Biohacking meets hypnotherapy. High frequency manifestation meets epigenetics."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra, often translated as “psychic sleep meditation”, is a guided deep meditation whose origins go back thousands of years to the disciplines of Tantra yoga. Through deep relaxation of body, mind and soul and the shift to theta brain waves, we enter a trance-like state somewhere between waking and sleeping. We gain access to the subconscious and unconscious layers of the mind and to the astral dimension of consciousness."
+   },
+   {
+    "type": "p",
+    "text": "By withdrawing our senses and addressing the subconscious, everything we experience and tell ourselves during this practice leaves an immensely deep impression on our various levels of consciousness and on our lives. It helps us to distinguish between different states of waking, dreaming and sleeping, and is therefore used to practise astral travel, out-of-body experiences and lucid dreaming."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra works in the astral dimension of the Akashic records, giving us the opportunity to dive directly into the collective consciousness, where we can literally influence the “past”, attract synchronicities and work on our karma. It allows us to reprogram our cells on an epigenetic level and to internalise new belief systems in an extremely effective and long-lasting way."
+   },
+   {
+    "type": "p",
+    "text": "This psychic sleep meditation can bring up all kinds of long-forgotten or suppressed information - memories from our childhood or even from past incarnations - and can show us new ideas, direction and guidance for our lives. It is a very rare opportunity for our being to relax consciously, instead of running around all day with a crazy monkey mind, falling asleep exhausted and continuing this mindset in our dreams, as we usually do."
+   },
+   {
+    "type": "p",
+    "text": "As a holistic healing approach, Yoga Nidra is used successfully in trauma therapy and in the treatment of insomnia, depression, PTSD, anxiety and much more."
+   },
+   {
+    "type": "quote",
+    "text": "This incredible medicine has helped me and countless clients to dive into the depths of our souls. I feel so blessed to have found a way to guide others through this journey with my voice and to paint landscapes of the multiverse in people's minds."
+   },
+   {
+    "type": "statement",
+    "text": "Reveal to heal."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "More about Yoga Nidra"
+   },
+   {
+    "type": "photo",
+    "id": "sots-yoga-deck"
+   },
+   {
+    "type": "lead",
+    "text": "Of course your physical well-being is taken care of."
+   },
+   {
+    "type": "p",
+    "text": "You will receive three meals a day, unlimited drinks and a cosy bed in a single room. I offer different options and prices depending on whether you want to stay in a room or in your own tent or camper. Just ask me :)"
+   },
+   {
+    "type": "p",
+    "text": "In this retreat we will come into deep contact with Mother Earth and feel how she is our greatest source of healing. Because we are part of her. Because she is our mother."
+   },
+   {
+    "type": "photo",
+    "id": "sots-frauen-wand"
+   },
+   {
+    "type": "lead",
+    "text": "We will also put a focus on PRAYING FOR PEACE."
+   },
+   {
+    "type": "p",
+    "text": "For the common good and a peaceful coexistence of all sentient beings. Because the war within us and the wars around us affect us all, whether we are aware of it or not. I don't believe in spiritual bypassing and an “only love and light” mentality, but take responsibility for the sociocultural and political realities on our planet."
+   },
+   {
+    "type": "statement",
+    "text": "There is no way to peace. Peace is the way."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sots-kreis-bambus",
+     "sots-0540",
+     "sots-tanz",
+     "sots-0622",
+     "sots-kreis-feuer",
+     "sots-0679",
+     "sots-essen",
+     "sots-8862",
+     "sots-om-dome",
+     "sots-silhouetten",
+     "sots-0619",
+     "sots-8867",
+     "sots-lichterhaus",
+     "sots-temazcal",
+     "sots-0565",
+     "sots-8858",
+     "sots-glashaus",
+     "sots-0501",
+     "sots-haus-himmel",
+     "sots-8866",
+     "sots-0635",
+     "sots-8885",
+     "sots-8865",
+     "sots-vulkane",
+     "sots-milchstrasse"
+    ]
+   }
+  ],
+  "closing": [
+   "We are the ones we've been waiting for.",
+   "Are you ready to stop hiding? Are you ready to accept your innermost gift of creation? Do you feel the call to give your very own melody to yourself and to this world? Would you like to be supported and held in this vulnerable process? And would you like to support others on their path too?",
+   "Then come to me, dear wanderer, to create, to grow, and also to be still and receive. You deserve it so much. I look forward to meeting you. I am rooting for you.",
+   "With all my love, Elena Judith"
+  ],
+  "places": "There are only very few places on this retreat, because I only work with very small groups so that we can really go deep!",
+  "motto": "We are all just walking each other home."
+ }
+}

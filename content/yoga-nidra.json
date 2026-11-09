@@ -1,0 +1,251 @@
+{
+ "description": "Seite Yoga Nidra (Elena 2026-10-29): Elenas neuer Text vom 29.10. (Tippfehler und Leerzeichen korrigiert), eigene Fotos aus Drive „Yoga Nidra“ (4 einzeln, Rest im Karussell), Formular nur für Einzelsitzungen. EN = Übersetzung (Vorschlag). Keine Bildunterschriften.",
+ "hero": {
+  "id": "v2-forest",
+  "shape": "arch",
+  "alt": {
+   "de": "Lichtstrahlen in einem Wald, eine Person zwischen Farnen",
+   "en": "Rays of light in a forest, a person among ferns"
+  },
+  "position": "50% 55%"
+ },
+ "gallery": [],
+ "de": {
+  "eyebrow": "1:1 BEGLEITUNG · TIEFENMEDITATION",
+  "title": "Yoga Nidra",
+  "claim": "Eine geführte Tiefenmeditation, ähnlich einer Hypnosetherapie, die dich in dein Unterbewusstsein führt.",
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat."
+   },
+   {
+    "type": "p",
+    "text": "Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf."
+   },
+   {
+    "type": "p",
+    "text": "Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-zelt-stehend"
+   },
+   {
+    "type": "heading",
+    "text": "Direkter Zugang zu deinem Unterbewusstsein"
+   },
+   {
+    "type": "p",
+    "text": "Durch die direkte Arbeit mit unserem Unterbewusstsein hat alles, was wir uns in diesem Zustand selbst sagen und alles, was wir hören und erfahren, einen immensen, tiefen und wertvollen Einfluss."
+   },
+   {
+    "type": "quote",
+    "text": "Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen)."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-buehne-trommel"
+   },
+   {
+    "type": "heading",
+    "text": "Hypnosetherapie meets Luzides Träumen meets Epigenetik meets Manifestation, die funktioniert"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine holistische (ganzheitliche) Therapie- und Heilmethode, die wissenschaftlich erforscht und bewiesen ist und weltweit erfolgreich bei Schlafstörungen, Angstpatienten, Alpträumen, in der Traumatherapie und vielem mehr eingesetzt wird."
+   },
+   {
+    "type": "statement",
+    "text": "Ich darf seit Jahren bei den TeilnehmerInnen meiner Yoga Nidra Kurse beobachten, wie diese Reise ins Unterbewusstsein nicht nur tief sitzende Traumata und Wunden heilt, sondern auch kreative Schreib- und Kreativprozesse auf magische und sehr tiefe Art und Weise ankurbelt und sich entfalten lässt."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "yoga-zelt-arme",
+     "yoga-alm",
+     "yoga-kuppelzelt",
+     "yoga-herbst-kuppel",
+     "yoga-kerzenkreis",
+     "yoga-zelt-gebet",
+     "yoga-pexels-decke",
+     "yoga-alm-weit",
+     "yoga-zelt-gruppe",
+     "yoga-waldbuehne",
+     "yoga-buehne-lesen",
+     "yoga-herbstwiese",
+     "yoga-saal",
+     "yoga-pexels-paar",
+     "yoga-zelt-wald",
+     "yoga-abendkreis",
+     "yoga-pexels-feld"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Meine Nidra-Reisen"
+   },
+   {
+    "type": "p",
+    "text": "In meinen Nidra-Reisen fließen viele Methoden meiner Arbeit wie das Singen und schamanische Trommeln, die Arbeit mit den Elementen, therapeutisch eingeläutete Trance sowie meine Poesie mit ein. Jede Sitzung hat einen anderen thematischen Schwerpunkt bzw. eine besondere Intention, zum Beispiel:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Reise zum inneren Kind",
+     "Anima und Animus",
+     "Chakrenarbeit",
+     "Finde dein Krafttier",
+     "Treffe deine Ahnen",
+     "und vieles mehr"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "yoga-zelt-anleitung"
+   },
+   {
+    "type": "lead",
+    "text": "Neben meinen Gruppensitzungen biete ich Yoga Nidra in persönlichen Einzelsitzungen an. Ähnlich wie bei der Hypnotherapie können wir hierbei ganz gezielt und extrem tief auf deine persönlichen Themen und Anliegen eingehen."
+   },
+   {
+    "type": "quote",
+    "text": "In einer Einzelsitzung gehe ich auf ein bestimmtes Thema ein, das dich gerade bewegt, und entwerfe dafür eine maßgeschneiderte Nidra-Reise, ganz für dich."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-bambus"
+   }
+  ],
+  "highlight": {
+   "big": [
+    "Seit fast 20 Jahren",
+    "Tausende TeilnehmerInnen"
+   ],
+   "text": "Ich biete Yoga Nidra seit fast 20 Jahren an: in Kursen, Workshops und Retreats, auf Festivals wie Ozora und MoDem, in Einzelsessions und online."
+  }
+ },
+ "en": {
+  "eyebrow": "1:1 SESSIONS · DEEP MEDITATION",
+  "title": "Yoga Nidra",
+  "claim": "A guided deep meditation, similar to hypnotherapy, that leads you into your subconscious.",
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "Yoga Nidra is a guided deep meditation that has its origins in the ancient Indian tradition of Tantra."
+   },
+   {
+    "type": "p",
+    "text": "Through deep relaxation of body, mind and soul and the shift of our brain waves to theta waves (the same waves that are activated in hypnosis), we enter a trance-like space between waking and sleep."
+   },
+   {
+    "type": "p",
+    "text": "In this way we gain direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-zelt-stehend"
+   },
+   {
+    "type": "heading",
+    "text": "Direct access to your subconscious"
+   },
+   {
+    "type": "p",
+    "text": "Because we work directly with the subconscious, everything we tell ourselves in this state, and everything we hear and experience, has an immense, deep and valuable influence."
+   },
+   {
+    "type": "quote",
+    "text": "An impulse planted in the subconscious can unfold in our lives far more easily than one given in the waking state!"
+   },
+   {
+    "type": "p",
+    "text": "We also learn to distinguish more clearly between states such as waking, sleeping, dozing and dreaming and to become more lucid, that is, more aware and awake, which also helps us to have more pleasant dreams and nights. In this way we practise lucid dreaming and out-of-body experiences (astral travel)."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-buehne-trommel"
+   },
+   {
+    "type": "heading",
+    "text": "Hypnotherapy meets lucid dreaming meets epigenetics meets manifestation that works"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a holistic method of therapy and healing that has been researched scientifically and is used successfully around the world for sleep disorders, anxiety, nightmares, in trauma therapy and much more."
+   },
+   {
+    "type": "statement",
+    "text": "For years I have been able to observe in the participants of my Yoga Nidra courses how this journey into the subconscious not only heals deep-seated traumas and wounds, but also stimulates writing and creative processes in a magical and very deep way and lets them unfold."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "yoga-zelt-arme",
+     "yoga-alm",
+     "yoga-kuppelzelt",
+     "yoga-herbst-kuppel",
+     "yoga-kerzenkreis",
+     "yoga-zelt-gebet",
+     "yoga-pexels-decke",
+     "yoga-alm-weit",
+     "yoga-zelt-gruppe",
+     "yoga-waldbuehne",
+     "yoga-buehne-lesen",
+     "yoga-herbstwiese",
+     "yoga-saal",
+     "yoga-pexels-paar",
+     "yoga-zelt-wald",
+     "yoga-abendkreis",
+     "yoga-pexels-feld"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "My Nidra journeys"
+   },
+   {
+    "type": "p",
+    "text": "Many methods of my work flow into my Nidra journeys, such as singing and shamanic drumming, working with the elements, therapeutically induced trance and my poetry. Each session has a different theme or a special intention, for example:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Journey to the inner child",
+     "Anima and animus",
+     "Chakra work",
+     "Find your power animal",
+     "Meet your ancestors",
+     "and much more"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "yoga-zelt-anleitung"
+   },
+   {
+    "type": "lead",
+    "text": "Alongside my group sessions I offer Yoga Nidra in personal one-to-one sessions. Similar to hypnotherapy, we can work in a very targeted and extremely deep way on your personal themes and concerns."
+   },
+   {
+    "type": "quote",
+    "text": "In a one-to-one session I focus on a specific theme that is moving you right now and create a tailor-made Nidra journey for it, just for you."
+   },
+   {
+    "type": "photo",
+    "id": "yoga-bambus"
+   }
+  ],
+  "highlight": {
+   "big": [
+    "For almost 20 years",
+    "Thousands of participants"
+   ],
+   "text": "I have been offering Yoga Nidra for almost 20 years: in courses, workshops and retreats, at festivals such as Ozora and MoDem, in one-to-one sessions and online."
+  }
+ }
+}

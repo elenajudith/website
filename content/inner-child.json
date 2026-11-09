@@ -1,0 +1,572 @@
+{
+ "description": "Seite Inner Child Retreat (Elena 2026-10-30): Text von der alten Seite übernommen (nur Tippfehler korrigiert, Termin: Frühjahr in Baldham), Fotos aus Drive „inner child retreat“ und von der alten Website, Stimmen aller Retreats, Formular für die Warteliste. EN = Übersetzung (Vorschlag).",
+ "hero": {
+  "id": "web-20",
+  "shape": "arch",
+  "position": "50% 30%",
+  "alt": {
+   "de": "Elena Judith und TeilnehmerInnen klettern in einem großen Baum",
+   "en": "Elena Judith and participants climbing a big tree"
+  }
+ },
+ "de": {
+  "eyebrow": "RETREAT · 4 TAGE IN MUTTER NATUR",
+  "title": "Coming Back Home",
+  "subtitle": "Inner Child Retreat",
+  "claim": "4-tägiges Heilungsretreat mit Yoga und Naturtherapie, kreativem Schreiben, Ahnenheilung, Zeremonien und Gruppentherapie in Mutter Natur",
+  "dateLabel": "NÄCHSTER TERMIN",
+  "date": "Frühjahr · Baldham bei München",
+  "questions": [
+   "Wer bist du?",
+   "Woher kommst du?",
+   "Was ist geschehen?",
+   "Welche Erfahrungen, Gaben, Träume, Wunden und Traumata hast du auf diese Welt mitgebracht?",
+   "Welche Erfahrungen hast du als Kind gemacht?",
+   "Welche macht das Kind in dir auch heutzutage noch?",
+   "Was darf noch in die Heilung gehen?"
+  ],
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "Diesen Fragen möchten wir mit dir auf den Grund gehen und in vier intensiven und heilsamen Tagen in sie hineinspüren und mit ihnen arbeiten."
+   },
+   {
+    "type": "p",
+    "text": "Tief wollen wir eintauchen in wichtige Seelenfragen - und Antworten finden. Es ist an der Zeit, all dies herauszufinden und uns mit unseren Inneren Kindern zu verbinden."
+   },
+   {
+    "type": "statement",
+    "text": "In unserer hektischen, lauten und modernen Welt haben viele von uns den Zugang zu ihrem Inneren Kind, zu ihrer inneren Stimme, ein Stück weit verloren. Doch dein Kind kann niemals verloren gehen."
+   },
+   {
+    "type": "quote",
+    "text": "Es ist immer bei dir. DU bist ES."
+   },
+   {
+    "type": "photo",
+    "id": "ic-gruppe-felsen"
+   },
+   {
+    "type": "heading",
+    "text": "Trauma & das Innere Kind"
+   },
+   {
+    "type": "lead",
+    "text": "Trauma entsteht nicht durch ein schlimmes Erlebnis, sondern weil du mit diesem Erlebnis allein bist."
+   },
+   {
+    "type": "p",
+    "text": "Schmerzhafte Erfahrungen und Erlebnisse in der Kindheit sind oftmals zu heftig, um von deinem Nervensystem & deiner Seele verarbeitet und integriert zu werden. Die Folge dessen ist ein Schockzustand, in dem dein System eine Art Screenshot des erlebten Momentums aufnimmt."
+   },
+   {
+    "type": "photo",
+    "id": "ic-gruppe-baum-trommel"
+   },
+   {
+    "type": "p",
+    "text": "Falls du zu diesem Zeitpunkt nicht die benötigten Ressourcen besitzt, um mit dem Schmerz umzugehen - und diese Ressourcen sind hier vor allem dich schützende und tragende Bezugspersonen, die dich auf die richtige Art und Weise durch den Schmerz begleiten, dich auffangen, ihn dir nicht ausreden oder beschönigen wollen und die dich trotzdem sicher fühlen lassen, sodass dein Schmerz in liebevoller Weise als ein Anteil deines gesamten Seins integriert werden kann - dann wirst du mit diesem Schmerz allein gelassen."
+   },
+   {
+    "type": "p",
+    "text": "Du wirst von ihm so dermaßen überwältigt & erschüttert, dass dir nichts anderes übrig bleibt, als dich zu schützen. Und dieser Schutz entsteht dadurch, dass du die Erfahrung unterdrückst oder gar einen Teil von dir abschneidest, um nicht mehr fühlen zu müssen."
+   },
+   {
+    "type": "p",
+    "text": "Der Screenshot, den jede deiner Zellen von diesem Moment gemacht hat, ist somit so lange in deinem Unterbewusstsein gespeichert, bis er neu zum Leben erwacht - durch Trigger und dem - oft unbewussten - Drang zur Wiederholung des Traumas in deinem Erwachsenenleben."
+   },
+   {
+    "type": "photo",
+    "id": "ic-elena-gitarre"
+   },
+   {
+    "type": "lead",
+    "text": "Ich bin mir sicher, du spürst instinktiv, wovon ich spreche."
+   },
+   {
+    "type": "p",
+    "text": "Denn wir alle haben es oft erlebt. Den Prozess, der in Gang gesetzt wird, wenn du bei einem Trigger plötzlich wieder drei oder fünf oder sieben Jahre alt bist, nennt man Regression."
+   },
+   {
+    "type": "quote",
+    "text": "Das Innere Kind in dir ist in einer bestimmten Situation immer so alt wie zum Zeitpunkt des Screenshots."
+   },
+   {
+    "type": "photo",
+    "id": "ic-sepia-baum"
+   },
+   {
+    "type": "p",
+    "text": "Und genau dort dürfen wir ansetzen, wenn wir in die Heilung gehen möchten. Es reicht nicht, das Trauma mitsamt seiner Ursachen, Auswirkungen & Zusammenhänge rückblickend mental verstehen zu können. Dein Kind darf an dem Zeitpunkt abgeholt werden, an dem das Trauma entstand. Dort sitzt die Wunde, sitzt der Schmerz."
+   },
+   {
+    "type": "statement",
+    "text": "Es geht ums bewusste Fühlen. Ums bewusste Durchleben. Und ums Halten."
+   },
+   {
+    "type": "photo",
+    "id": "ic-kreis-karten"
+   },
+   {
+    "type": "lead",
+    "text": "Zeit, uns wahrhaft zu begegnen."
+   },
+   {
+    "type": "p",
+    "text": "Mit all unseren Träumen und Wünschen, Gaben und Geschenken, Ängsten und Sorgen, Zweifeln und Themen, Wunden und Wundern."
+   },
+   {
+    "type": "quote",
+    "text": "Alles darf sein."
+   },
+   {
+    "type": "photo",
+    "id": "ic-altar"
+   },
+   {
+    "type": "p",
+    "text": "Lass uns zusammenkommen im Kreis - als der Tribe, der wir sind. Umgeben und umhüllt von den Elementen. Und beschützt, getragen und gesegnet von MAMA BAUM, dem Äquivalent zu Eywa, dem Baum der Seelen aus Avatar! Allein dieser Baum ist es wert, dabei zu sein, das garantieren wir dir!"
+   },
+   {
+    "type": "photo",
+    "id": "ic-kristall"
+   },
+   {
+    "type": "heading",
+    "text": "4 Tage in Mutter Natur"
+   },
+   {
+    "type": "p",
+    "text": "Gemeinsam werden wir erleben und erfahren:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentische und bodenständige Spiritualität & Tiefenpsychologie",
+     "Tiefe Prozessarbeit und ganzheitliche Gruppentherapie",
+     "Sound Healing & Singkreise",
+     "Astrologie",
+     "Geführte Meditationen",
+     "Tanzen",
+     "Yoga Nidra - psychic sleep meditation",
+     "Stille",
+     "Rituale & Zeremonien",
+     "Naturtherapie",
+     "Bewusste Redekreise",
+     "Therapeutisches Schreiben",
+     "Authentic Relating & Aufstellungsarbeit",
+     "Yoga",
+     "Schreiben",
+     "Holotropes Atmen",
+     "Spirituelle und psychologische Wegbegleitung",
+     "und vieles vieles mehr!"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "ic-kerzen-gitarre"
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Ferner reisen wir in die Astraldimension und in Traumwelten, indem wir intensiv mit Yoga Nidra arbeiten."
+   },
+   {
+    "type": "statement",
+    "text": "Alte Glaubenssätze dauerhaft auflösen - Zellen auf epigenetischer Ebene neu programmieren - Manifestieren auf hoher Frequenz"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat. Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf. Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "quote",
+    "text": "Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-19",
+     "shape": "rect",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Runde im Tipi um ein Feuer",
+      "en": "Circle around a fire in the tipi"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen)."
+   },
+   {
+    "type": "p",
+    "text": "Auch darf ich seit Jahren bei den TeilnehmerInnen meiner Nidra Kurse beobachten, wie diese Reise ins Unterbewusstsein kreative (Schreib-)Prozesse auf magische und sehr tiefe Art und Weise ankurbelt und entfalten lässt."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "Mehr über Yoga Nidra"
+   },
+   {
+    "type": "photo",
+    "id": "ic-feuer"
+   },
+   {
+    "type": "lead",
+    "text": "Selbstverständlich wirst du mit gesunder und ausgewogener Vollwertkost versorgt."
+   },
+   {
+    "type": "photo",
+    "id": "ic-frauen-baum"
+   },
+   {
+    "type": "p",
+    "text": "Der nächste Termin findet im Frühjahr wieder in unserem geliebten Baldham bei München statt. Auf diesem abgeschiedenen, verzauberten Retreatort sind wir ganz für uns. Dieses traumhafte Stück Land beherbergt ein süßes Haus mit Einzelzimmern sowie den legendären MAMA TREE, der jeder Seele, die ihn erblickt (und erklimmt), den Atem verschlägt! Lass dich verzaubern :)"
+   },
+   {
+    "type": "p",
+    "text": "Wir haben dort alles, was wir brauchen - und mehr! Es gibt viel Platz für dich und deine Seele und für all unsere Gruppenaktivitäten! In der Nähe locken wilde Natur, Kraftorte, Seen und Wälder."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-gruppe-efeu",
+     "ic-baum-klettern",
+     {
+      "id": "web-44",
+      "shape": "arch",
+      "position": "50% 40%",
+      "alt": {
+       "de": "Eine Runde sitzt im Efeu unter Bäumen",
+       "en": "A circle sitting in the ivy under trees"
+      }
+     },
+     "ic-kreis-felsen",
+     "ic-waldkreis",
+     "ic-wanderung",
+     "ic-yoga-kuppel",
+     "ic-meditation-kuppel",
+     "ic-frau-lachen",
+     "ic-gruppe-wiese",
+     "ic-baum-sonne",
+     "ic-felsen-sprechen",
+     "ic-drei-frauen",
+     {
+      "id": "web-45",
+      "shape": "rect",
+      "position": "50% 40%",
+      "alt": {
+       "de": "Elena Judith und Daniel vor einem großen Baum",
+       "en": "Elena Judith and Daniel in front of a big tree"
+      }
+     },
+     "ic-elena-karte",
+     "ic-frau-augen-zu",
+     "ic-elena-stab",
+     "ic-paar-baum",
+     "ic-kreis-wiese",
+     "ic-frau-sitzend",
+     "ic-kueche",
+     "ic-elena-portraet",
+     "ic-indien-felsen",
+     "ic-elena-augen-zu",
+     "ic-indien-yoga"
+    ]
+   },
+   {
+    "type": "lead",
+    "text": "Die Prozesse und Ergebnisse unserer bisherigen Retreats waren atemberaubend und haben sämtliche unserer Erwartungen übertroffen."
+   }
+  ],
+  "closing": [
+   "Bist du bereit?",
+   "Wir brauchen DICH!",
+   "Heilung geschieht GEMEINSAM.",
+   "Deine Elena Judith"
+  ],
+  "places": "Bei diesem Retreat gibt es nur sehr wenige Plätze, da wir ausschließlich mit sehr kleinen Gruppen arbeiten, um wirklich in die Tiefe gehen zu können!"
+ },
+ "en": {
+  "eyebrow": "RETREAT · 4 DAYS IN MOTHER NATURE",
+  "title": "Coming Back Home",
+  "subtitle": "Inner Child Retreat",
+  "claim": "A 4-day healing retreat with yoga and nature therapy, creative writing, ancestral healing, ceremonies and group therapy in Mother Nature",
+  "dateLabel": "NEXT RETREAT",
+  "date": "Spring · Baldham near Munich",
+  "questions": [
+   "Who are you?",
+   "Where do you come from?",
+   "What happened?",
+   "Which experiences, gifts, dreams, wounds and traumas did you bring into this world?",
+   "What did you experience as a child?",
+   "What does the child in you still experience today?",
+   "What is still ready to heal?"
+  ],
+  "blocks": [
+   {
+    "type": "lead",
+    "text": "We want to get to the bottom of these questions with you, feel into them and work with them over four intense and healing days."
+   },
+   {
+    "type": "p",
+    "text": "We want to dive deep into important questions of the soul - and find answers. It is time to find out all of this and to connect with our inner children."
+   },
+   {
+    "type": "statement",
+    "text": "In our hectic, loud and modern world, many of us have partly lost access to our inner child, to our inner voice. But your child can never be lost."
+   },
+   {
+    "type": "quote",
+    "text": "It is always with you. YOU are IT."
+   },
+   {
+    "type": "photo",
+    "id": "ic-gruppe-felsen"
+   },
+   {
+    "type": "heading",
+    "text": "Trauma & the inner child"
+   },
+   {
+    "type": "lead",
+    "text": "Trauma does not arise from a bad experience, but because you are alone with that experience."
+   },
+   {
+    "type": "p",
+    "text": "Painful experiences in childhood are often too intense to be processed and integrated by your nervous system & your soul. The result is a state of shock in which your system takes a kind of screenshot of the moment."
+   },
+   {
+    "type": "photo",
+    "id": "ic-gruppe-baum-trommel"
+   },
+   {
+    "type": "p",
+    "text": "If at that point you do not have the resources you need to deal with the pain - and these resources are above all protective, supportive people who accompany you through the pain in the right way, catch you, don't talk you out of it or sugarcoat it and still make you feel safe, so that your pain can be lovingly integrated as part of your whole being - then you are left alone with this pain."
+   },
+   {
+    "type": "p",
+    "text": "It overwhelms & shakes you so much that you have no choice but to protect yourself. And this protection arises because you suppress the experience or even cut off a part of yourself so that you no longer have to feel."
+   },
+   {
+    "type": "p",
+    "text": "The screenshot that each of your cells took of this moment stays stored in your subconscious until it comes back to life - through triggers and the - often unconscious - urge to repeat the trauma in your adult life."
+   },
+   {
+    "type": "photo",
+    "id": "ic-elena-gitarre"
+   },
+   {
+    "type": "lead",
+    "text": "I am sure you instinctively feel what I am talking about."
+   },
+   {
+    "type": "p",
+    "text": "Because we have all experienced it many times. The process that is set in motion when a trigger suddenly makes you three or five or seven years old again is called regression."
+   },
+   {
+    "type": "quote",
+    "text": "In a given situation, the inner child in you is always as old as it was at the moment of the screenshot."
+   },
+   {
+    "type": "photo",
+    "id": "ic-sepia-baum"
+   },
+   {
+    "type": "p",
+    "text": "And that is exactly where we can begin when we want to heal. It is not enough to understand the trauma, its causes, effects & connections mentally in hindsight. Your child may be picked up at the moment the trauma arose. That is where the wound sits, where the pain sits."
+   },
+   {
+    "type": "statement",
+    "text": "It is about feeling consciously. Living through it consciously. And about being held."
+   },
+   {
+    "type": "photo",
+    "id": "ic-kreis-karten"
+   },
+   {
+    "type": "lead",
+    "text": "Time to truly meet each other."
+   },
+   {
+    "type": "p",
+    "text": "With all our dreams and wishes, gifts and talents, fears and worries, doubts and themes, wounds and wonders."
+   },
+   {
+    "type": "quote",
+    "text": "Everything is allowed to be."
+   },
+   {
+    "type": "photo",
+    "id": "ic-altar"
+   },
+   {
+    "type": "p",
+    "text": "Let us come together in a circle - as the tribe we are. Surrounded and enveloped by the elements. And protected, carried and blessed by MAMA TREE, the equivalent of Eywa, the tree of souls from Avatar! This tree alone is worth being there, we guarantee it!"
+   },
+   {
+    "type": "photo",
+    "id": "ic-kristall"
+   },
+   {
+    "type": "heading",
+    "text": "4 days in Mother Nature"
+   },
+   {
+    "type": "p",
+    "text": "Together we will experience:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentic and grounded spirituality & depth psychology",
+     "Deep process work and holistic group therapy",
+     "Sound healing & singing circles",
+     "Astrology",
+     "Guided meditations",
+     "Dancing",
+     "Yoga Nidra - psychic sleep meditation",
+     "Silence",
+     "Rituals & ceremonies",
+     "Nature therapy",
+     "Conscious talking circles",
+     "Therapeutic writing",
+     "Authentic relating & constellation work",
+     "Yoga",
+     "Writing",
+     "Holotropic breathing",
+     "Spiritual and psychological guidance",
+     "and much, much more!"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "ic-kerzen-gitarre"
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "We also travel into the astral dimension and into dream worlds by working intensively with Yoga Nidra."
+   },
+   {
+    "type": "statement",
+    "text": "Dissolve old beliefs for good - reprogram cells on an epigenetic level - manifest at a high frequency"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a guided deep meditation that has its origins in the ancient Indian tradition of Tantra. Through deep relaxation of body, mind and soul and the shift of our brain waves to theta waves (the same waves that are activated in hypnosis), we enter a trance-like space between waking and sleep. In this way we gain direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "quote",
+    "text": "An impulse planted in the subconscious can unfold in our lives far more easily than one given in the waking state!"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-19",
+     "shape": "rect",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Runde im Tipi um ein Feuer",
+      "en": "Circle around a fire in the tipi"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "We also learn to distinguish more clearly between states such as waking, sleeping, dozing and dreaming and to become more lucid, that is, more aware and awake, which also helps us to have more pleasant dreams and nights. In this way we practise lucid dreaming and out-of-body experiences (astral travel)."
+   },
+   {
+    "type": "p",
+    "text": "For years I have also been able to observe in the participants of my Nidra courses how this journey into the subconscious stimulates creative (writing) processes in a magical and very deep way and lets them unfold."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "More about Yoga Nidra"
+   },
+   {
+    "type": "photo",
+    "id": "ic-feuer"
+   },
+   {
+    "type": "lead",
+    "text": "Of course you will be provided with healthy and balanced wholefood meals."
+   },
+   {
+    "type": "photo",
+    "id": "ic-frauen-baum"
+   },
+   {
+    "type": "p",
+    "text": "The next retreat takes place in spring, once again in our beloved Baldham near Munich. At this secluded, enchanted retreat place we are completely on our own. This dreamlike piece of land has a sweet house with single rooms and the legendary MAMA TREE, which takes the breath away of every soul that sees it (and climbs it)! Let yourself be enchanted :)"
+   },
+   {
+    "type": "p",
+    "text": "We have everything we need there - and more! There is plenty of space for you and your soul and for all our group activities! Nearby, wild nature, places of power, lakes and forests are waiting."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "ic-gruppe-efeu",
+     "ic-baum-klettern",
+     {
+      "id": "web-44",
+      "shape": "arch",
+      "position": "50% 40%",
+      "alt": {
+       "de": "Eine Runde sitzt im Efeu unter Bäumen",
+       "en": "A circle sitting in the ivy under trees"
+      }
+     },
+     "ic-kreis-felsen",
+     "ic-waldkreis",
+     "ic-wanderung",
+     "ic-yoga-kuppel",
+     "ic-meditation-kuppel",
+     "ic-frau-lachen",
+     "ic-gruppe-wiese",
+     "ic-baum-sonne",
+     "ic-felsen-sprechen",
+     "ic-drei-frauen",
+     {
+      "id": "web-45",
+      "shape": "rect",
+      "position": "50% 40%",
+      "alt": {
+       "de": "Elena Judith und Daniel vor einem großen Baum",
+       "en": "Elena Judith and Daniel in front of a big tree"
+      }
+     },
+     "ic-elena-karte",
+     "ic-frau-augen-zu",
+     "ic-elena-stab",
+     "ic-paar-baum",
+     "ic-kreis-wiese",
+     "ic-frau-sitzend",
+     "ic-kueche",
+     "ic-elena-portraet",
+     "ic-indien-felsen",
+     "ic-elena-augen-zu",
+     "ic-indien-yoga"
+    ]
+   },
+   {
+    "type": "lead",
+    "text": "The processes and results of our previous retreats were breathtaking and exceeded all our expectations."
+   }
+  ],
+  "closing": [
+   "Are you ready?",
+   "We need YOU!",
+   "Healing happens TOGETHER.",
+   "Yours, Elena Judith"
+  ],
+  "places": "There are only very few places on this retreat, because we only work with very small groups so that we can really go deep!"
+ }
+}

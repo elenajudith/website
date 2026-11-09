@@ -1,0 +1,574 @@
+{
+ "description": "Wise In Her Ways (Elena 03.11.2026): Text von elenajudith.de, nur Tippfehler korrigiert. Absätze zu Baldham/MAMA TREE/Winter und „Neues Jahr“ weggelassen, weil sie dem Ort St. Peter und dem Mai-Termin widersprechen.",
+ "hero": {
+  "id": "wi-trommel-herbst",
+  "shape": "arch",
+  "position": "50% 35%",
+  "alt": {
+   "de": "Eine Frau hebt ihre Trommel zum Himmel",
+   "en": "A woman raising her drum to the sky"
+  }
+ },
+ "de": {
+  "eyebrow": "FRAUENRETREAT · 4 TAGE IN MUTTER NATUR",
+  "title": "Wise In Her Ways",
+  "subtitle": "Frauenretreat",
+  "claim": "Ein 4-tägiges Frauenretreat mit Yoga Nidra, Voice Activation, kreativem Schreiben, Zeremonien & Prozessarbeit in Mutter Natur",
+  "dateLabel": "TERMIN",
+  "date": "Nächster Termin in Planung · Warteliste",
+  "questionsIntro": "Liebe Schwester,",
+  "questionsLead": "",
+  "questions": [
+   "Wer bist du? Was macht dich aus? Bist du verbunden mit deiner einzigartigen Weiblichkeit?",
+   "Wo stehst du gerade und was fühlst du? Wie erlebst du diese höchst transformierenden Zeiten?",
+   "Was hat sich in deinem Leben verändert, ob durch den Krieg oder durch private und persönliche Geschehnisse? Was durfte in dir und durch dich transformiert werden?",
+   "Wie geht es jetzt weiter? Für dich, fürs kollektive Bewusstsein, für die Menschheit und für Mutter Erde?",
+   "Welche bewussten Entscheidungen triffst du bezüglich deines Konsums, deiner Ernährung, deiner Lebensgestaltung, deiner Ideale und Werte? Deiner Spiritualität?",
+   "Wie ist deine Beziehung zu Mutter Natur?"
+  ],
+  "blocks": [
+   {
+    "type": "photo",
+    "id": "wi-gruppe-trommel"
+   },
+   {
+    "type": "heading",
+    "text": "Time for Sacred Sisterhood!"
+   },
+   {
+    "type": "p",
+    "text": "Mitten in dieser turbulenten, die Menschheit verändernden Zeit, sind diese Fragen so aktuell und wichtig wie selten zuvor. Falls dir das Beantworten dieser Fragen nicht leicht fällt, so sei dir gewiss:"
+   },
+   {
+    "type": "statement",
+    "text": "Schwester, du bist nicht allein."
+   },
+   {
+    "type": "p",
+    "text": "Genau wie die Große Mutter, die Göttin, haben wir Frauen verschiedene Gesichter, verschiedene glitzernde faszinierende leuchtende dunkle vielschichtige bunte jahrtausendealte Facetten. Sie alle machen uns zu dem, was wir sind. Was wir immer schon gewesen sind. Sie alle dürfen sein. Sie alle sind wichtig. Sie alle machen uns ganz."
+   },
+   {
+    "type": "p",
+    "text": "Mal verkörperst du die Göttin der Liebe, der Sinnlichkeit und der Anmut. Mal gehst du tief hinein in deine eigene Schattenwelt, um das zu integrieren, was dich besonders, tief, wahrhaftig und berührbar macht."
+   },
+   {
+    "type": "p",
+    "text": "Durch die liebevolle Integration all deiner Anteile wirst du ein Abbild und ein Teil der Großen Mutter. Du bist einzigartig. Du webst deine individuellen Gaben und deine Weisheit ein in alles, was du tust. In den großen komplexen Teppich des Lebens."
+   },
+   {
+    "type": "photo",
+    "id": "wi-haende"
+   },
+   {
+    "type": "statement",
+    "text": "Jede Frau ist WISE IN HER WAYS",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "Zeit, uns wahrhaft zu begegnen. Mit all unseren Träumen und Wünschen, Gaben und Geschenken, Ängsten und Sorgen, Zweifeln und Themen, Wunden und Wundern."
+   },
+   {
+    "type": "statement",
+    "text": "Alles darf sein."
+   },
+   {
+    "type": "p",
+    "text": "Lass uns diese besondere Zeit des Neubeginns nutzen. Lass uns zusammenkommen im Kreis der Heiligen Schwesternschaft. Lass uns gemeinsam unsere ekstatische, sinnliche und wilde Weiblichkeit erwecken und stärken."
+   },
+   {
+    "type": "p",
+    "text": "Von Herzen lade ich dich ein zu einem Frauenretreat in atemberaubender Location."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-kuppel-kreis",
+     "wi-kuppel-karten",
+     "wi-kuppel-kerze",
+     "wi-karten"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "4 Tage umgeben von Mutter Natur"
+   },
+   {
+    "type": "lead",
+    "text": "Gemeinsam werden wir erleben und erfahren:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentische Weiblichkeit fern von Normen & Erwartungen",
+     "Sound Healing & Singkreise",
+     "Womb & Yoni Healing",
+     "Astrologie",
+     "Geführte Meditation",
+     "Tanzen",
+     "Yoga Nidra - psychic sleep meditation",
+     "Stille",
+     "Rituale & Zeremonien",
+     "Naturtherapie",
+     "Bewusste Redekreise",
+     "Tiefe Prozessarbeit",
+     "Therapeutisches Schreiben",
+     "Sacred Sisterhood",
+     "Authentic Relating & Aufstellungsarbeit",
+     "Weibliches Wissen",
+     "Soziokulturelles & geschichtlicher Hintergrund des Göttinnenkults",
+     "Und vieles, vieles mehr!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Mein Verständnis und Zugang zu Heilung und Retreats ist ein ganzheitlicher. Anstatt mich nur auf analytische Therapie zu stützen, bei der ausschließlich gesprochen, analysiert und gedacht wird - etwas, das wir in unserer modernen westlichen Gesellschaft ohnehin viel zu viel und durchaus krankhaft tun - integriere ich bei meinen Retreats verschiedene und abwechslungsreiche ganzheitliche Ansätze."
+   },
+   {
+    "type": "p",
+    "text": "Auch beim Zugang zum Schreiben glaube ich nicht ans (alleinige) Dasitzen und Nachdenken."
+   },
+   {
+    "type": "lead",
+    "text": "Ich glaube an"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Die Kraft der Stille",
+     "Die Medizin des Yoga, der Meditation und des Atems",
+     "Die Wichtigkeit der Bewegung",
+     "Die Magie des Tarot",
+     "Die Früchte des Spielens und des Musizierens",
+     "Die Bedeutung von ganzheitlicher Traumatherapie, Transpersoneller Therapie und Prozessarbeit"
+    ]
+   },
+   {
+    "type": "statement",
+    "text": "Und an den Schlüssel zu allem - Das Leben im Einklang und der tiefen Harmonie mit Mutter Natur."
+   },
+   {
+    "type": "p",
+    "text": "Wir erfahren und erleben mit unserem ganzen Sein, durch praktische Übungen, Zeremonien und Aktivitäten, den direkten Zusammenhang dieser Methoden und ihrer Medizin mit uns und unserem täglichen Leben - sodass wir uns in bewussten Redekreisen ums Feuer herum wahrlich öffnen und endlich einmal in die Tiefe gehen können in all den Themen, die so oft zu kurz kommen und über die wir dringend reden sollten - ganz einfach, weil sie wichtig sind, weil wir es sind."
+   },
+   {
+    "type": "photo",
+    "id": "wi-kugel-wald"
+   },
+   {
+    "type": "p",
+    "text": "Ferner reisen wir in die Astraldimension und in Traumwelten, indem wir intensiv mit Yoga Nidra arbeiten."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Alte Glaubenssätze dauerhaft auflösen - Zellen auf epigenetischer Ebene neu programmieren - Manifestieren auf hoher Frequenz"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat."
+   },
+   {
+    "type": "p",
+    "text": "Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf. Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "p",
+    "text": "Durch die direkte Arbeit mit unserem Unterbewusstsein hat alles, was wir uns in diesem Zustand selbst sagen und alles, was wir hören und erfahren, einen immensen, tiefen und wertvollen Einfluss. Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "photo",
+    "id": "wi-kuppel-nacht"
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine holistische (ganzheitliche) Therapie- und Heilmethode, die wissenschaftlich erforscht und bewiesen ist und weltweit erfolgreich bei Schlafstörungen, Angstpatienten, Alpträumen, in der Traumatherapie und vielem mehr eingesetzt wird."
+   },
+   {
+    "type": "p",
+    "text": "Ich darf seit Jahren bei den TeilnehmerInnen meiner Nidra Kurse beobachten, wie diese Reise ins Unterbewusstsein kreative (Schreib-)Prozesse auf magische und sehr tiefe Art und Weise ankurbelt und entfalten lässt. Außerdem werden durch Yoga Nidra unsere Zellen auf epigenetischer Ebene neu programmiert und alte Glaubenssätze umgeschrieben!"
+   },
+   {
+    "type": "statement",
+    "text": "Dies ist ein wichtiger Schlüssel in der Vergebungsarbeit und Heilung der Schwesternwunde."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-haende-wiese",
+     "wi-kreis-wiese",
+     "wi-gitarre",
+     "wi-schreiben",
+     "wi-vier-wiese",
+     "wi-gruppe-altar",
+     "wi-wald-bach",
+     "wi-gruppe-sonne"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Selbstverständlich wirst du mit gesunder und ausgewogener Vollwertkost versorgt."
+   },
+   {
+    "type": "p",
+    "text": "Wir werden in tiefen Kontakt mit Mutter Erde gehen und spüren, wie sie unsere größte Quelle der Heilung sein kann. Weil wir ein Teil von ihr sind. Weil sie unsere Große Mutter ist."
+   },
+   {
+    "type": "p",
+    "text": "Außerdem werden wir einen Fokus auf die Heilung der Schwesternwunde legen, die uns alle betrifft, ob wir uns dessen bewusst sind oder nicht."
+   },
+   {
+    "type": "statement",
+    "text": "Es ist an der Zeit, findest du nicht auch?"
+   },
+   {
+    "type": "photo",
+    "id": "wi-kuppel-rede"
+   },
+   {
+    "type": "heading",
+    "text": "The future is female"
+   },
+   {
+    "type": "p",
+    "text": "Die Zeiten, in denen wir uns kollektiv als Menschheit befinden, sind mehr als herausfordernd."
+   },
+   {
+    "type": "p",
+    "text": "Eine neue Erde benötigt eine starke weibliche Kraft, ein Prinzip und eine ethische Ausrichtung der Gesellschaft, die auf den weiblichen Attributen und Gaben der Weichheit, der Fürsorglichkeit, der emotionalen Intelligenz, des Gebens und der bedingungslosen Liebe beruht."
+   },
+   {
+    "type": "p",
+    "text": "Ein Fokus dieses Retreats wird auch darin liegen, gemeinsam zu erforschen, wie wir diese neue Erde kreieren können. Eine Welt, in der alle Wesen FRIEDLICH miteinander leben können."
+   },
+   {
+    "type": "statement",
+    "text": "Ich weigere mich, aufzugeben, daran zu glauben. Du auch?"
+   },
+   {
+    "type": "p",
+    "text": "Wir als Schwestern der Neuen Erde sind nun mehr als jemals zuvor eingeladen und ermutigt, die Energien positiv zu halten, in der Liebe und fest in uns verankert zu bleiben, Licht auszusenden ins kollektive Bewusstsein und somit alles und alle um uns herum zu stärken und zu unterstützen."
+   },
+   {
+    "type": "statement",
+    "text": "Unsere Zeit ist gekommen.",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "Ein Neubeginn für uns, für alle Menschen, Tiere und Pflanzen, für Mutter Erde. Bist du dabei?"
+   },
+   {
+    "type": "photo",
+    "id": "wi-wiese-drei"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-gruppe-mandala",
+     "wi-gruppe-rot",
+     "wi-selfie",
+     "wi-liegend",
+     "wi-kugel-zwei",
+     "wi-kugel-moos",
+     "wi-kugel-sw"
+    ]
+   }
+  ],
+  "closing": [
+   "Bist du bereit, tief in die Mysterien deiner Weiblichkeit einzutauchen?",
+   "Hast du Lust auf einen Kreis starker und sensibler Frauen?",
+   "Ich freue mich auf dich! Schwester, wir brauchen dich!",
+   "Alles ist Liebe oder der Schrei nach ihr."
+  ],
+  "places": "Bei diesem Retreat gibt es nur sehr wenige Plätze, da ich ausschließlich mit sehr kleinen Gruppen arbeite, um wirklich in die Tiefe gehen zu können!"
+ },
+ "en": {
+  "eyebrow": "WOMEN’S RETREAT · 4 DAYS IN MOTHER NATURE",
+  "title": "Wise In Her Ways",
+  "subtitle": "Women’s retreat",
+  "claim": "A 4-day women’s retreat with Yoga Nidra, voice activation, creative writing, ceremonies & process work in Mother Nature",
+  "dateLabel": "DATE",
+  "date": "Next date being planned · waiting list",
+  "questionsIntro": "Dear sister,",
+  "questionsLead": "",
+  "questions": [
+   "Who are you? What makes you you? Are you connected with your unique femininity?",
+   "Where are you right now and what do you feel? How are you experiencing these deeply transformative times?",
+   "What has changed in your life, whether through war or through private and personal events? What has been allowed to transform in you and through you?",
+   "Where do you go from here? For you, for the collective consciousness, for humanity and for Mother Earth?",
+   "What conscious choices do you make about your consumption, your food, the way you live, your ideals and values? Your spirituality?",
+   "What is your relationship with Mother Nature like?"
+  ],
+  "blocks": [
+   {
+    "type": "photo",
+    "id": "wi-gruppe-trommel"
+   },
+   {
+    "type": "heading",
+    "text": "Time for Sacred Sisterhood!"
+   },
+   {
+    "type": "p",
+    "text": "In the middle of these turbulent times that are changing humanity, these questions are as current and important as they have rarely been before. If answering them does not come easily to you, rest assured:"
+   },
+   {
+    "type": "statement",
+    "text": "Sister, you are not alone."
+   },
+   {
+    "type": "p",
+    "text": "Just like the Great Mother, the Goddess, we women have many faces, many glittering, fascinating, shining, dark, layered, colourful, thousands-of-years-old facets. They all make us who we are. Who we have always been. They are all allowed to be. They all matter. They all make us whole."
+   },
+   {
+    "type": "p",
+    "text": "Sometimes you embody the goddess of love, sensuality and grace. Sometimes you go deep into your own shadow world to integrate what makes you special, deep, true and touchable."
+   },
+   {
+    "type": "p",
+    "text": "Through lovingly integrating all your parts you become an image and a part of the Great Mother. You are unique. You weave your individual gifts and your wisdom into everything you do. Into the great, complex tapestry of life."
+   },
+   {
+    "type": "photo",
+    "id": "wi-haende"
+   },
+   {
+    "type": "statement",
+    "text": "Every woman is WISE IN HER WAYS",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "Time to truly meet each other. With all our dreams and wishes, gifts and talents, fears and worries, doubts and issues, wounds and wonders."
+   },
+   {
+    "type": "statement",
+    "text": "Everything is allowed to be."
+   },
+   {
+    "type": "p",
+    "text": "Let us use this special time of new beginnings. Let us come together in the circle of Sacred Sisterhood. Let us awaken and strengthen our ecstatic, sensual and wild femininity together."
+   },
+   {
+    "type": "p",
+    "text": "From my heart I invite you to a women’s retreat in a breathtaking location."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-kuppel-kreis",
+     "wi-kuppel-karten",
+     "wi-kuppel-kerze",
+     "wi-karten"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "4 days surrounded by Mother Nature"
+   },
+   {
+    "type": "lead",
+    "text": "Together we will experience:"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentic femininity beyond norms & expectations",
+     "Sound healing & singing circles",
+     "Womb & yoni healing",
+     "Astrology",
+     "Guided meditation",
+     "Dancing",
+     "Yoga Nidra - psychic sleep meditation",
+     "Silence",
+     "Rituals & ceremonies",
+     "Nature therapy",
+     "Conscious talking circles",
+     "Deep process work",
+     "Therapeutic writing",
+     "Sacred Sisterhood",
+     "Authentic relating & constellation work",
+     "Feminine wisdom",
+     "Sociocultural & historical background of the goddess cult",
+     "And much, much more!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "My understanding of and approach to healing and retreats is holistic. Instead of relying only on analytical therapy, where we only talk, analyse and think - something we do far too much, and in an unhealthy way, in our modern Western society anyway - I bring many different holistic approaches into my retreats."
+   },
+   {
+    "type": "p",
+    "text": "When it comes to writing, too, I do not believe in (only) sitting and thinking."
+   },
+   {
+    "type": "lead",
+    "text": "I believe in"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "The power of silence",
+     "The medicine of yoga, meditation and breath",
+     "The importance of movement",
+     "The magic of tarot",
+     "The fruits of play and making music",
+     "The value of holistic trauma therapy, transpersonal therapy and process work"
+    ]
+   },
+   {
+    "type": "statement",
+    "text": "And in the key to everything - a life in tune and in deep harmony with Mother Nature."
+   },
+   {
+    "type": "p",
+    "text": "With our whole being, through practical exercises, ceremonies and activities, we experience how directly these methods and their medicine connect with us and our daily lives - so that in conscious talking circles around the fire we can truly open up and finally go deep into all the topics that so often get too little room and that we urgently need to talk about - simply because they matter, because we matter."
+   },
+   {
+    "type": "photo",
+    "id": "wi-kugel-wald"
+   },
+   {
+    "type": "p",
+    "text": "We also travel into the astral dimension and into dream worlds by working intensively with Yoga Nidra."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Dissolving old beliefs for good - reprogramming cells on an epigenetic level - manifesting at a high frequency"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a guided deep meditation with its roots in thousands-of-years-old Indian Tantra."
+   },
+   {
+    "type": "p",
+    "text": "Through a deep relaxation of body, mind and soul and the shift of our brainwaves to theta waves (the same waves activated in hypnosis), we enter a trance-like space between waking and sleep. This gives us direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "p",
+    "text": "Because we work directly with our subconscious, everything we tell ourselves in this state, and everything we hear and experience, has an immense, deep and valuable influence. An impulse planted in the subconscious can unfold in our lives much more readily than one given while awake!"
+   },
+   {
+    "type": "photo",
+    "id": "wi-kuppel-nacht"
+   },
+   {
+    "type": "p",
+    "text": "We also learn to tell apart states such as waking, sleeping, dozing and dreaming, and to become more lucid, that is more conscious and awake, which also helps us to have more pleasant dreams and nights. In this way we train lucid dreaming and out-of-body experiences (astral travel)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a holistic therapy and healing method that has been scientifically researched and proven, and is used successfully around the world for sleep disorders, anxiety, nightmares, in trauma therapy and much more."
+   },
+   {
+    "type": "p",
+    "text": "For years I have been able to watch in the participants of my Nidra courses how this journey into the subconscious sparks creative (writing) processes and lets them unfold in a magical and very deep way. Yoga Nidra also reprograms our cells on an epigenetic level and rewrites old beliefs!"
+   },
+   {
+    "type": "statement",
+    "text": "This is an important key in forgiveness work and in healing the sister wound."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-haende-wiese",
+     "wi-kreis-wiese",
+     "wi-gitarre",
+     "wi-schreiben",
+     "wi-vier-wiese",
+     "wi-gruppe-altar",
+     "wi-wald-bach",
+     "wi-gruppe-sonne"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Of course you will be looked after with healthy, balanced wholefood meals."
+   },
+   {
+    "type": "p",
+    "text": "We will go into deep contact with Mother Earth and feel how she can be our greatest source of healing. Because we are part of her. Because she is our Great Mother."
+   },
+   {
+    "type": "p",
+    "text": "We will also focus on healing the sister wound, which affects all of us, whether we are aware of it or not."
+   },
+   {
+    "type": "statement",
+    "text": "It is time, don’t you think?"
+   },
+   {
+    "type": "photo",
+    "id": "wi-kuppel-rede"
+   },
+   {
+    "type": "heading",
+    "text": "The future is female"
+   },
+   {
+    "type": "p",
+    "text": "The times we are living through collectively as humanity are more than challenging."
+   },
+   {
+    "type": "p",
+    "text": "A new earth needs a strong feminine force, a principle and an ethical direction for society based on the feminine qualities and gifts of softness, care, emotional intelligence, giving and unconditional love."
+   },
+   {
+    "type": "p",
+    "text": "One focus of this retreat will also be to explore together how we can create this new earth. A world in which all beings can live together in PEACE."
+   },
+   {
+    "type": "statement",
+    "text": "I refuse to give up believing in it. Do you?"
+   },
+   {
+    "type": "p",
+    "text": "As sisters of the New Earth we are now invited and encouraged more than ever before to keep the energy positive, to stay in love and firmly anchored in ourselves, to send light into the collective consciousness and so to strengthen and support everything and everyone around us."
+   },
+   {
+    "type": "statement",
+    "text": "Our time has come.",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "A new beginning for us, for all people, animals and plants, for Mother Earth. Are you in?"
+   },
+   {
+    "type": "photo",
+    "id": "wi-wiese-drei"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "wi-gruppe-mandala",
+     "wi-gruppe-rot",
+     "wi-selfie",
+     "wi-liegend",
+     "wi-kugel-zwei",
+     "wi-kugel-moos",
+     "wi-kugel-sw"
+    ]
+   }
+  ],
+  "closing": [
+   "Are you ready to dive deep into the mysteries of your femininity?",
+   "Do you feel like joining a circle of strong and sensitive women?",
+   "I look forward to you! Sister, we need you!",
+   "Everything is love or the cry for it."
+  ],
+  "places": "There are only very few places on this retreat, because I only work with very small groups so that we can really go deep!"
+ }
+}

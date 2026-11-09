@@ -1,0 +1,903 @@
+{
+ "description": "Teilnehmerstimmen für das Karussell der Startseite (B-11). Quelle: docs/website-aenderungen.md, Abschnitt „Teilnehmerstimmen (Texte)“. Nur Einträge mit status „bereit“ werden angezeigt. Fotos: image = Bild-ID aus content/images.json, null = Platzhalter mit Initiale.",
+ "testimonials": [
+  {
+   "id": "T-01",
+   "name": "Kirstin",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-kirstin",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena ist ein wundervoller Herzensmensch, der es schafft, mit ihrer warmen und ruhigen Ausstrahlung einen geschützten Raum zu schaffen, um zur Ruhe zu kommen und bei sich selbst anzukommen. Das Inner Child Retreat hat mir sehr geholfen, vieles und vor allem mich selbst in einem neuen, positiveren und verständnisvolleren Licht zu sehen. Ich sehe jetzt vieles klarer und habe in mir selbst viele neue Stärken und Talente entdecken können.",
+    "Die Energie der Gruppe war unglaublich schön, und obwohl es mir sonst eher schwerfällt, mich anderen wirklich zu öffnen, fiel es mir hier sofort leicht. Ich habe erlebt, wie befreiend es sein kann und wie liebevoll und ermutigend diese Gemeinschaft und vor allem Elena geholfen haben, weiter zu mir zu finden und meine Stärken zu sehen und zu leben.",
+    "Emotional hat sich bei mir viel bewegt, aber neben den aufwühlenden Stunden, in denen wir uns mithilfe der Fragen, die Elena uns jeden Tag mitgegeben hat, in Ruhe mit eigenen Themen beschäftigen konnten, gab es auch sehr viel Freude, Leichtigkeit und Lachen beim Tanzen, Singen, Klettern und im Zusammensein. Elena hat eine ganz wundervolle Balance erschaffen und mit ihrer wunderschönen Stimme meine Liebe zur Musik auch wieder ganz neu erweckt. Ich habe gefühlt, wie sehr sie das liebt, was sie macht, und wie sehr sie es auch selbst lebt.",
+    "Ich freue mich schon auf das nächste Retreat mit ihr und kann sie aus tiefstem Herzen nur weiterempfehlen."
+   ]
+  },
+  {
+   "id": "T-02",
+   "name": "Nadine",
+   "context": "Inner Child Retreat, April 2026",
+   "lang": "de",
+   "image": "tp-nadine-ic",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich habe im April 2026 das Inner Child Retreat mit Elena besucht.",
+    "Die ganz unterschiedlichen Übungen, die teilweise wirklich tief gingen, der Ablauf des Retreats und wie alles aufeinander aufgebaut war, ihre Art, den Raum für Themen zu öffnen und zu halten, ihr Know-how in vielen Bereichen, ihre Beobachtungsgabe, Offenheit und Flexibilität und auch die Empathie, mit der sie auf mich und uns eingegangen ist, haben mir sehr gutgetan. Ich habe mich in der Gruppe unwahrscheinlich wohl und gesehen gefühlt, konnte mich mit meinen Themen auseinandersetzen, neue Erkenntnisse entdecken, mich besser kennenlernen und traute mich immer mehr, mich zu zeigen, meinen Platz einzunehmen und Schritte auf meiner Heilungsreise weiterzugehen.",
+    "Danke dir von Herzen, Elena! Aho!"
+   ]
+  },
+  {
+   "id": "T-03",
+   "name": "Melissa",
+   "context": "Retreat",
+   "lang": "de",
+   "image": "tp-melissa",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich möchte mich an dieser Stelle für das wundervolle Retreat bedanken. Es hat mich sehr bewegt, und vieles kam emotional und ganz tief in mir drinnen zum Vorschein. Danke, dass du den Raum und die Möglichkeit dafür geschaffen hast. Danke dafür, dass ich hinsehen, fühlen, heilen und transformieren konnte. Ich denke immer wieder daran zurück und habe einige Erkenntnisse für mein weiteres Leben mitgenommen. Allein dafür bin ich dir sehr dankbar."
+   ]
+  },
+  {
+   "id": "T-04",
+   "name": "Soraya",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-soraya",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Elements of Life Retreat war eine unglaublich schöne und tiefe Reise in mein Selbst und in meine Umwelt. Ich habe Ruhe, Selbstreflexion, eine tiefe Verbundenheit und Öffnung auf einem ganz besonderen Fleck Erde erfahren.",
+    "Die Tage waren emotional sehr intensiv. Die Größe der Gruppe war für mich persönlich angenehm, um sich schnell öffnen sowie fallen lassen zu können, und hat allen Teilnehmern genug Raum geboten, um sich auszudrücken und gehört zu werden. Ich habe durch die Übungen super liebe und unterschiedliche Menschen in kürzester Zeit sehr echt kennenlernen können. Es war wirklich schön, dass Elena und Daniel sich so persönlich mit in den Heilungsprozess eingebracht haben und wir sie authentisch erleben konnten. Beide haben einen sehr geschützten Raum erschaffen, danke dafür! Wir haben viel gelacht, geweint, geteilt, geschrien, geschwiegen, gesungen, getanzt und konnten zusammen heilen.",
+    "Mir hat die Struktur, die sich an den jeweiligen Chakren orientiert hat, besonders gefallen. Jeden Tag wurde die Praxis thematisch passend abgeändert, sodass man Zugang zu vielen neuen Praktiken und Zeremonien gefunden hat. Für mich die perfekte Mischung aus heilender Routine und neuem Input und Inspiration. Ich habe viele neue Methoden kennengelernt, die mit mir resoniert haben und die ich nun in meinen Alltag integrieren kann.",
+    "Ich danke euch von ganzem Herzen für diese bewegende Erfahrung und hoffe, dass ihr euer Wissen und eure Arbeit in Zukunft noch mit vielen Leuten teilt."
+   ]
+  },
+  {
+   "id": "T-05",
+   "name": "Kristina",
+   "context": "Song of the Soul Retreat",
+   "lang": "en",
+   "image": "tp-kristina",
+   "status": "bereit",
+   "paragraphs": [
+    "Thank you, Elena, for the Song of the Soul retreat. I'm glad I attended this beautiful event. I felt that I was in the right place at the right time, going through my life transformations. All three days we spent in our women's circle were magical for me. I really enjoyed singing and participating in songwriting with you. It was a completely new and heartwarming experience for me. Whenever I'm in Guatemala again, I would love to connect again. Thank you very much again."
+   ]
+  },
+  {
+   "id": "T-06",
+   "name": "Elena",
+   "context": "Song of the Soul Retreat",
+   "lang": "en",
+   "image": "tp-elena-song",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena is a person of very strong and directive energy. She holds so many powerful tools in her pocket and really wants you to make the most of them. She sees and lives the world from the different perspectives of various cultures, which allows her to have a bigger picture. In this manner, she is able to support you from a rather holistic approach! I love her singing; it's beautiful and can go so deep. I joined her 3-day retreat, which helped me to find my space and shift from being very shy to singing a song in front of the retreat group. Thank you so much for the out-of-comfort-zone challenges, space holding and voice practices!"
+   ]
+  },
+  {
+   "id": "T-07",
+   "name": "Kathi",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-kathi",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Inner Child Retreat, das Elena für unsere kleine, aber feine Gruppe veranstaltet hat, hat mich wieder mehr zu mir und meinem tiefsten Inneren zurückfinden lassen. Ich habe mich sehr schnell in der Gruppe und an dem Ort wohlgefühlt, was Elenas durchdachtem Programm zu verdanken ist. Dadurch fiel es mir auch nicht schwer, mich zu öffnen und meinen tiefsten Gedanken und Gefühlen Raum zu lassen. Durch den gut aufeinander abgestimmten Tagesablauf mit Yoga, Meditation, Breathwork, Singen, Tanzen, Redekreisen, aber auch mal Zeit für sich, um alles nochmal zu reflektieren und sich Gedanken zu den Themen zu machen, fühlte ich mich direkt gut aufgehoben. Am intensivsten waren für mich Yoga Nidra und das holotrope Atmen, was nochmal ganz tief in die Seele hineinging.",
+    "Ich bin gestärkt, motiviert, mit neuen Freunden und voller Vorfreude auf mein neues Ich aus dem Retreat herausgegangen. Ich habe viele Dinge für mich mitnehmen können, die mich auch weiterhin auf meinem Weg begleiten. Ich danke dir, liebe Elena, für diese wunderschönen Tage im Dornenreich und bin so froh, dass ich meinem Impuls gefolgt bin, daran teilzunehmen."
+   ]
+  },
+  {
+   "id": "T-08",
+   "name": "Laura",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-laura",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich habe das Elements of Life Retreat mit Elena und Daniel besucht und eine erholsame und inputreiche Zeit im Schwarzwald verbracht. Der Ort war absolut wunderbar ausgewählt: Blumenwiesen, ein fließendes Bächlein, Tannen und nur der nötigste Handyempfang. Ich befand mich in einer Zeit, in der ich neue Gewohnheiten (wie Meditation, regelmäßige körperliche Übungen und weniger Internetnutzung) in meinem Leben etablieren wollte, jedoch noch nicht diszipliniert genug war, dies aus eigener Motivation zu bewältigen. Das Retreat gab mir den nötigen Schub! Mit täglicher Yoga-Praxis, Meditationen und dem kaum vorhandenen Handyempfang konnte ich neue Kraft und Energie schöpfen.",
+    "Es gab viele Einblicke in spirituelle Riten und Praxen, Astrologie, Elementenlehre, Reflexionsfragen für die Mittagspause und wunderbare Gesprächsrunden am Lagerfeuer. Elena und Daniel strotzen nur so vor persönlicher Erfahrung und Wissensdurst! Ein Sprungbrett in neue Welten! Elena versteht es wirklich gut, diverse Praktiken, Philosophien und Lehren zu verknüpfen und zu ihrem eigenen, sehr inspirierenden Moodboard des Lebens zusammenzufügen. Ihre Yoga-Nidra-Praxis ist pure Magie.",
+    "Daniel hat uns mit leckerem Essen versorgt und ist auch auf Allergien und spezielle Wünsche eingegangen. Meine liebsten Pausen habe ich gern bei einem kleinen Plausch in der Outdoorküche mit ihm verbracht."
+   ]
+  },
+  {
+   "id": "T-38",
+   "name": "Denise",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "tp-denise",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Schweigeretreat hat mir dabei geholfen, endlich den Schritt in meine spirituelle Selbstfindung zu gehen. Mir hat bisher einfach eine Bezugsperson gefehlt, die mich hierbei unterstützen und leiten kann. In Elena habe ich diese Bezugsperson gefunden und auch wenn es nur ein Wochenende war, ein Wochenende bei dem es um das Schweigen ging, hat sie mich sehr unterstützen können, ein Stück mehr zu mir zu finden. Die Art, wie sie mit uns umgegangen ist, was sie uns gezeigt und geboten hat - danach ging es meiner Seele wieder gut. Und dieser Ort … einfach nur magisch. Ich danke Elena und Daniel für ihre Offenheit und dass man sich in eurer Gegenwart einfach sehr wohl gefühlt hat.",
+    "Viele Grüße und bis hoffentlich bald"
+   ]
+  },
+  {
+   "id": "T-09",
+   "name": "Gabriel",
+   "context": "Silent Retreat (Schweigewochenende), Juni 2018",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Das Schweigewochenende im Schwarzwald im Juni 2018 war eine ganz besondere Erfahrung. Das Schweigen hat mich sehr konzentriert werden lassen. Durch die liebevolle Begleitung von Elena und Daniel habe ich mich angenehmerweise nicht in meinen Gedanken verloren. Die Kombination aus Yoga-Asanas, Meditation und Yoga Nidra bildete eine wunderbare Grundlage. Elena hat uns sehr professionell und verständlich durch die Übungen geführt. Sie hat dafür auch eine wundervolle Stimme. Das Wochenende war sehr anregend und hat vieles bei mir in Gang gesetzt."
+   ]
+  },
+  {
+   "id": "T-10",
+   "name": "Sabine",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Die Gegend war extrem passend und traumhaft schön. Eure Einführung und die kurze Gruppenrunde vor dem Schweigen haben mir auch sehr gut gefallen. Das Schweigen war anfangs sehr ungewohnt und unerwartet laut mit so vielen Dingen im Kopf, die man im Alltag eher abschalten kann. Die Yogaeinheiten fand ich super und sehr kräftigend, um in den Tag zu starten. Ich fand euch als Team und Paar sehr stark und inspirierend. Ihr habt alles sehr bemüht, mit vollem Herzen und im Einklang gemacht. Am stärksten ist mir mein Gefühl am Ende in Erinnerung geblieben. Ich habe mich sehr befreit und glücklich gefühlt und sehr lange danach noch morgens das Lied angehört, mit dem du uns geweckt hast. Alles in allem fand ich, dass es sehr stimmig war und viel Positives in mir ausgelöst hat. Es war einfach eine tolle und besondere Erfahrung."
+   ]
+  },
+  {
+   "id": "T-11",
+   "name": "Elena Valeska",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "tp-elena-valeska",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Schweigeretreat mit Elena und Daniel war eine heilsame und wundervolle Erfahrung. Der Ort war absolut magisch und die liebevolle und authentische Art der beiden ganz bezaubernd, ich habe mich sehr getragen gefühlt. In die Stille zu gehen hat so gutgetan und ist mir überhaupt nicht schwergefallen, obwohl ich sonst sehr gerne viele Worte benutze. Die inneren Stimmen sind ja schon laut genug, wurden aber in tiefer Verbundenheit mit Pachamama von Tag zu Tag leiser. Ich kann jedem nur ans Herz legen, diese Erfahrung mitzunehmen und wieder ein Stück tiefer mit sich und seiner Seele in Berührung zu kommen."
+   ]
+  },
+  {
+   "id": "T-12",
+   "name": "Franzi",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "tp-franzi",
+   "status": "bereit",
+   "paragraphs": [
+    "In dem Schweigeretreat im schönen Schwarzwald, angeleitet von Elena, fand ich genau das, wonach ich mich den Sommer über gesehnt hatte: innere Ruhe und zu mir finden, ein wundervolles Naturerlebnis, Geborgenheit, Dialog mit mir, einfühlsame Begleiter*innen und zahlreiche mir die Augen öffnende Übungen.",
+    "Ich bin sehr glücklich darüber, mich auf dieses neue Erlebnis eingelassen zu haben, und profitiere noch ein halbes Jahr später von dieser für mich besonderen Zeit. Die Location ist wunderschön, denn man lebt richtig im Grünen zwischen Kühen, einem Bächlein, einer großen Outdoorküche und einem gemütlichen Gemeinschaftszelt. Trotz teilweise ungemütlichen Wetters habe ich mich immer wohlgefühlt und die Nähe zur Natur genossen. Elenas persönliche Art hat mir von Anfang an sehr geholfen, mich direkt in der Gruppe fallen lassen zu können, mich zu öffnen und geborgen zu fühlen. Besonders beeindruckt hat mich ihre liebevolle Anleitung des Yoga Nidras.",
+    "Ich würde fast jeder und jedem ein Schweigeretreat mit Elena ans Herz legen, die/der mal etwas Neues erleben und sich etwas Gutes tun möchte."
+   ]
+  },
+  {
+   "id": "T-13",
+   "name": "Rina",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-sabrina",
+   "status": "bereit",
+   "paragraphs": [
+    "Der Aufruf zum Retreat „Wise In Her Ways“ hat mich förmlich umarmt. Aus jedem einzelnen Wort der Einladung strömte mir so viel Wärme und Liebe entgegen, dass ich wusste, ich will dort sein. Noch einen Tag vor der Abreise fragten verschiedene Widrigkeiten (Arbeit, Zugverkehr) bei mir an, wie ernst es mir mit dem Plan sei. Und ich habe diese Frage mit Entschlossenheit beantwortet. Was ich dafür zurückbekam, ist kaum in Worte zu fassen. Begegnungen mit wundervollen, einzigartigen Menschen. Jede Frau auf ihre Weise, mit jedem Blick, jeder geteilten Geschichte, jedem Lächeln ein Geschenk. Ich war so erfüllt, dass ich dachte, ich könnte gleich losfliegen. Elena hat uns mit all ihren Erfahrungen, mit ihrer wunderschönen Musik und ihrem Blick für das Leuchten in jedem Menschen und in der Welt zusammengeführt, und wir sind (für mich so gefühlt) zweieinhalb Tage in einem Kuschelhaufen aus bunten, strömenden Energien, verbunden durch kalte Nächte und sonnige Tage, getanzt. Ich habe das Leben eingeatmet und gefühlt: Wir sind eins. Wir sind miteinander und füreinander da. Das ist so schön, und das Gefühl trage ich mit mir in meinem Herzen."
+   ]
+  },
+  {
+   "id": "T-14",
+   "name": "Steffi",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-steffi",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Elements of Life Retreat ist inzwischen schon ein Dreivierteljahr her – wenn ich an diese Zeit zurückdenke, bin ich so sehr froh, sie erlebt zu haben. Es hat mich in vielen Formen gestärkt, und gegenseitig haben wir uns genährt sowie inspiriert. Elena und Daniel waren super lieb und sind allen Teilnehmern auf Augenhöhe begegnet. Bis heute habe ich Kontakt zu ihnen. Ich kann jedem, der mehr zu sich selbst kommen möchte, nur empfehlen, an einem ihrer wunderschön gestalteten Retreats teilzunehmen. Aho und unglaubliche Dankbarkeit."
+   ]
+  },
+  {
+   "id": "T-15",
+   "name": "Sibel",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-sibel",
+   "status": "bereit",
+   "paragraphs": [
+    "Es war sehr schön, in die wunderbare Landschaft im Schwarzwald einzutauchen und gemeinsam in der Gruppe diese intensiven Tage zu erleben. Das gegenseitige Vertrauen war schnell da, und jede*r konnte sich einbringen und seinen Prozess mitteilen. Es gab viel persönlichen Austausch und Rituale. Dabei haben wir uns gegenseitig gestärkt. Das Programm war abwechslungsreich und inspirierend. Das Morgen-Yoga und die dazugehörige Chakren-Arbeit waren sehr kraftvoll. Auch die von Elena angeleiteten Seelenreisen waren für mich eine heilsame Erfahrung und ermöglichten mir, ein Tor zu meinem Unterbewusstsein zu öffnen. Ich fühlte mich nach diesen Tagen sehr ausgeglichen, da wir uns ganzheitlich mit den vier Elementen auseinandergesetzt haben. Schön war es, zu jedem Element passend ein Ritual oder eine Zeremonie zu gestalten. Auch das Essen war wunderbar, nährend für Körper und Seele. Ich schätzte die Herzlichkeit und die authentische Art, wie Elena und Daniel das Retreat geleitet haben. Es ist spürbar, dass sie ihre Vision leben und mit ihrer ganzen Leidenschaft dabei sind!"
+   ]
+  },
+  {
+   "id": "T-16",
+   "name": "Silja",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-silja",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Wochenende unter uns Schwestern an diesem erholsamen, wunderbaren Platz weit draußen, geführt und begleitet von Elena und den lebenden Kräften, war ganz schön magisch für mich. Eintauchen in tiefe Themen, im Feingefühl mit dem Flow gehen, atmen, sein, Unterstützung fühlend, erinnert werden. Erneuerung finden in Verkörperung der drei Farben, Erlaubnis für Wandlung. Die Vielseitigkeit und das Wissen von Elena überraschen mich immer wieder. Das Wasser tat unglaublich gut, und die Verbindung aus Meditation, Singen, Redekreisen und rituellen Momenten schenkte mir Heilung, neue Kraft und Möglichkeiten zur Reflexion und Spiegel im Miteinander! Danke für die Zeit!"
+   ]
+  },
+  {
+   "id": "T-17",
+   "name": "Silja",
+   "context": "Medizin-Retreat mit Yawanawa & Ashaninka, begleitet von Elena",
+   "lang": "de",
+   "image": "tp-silja",
+   "status": "bereit",
+   "paragraphs": [
+    "Von Beginn an im Eröffnungskreis haben mir Elenas Kraft und ihr liebevolles Singen sehr viel Vertrauen und Dankbarkeit geschenkt, mich wohl und sicher zu wissen, was auch passiert, gehalten zu sein. Während der Reise waren die Phasen ihrer Gesänge so tragend, weich und öffnend für mich, sodass ich Weite, Verbindung und immer wieder tiefe Unterstützung fühlen durfte! Danke! Dafür Liebe."
+   ]
+  },
+  {
+   "id": "T-18",
+   "name": "Imad",
+   "context": "Retreat",
+   "lang": "en",
+   "image": "tp-imad",
+   "status": "bereit",
+   "paragraphs": [
+    "To put into words the wonder of what I've experienced is not really possible. But wonder-ful would be a good way to put it, with the full implications of that expression. I can say with certainty that the experience I had in the retreat with Elena and Daniel and the other wonderful souls that came together was one of the significant experiences I've had in my life, and its effect and memory are still present and brilliant in my heart and mind.",
+    "I can tell you about the bright, heartfelt smile and the very big hug I first received from Daniel when he came to pick us up; it made me feel so welcome and opened the gate for me to the journey into this wonderful \"other world\" that I was seeking. Such a loving, wonderful, caring soul with a treasure in his heart. Then there was Elena. She is the one who took us along the ride and helped us open our eyes towards the wonderful, to find our connection to nature and to one another, to Mother Earth, and opening our hearts to love and the healing we seek. The first thing we did was to create an altar of symbols and pieces of nature after she showed us how, and I was all of a sudden transformed into a new space of wonder and harmony and beauty. She has such a sense of the aesthetic, a strong connection to nature and beauty, and a keen ability to see and help us see the wonder in front of our eyes, be it hidden in the sight of a wild flower or created by everybody dancing to music over earth and chipped wood.",
+    "The community of all of us who came together through this process, a communitas of love and communication from the heart, a unique gathering of wonderful souls at a point in time, created a living thing with the power of healing and joy that can propagate and leave a lasting effect. This experience of the other world was truly \"this world rightly seen\". I'm thankful for this revelation."
+   ]
+  },
+  {
+   "id": "T-19",
+   "name": "Chris",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-chris",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat hat mir mega geholfen. Ich habe im Laufe der Tage und auch danach so viel über mich erfahren. Ich habe so viel positive Wut rauslassen können, die ich sonst eher gleichgültig ignoriere. Es gab fruchtbare Konfrontationen bzw. Auseinandersetzungen mit Kollegen und Vorgesetzten. Ich weiß, dass ich mehr persönliche Verantwortung übernehmen und mehr für den Veganismus tun möchte. Ich habe während des Retreats davon geträumt, dass ich einem Menschen in meinem Leben gesagt habe, dass ich ihn liebe – obwohl ich das so noch nie gesagt habe. So super viel ist passiert, echt der Wahnsinn! In der Natur und in der Begegnung mit unseren inneren Kindern kommen Antworten, und ich bin euch so dankbar für das Wochenende! Das war so wertvoll! Ganz liebe Grüße und Gottes Segen."
+   ]
+  },
+  {
+   "id": "T-20",
+   "name": "Swantje",
+   "context": "Wise In Her Ways (Teilnehmerin und Fotografin)",
+   "lang": "de",
+   "image": "tp-swantje",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich bin von Herzen dankbar für diese Erfahrung. Das Retreat war für mich ein Raum voller Heilung, Tiefe und ehrlicher Begegnungen, getragen von Elenas intuitiver Weisheit und liebevoller Präsenz.",
+    "Elena schafft mit ihrer authentischen Art einen sicheren, nährenden Raum, in dem jede Frau eingeladen ist, sich selbst wiederzuentdecken. Ihre Rituale, ihre Stimme und ihr Blick für das Wesentliche berühren die Seele. Ich konnte nicht nur wundervolle Momente mit der Kamera festhalten, sondern wurde selbst Teil einer Bewegung, die das Menschsein feiert – wild, weich, wahrhaftig.",
+    "Die Verbindung mit der Natur, das gemeinsame Singen, das Teilen im Kreis – all das hat mich inspiriert und gestärkt. Ich reise mit einem offenen Herzen ab, tief verbunden mit großartigen Menschen, neuen Impulsen und einer Portion Sternenstaub im Gepäck.",
+    "Liebe Elena, danke für deine Hingabe, deinen Mut und deine Magie. Du hast etwas Einzigartiges geschaffen – und ich freue mich schon jetzt auf die nächste Reise mit dir."
+   ]
+  },
+  {
+   "id": "T-21",
+   "name": "Jasmin",
+   "context": "Retreat (gleiche Person wie T-28, war bei mehreren Retreats)",
+   "lang": "de",
+   "image": "tp-jasmin-wise",
+   "status": "bereit",
+   "paragraphs": [
+    "Man muss sich einfach nur darauf einlassen, dann entsteht etwas ganz Magisches! Ich bin unglaublich dankbar für diese Erfahrung: meine Ängste anzuschauen und anzufangen, sie zu überwinden, Neues auszuprobieren, einfach im Hier und Jetzt zu sein. Ich fühle mich wieder bei mir angekommen, ich fühle Liebe, Leichtigkeit und pures Vertrauen in die Zukunft. Ich fühle mich gestärkt, und genau das möchte ich nach außen tragen und dadurch andere Menschen inspirieren und sie motivieren, tiefer zu schauen, mehr hinzuschauen bei sich selbst und auch andere anzuschauen – wahrhaftig!",
+    "Ich habe Liebe zu geben! Sobald der richtige Mensch vor mir steht, bin ich bereit dafür, wenn ich ganz bei mir bin und wie beim Retreat auf mich achte. Dann habe ich Energie für andere. Es kommt alles zu seiner Zeit – ich habe jetzt wieder die Gewissheit, dass ich bereit dafür bin.",
+    "Danke für diese Erfahrung! Danke für die neuen Bekanntschaften! Danke für den wundervollen, magischen Rahmen! Danke, dass ich mich selbst wieder besser kennenlernen und lieben durfte! Und danke, dass ich wieder weiß, wie schön ich bin – vor allem meine Seele!"
+   ]
+  },
+  {
+   "id": "T-22",
+   "name": "Andrew",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-andrew",
+   "status": "bereit",
+   "paragraphs": [
+    "Dieses Retreat hat mir die Augen für die Kraft der Spiritualität, des Bewusstseins und der Liebe geöffnet. Es war beruhigend zu wissen, dass so viele wunderbare Seelen auf der Erde leben. Das Zusammenkommen, wenn auch aus unterschiedlichen Lebensbereichen kommend, unter der Leitung von Elena, offenbarte mir die Kraft eines Tribes. Ich bin für immer dankbar für diese Erfahrung, denn sie hat mich in einem Zustand glückseliger Erinnerung und immer noch andauernder Transformation zurückgelassen. Es hat ein Gefühl der Bestimmung geweckt: zu fühlen! Und dafür bin ich ewig in Dankbarkeit. Man kann mit Sicherheit sagen, dass Elena ein neues Mitglied ihres Tribes gefunden hat, und ich werde diesem gerne folgen, wohin ihn seine Wege führen mögen."
+   ]
+  },
+  {
+   "id": "T-23",
+   "name": "Melanie",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-melanie",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Inner Child Retreat hat mir sehr dabei geholfen, mich besser kennenzulernen, besser auf meine Bedürfnisse zu hören und somit ein glücklicheres Leben zu führen. Ich habe viele neue Menschen kennengelernt, wir haben viel geweint und gelacht, getanzt und gesungen. Es war einfach unvergesslich, und wenn ich an die Zeit zurückdenke, fühlt es sich an wie ein Wendepunkt, wie ein Neuanfang, eine neue Zeit. Seither dürfen mein inneres Kind und ich wieder Hand in Hand gehen. Das Retreat würde ich jederzeit jedem weiterempfehlen!",
+    "Es ist so schön, dass es Menschen wie dich gibt. Menschen, die die Sprache des Herzens verlernt haben, finden durch dich wieder den richtigen Weg, den Weg, der zum Glück führt. Vielen, vielen Dank!"
+   ]
+  },
+  {
+   "id": "T-24",
+   "name": "Tamara",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-tamara",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat war wie ein wahrgewordener Traum. Elena ist eine unfassbar inspirierende und weise Seele, die einen unglaublichen Erfahrungs- und Wissensschatz besitzt und diesen gerne weitergeben will. Sie versteht es, den Menschen auf eine empathische und einfühlsame Art zu begegnen, ohne sie zu verurteilen. Auch hat sie viel Persönliches mit uns geteilt und jede Frage ausnahmslos beantwortet, was sie so authentisch und nahbar macht. Sie lebt eben genau das, was sie tut! Und das spürt man auch. Außerdem hat sie eine wunderschöne Stimme; wenn sie Gitarre spielt und dabei singt, fühlt man ihren Vibe und ihre ansteckende Energie total.",
+    "Wir haben in der Sonne getanzt, Yoga praktiziert, meditiert und uns mit Mutter Erde verbunden. Wir hatten auch viele Circles, diese waren so unbeschreiblich tiefgründig und kraftvoll und haben mir so viel gegeben. Weiterhin waren wir so eine wundervolle Gemeinschaft, in der jeder seinen Platz innehatte.",
+    "Ich bin mehr als dankbar, dass ich diese einmalige Erfahrung machen durfte, es war einfach magisch! Ich kann jedem, der sich tiefgehend seinen Themen im Rahmen eines verbundenen Tribes widmen und vor allem ins Spüren kommen möchte, die Retreats von Elena aus tiefstem Herzen empfehlen!"
+   ]
+  },
+  {
+   "id": "T-25",
+   "name": "Lea",
+   "context": "Elements of Life Retreat in Indien",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Ich war mit Elena und Daniel auf dem Elements of Life Retreat in Indien. Wir hatten dort eine magische Zeit, und ich schöpfe heute noch Kraft aus diesen Tagen. Elena und Daniel bilden zusammen ein unschlagbares Team; sie haben dafür gesorgt, dass wir körperlich und seelisch eine unvergesslich gute Zeit hatten. Es war ein herzlicher Umgang, in dem jeder so aufgenommen wurde, wie er ist, und sich mit den ganz eigenen Sorgen, Ängsten und Wünschen der ganzen Gruppe öffnen konnte. Wir haben zusammen gelacht und geweint und sind zuletzt zusammengewachsen. Ich würde jederzeit wieder mitmachen!"
+   ]
+  },
+  {
+   "id": "T-26",
+   "name": "Leonie",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat hat mir wirklich viel gebracht – ich habe in kürzester Zeit tief in mich hineingespürt, viel reflektiert und einige sehr berührende Momente erlebt. Die Umgebung war wunderschön, die Stille heilsam, und die Meditationen, das Yoga Nidra und auch das Breathwork waren tiefgehend und sehr gut angeleitet. Die Gruppe war angenehm und wertschätzend, und ich habe mich in vielem gesehen und getragen gefühlt.",
+    "Was mich besonders beeindruckt hat, bist du als Mensch: Du strahlst Authentizität und Präsenz aus, hast eine besondere Energie und bringst unglaublich viel Herz in deine Arbeit. Man spürt, dass das hier kein „Programm“ ist, sondern echtes Engagement und Tiefe.",
+    "Du bist eine beeindruckende Frau mit einer besonderen Gabe, Menschen zu begleiten. Ich wünsche dir weiterhin viel Kraft und Freude auf deinem weiteren Weg. Ganz viel Liebe."
+   ]
+  },
+  {
+   "id": "T-27",
+   "name": "Annetta",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-annetta",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat im Schwarzwald bei Elena war für mich eine tief transformierende Erfahrung. Wir haben mitten im Grünen übernachtet, und ein sanft plätschernder Bach floss zwischen unseren Schlafplätzen. Allein dieses Setting hat so viel Ruhe und Erdung gebracht. Wir haben gemeinsam meditiert, getanzt, Yoga gemacht und kraftvolle Rituale gefeiert. So viel Verbundenheit, Vertrauen und weibliche Kraft in einem Raum zu spüren, war unbeschreiblich schön.",
+    "Ich habe mich mit wunderbaren Frauen aus allen Altersklassen verbunden. Jede Begegnung war besonders und auf ihre Weise heilsam. Durch das ganze Wochenende habe ich mich tief mit der Natur verbunden gefühlt – mit den Bäumen, dem Wasser, dem Wind. Mutter Natur hat mich getragen und mir so viel Kraft geschenkt.",
+    "Ich bin unendlich dankbar für diese Erfahrung. Es war magisch, heilend und stärkend. Danke, liebe Elena, von ganzem Herzen, für diesen heiligen Raum. Du hast mich inspiriert, mir die Tür geöffnet für eine andere Ebene! Dafür werde ich dir immer dankbar sein. Ich wünsche dir von Herzen alles, alles Gute und viel Liebe! Du bist wirklich eine Bereicherung für uns Frauen!"
+   ]
+  },
+  {
+   "id": "T-28",
+   "name": "Jasmin",
+   "context": "Retreat im Schwarzwald",
+   "lang": "de",
+   "image": "tp-jasmin-wise",
+   "status": "bereit",
+   "paragraphs": [
+    "Mitten im wunderschönen Schwarzwald hat Elena einen Raum kreiert, in dem sich unterschiedliche Menschen kennenlernen, verbinden und zusammen heilen durften. Wir haben zusammen gelacht, geweint, gesungen und geschwiegen und uns dabei so angenommen, wie wir sind. Wir haben Geschichten geteilt, uns in den anderen wiedererkannt und unterstützt. Jeder Einzelne hat seine eigene Weisheit mitgebracht und geteilt, und es war wunderschön, ein Teil davon zu sein. Dabei hat uns Elena durch ihre Rituale, die Workshops, das Yoga, das Journaling und ihre Magie begleitet, sodass wir uns voll entfalten konnten. Vielen Dank, Ahey."
+   ]
+  },
+  {
+   "id": "T-29",
+   "name": "Nadine",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": null,
+   "status": "Rückfrage",
+   "paragraphs": [
+    "Ich hatte mich schon, seit ich dir zugesagt hatte, auf das Wochenende gefreut, auf die Erlebnisse in Stille in der Gruppe und in mir – in der Natur. Bei dem Ort hast du wirklich nicht zu viel versprochen, so ein magischer Platz!",
+    "Du hast ein so vielfältiges Programm geboten, mit ganz unterschiedlichen Methoden, Übungen und Ritualen. Ich fand den Mix aus Zeit in der Gruppe und Zeit für sich allein sehr ausgeglichen, das tat sehr gut. Die Reflexionsfragen zur Stille allein und mit anderen Menschen fand ich sehr, sehr spannend.",
+    "Sehr schöne, verbindende Momente waren für mich das Eye Gazing, sich begegnen in der Bewegung und das ganz bewusste Wahrnehmen des Körpers, dabei viel Achtsamkeit. Auch den Lagerfeuerabend, an dem wir die Zettel mit den Ängsten herumgegeben und dann verbrannt haben, fand ich einen sehr besonderen Moment. Am Ende des Retreats fand ich die Medizinwanderung und die anschließende „warme Dusche“ mit lieben Worten an die anderen super schön.",
+    "Sehr inspirierend und immer noch nachwirkend fand ich die Message des Retreats, mehr Stille in den Alltag zu integrieren, für sich, aber auch mehr Stille mit anderen Menschen zuzulassen und offen seine Bedürfnisse (z. B. nach Stille und im Hier und Jetzt sein) auszusprechen.",
+    "Ich war und bin sehr beeindruckt, welchen Ort du dort mitgestaltet hast, wie viel Liebe du für Mutter Erde hast, wie sehr du dich authentisch gezeigt hast und wie viel du bisher schon gelernt hast und weitergibst. Man spürt sehr, wie wichtig dir die unterschiedlichen Themen sind und dass du so viel Energie in deine Retreats steckst. Danke für dein Gestalten, Kreieren, Dasein, deine Liebe und Energie und die vielen Erfahrungen, die ich auf verschiedensten Ebenen mit nach Hause nehmen konnte."
+   ]
+  },
+  {
+   "id": "T-30",
+   "name": "Hannes",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "tp-hannes",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Schweigewochenende im Schwarzwald war für mich eine der intensivsten und gleichzeitig heilsamsten Erfahrungen der letzten Jahre. Elena und Daniel haben diesen Raum mit so viel Authentizität, Klarheit und Herz gehalten, dass ich mich vom ersten Moment an sicher und getragen gefühlt habe. Nichts wirkte aufgesetzt oder inszeniert – alles war echt, ruhig und voller Tiefe.",
+    "Was mich bis heute am meisten beeindruckt, ist, was passiert, wenn man wirklich ein ganzes Wochenende in Stille verbringt. Es verändert alles. Der Geschmack des Essens wird intensiver, Gespräche werden durch Blicke ersetzt, und plötzlich entsteht eine Form von Verbundenheit, die ohne Worte tiefer geht als viele Gespräche. In dieser Stille begegnet man sich selbst auf eine ehrliche Weise – mit allem, was da ist. Und genau darin liegt so viel Selbstakzeptanz und Heilung.",
+    "Trotz der Stille war so viel Nähe in der Gruppe spürbar. Elena und Daniel haben das mit einer unglaublichen Feinfühligkeit begleitet. Ich spreche heute – Jahre später – noch davon, weil es nachhaltig etwas in mir bewegt hat.",
+    "Und dann dieser Ort: das Grundstück, die Natur, die Weite des Schwarzwalds – es hatte etwas Magisches. So kraftvoll und gleichzeitig so friedlich. Es war der perfekte Rahmen, um wirklich bei sich selbst anzukommen. Eine grandiose Erfahrung, die ich jedem nur empfehlen kann, der sich selbst wieder ein Stück näherkommen möchte."
+   ]
+  },
+  {
+   "id": "T-31",
+   "name": "Issi",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-issi",
+   "status": "bereit",
+   "paragraphs": [
+    "Was für eine unbeschreiblich weiterbringende Zeit ich mit euch hatte! Gerne möchte ich erst einmal ein großes „Danke“ an euch senden, für eure Zeit, eure Ideen und eure Energie, die gefüllt war mit Offenheit, Präsenz und Authentizität.",
+    "Euer täglich gleich strukturierter Tagesablauf hat mir immer wieder Sicherheit gegeben und die Orientierung, was am Tag passiert. So konnte ich mich jeden Tag mehr und mehr darauf einstellen und Struktur finden. Ich sage Danke dafür, dass ihr uns viel Raum für unsere Stimmen gegeben habt und dadurch Tag für Tag ein spannender Austausch stattfinden konnte. Ich spürte sofort, dass ich in einem Raum angekommen bin, der mir Zeit und Schutz gab, mich intensiv mit mir zu beschäftigen und dies auch am Ende des Tages mit allen teilen zu können. Denn dadurch hatte ich nach längerer Zeit mal wieder die Chance, Stärken und auch Schwächen von mir wahrzunehmen und diese zu akzeptieren, aber auch neu auf all die Kenntnisse zu schauen. Und eines ist mir dabei sehr klar geworden: „Ich bin gut und genug, so wie ich bin.“ Diese Erkenntnis wieder ins Gedächtnis zu rufen, war auf jeden Fall eines der wichtigsten Ergebnisse dieses Retreats.",
+    "Durch die gut geleiteten Yoga-Nidra-Sessions wurden viele verschiedene Dinge in mir hervorgerufen, die mich haben weinen, aber auch lachen lassen. Meine erste Erfahrung mit Yoga Nidra hat mich weiter gebracht, als ich gedacht hätte. Danke dafür! Und auch wieder zur Natur zu finden, sich mit ihr zu verbinden und seinen westlichen Lebensstandard hinter sich zu lassen, war ein wichtiger Aspekt dieser Reise und hat mich wieder zu Mutter Erde und Mutter Natur zurückgeführt.",
+    "Meine Resümees, die ich durch euch und eure intensive Arbeit erlangt habe: „Vergleiche dich nicht, du bist gut so, wie du bist.“ – „Ich muss nicht so sein wie andere.“ – „Ich bin eine Macherin. In meinem eigenen Tempo.“ – „Ich besitze emotionale Intelligenz.“ – „Ich kann alles schaffen, wenn ich will.“",
+    "Nach dem Retreat bin ich gefühlt wie ein neuer Mensch in die rasante Welt zurückgekehrt und mit einem neuen (Selbst-)Bewusstsein aufgetreten. Durch all die Notizen, die ich mir gemacht habe, und eure täglich unterschiedlichen Fragen, die wir uns stellen sollten, kann ich jederzeit in die Zeit zurückkehren und mich immer wieder daran erinnern, welche Erkenntnisse ich gewonnen habe. Und das gibt mir Kraft und Sicherheit, meine positiven Energien immer wieder aufrufen zu können.",
+    "Ich danke euch für eure Offenheit, diesen wundervollen, schönen Ort, die Kraft gebende Atmosphäre, eure Impulse und dafür, dass ihr einfach da wart, so wie ihr seid. Aho!"
+   ]
+  },
+  {
+   "id": "T-32",
+   "name": "Sabrina",
+   "context": "Frauenretreat",
+   "lang": "de",
+   "image": "tp-sabrina",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich bin dir von Herzen dankbar, dass du solche wunderschönen Räume zum Wachsen wie das Frauenretreat schaffst. Auch jetzt, ein paar Wochen später, spüre ich noch, was diese Tage und das gemeinsame Erleben in mir bewirkt haben. Wie viel feinfühliger ich zu mir selbst, der Natur und meinen Mitmenschen bin. Aber auch, wie viel stärker ich für all das einstehen kann, was mir wichtig ist. Die gemeinsamen Meditationen, Gespräche, das Tanzen und Singen klingen noch immer in mir nach. Ich freue mich schon auf unser nächstes Wiedersehen."
+   ]
+  },
+  {
+   "id": "T-33",
+   "name": "Mareike",
+   "context": "Reading (1:1)",
+   "lang": "de",
+   "image": "tp-mareike",
+   "status": "bereit",
+   "paragraphs": [
+    "Von Herzen vielen, vielen lieben Dank, Elena! Ich bin ganz beseelt und erfüllt von dem wundervollen Reading und deinen Worten. Du bist eine so besondere Frau mit einer ganz faszinierenden Aura und Anziehungskraft! Du hast so viele Gaben – die Welt braucht dich und dein Wirken! Ich bin sehr glücklich, zu dir – und mit den beiden ganz besonderen Readings auch immer mehr zu mir – gefunden zu haben. Danke!"
+   ]
+  },
+  {
+   "id": "T-34",
+   "name": "Nadine",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "tp-nadine-ic",
+   "status": "bereit",
+   "paragraphs": [
+    "Mein inneres Kind ist immer noch präsent und lacht eher mal mit als vorher und macht Quatsch. Das tut mir echt gut. Hab das Gefühl, dass etwas mehr Leichtigkeit und innere Ruhe seit dem Retreat da ist … und hoffe sehr, dass ich damit in Verbindung bleiben kann … Es gab, auch rückblickend, echt ein paar wichtige Momente in der Zeit mit euch, wo ich Erlebnisse transformieren konnte … zumindest scheint es im Moment so zu sein."
+   ]
+  },
+  {
+   "id": "T-35",
+   "name": "Paula",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Unser Retreat letztes Jahr hat vieles in meinem Leben geändert, war ein richtiger Wendepunkt."
+   ]
+  },
+  {
+   "id": "bisher-mareike",
+   "name": "Mareike",
+   "context": "Onlinekurs",
+   "lang": "de",
+   "image": "tp-mareike",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena hat eine wunderbare Gabe, ihre Magie und ihr Wissen zu teilen. Kurs und Austausch in der Gruppe waren so schön und intensiv, dass ich noch immer davon zehre und vieles in meinen Alltag integriert habe, z. B. besondere Rituale vor dem zu Bett gehen. Und Yoga Nidra begleitet mich nun noch mehr als vorher und lässt mich tief in andere Welten tauchen. Danke liebe Elena, für diesen besonderen Zauber, den ich nur jedem empfehlen kann."
+   ]
+  },
+  {
+   "id": "bisher-jonas",
+   "name": "Jonas",
+   "context": "Reading (1:1)",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Das Reading mit Elena war eine sehr besondere Erfahrung. Es hat sich angefühlt wie eine Reise zurück zu\nmeiner Seele, zurück zu mir selbst. Alles war so magisch und gleichzeitig total greifbar und verständlich\nerklärt. Am nächsten Morgen bin ich mit einem extrem geweiteten Blick auf mich selbst und die Welt\naufgewacht. Irgendwie hat sich vieles seit diesem Reading verändert."
+   ]
+  },
+  {
+   "id": "T-39",
+   "name": "Steffi",
+   "context": "Workshops & Retreats",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Elenas Arbeit ist echt einzigartig. Ihr tiefes schamanisches, psychologisches und spirituelles Wissen, ihre charmante, humorvolle, herzensgute Art und die bedingungslose Akzeptanz und Liebe, die sie jedem gegenüber ausstrahlt, machen ihre Workshops und Retreats zu einer unvergesslichen und auf sooo vielen Ebenen transformierenden Erfahrung. Mir geht es viel besser und ich kann mich selbst und mein Leben um einiges besser verstehen, seit ich sie gefunden habe."
+   ]
+  },
+  {
+   "id": "T-40",
+   "name": "Svea",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-svea",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena und Daniel organisieren ein tolles Retreat, das viele Möglichkeiten zur Selbsterfahrung bietet. Das Stück Land, auf dem wir schliefen, aßen, tanzten, lachten, meditierten, schrien, weinten, fragten, zuhörten und sangen, war super schön - ich habe mich so richtig zuhause gefühlt in der Natur. Da Elena und Daniel (zum Glück!) noch keine steinalten Gurus sind, hat sich die gemeinsame Zeit wie ein sehr persönliches Miteinander & Voneinander-Lernen auf Augenhöhe angefühlt, und nicht wie starre Lehrer-Schüler-Beziehungen. Dieses Wochenende ist eine wertvolle Chance, sich selbst, andere Menschen und unterschiedliche Wege der Heilung kennenzulernen. Und da die Aktivitäten so unterschiedlich sind - von Tarot, Yoga, Meditation, Schamanismus und mehr - kann jede*r das für sich mitnehmen, was gerade wichtig und passend für den eigenen Weg ist."
+   ]
+  },
+  {
+   "id": "T-41",
+   "name": "Sunna",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "The course has brought so much reflection and remembrance of deep suppressed inner knowing about my feminine energies and ancestors. I was able to connect with wonderful sisters all over the world and we held a powerful space together. The course made me cry, laugh and love at the same time. My connection to Mother Earth and my ancestors got even deeper and stronger.",
+    "Sending lots of love"
+   ]
+  },
+  {
+   "id": "T-42",
+   "name": "Sonia",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": "tp-sonia",
+   "status": "bereit",
+   "paragraphs": [
+    "Thank you Katharina and Elena for creating this beautiful journey. I'm so grateful to have shared this month with this group of women and with both of you. I loved the way we started each session, with beautiful music, introspection and moments of reflection.",
+    "The energy was unique each time. I can say that I learned a lot about connecting more with my feminine side, as I am currently working on my polarities. The timing was just perfect to join this special program. The knowledge you shared was super powerful. I was waiting for this meeting every week and I'm so happy to have been part of it.",
+    "I learned that I'm more in my feminine than I thought and now need to shake up my yang to be less in my head and more in action 🙂 This class gave me power and confidence on a lot of different levels. Thank you so much for sharing your energy and for creating this moment out of time. Thank you Elena for attracting me to that path. Love to you both"
+   ]
+  },
+  {
+   "id": "T-43",
+   "name": "Jasmin",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": "tp-jasmin-wise",
+   "status": "bereit",
+   "paragraphs": [
+    "I found this course through Elena, whom I have been following on Instagram for some years now. I love her energy, the stories and the knowledge she shares, and so I felt the calling to participate in this course to learn more about spiritual feminism and femininity in general, the goddesses and archetypes. I love history and storytelling and I think in this course both were combined pretty well. Katharina and Elena are beautiful souls and shared a lot of wisdom. They held a space where everyone could talk freely from her heart without being judged, and I felt very welcomed and connected to them and all the other women who participated. We shared our wisdom, fears, parts of our stories, vulnerability, and I am very grateful for all of that.",
+    "During these 5 weeks I learned a lot. The outside world also reflected my inside world and challenged me to dive deeper. I learned how strong my feminine and masculine sides are and that I need more balance, because they always fight against each other. I connected more with my ancestors, and I felt more than ever that it's okay being a woman. I learned to embrace both sides more - the female and the male - and I made more peace with them. They don't fight so often anymore. They work together now, or at least they try to and have only small arguments :D",
+    "I'm taking a lot of wisdom with me, about the archetypes and goddesses and the female wisdom of the other women, because every one had something beautiful to share. I was reminded of my female power, and that we, the women of the world, have to stop fighting each other and start supporting each other. I think this course is a great reminder that we need a balance between these energies more than ever, and that a new world is rising. Thank you Kat and Elena for this beautiful course. Continue your magic! <3"
+   ]
+  },
+  {
+   "id": "T-44",
+   "name": "Mielle",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": "tp-mielle",
+   "status": "bereit",
+   "paragraphs": [
+    "Katharina and Elena cultivated a powerful sacred space (in spite of being online) in which I was reminded of how much I already innately know as a woman, which was supported and brought to light in the sharing of their rich and invaluable wealth of knowledge. Thank you sisters.",
+    "PS: My relationship to water has changed. I was raised to be aware of water consumption from a fear-based place, and now I have the opportunity to connect with water, the bodies of water that have always been a big part of my life and healing, in a more thoughtful, peaceful and harmonious way. I am very grateful for that light having been turned on. 🙏🏼"
+   ]
+  },
+  {
+   "id": "T-45",
+   "name": "Maria",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "It was an enriching voyage through the feminine energy and a great learning experience about how it can flow and about the uses and extent of its creative power. It was overall a great way to connect individually with the female energy within me, but also with the collective, including that extra magic feeling that lights up whenever a group of women decides to join forces. Thank you Katharina and Elena and all the women of this circle united in the search to rediscover themselves."
+   ]
+  },
+  {
+   "id": "T-46",
+   "name": "Lisa",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": "tp-lisa-wise",
+   "status": "bereit",
+   "paragraphs": [
+    "I am so thankful for the work of you both. The course with the group of women was a wonderful experience. On one side I learned a lot about herstory: the knowledge of goddesses in different religions, the aspects of the divine feminine in the tales of different parts of the world, and with that a lot of rituals and ways to embody this energy in my life. On the other hand, meeting this diverse group of women from all over the world became such an important date in my week. I am still amazed how trusting, open and connected we all feel after this short time of knowing each other. Amazed by the energy of the room we were creating together. I felt safe and free to open up about everything that was coming up. I felt so connected to myself and all women."
+   ]
+  },
+  {
+   "id": "T-47",
+   "name": "Chaden K. Akl",
+   "context": "Onlinekurs The Archetypes of the Goddess",
+   "lang": "en",
+   "image": "tp-chaden",
+   "status": "bereit",
+   "paragraphs": [
+    "Meditating and connecting with my higher self was my coping mechanism after my grandma had passed away. Attending the online course on the female archetypes with the beautiful souls Elena and Katharina was right on time. Connecting with the goddesses, sharing and releasing with the circle of sisters was so beneficial and healing. A loving circle with a soothing energy surrounded our gatherings on Zoom - I recommend experiencing it oneself. Thank you Elena and Katharina for this, and the sisters who attended too 🙏🏻🤍"
+   ]
+  },
+  {
+   "id": "T-52",
+   "name": "Kristin",
+   "context": "Inner Child Retreat",
+   "lang": "de",
+   "image": "portrait-kristin-inner-e1639058618751",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena und Daniel sind wundervolle Herzensmenschen, die mit ihrer warmen und ruhigen Ausstrahlung einen geschützten Raum schaffen, um zur Ruhe zu kommen und bei sich selbst anzukommen. Das Inner Child retreat hat mir sehr geholfen, vieles und vor allem mich selbst in einem neuen positiveren und verständnisvolleren Licht zu sehen. Ich sehe jetzt vieles klarerer und habe in mir selbst viele neue Stärken und Talente entdecken können.",
+    "Die Energie der Gruppe war unglaublich schön und obwohl es mir sonst eher schwer fällt mich anderen wirklich zu öffnen, fiel es mir hier sofort leicht und ich habe erlebt wie befreiend es sein kann und wie liebevoll und ermutigend diese Gemeinschaft und vor allem Elena und Daniel geholfen haben, weiter zu mir zu finden und meine Stärken zu sehen und zu leben.",
+    "Emotional hat sich bei mir viel bewegt, aber neben den aufwühlenden Stunden, in denen wir uns mit Hilfe der Fragen, die Elena uns jeden Tag mitgegeben hat in Ruhe mit eigenen Themen beschäftigen konnten, gab es auch sehr viel Freude, Leichtigkeit und Lachen beim Tanzen, Singen, Klettern und im Zusammensein. Elena hat eine ganz wundervolle Balance erschaffen und mit ihrer wunderschönen Stimme meine Liebe zur Musik auch wieder ganz neu erweckt. Ich habe gefühlt, wie sehr sie das liebt, was sie macht und wie sehr sie es auch selber lebt.",
+    "Ich freue mich schon auf das nächste Retreat mit den beiden und kann sie aus tiefsten Herzen nur weiterempfehlen."
+   ]
+  },
+  {
+   "id": "T-53",
+   "name": "Feli",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Drei Tage im Schwarzwald der Natur nahe sein dürfen, Gemeinschaft erfahren und dazu noch inspiriert werden. Das war es, was ich beim Retreat “Wise in her ways” erlebt habe. Wir haben zusammen gelacht und zusammen geweint.",
+    "Die Erfahrung der Gemeinschaft war einfach unfassbar heilsam und wohltuend. Ich danke all den wundervollen Frauen die für dieses Wochenende durch Elena versammelt waren und die meinen Weg dadurch nachhaltig beeinflusst habe. Im Laufe des Wochenendes sangen und tanzten wir, versammelten uns um  das Feuer und hielten wundervoll bewegende Gesprächskreise. Und all das in atemberaubender Natur, umgeben von alten Bäumen und einem sprudelnden, lebendigen Bach. Die Erfahrungen der drei Tage werden sicher noch eine Weile nachwirken und ich habe die Gewissheit, dass alles genau so richtig ist, wie es ist – und wir alle den Weg gehen werden, welcher perfekt passend und richtig für uns ist."
+   ]
+  },
+  {
+   "id": "T-54",
+   "name": "Nadine",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-nadine",
+   "status": "bereit",
+   "paragraphs": [
+    "Ein tiefer Ruf hat mich zu Elena geführt. Ich wollte nicht nur, ich hatte das Gefühl ich “muss” dorthin. Es war ein starkes Calling!",
+    "All meine Erwartungen wurden weit übertroffen. Ich wurde herzlichst von meinen Schwestern begrüßt und in den Arm genommen. Es war wunderschön!",
+    "Mithilfe von Elenas Arbeit konnten wir tiefsitzende Traumata aufarbeiten. Wir haben gesungen, gelacht, getanzt, geweint und vergeben. Mitten in der Natur im wunderschönen Schwarzwald – eine Erfahrung, für die ich ewig dankbar bin.",
+    "Elena ist eine sehr alte, weise Seele und eine faszinierende Ausstrahlung. Mit ihrer Ehrlichkeit und ihrer liebevollen Art hat sie mich tief berührt.",
+    "Ich habe gespürt, dass alles, was sie tut und sagt aus tiefstem Herzen kommt.",
+    "Sie hat unser Retreat mit sehr viel Liebe fürs Detail geplant und ich habe jede Sekunde genossen!",
+    "Danke aus tiefstem Herzen liebe Elena ❤️ du bist ein Licht für die Welt und eine wahre Inspiration 🙏🏼"
+   ]
+  },
+  {
+   "id": "T-55",
+   "name": "Lisa",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-lisa-wise",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich bin dir von Herzen dankbar, dass du solch wunderschöne Räume wie das Frauenretreat schaffst, in denen man Wachsen und Sein darf.",
+    "Auch jetzt, ein paar Wochen später, spüre ich noch, was diese Tage und das gemeinsame Erleben in mir bewirkt haben. Wie viel feinfühliger ich zu mir selbst, der Natur und meinen Mitmenschen bin.",
+    "Aber auch wie viel stärker ich für all das einstehen kann, was mir wichtig ist.",
+    "Die gemeinsamen Meditationen, Gespräche, das Tanzen und Singen, klingen noch immer in mir nach."
+   ]
+  },
+  {
+   "id": "T-57",
+   "name": "Amelia",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "portrait-amelia-e1639059137478",
+   "status": "bereit",
+   "paragraphs": [
+    "Es war unglaublich, wieviel Vertrauen und Intimität durch dieses Wochenende zwischen uns allen völlig fremden Menschen entstanden ist. Es ist wirklich ein unbeschreibliches Gefühl und jeder, wirklich jeder, sollte einmal diese Gelegenheit bekommen unter der Anleitung von Elena etwas so Schönes erleben zu dürfen.",
+    "Manchmal glaube ich gar nicht, dass es nur ein Wochenende war, es fühlt sich nach viel mehr an! Seitdem ist viel passiert! In mir drin und in meinem Leben. Ich fühle mich wie ausgewechselt und die Amelia, die ich eigentlich bin, kam plötzlich wieder zum Vorschein. Mein Partner sagte mir, als ich wieder heimkam, ich leuchte und genau so habe ich mich gefühlt. Gestärkt, leuchtend und echt.",
+    "Dieser ganze Prozess wäre durch die Begleitung von Elena nicht möglich gewesen deshalb verfasse ich diesen Text mit einer großen Dankbarkeit für unsere Begegnung und die Inspiration, die sie in mein Leben gebracht hat.",
+    "Sie hat uns alle mit ihrer Stimme und Ihren Klängen verzaubert. Für mich war es inspirierend, Elena zu beobachten und diesen freien Lebensentwurf sehen zu dürfen. Mich wieder näher meinem eigenen Lebensweg zu fühlen. Und sie hat für uns einen Raum geschaffen, in dem wir alle sein konnten und jeder auf seine ganz eigene Art und Weise in die Prozesse eintauchte.",
+    "Es war eine für mich total schöne Erfahrung, im Schweigen Menschen kennenzulernen und mich ihnen verbunden zu fühlen. Es war erleichternd „nichts“ sein zu müssen, sondern einfach nur zu sein, ohne Erwartungsdruck zu spüren, und sich den Raum nehmen zu dürfen, den man gebraucht hat.",
+    "Durch den Raum, den Elena für uns schaffte, konnten wir uns gegenseitig wirklich öffnen.",
+    "Und so verbrachten wir ein wundervolles Wochenende, zwar mit einer Struktur, die uns Elena mit Ihrer liebevollen Art vorgab und trotzdem waren wir irgendwie völlig frei."
+   ]
+  },
+  {
+   "id": "T-58",
+   "name": "Katrin",
+   "context": "Schweigewochenende",
+   "lang": "de",
+   "image": "tp-katrin",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich weiß gar nicht wo ich anfangen soll. Liebe Elena lieber, Daniel vielen Dank für diese wunderbare Erfahrung.",
+    "Die Frage wer bist du, wenn du niemand mehr sein musst, hat sich bei euch für mich beantwortet.",
+    "Für mich und meine Seele gab es ein Wechselbad der Gefühle. Ich konnte vergeben und loslassen.",
+    "Ich kam mit viel Gepäck und ging ganz leicht zurück. Ich bin beseelt und denke voller Liebe an das Retreat zurück.",
+    "Ihr steckt euer Herzblut in diese Retreats und das spürt man.",
+    "Danke das man bei euch einfach SEIN durfte. Ihr seid solche Herzmenschen und ein wundervolles Paar.",
+    "Die Location mitten im Schwarzwald ein Traum. Dieser Ort ist so magisch und kraftvoll.",
+    "Jeder der über ein solches Retreat in Stille nachdenkt, sollte es tun und am besten an diesem wunderschönen Ort.",
+    "Danke für dieses Wochenende.",
+    "Wir sehen uns wieder."
+   ]
+  },
+  {
+   "id": "T-59",
+   "name": "Jasmin",
+   "context": "Schamanisches Retreat",
+   "lang": "de",
+   "image": "tp-jasmin-sch",
+   "status": "bereit",
+   "paragraphs": [
+    "Auch wenn ich es bereits im Innern wusste, ist es mir jetzt noch viel klarer geworden:",
+    "Das, was Menschen schön macht, ist ihre Seele. Ich kann tiefe",
+    "Verbundenheit nur durch den Einblick in ihre Gedanken, ihr Sein und ihre Erfahrung fühlen. Sich öffnen, anderen gegenüber, ich selbst sein, akzeptiert werden,Verbundenheit spüren macht mich glücklich und bringt extreme Leichtigkeit in mein Leben. Lachen, tanzen, rumalbern, sich halten, umarmen, weinen, Erfahrungen austauschen, sich gegenseitig wahrhaftig zuhören, seine eigene Meinung auch mal zurück stellen und dann preisgeben, wenn man den Raum bekommt, ist ganz wundervoll.",
+    "So ist man einsam – gemeinsam! Den Tag so annehmen wie er kommt, keine Erwartungen haben sondern sich einfach tragen lassen mit voller Hingabe, Leichtigkeit und Vertrauen….Alles hat seinen Sinn, alles hat seine Berechtigung, alles darf sein.",
+    "Man muss sich einfach nur darauf einlassen dann entsteht etwas ganz Magisches! Ich bin unglaublich dankbar über diese Erfahrung. Meine Ängste anzuschauen und anfangen sie zu überwinden, Neues auszuprobieren einfach um hier und jetzt zu sein. Ich fühle mich wieder bei mir angekommen, ich fühle Liebe, Leichtigkeit und pures Vertrauen in die Zukunft. Ich fühle mich gestärkt und genau das möchte ich nach außen tragen und dadurch andere Menschen inspirieren und sie motivieren, tiefer zu schauen, mehr hinzuschauen bei sich selbst und auch andere anzuschauen – wahrhaftig!",
+    "Ich habe Liebe zu Geben! Sobald der richtige Mensch vor mir steht, bin ich bereit dafür, wenn ich ganz bei mir bin & wie beim Retreat auf mich achte. Dann habe ich Energie für andere. Es kommt alles zu seiner Zeit – ich habe jetzt wieder die Gewissheit,",
+    "dass ich bereit dafür bin.",
+    "Danke für diese Erfahrung!",
+    "Danke für die neuen Bekanntschaften!",
+    "Danke für den wundervollen magischen Rahmen!",
+    "Danke, dass ich mich selbst wieder besser kennen lernen + lieben durfte!",
+    "Und danke dass ich wieder",
+    "weiß wie schön ich bin – VOR allem meine SEELE!"
+   ]
+  },
+  {
+   "id": "T-60",
+   "name": "Alex",
+   "context": "Schamanisches Retreat",
+   "lang": "de",
+   "image": "tp-alex",
+   "status": "bereit",
+   "paragraphs": [
+    "Für mich ist es kaum in Worte zu fassen, was dieses Retreat alles in mir ausgelöst und bewegt hat. Ich versuche mal mein Bestes:",
+    "In kürzester Zeit (es waren gerade einmal vier Tage!!), habe ich gespürt, was meinem Leben bis dato gefehlt hat und wo ich WIRKLICH hingehöre. Elena und Daniel haben uns alle auf unglaublich liebenswerte, einfühlsame und authentische Weise an die Hand genommen und uns einen Teil ihrer Welt gezeigt (um es noch besser zu sagen, sie haben mir einen Teil meiner Welt gezeigt).",
+    "In diesen vier Tagen habe ich auch die unglaubliche Stärke und Kraft erlebt, die einem andere – bis zu diesem Zeitpunkt fremde -Menschen geben können. In unserer kleinen Gruppe war sehr schnell eine starke Verbundenheit zu spüren. Alles darf – nichts muss. So einfache Worte, doch wir alle haben es bis in die kleinste Fingerspitze erleben dürfen, wie bereichernd es ist, wenn einem auf diese Weise begegnet wird und man auch anderen auf die gleiche Weise begegnet.",
+    "Es fühlt sich an, als hätte ich durch dieses Retreat gelernt, wirklich zu sehen!",
+    "Als würde ich jetzt klarer sehen. Ich nehme meine Umgebung und mich deutlicher war, kann Gefühle besser differenzieren und mich so viel leichter annehmen (mit all meinen Höhe und Tiefen, Stärken und Schwächen). Ich habe meine Verbundenheit zur Mutter Erde und zu mir selbst gefunden (oder bin zumindest auf einem guten Weg!).",
+    "Ich kann jedem nur empfehlen, sich zu trauen, auf das eigene Gefühl zu hören. Oft gelingt es allein nur schwer, diesen Weg zu gehen. Doch es lohnt sich. Gemeinsam ist der Weg so viel schöner.",
+    "Vielen Dank liebe Elena und vielen Dank lieber Daniel für dieses Geschenk!"
+   ]
+  },
+  {
+   "id": "T-61",
+   "name": "Nina",
+   "context": "Schamanisches Retreat",
+   "lang": "de",
+   "image": "tp-nina",
+   "status": "bereit",
+   "paragraphs": [
+    "Es kommt mir im Nachgang fast vor, als wäre ich ein paar Tage in einer Traum- oder Zauberwelt gewesen. Ich werde es wohl nie so richtig in Worte fassen können, wie dieses Erlebnis für mich war.",
+    "Aber ich versuche es trotzdem – vielleicht klappt es am besten über Dankbarkeit – denn genau das ist das, was ich spüre wenn ich an das Retreat zurückdenke…",
+    "DANKE euch, dass ihr eurem Ruf folgt und den Mut und die Stärke aufbringt, diese besondere Aufgabe zu erfüllen.",
+    "DANKE für den Rahmen, den ihr gehalten und erschaffen habt – einen Rahmen aus Vertrauen, Gehaltenwerden und der Möglichkeit, sich fallen lassen und zeigen zu können",
+    "DANKE für den roten Faden, den ihr euch überlegt und verfolgt habt – es war so sinnvoll, dass jeder Tag einer expliziten Fragestellung zugeordnet war und",
+    "DANKE dass dennoch immer Flexibilität da war, den Tagesablauf an unsere Bedürfnisse, Fragen und Themen anzupassen.",
+    "DANKE für das vielfältige Wissen und die vielen Übungen, Methoden und Rituale",
+    "DANKE für die zutiefst großzügige Versorgung",
+    "DANKE für Elenas berührende Stimme und das gemeinsame Singen und Tanzen",
+    "DANKE für alle Überraschungen",
+    "DANKE für euren Blick für Schönheit – Schönheit der Seele, des Körpers,",
+    "der Natur und des Lebens",
+    "DANKE für euer authentisches Sein und Teilwerden der Gruppe",
+    "DANKE für euer ehrliches Interesse an jedem/jeder von uns und dass ihr die Stärken jeder/jedes Einzelnen erkennt und wertschätzt",
+    "DANKE für den Zauber und die Magie, die ihr in euch tragt, versprüht",
+    "und in jedem/jeder Teilnehmer/innen weckt",
+    "DANKE für das Licht und die Hoffnung, die ihr in jedem/jeder von uns zum Leuchten gebracht habt",
+    "…..Aho!!"
+   ]
+  },
+  {
+   "id": "T-62",
+   "name": "Stefanie",
+   "context": "Kraft meiner Wurzeln",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Jeden Tag präsentierten Elena & Daniel ein interessantes Tagesthema und der Tag war dick gefüllt mit Aktivitäten und Entspannung. Ich war mir schnell bewusst, dass das Preisleistungsverhältniss absolut gerecht war. Die Qualität der Mahlzeiten und die Wertschätzung beim gemeinsamen Essen waren genau das Richtige.",
+    "Ich war sehr überascht, wie schnell ein enormes Vertrauensgefühl in der Gruppe entstand. Ich war in der Lage, über sehr sensible und auch intime Themen zu sprechen und empfand Erleichterung. als so manches einst tief vergrabenes zu Sprache kam. Noch nie fiel es mir so leicht, auf Nikotin zu verzichten und abends so rasch einzuschlafen. An Daniel & Elena gefiel mir am meisten ihre Authentizität; sie waren stets mit der Gruppe auf einer Ebene und vermittelten ihre Themen mit hoher Kompetenz. Man merkte, dass sie in der Vorbereitung des Retreats sehr viel Leidenschaft hineingegeben haben, um die Tagesabläufe so intensiv und abwechslungsreich zu gestalten.",
+    "In den fünf Tagen habe ich wundervollen Menschen kennengelernt, mein Körper und meine Seele rückten näher zusammen und durch das Feedback der Gruppe lernte ich mich wieder mehr zu schätzen. Es war nicht leicht,mich am Ende wieder von dem kleinen Tribe zu verabschieden. Eine Woche später hatte ich den ersten Kontrolltermin meiner Op.-Wunde und meine Ärztin konnte kaum glauben, wie schnell sich die operierte Stelle regeneriert hat. Ich bin überzeugt davon, dass dieses Stückchen Natur , die fabelhaften Menschen und das Lösen von tiefen Sorgen und Zweifeln in den Tagen des Elements Of Life Retreats meine eigenen Selbstheilungskräfte zum Überfließen brachten. In diesem Sinne kann ich Elenas & Daniels Arbeit aus vollem und warmem Herzen weiterempfehlen. Ich hoffe, dass die beiden weiterhin ihrer Passion folgen und noch viele andere ein Stück näher zu sich selbst und zur Natur bringen.",
+    "Post navigation"
+   ]
+  },
+  {
+   "id": "T-63",
+   "name": "Anna",
+   "context": "Kraft meiner Wurzeln",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat bei Elena und Daniel war eine sehr schöne und hilfreiche Erfahrung für mich. Das Programm war begleitet von Yoga am Morgen ,anschließend einer begleiteten Meditationsreise von Elena und danach das späte Frühstück. Sie macht das sehr hingebungsvoll, sie hat die Talkingcircles mit großer Präsenz begleitet. Auch Daniel zeigt großes Mitgefühl, allgemein war die Anteilnahme jedes Einzelnen in der Gruppe stark zu spüren. Hier kann man sein wie man ist, alles ansprechen, loslassen oder auch noch kämpfen wenn es sein muss. Alles ist gut wie es ist. Das gemeinsame Singen, Analysieren und generell alle Programmeinheiten waren sehr gut durchdacht und haben mich überzeugt. Wer Bedenken oder Ängste hat, ist bei den beiden sehr gut aufgehoben.",
+    "Zudem ist die Gruppenenergie sehr intensiv, die heiligen Energien sind spürbar.",
+    "Man sollte mit offenem Herzen herangehen und nicht aufgeben, wenn es mal unbequem wird. Abwarten, wirken lassen, versuchen möglichst nicht zu bewerten, dann kann auch die Veränderung beginnen. Elena und Daniel sind für mich sehr weit in ihrer geistigen Entwicklung und sie strahlen Güte aus. Sie bringen Menschen auf ihrem Heilungsweg und haben ein wunderbares Programm entwickelt, das auch zum Handeln herausfordert.",
+    "An alle zukünftigen Teilnehmer: Bleibt dabei, gebt nicht auf, Heilung braucht erstmal Transformation, lasst euch überraschen. Ich kann beide nur empfehlen, wünsche ihnen viel Erfolg bei ihrer Mission und danke ihnen, dass sie soviel zu geben haben."
+   ]
+  },
+  {
+   "id": "T-64",
+   "name": "Rike",
+   "context": "Kraft meiner Wurzeln",
+   "lang": "de",
+   "image": "tp-rike",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Retreat von Elena und Daniel war für mich ein sehr wichtiges Erlebnis, an das ich immer wieder zurückdenke und aus dessen Erinnerungen ich immer wieder Kraft ziehen kann.",
+    "Meine Motivation am Retreat teilzunehmen war mir anfangs gar nicht so klar, ich fühlte mich damals nur unglücklich und von mir selbst abgekoppelt. Durch das Retreat habe ich wieder zu meiner individuellen Persönlichkeit zurückgefunden und ich konnte verborgende Lebensschicksale verarbeiten, von denen ich gar nicht wusste, dass ich noch unbewusst mit ihnen zu kämpfen hatte.",
+    "Besonders die Yoga Nidra Meditation von Elena hat mich begeistert, da sie Elemente von einer Art Traumreise mit einbezieht, bei der du dich mit deinem Unterbewusstsein oder deiner Vergangenheit auseinandersetzt, immer bezogen auf ein Chakra. Diese Erlebnisse haben mich tief berührt und mir sehr geholfen, frühere Erfahrungen zu verarbeiten. Zudem empfand ich unsere Erzähl- und Diskussionsrunden mit der ganzen Gruppe sehr bereichernd, da jeder so viel zu geben hatte und es so wertvoll war, ein Thema aus so vielen Blickwinkeln betrachten zu können.",
+    "Unsere Gruppe von ca. 8 Teilnehmern war perfekt. Wir waren alle ziemlich unterschiedlich und kamen aus sehr verschiedenen gesellschaftlichen Kreisen, aber nach den 5 Tagen waren wir uns so nah, dass wir am liebsten für immer in unserem kleinen Tribe weiterleben wollten.",
+    "Der Ort, an dem wir gelebt haben, war zudem auch einfach traumhaft. Wir schliefen alle auf Matratzen in einem gemütlichen Dom mit Ofen. Morgens wurden wir sanft von fröhlicher Musik geweckt, haben die Kühe muhen gehört und das Bimmeln ihrer Kuhglocken. Dann konnte man sich im kleinen Bach erfrischen und danach traf man sich im zum Yoga. Diese direkte Nähe zur Natur war wundervoll und tat mir so gut.",
+    "Falls du Lust has,t etwas über dich selbst zu erfahren und währenddessen an einem wunderschönen Ort mitten in der Natur zu wohnen, kann ich das Retreat nur empfehlen!",
+    "Vielen Dank Elena und Daniel!",
+    "Ich hoffe wir sehen uns bald wieder!"
+   ]
+  },
+  {
+   "id": "T-65",
+   "name": "Sophia S.",
+   "context": "Kraft meiner Wurzeln",
+   "lang": "de",
+   "image": null,
+   "status": "bereit",
+   "paragraphs": [
+    "Ich hab es so genossen, mit euch diese paar Tage in der wunderschönen hügeligen und mystischen Landschaft zu verbringen. Das Haus, die Kühe, der Garten, das Wetter, alles war uns positiv gestimmt und hat uns einen wundervollen Rahmen für unserem Weiterkommen in und mit uns, in und mit unserer Umwelt geschaffen. Ich hab mich von Beginn an bei euch sehr wohl gefühlt und gemerkt, dass ich 100% mich selber sein kann, auch wenn nicht alles nur Friede, Freude, Eierkuchen war. Die Tage waren sehr vielfältig im Programm; Meditation, Yoga, talking circles, Tarotkarten legen, Schweigen, diskutieren, weinen, lachen, reflektieren, schreien, verletzlich sein….alles hatte Platz. Danke, dass ihr euer Wissen mit uns geteilt habt und uns in diesem Prozess so einfühlsam unterstützt habt."
+   ]
+  },
+  {
+   "id": "T-66",
+   "name": "Marcel",
+   "context": "Kraft meiner Wurzeln",
+   "lang": "de",
+   "image": "tp-marcel",
+   "status": "bereit",
+   "paragraphs": [
+    "Mit Freuden darf ich sagen, dass ich am mehrtägigen von Elena und Daniel geführten Retreat im Wendland teilgenommen habe.",
+    "Zuerst möchte ich was zur Location sagen.",
+    "Wir befanden uns in einer wunderschönen, ländlichen Gegend mit viel Natur, Wald und Feldern. Die Ruhe und Abgeschiedenheit des Ortes ermöglichte uns einen besseren Zugang zu uns selbst. Die Ablenkungen von Außen waren sehr minimiert.",
+    "Unsere Zelte bauten wir auf der Wiese eines alt-bäuerlichen Grundstücks auf. Auf diese Weise waren wir Teilnhemer stets nah beieinander, hatten aber auch genügend Abstand um auch mal alleine zu sein um das erlebte zu verarbeiten.",
+    "Die Rahmenbedingungen waren also ideal, um in diesem Rahmen an sich selbst zu arbeiten!",
+    "Zum Program ist zu sagen, dass es sehr abwechslungsreich und herrausfordernd war.",
+    "Von morgendlichem Yoga, über Chakrameditation, Tarotkartenlesen bis hin zu Gesprächskreisen waren die Tage gefüllt mit spannenden Inhalten. Dennoch hatten wir aber auch genügend Zeit um allein für uns im Wald zu sein oder gemeinsam im Flssß baden zu gehen. Das Erwähnen oder Beschreiben einer jeden Aktivität würde hier den Rahmen sprengen….Aber: Die Tage waren voll mit spannenden Aktivitäten!",
+    "Nun möchte ich noch etwas über die Veranstalter sagen.",
+    "Elena ist mit Herzblut bei der Sache und lässt die Teilnehmer an ihrem grossen Wissens- und Erfahrungsschatz teilhaben. Grade die von ihr unterichtete Chakralehre hat mir nach dem Retreat viel geholfen.",
+    "Daniel sorgte wie ein fleißiges Bienchen für den reibungslosen Ablauf und das leibliche Wohl der Teilnehmer. Ich habe ihn als einen sehr herzlichen und freundlichen Menschen kennengelernt.",
+    "Abschließend möchte ich noch mitteilen, was mir das Retreat gegeben hat.",
+    "Ich habe aufbauend auf dem hier Gelernten fast jeden Tag meine Chakrameditation gemacht. Kombiniert mit Visualisierung und Vokalisierung gab mir diese Praktik Kraft für den Tag und half mir zu verstehen, wo ich meine Baustellen hatte und was ich zu tun habe, um diese zu bearbeiten. Nun arbeite ich daran, das Chakrensystem in Verbindung mit den von mir geliebten Runen des alten Futharks zu bringen. Das Retreat war somit eine große Inspiration für mich mich und half mir, weiter meinen eigenen Weg zu finden.",
+    "Ich danke Elena und Daniel herzlichst für diese Erfahrung!"
+   ]
+  },
+  {
+   "id": "T-70",
+   "name": "Saskia",
+   "context": "Retreats (Untamed, Dornenreich)",
+   "lang": "de",
+   "image": "tp-saskia",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich habe bereits drei Retreats von Elena besucht. Mein erstes Retreat war das 4-tägige Untamed Retreat für Wilde Frauen im Wendland 2020. Ich habe dieses Retreat als sehr schön und intensiv erlebt. Wir haben gemeinsam in einer Gruppe von Frauen Redekreise gehalten, selbstreflektierende Schreibübungen durchgeführt und Yoga, Yoga Nidra sowie eine klingende Meditation praktiziert. Ich konnte in diesem Retreat viel über mich lernen und mehr zu mir finden. Nach dem Retreat hat mein Umfeld mir gespiegelt, dass ich bedeutend ausgeglichener und glücklicher wirke.",
+    "Elena und Katharina haben das Untamed Retreat sehr schön und liebevoll gestaltet. Jeden Tag hatten wir mehrere Redekreise, in denen jede Teilnehmerin freiwillig von sich erzählen konnte. Ich fand die Kreise sehr schön und gewinnbringend. Wir konnten gemeinschaftlich viel aufarbeiten und uns gegenseitig unterstützen, und ich habe dabei viel gelernt und erkannt. Die Veranstalterinnen haben viel Kompetenz, Wissen und Leidenschaft in dieses Retreat gesteckt.",
+    "Nach dieser Erfahrung wollte ich unbedingt noch ein Retreat von Elena besuchen. So war ich sowohl 2021 als auch 2022 nochmal bei einem Retreat im Dornenreich bei Kassel. Auch hier hatte ich wieder sehr schöne und intensive Erfahrungen und mir wurde wieder von meinem Umfeld gespiegelt, welch positive Effekte diese Retreats auf mich hatten.",
+    "Ich kann die Retreats von Elena von vollem Herzen empfehlen. Man bekommt bei ihr einen sicheren Rahmen für eine tiefe Selbstreflexion, die bei mir bis heute anhaltende, positive Effekte mit sich gebracht hat."
+   ]
+  },
+  {
+   "id": "T-71",
+   "name": "Sarah",
+   "context": "Wise In Her Ways (damals Untamed)",
+   "lang": "de",
+   "image": "tp-sarah",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Frauenretreat mit Elena und Katharina war wunderschön, erholsam und genau so, wie es vorher angekündigt war. Das Essen war immer vegan, und Elena und Katharina haben beide sehr darauf geachtet, dass es uns gut ging. Sie sind immer auf unsere Wünsche eingegangen, waren einfühlsam und hatten immer ein offenes Ohr für uns.",
+    "Die Redekreise waren immer sehr positiv und haben mir viel Kraft gegeben. Auch jetzt, Wochen danach, freue ich mich noch über die wunderbar positive Energie, die durch die Kreise und das ganze Retreat entstanden ist, und kann Elena und Katharina gar nicht genug danken.",
+    "Es war ein wunderschönes Retreat. Ich würde es immer wieder machen und es auch an Freundinnen und Bekannte weiterempfehlen."
+   ]
+  },
+  {
+   "id": "T-72",
+   "name": "Alina",
+   "context": "Wise In Her Ways (damals Untamed)",
+   "lang": "de",
+   "image": "tp-alina",
+   "status": "bereit",
+   "paragraphs": [
+    "Elena und Katharina sind zwei sehr empathische, liebevolle, sanfte Menschen, die das Retreat mit ganz viel Liebe und Bedacht geplant haben. Die Kommunikation war von Anfang an sehr gut, und man wurde super auf das Retreat vorbereitet.",
+    "Am ersten Abend haben wir unsere Erlebnisse, Emotionen und Erfahrungen aus der Kindheit geteilt. Das war sehr emotional, aber auch super schön und heilsam. Danach haben wir alle gemeinsam gegessen und gesungen - es war ein wunderschöner erster Abend.",
+    "Das Retreat verlief genau so, wie es beschrieben war. Die beiden haben ihre ganze Kraft und ihr Herzblut hineingesteckt und hatten alle Wünsche und Ängste im Blick. Ich habe mich sehr wohl, geborgen und geschützt gefühlt."
+   ]
+  },
+  {
+   "id": "T-73",
+   "name": "Verena",
+   "context": "Wise In Her Ways (damals Untamed)",
+   "lang": "de",
+   "image": "tp-verena",
+   "status": "bereit",
+   "paragraphs": [
+    "Ich habe am 4-tägigen Untamed Retreat mit Heilung, Ritual, Transformation und Yoga für Wilde Frauen im Wendland teilgenommen. Alle angekündigten Programmpunkte wurden umgesetzt, darunter Yoga Nidra, Hatha und Kundalini Yoga, Chanten, Rituale, Vorträge über Astrologie, Märchen und Archetypen, Talking Circles, Gesang, gemeinsame Mahlzeiten, der Besuch eines Badesees und Stille. Ich habe all diese Programmpunkte als qualifiziert vorbereitet und durchgeführt empfunden.",
+    "Der Umgang miteinander war immer offen, liebevoll und heilsam, und es wurde immer freigestellt, wie sehr man sich einbringen möchte. Die Veranstalterinnen waren die ganze Zeit für uns da und haben sich um alle Belange gekümmert."
+   ]
+  },
+  {
+   "id": "T-74",
+   "name": "Wiebke",
+   "context": "Wise In Her Ways (damals Untamed)",
+   "lang": "de",
+   "image": "tp-wiebke",
+   "status": "bereit",
+   "paragraphs": [
+    "Danke für das wunderschöne Yogaretreat, das wir gemeinsam im Wendland verbracht haben. Ich bin mega gestärkt aus diesem Wochenende herausgegangen. Danke für eure einfühlsame Begleitung und die individuelle Unterstützung.",
+    "In unseren Redekreisen war Raum für tiefe Themen. Keine der Frauen musste etwas sagen, und es bestand zu jedem Zeitpunkt ein heilsam gehaltener Raum. So baute sich schnell eine sehr geschützte Atmosphäre auf, und es wurde für alle ein sehr heilsamer Raum geschaffen."
+   ]
+  },
+  {
+   "id": "T-75",
+   "name": "Lea",
+   "context": "Wise In Her Ways",
+   "lang": "de",
+   "image": "tp-lea",
+   "status": "bereit",
+   "paragraphs": [
+    "Das Wise In Her Ways Retreat war eine magische Erfahrung. Allein der Ort mitten im Wald strahlt so eine friedliche Energie aus. Ich bin alleine zum Retreat gefahren und habe direkt eine Verbundenheit zu der Gruppe gespürt. Retreats sind wirklich Räume, in denen man Seelenschwestern kennenlernt. Elena hat den Raum sehr sicher und liebevoll gehalten, und alle Sessions waren sehr kraftvoll.",
+    "Viel Liebe"
+   ]
+  },
+  {
+   "id": "T-76",
+   "name": "Sofia",
+   "context": "Elements of Life Retreat",
+   "lang": "de",
+   "image": "tp-sofia",
+   "status": "bereit",
+   "paragraphs": [
+    "Innerhalb dieser Tage habe ich mich selbst und viele tolle Menschen auf eine sehr intensive & berührende Weise kennenlernen dürfen.",
+    "Ich hatte mich für dieses Retreat entschieden, um Zeit für mich in der Natur zu haben und mit Hilfe von Elena & Daniel wieder Ruhe in mich einkehren zu lassen. Was mir geschenkt wurde, hatte ich so nicht erwartet. Innerhalb kürzester Zeit konnte ich mich im Raum lauter fremder Menschen öffnen, wie ich es selten zuvor von mir erlebt habe.",
+    "Die tägliche Yoga-Praxis, die Talking Circles, das Singen, die Zeit in der Gruppe und die Zeit alleine, Tarotkarten ziehen, Meditationen und all die weiteren heilenden Dinge, welche wir unter feinfühliger Leitung erfahren durften, haben mich sehr berührt und weiterführend angeregt, mich in meinem Alltag damit zu befassen. Durch diese intensive Zeit wurde ich ermutigt, mir die Verstrickungen, welche ich zu mir nahestehenden Personen habe, anzuschauen und sie zu lösen.",
+    "Ich bin so dankbar.",
+    "Wir lachten, weinten, schrien, schwiegen, tanzten, schrieben, sangen, fühlten, kämpften, verstanden, liebten, hofften, wuchsen, und das alles in einem gehüteten Rahmen durch Elena & Daniel.",
+    "An dieser Stelle möchte ich mich nochmals bei euch, Elena & Daniel, und bei allen aus der Gruppe für diese Zeit bedanken ❤",
+    "Möge der große Geist mit uns sein, in Liebe, Sofia"
+   ]
+  }
+ ]
+}

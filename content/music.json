@@ -1,0 +1,189 @@
+{
+ "description": "Musik (Elena 03.11.2026): Text aus „Über mich“, Fotos aus dem Drive-Ordner Musik. DJ- und Hybrid-Fotos sowie der Set-Link folgen.",
+ "hero": "mu-header",
+ "set": "https://soundcloud.com/elena-judith",
+ "de": {
+  "eyebrow": "MUSIK · LIVE · DJ-SETS",
+  "title": "Musik",
+  "claim": "Live-Musik, DJ-Sets und Hybrid-Sets.",
+  "blocks": [
+   {
+    "type": "statement",
+    "text": "Was auch immer ich tue - Singen ist ein Teil davon. Meine Mutter sagt, ich habe gesungen, bevor ich gesprochen habe.",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "Meine Musik begleitet mich auf dieser unendlich magischen, bunten Reise, die wir Leben nennen, wo auch immer ich meine nackten Füße auf Mutter Erde setze. Ob auf Gatherings, in meinen Sacred Plant Medicine Ceremonies und Retreats, bei meinen Solo-Konzerten oder zu meinen DJ-Sets: Ich singe."
+   },
+   {
+    "type": "photo",
+    "id": "mu-see-gitarre"
+   },
+   {
+    "type": "p",
+    "text": "Ich durfte mit wundervollen MusikerInnen wie Natan Rabin, Mose, Goyanu und vielen mehr zusammenarbeiten und habe vor Kurzem mit meinem Konzert die Show von YAIMA eröffnet."
+   },
+   {
+    "type": "p",
+    "text": "Mein musikalisches Angebot reicht von Medicine Songs, Icaros und World & Folk Music bis hin zu neuen Interpretationen alter Klassiker, die die Herzen und Seelen der Menschen berühren."
+   },
+   {
+    "type": "statement",
+    "text": "Meine Konzerte haben immer einen tief zeremoniellen Charakter. Sie verbinden meine eigene spirituelle Reise mit meiner Heilarbeit und werden so zu einem Gebet an das Leben und an die Reise, auf die wir uns alle begeben - als One Tribe der Neuen Erde."
+   },
+   {
+    "type": "player",
+    "which": "cambia"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "mu-zelt",
+     "mu-kreis-1",
+     "mu-mikro",
+     "mu-vida",
+     "mu-kreis-2",
+     "mu-sofa",
+     "mu-holz",
+     "mu-wiese"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "mu-buehne"
+   },
+   {
+    "type": "heading",
+    "text": "Hinter dem Mischpult"
+   },
+   {
+    "type": "p",
+    "text": "Seit Neuestem stehe ich auch als DJane hinter dem Mischpult."
+   },
+   {
+    "type": "player",
+    "which": "set"
+   },
+   {
+    "type": "statement",
+    "text": "Ich spiele auch Hybrid-Sets: Ich lege auf und singe live dazu."
+   },
+   {
+    "type": "photo",
+    "id": "mu-agave"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "mu-berge",
+     "mu-olivenbaum",
+     "mu-steg-arm",
+     "mu-freundinnen",
+     "mu-trommel",
+     "mu-gitarre-sonne",
+     "mu-gras",
+     "mu-feuer",
+     "mu-hut",
+     "mu-baum"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "mu-steg"
+   }
+  ]
+ },
+ "en": {
+  "eyebrow": "MUSIC · LIVE · DJ SETS",
+  "title": "Music",
+  "claim": "Live music, DJ sets and hybrid sets.",
+  "blocks": [
+   {
+    "type": "statement",
+    "text": "Whatever I do - singing is part of it. My mother says I sang before I could speak.",
+    "strong": true
+   },
+   {
+    "type": "p",
+    "text": "My music accompanies me on this endlessly magical, colourful journey we call life, wherever I set my bare feet on Mother Earth. Whether at gatherings, in my sacred plant medicine ceremonies and retreats, at my solo concerts or during my DJ sets: I sing."
+   },
+   {
+    "type": "photo",
+    "id": "mu-see-gitarre"
+   },
+   {
+    "type": "p",
+    "text": "I have collaborated with amazing musicians like Natan Rabin, Mose, Goyanu and many more, and recently opened the show of YAIMA with my concert."
+   },
+   {
+    "type": "p",
+    "text": "My musical offering ranges from medicine songs, icaros and world & folk music to new interpretations of old classic songs that touch people’s hearts and souls."
+   },
+   {
+    "type": "statement",
+    "text": "My concerts always have a deeply ceremonial character. They fuse my own spiritual journey with my healing work and so become a prayer offered to Life and to the journey we are all embarking on - as One Tribe of the New Earth."
+   },
+   {
+    "type": "player",
+    "which": "cambia"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "mu-zelt",
+     "mu-kreis-1",
+     "mu-mikro",
+     "mu-vida",
+     "mu-kreis-2",
+     "mu-sofa",
+     "mu-holz",
+     "mu-wiese"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "mu-buehne"
+   },
+   {
+    "type": "heading",
+    "text": "Behind the decks"
+   },
+   {
+    "type": "p",
+    "text": "Recently I have also been stepping behind the decks as a DJane."
+   },
+   {
+    "type": "player",
+    "which": "set"
+   },
+   {
+    "type": "statement",
+    "text": "I also play hybrid sets: I DJ and sing live on top."
+   },
+   {
+    "type": "photo",
+    "id": "mu-agave"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "mu-berge",
+     "mu-olivenbaum",
+     "mu-steg-arm",
+     "mu-freundinnen",
+     "mu-trommel",
+     "mu-gitarre-sonne",
+     "mu-gras",
+     "mu-feuer",
+     "mu-hut",
+     "mu-baum"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "mu-steg"
+   }
+  ]
+ }
+}

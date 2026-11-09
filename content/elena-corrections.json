@@ -1,0 +1,33 @@
+{
+ "description": "Von Elena freigegebene Korrekturen an den wortgetreu übernommenen Drive-Texten (siehe docs/website-aenderungen.md, C-02). Jede Zeile: [Originaltext, korrigierter Text]. Wird beim Build und in scripts/check-content.mjs angewendet.",
+ "replacements": [
+  [
+   "Hallo du ! Ich bin Elena Judith",
+   "Hallo du! Ich bin Elena Judith"
+  ],
+  [
+   "Spiritueller Aktivismus durch die begleitung der menschen auf emotionaler und spiritueller eben – im glauben daran, dass dies ripple effekte hat! Vor allem durch meine zeremoiniellen Räume sowie durch meine Musik bete ich für den Frieden und erinnere uns alle daran, dass Frieden möglich ist- und es uns alle braucht.",
+   "Spiritueller Aktivismus durch die Begleitung der Menschen auf emotionaler und spiritueller Ebene – im Glauben daran, dass dies Ripple-Effekte hat! Vor allem durch meine zeremoniellen Räume sowie durch meine Musik bete ich für den Frieden und erinnere uns alle daran, dass Frieden möglich ist – und es uns alle braucht."
+  ],
+  [
+   "das Gute jedem Menschen zu sehen",
+   "das Gute in jedem Menschen zu sehen"
+  ],
+  [
+   "ist du selbst zu sein ein Akt der Revolution!",
+   "ist es ein Akt der Revolution, du selbst zu sein!"
+  ],
+  [
+   "Also- ready for a revolution ??",
+   "So – are you ready for a revolution?"
+  ],
+  [
+   "mit der sprituellen Perspektive",
+   "mit der spirituellen Perspektive"
+  ],
+  [
+   "zu weltlich für den Ashram aber zu spirituell",
+   "zu weltlich für den Ashram, aber zu spirituell"
+  ]
+ ]
+}

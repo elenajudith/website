@@ -1,0 +1,590 @@
+{
+ "description": "Kraft meiner Wurzeln (Elena 03.11.2026): Text von elenajudith.de, nur Tippfehler korrigiert",
+ "hero": {
+  "id": "web-38",
+  "shape": "arch",
+  "position": "50% 40%",
+  "alt": {
+   "de": "Eine Frau im roten Kleid zwischen den großen Wurzeln eines Baumes",
+   "en": "A woman in a red dress among the great roots of a tree"
+  }
+ },
+ "de": {
+  "eyebrow": "RETREAT · 4 TAGE IN MUTTER NATUR",
+  "title": "Kraft meiner Wurzeln",
+  "subtitle": "Retreat",
+  "claim": "Ein Retreat mit Ahnenheilung, Yoga Nidra, Naturtherapie und kreativem Schreiben",
+  "dateLabel": "TERMIN",
+  "date": "Nächster Termin in Planung · Warteliste",
+  "questionsIntro": "Kennst du deine Wurzeln?",
+  "questions": [
+   "Wie weit kannst du zurückgehen in deiner Erinnerung?",
+   "Wie viel weißt du über die Geschichte deiner Familie?",
+   "Kennst du den Namen deiner Urgroßmutter?",
+   "Ist dir klar, dass du ohne ihre bedingungslose Liebe jetzt nicht hier wärst, um diese Worte zu lesen?"
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Ohne all ihre Kraft, all ihr Blut und all ihre Tränen wärst du nicht."
+   },
+   {
+    "type": "lead",
+    "text": "Denk einen Moment darüber nach:"
+   },
+   {
+    "type": "p",
+    "text": "Wie viele Kämpfe? Wie viele Schlachten? Wie viele Schwierigkeiten? Wie viel Glück? Wie viele Liebesgeschichten? Wie viel Hoffnung auf die Zukunft? All das ist geschehen, damit du in diesem Moment da sein kannst …"
+   },
+   {
+    "type": "statement",
+    "text": "Was für ein Geschenk, am Leben zu sein."
+   },
+   {
+    "type": "p",
+    "text": "Was für ein Bedürfnis, Danke zu sagen. Und ihre Geschichten zu teilen. Um zu begreifen, dass all die Menschen, die vor deiner Geburt gegangen sind, Raum geschaffen haben für dich. Den Weg bereitet haben für dein Sein."
+   },
+   {
+    "type": "statement",
+    "text": "Lass das für einen Moment auf dich wirken."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-39",
+     "shape": "oval",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Viele Hände liegen gemeinsam auf einem Baumstamm",
+      "en": "Many hands resting together on a tree trunk"
+     }
+    }
+   },
+   {
+    "type": "heading",
+    "text": "Zeit, unseren Ahnen zu gedenken!"
+   },
+   {
+    "type": "p",
+    "text": "Sie einzuladen in unser Leben. Uns bewusst Zeit zu nehmen, uns an sie zu erinnern, sie anzurufen, uns mit ihnen zu verbinden. Über sie und mit ihnen zu sprechen und uns dann zu erlauben, wirklich auf ihre Antworten zu hören."
+   },
+   {
+    "type": "p",
+    "text": "Dieser Prozess ist eine Reise zurück zu uns selbst. Zu unseren Wurzeln. Unserer inneren Stimme. Und zurück zu MUTTER NATUR."
+   },
+   {
+    "type": "p",
+    "text": "Von all dem haben wir uns in unserer modernen, schnelllebigen Gesellschaft entfernt - Zeit, zurückzukehren. Und zu er-INNERN."
+   },
+   {
+    "type": "statement",
+    "text": "Meiner Erfahrung nach brauchen wir alle Heilung."
+   },
+   {
+    "type": "p",
+    "text": "Wir alle tragen auf unseren Schultern all die Traumata und Erinnerungen aus unserer Kindheit sowie die durch die (wissenschaftlich bewiesene!) Epigenetik vererbten Erfahrungen, Ängste und Themen unserer Ahnen sowie die kollektiven Traumata und Wunden ganzer Kulturen mit uns herum, die von Generation zu Generation weiterbestehen."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-40",
+     "shape": "arch",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Ein Waldweg im warmen Licht",
+      "en": "A forest path in warm light"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "Gerade wir in Deutschland haben einen starken nationalen Schmerzkörper."
+   },
+   {
+    "type": "p",
+    "text": "Unsere Vergangenheit aufzuarbeiten sehe ich nicht nur als eine absolute Priorität, sondern als unsere Pflicht und Verantwortung - auch und besonders unseren Kindern und zukünftigen Generationen gegenüber."
+   },
+   {
+    "type": "quote",
+    "text": "Ich bin davon überzeugt, dass Heilung GEMEINSAM geschieht."
+   },
+   {
+    "type": "p",
+    "text": "Wir brauchen DICH. Du bist wichtig und machst einen Unterschied fürs kollektive Bewusstsein."
+   },
+   {
+    "type": "p",
+    "text": "Außerdem enthält unser Erbgut einen riesigen Schatz an Talenten und Gaben sowie die Information, wie wir uns aus alten Glaubensmustern und Zwängen befreien können, wie wir alte Wunden heilen und andere Menschen in ihrer Heilung unterstützen können, wer wir wirklich sind und was unsere Mission hier auf Erden ist."
+   },
+   {
+    "type": "p",
+    "text": "All diese Informationen warten nur darauf, decodiert und wachgerufen sowie integriert zu werden. Viel wurde verbannt, verbrannt und unterdrückt - doch es ist niemals ganz verschwunden!"
+   },
+   {
+    "type": "quote",
+    "text": "Schmerz reist durch Ahnen- und Blutlinien, bis ein Mensch kommt, der ihn sich anschaut und ihn heilt. Stellvertretend für alle vor und nach ihm."
+   },
+   {
+    "type": "statement",
+    "text": "Worauf wartest du also?"
+   },
+   {
+    "type": "photo",
+    "id": "kr-kreis-wiese"
+   },
+   {
+    "type": "heading",
+    "text": "4 Tage in Mutter Natur"
+   },
+   {
+    "type": "p",
+    "text": "Schreiben. Erforschen, was das bedeutet. Ein Wort, ein Satz, ein Geständnis. Vielleicht die nackte, manchmal auch traurige, befreiende Wahrheit. Vielleicht ein Eid. Oder irgendwas dazwischen."
+   },
+   {
+    "type": "quote",
+    "text": "Einzeln sind wir Worte. Gemeinsam ein Gedicht."
+   },
+   {
+    "type": "p",
+    "text": "Ich bin davon überzeugt, dass die Natur uns beim Schreiben nicht nur hilft, sondern es ohne sie nicht wirklich fließen kann. Weil unser Inneres und die Natur am Ende eins sind."
+   },
+   {
+    "type": "p",
+    "text": "Wir alle kommen von Mutter Erde und gehen am Ende wieder in sie ein. Daher werden wir uns in diesen Tagen mit ihr verbinden und mit den Elementen von Mutter Erde sowie mit den Elementen in uns arbeiten."
+   },
+   {
+    "type": "lead",
+    "text": "Wer sind wir eigentlich? Wer bist denn du?"
+   },
+   {
+    "type": "p",
+    "text": "Wir sprechen hier von dir in deinem ganzen Sein - die ganzheitliche Triade aus Körper, Geist und Seele, die ein menschliches Wesen ausmacht. Ein unsterbliches Wesen, das eine menschliche Erfahrung auf der Erde macht."
+   },
+   {
+    "type": "photo",
+    "id": "kr-feuer-gitarre"
+   },
+   {
+    "type": "p",
+    "text": "Mein Verständnis und Zugang zu Heilung und Retreats ist ein ganzheitlicher. Anstatt mich nur auf analytische Therapie zu stützen, bei der ausschließlich gesprochen, analysiert und gedacht wird - etwas, das wir in unserer modernen westlichen Gesellschaft ohnehin viel zu viel und durchaus krankhaft tun -, integriere ich bei meinen Retreats verschiedene und abwechslungsreiche ganzheitliche Ansätze."
+   },
+   {
+    "type": "p",
+    "text": "Auch beim Zugang zum Schreiben glaube ich nicht ans (alleinige) Dasitzen und Nachdenken."
+   },
+   {
+    "type": "lead",
+    "text": "Ich glaube an"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Die Kraft der Stille",
+     "Die Medizin des Yoga, der Meditation und des Atems",
+     "Die Wichtigkeit der Bewegung",
+     "Die Magie des Tarot",
+     "Die Früchte des Spielens und des Musizierens",
+     "Die Bedeutung von ganzheitlicher Traumatherapie, Transpersoneller Therapie und Prozessarbeit"
+    ]
+   },
+   {
+    "type": "quote",
+    "text": "Und an den Schlüssel zu allem - das Leben im Einklang und der tiefen Harmonie mit Mutter Natur."
+   },
+   {
+    "type": "p",
+    "text": "Wir erfahren und erleben mit unserem ganzen Sein, durch praktische Übungen, Zeremonien und Aktivitäten, den direkten Zusammenhang dieser Methoden und ihrer Medizin mit uns und unserem täglichen Leben - sodass wir uns in bewussten Redekreisen ums Feuer herum wahrlich öffnen und endlich einmal in die Tiefe gehen können in all den Themen, die so oft zu kurz kommen und über die wir dringend reden sollten - ganz einfach, weil sie wichtig sind, weil wir es sind."
+   },
+   {
+    "type": "p",
+    "text": "Ferner reisen wir in die Astraldimension und in Traumwelten, indem wir intensiv mit Yoga Nidra arbeiten."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Alte Glaubenssätze dauerhaft auflösen - Zellen auf epigenetischer Ebene neu programmieren - Manifestieren auf hoher Frequenz"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat. Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf. Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "p",
+    "text": "Durch die direkte Arbeit mit unserem Unterbewusstsein hat alles, was wir uns in diesem Zustand selbst sagen, und alles, was wir hören und erfahren, einen immensen, tiefen und wertvollen Einfluss."
+   },
+   {
+    "type": "quote",
+    "text": "Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine holistische (ganzheitliche) Therapie- und Heilmethode, die wissenschaftlich erforscht und bewiesen ist und weltweit erfolgreich bei Schlafstörungen, Angstpatienten, Alpträumen, in der Traumatherapie und vielem mehr eingesetzt wird."
+   },
+   {
+    "type": "p",
+    "text": "Ich darf seit Jahren bei den TeilnehmerInnen meiner Nidra-Kurse beobachten, wie diese Reise ins Unterbewusstsein kreative (Schreib-)Prozesse auf magische und sehr tiefe Art und Weise ankurbelt und entfalten lässt. Außerdem werden durch Yoga Nidra unsere Zellen auf epigenetischer Ebene neu programmiert und alte Glaubenssätze umgeschrieben!"
+   },
+   {
+    "type": "statement",
+    "text": "Dies ist ein wichtiger Schlüssel in der Ahnenheilung und Vergebungsarbeit."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "Mehr über Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "kr-feuer-trommel",
+     "kr-tafel",
+     "kr-trommel-nacht"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "kr-gruppe"
+   },
+   {
+    "type": "heading",
+    "text": "In diesem intensiven, heilsamen und wunderschönen Retreat wirst du erleben und erfahren"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Bewusstes Reden",
+     "Meditation",
+     "Yoga Nidra",
+     "Astralreisen",
+     "Erdbewusstsein",
+     "Die vier Elemente",
+     "Hatha Yoga",
+     "Rituale und Zeremonien",
+     "Gemeinschaft",
+     "Alleinsein",
+     "Stille",
+     "Musik und Singen",
+     "Schattenarbeit",
+     "Kreatives und therapeutisches Schreiben",
+     "Naturpoesie",
+     "Familienstellen",
+     "Arbeit mit inneren Anteilen, Archetypen und dem Inneren Kind",
+     "Vergebungsarbeit & Ho'oponopono",
+     "…und vieles, vieles mehr!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Selbstverständlich wirst du versorgt mit drei gesunden Mahlzeiten am Tag, mit Getränken, kuscheligem Schlafplatz und mit allem, was wir so brauchen."
+   },
+   {
+    "type": "lead",
+    "text": "Die Prozesse und Ergebnisse meiner bisherigen Retreats waren atemberaubend und haben sämtliche meiner Erwartungen übertroffen."
+   }
+  ],
+  "closing": [
+   "Bist du bereit, tief in die Mysterien der Natur und der Psyche einzutauchen?",
+   "Deine Vergangenheit ein Stück mehr aufzuarbeiten? Den Versuch zu unternehmen, deinen Ahnen für einige schmerzhafte Dinge zu vergeben? Und dadurch dir selbst?",
+   "Dich deiner Schatten anzunehmen und genau und nur dadurch hell zu leuchten?",
+   "Und bist du bereit, jede Menge Spaß zu haben?"
+  ],
+  "places": "",
+  "questionsLead": "Erinnern - solch ein großes Wort."
+ },
+ "en": {
+  "eyebrow": "RETREAT · 4 DAYS IN MOTHER NATURE",
+  "title": "The Strength of My Roots",
+  "subtitle": "Retreat",
+  "claim": "A retreat with ancestral healing, Yoga Nidra, nature therapy and creative writing",
+  "dateLabel": "DATE",
+  "date": "Next date in planning · waiting list",
+  "questionsIntro": "Do you know your roots?",
+  "questions": [
+   "How far back can you go in your memory?",
+   "How much do you know about your family's history?",
+   "Do you know your great-grandmother's name?",
+   "Do you realise that without her unconditional love you would not be here now to read these words?"
+  ],
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Without all her sacrifice, all her blood and all her tears, you wouldn't be."
+   },
+   {
+    "type": "lead",
+    "text": "Think for a moment:"
+   },
+   {
+    "type": "p",
+    "text": "How many struggles? How many battles? How many difficulties? How much happiness? How many love stories? How many expressions of hope for the future? All of it happened in order for you to exist in this present moment …"
+   },
+   {
+    "type": "statement",
+    "text": "What a gift to be alive."
+   },
+   {
+    "type": "p",
+    "text": "What a need to say thank you. And to share their stories. To understand that all the people who passed away before you were born made room for you. Prepared the way for your being."
+   },
+   {
+    "type": "statement",
+    "text": "Let that sink in for a moment."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-39",
+     "shape": "oval",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Viele Hände liegen gemeinsam auf einem Baumstamm",
+      "en": "Many hands resting together on a tree trunk"
+     }
+    }
+   },
+   {
+    "type": "heading",
+    "text": "Time to honour our ancestors!"
+   },
+   {
+    "type": "p",
+    "text": "To invite them into our lives. To consciously take time to remember them, to call on them, to connect with them. To speak about them and with them, and then to allow ourselves to truly listen to their answers."
+   },
+   {
+    "type": "p",
+    "text": "This process is a journey back to ourselves. To our roots. Our inner voice. And back to MOTHER NATURE."
+   },
+   {
+    "type": "p",
+    "text": "In our modern, fast-paced society we have drifted away from all of this - time to return. And to re-MEMBER."
+   },
+   {
+    "type": "statement",
+    "text": "In my experience, we all need healing."
+   },
+   {
+    "type": "p",
+    "text": "We all carry on our shoulders the traumas and memories of our childhood, the experiences, fears and issues of our ancestors passed on through (scientifically proven!) epigenetics, and the collective traumas and wounds of entire cultures that live on from generation to generation."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "web-40",
+     "shape": "arch",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Ein Waldweg im warmen Licht",
+      "en": "A forest path in warm light"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "We in Germany in particular carry a strong national pain body."
+   },
+   {
+    "type": "p",
+    "text": "I see coming to terms with our past not only as an absolute priority, but as our duty and responsibility - also and especially towards our children and future generations."
+   },
+   {
+    "type": "quote",
+    "text": "I am convinced that healing happens TOGETHER."
+   },
+   {
+    "type": "p",
+    "text": "We need YOU. You matter and you make a difference to the collective consciousness."
+   },
+   {
+    "type": "p",
+    "text": "Our genetic heritage also holds a huge treasure of talents and gifts, as well as the information on how we can free ourselves from old belief patterns and constraints, how we can heal old wounds and support other people in their healing, who we really are and what our mission here on Earth is."
+   },
+   {
+    "type": "p",
+    "text": "All this information is just waiting to be decoded, awakened and integrated. Much was banished, burned and suppressed - but it never disappeared completely!"
+   },
+   {
+    "type": "quote",
+    "text": "Pain travels through ancestral and blood lines until one person comes along who looks at it and heals it. On behalf of everyone before and after them."
+   },
+   {
+    "type": "statement",
+    "text": "So what are you waiting for?"
+   },
+   {
+    "type": "photo",
+    "id": "kr-kreis-wiese"
+   },
+   {
+    "type": "heading",
+    "text": "4 days in Mother Nature"
+   },
+   {
+    "type": "p",
+    "text": "Writing. Exploring what it means. A word, a sentence, a confession. Perhaps the naked, sometimes sad, liberating truth. Perhaps a vow. Or something in between."
+   },
+   {
+    "type": "quote",
+    "text": "Alone we are words. Together a poem."
+   },
+   {
+    "type": "p",
+    "text": "I am convinced that nature not only helps us write, but that without her writing cannot really flow. Because our inner world and nature are one in the end."
+   },
+   {
+    "type": "p",
+    "text": "We all come from Mother Earth and in the end return to her. So during these days we will connect with her and work with the elements of Mother Earth and the elements within us."
+   },
+   {
+    "type": "lead",
+    "text": "Who are we, really? And who are you?"
+   },
+   {
+    "type": "p",
+    "text": "We are talking about you in your whole being - the holistic triad of body, mind and soul that makes up a human being. An immortal being having a human experience on Earth."
+   },
+   {
+    "type": "photo",
+    "id": "kr-feuer-gitarre"
+   },
+   {
+    "type": "p",
+    "text": "My understanding of and approach to healing and retreats is holistic. Instead of relying only on analytical therapy, where we just talk, analyse and think - something we already do far too much, and in an unhealthy way, in our modern Western society - I bring a variety of holistic approaches into my retreats."
+   },
+   {
+    "type": "p",
+    "text": "When it comes to writing, too, I don't believe in (just) sitting and thinking."
+   },
+   {
+    "type": "lead",
+    "text": "I believe in"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "The power of silence",
+     "The medicine of yoga, meditation and breath",
+     "The importance of movement",
+     "The magic of tarot",
+     "The fruits of playing and making music",
+     "The importance of holistic trauma therapy, transpersonal therapy and process work"
+    ]
+   },
+   {
+    "type": "quote",
+    "text": "And in the key to everything - living in tune and in deep harmony with Mother Nature."
+   },
+   {
+    "type": "p",
+    "text": "With our whole being, through practical exercises, ceremonies and activities, we experience the direct connection between these methods, their medicine, ourselves and our daily lives - so that in conscious talking circles around the fire we can truly open up and finally go deep into all the topics that so often get too little space and that we urgently need to talk about - simply because they matter, because we matter."
+   },
+   {
+    "type": "p",
+    "text": "We also travel into the astral dimension and into dream worlds by working intensively with Yoga Nidra."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Dissolving old beliefs for good - reprogramming cells on an epigenetic level - manifesting on a high frequency"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a guided deep meditation that has its origins in the ancient Indian tradition of Tantra. Through deep relaxation of body, mind and soul and the shift of our brain waves to theta waves (the same waves that are activated in hypnosis), we enter a trance-like space between waking and sleep. In this way we gain direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "p",
+    "text": "Because we work directly with our subconscious, everything we tell ourselves in this state and everything we hear and experience has an immense, deep and valuable influence."
+   },
+   {
+    "type": "quote",
+    "text": "An impulse planted in the subconscious can unfold in our lives far more easily than one given in the waking state!"
+   },
+   {
+    "type": "p",
+    "text": "We also learn to distinguish more clearly between states such as waking, sleeping, dozing and dreaming and to become more lucid, that is, more aware and awake, which also helps us to have more pleasant dreams and nights. In this way we practise lucid dreaming and out-of-body experiences (astral travel)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a holistic method of therapy and healing that has been researched scientifically and is used successfully around the world for sleep disorders, anxiety, nightmares, in trauma therapy and much more."
+   },
+   {
+    "type": "p",
+    "text": "For years I have been able to observe in the participants of my Nidra courses how this journey into the subconscious sparks creative (writing) processes and lets them unfold in a magical and very deep way. Yoga Nidra also reprograms our cells on an epigenetic level and rewrites old beliefs!"
+   },
+   {
+    "type": "statement",
+    "text": "This is an important key in ancestral healing and forgiveness work."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "More about Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "kr-feuer-trommel",
+     "kr-tafel",
+     "kr-trommel-nacht"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "kr-gruppe"
+   },
+   {
+    "type": "heading",
+    "text": "In this intense, healing and beautiful retreat you will experience"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Conscious talking",
+     "Meditation",
+     "Yoga Nidra",
+     "Astral travel",
+     "Earth awareness",
+     "The four elements",
+     "Hatha yoga",
+     "Rituals and ceremonies",
+     "Community",
+     "Solitude",
+     "Silence",
+     "Music and singing",
+     "Shadow work",
+     "Creative and therapeutic writing",
+     "Nature poetry",
+     "Family constellations",
+     "Working with inner parts, archetypes and the inner child",
+     "Forgiveness work & Ho'oponopono",
+     "…and much, much more!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Of course you will be provided with three healthy meals a day, drinks, a cosy place to sleep and everything else we need."
+   },
+   {
+    "type": "lead",
+    "text": "The processes and results of my previous retreats were breathtaking and exceeded all my expectations."
+   }
+  ],
+  "closing": [
+   "Are you ready to dive deep into the mysteries of nature and the psyche?",
+   "To work through your past a little more? To try to forgive your ancestors for some painful things? And through that, yourself?",
+   "To embrace your shadows and, precisely and only through that, to shine brightly?",
+   "And are you ready to have lots of fun?"
+  ],
+  "places": "",
+  "questionsLead": "Remembering - such a big word."
+ }
+}

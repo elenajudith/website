@@ -1,0 +1,722 @@
+{
+ "description": "Schamanisches Retreat (Elena 30.10.2026): Text von elenajudith.de, nur Tippfehler korrigiert",
+ "hero": {
+  "id": "web-28",
+  "shape": "arch",
+  "position": "50% 40%",
+  "alt": {
+   "de": "Eine Frau in hellem Kleid vor dem Tipi zwischen sonnenbeschienenen Blättern",
+   "en": "A woman in a light dress in front of the tipi among sunlit leaves"
+  }
+ },
+ "de": {
+  "eyebrow": "SCHAMANISCHES RETREAT · 4 TAGE IN MUTTER NATUR",
+  "title": "We are the ones we've been waiting for",
+  "subtitle": "Schamanisches Retreat",
+  "claim": "4-tägiges schamanisches Retreat mit Yoga und Naturtherapie, kreativem Schreiben, Zeremonien & Prozessarbeit in Mutter Natur",
+  "dateLabel": "TERMIN",
+  "date": "Nächster Termin in Planung · Warteliste",
+  "questions": [
+   "Wer bist du?",
+   "Wie erlebst du persönlich die aktuellen Zeiten?",
+   "Was hat sich in deinem Leben verändert?",
+   "Was durfte in dir und durch dich transformiert werden?",
+   "Wie geht es jetzt weiter? Für dich, fürs kollektive Bewusstsein, für die Menschheit und für Mutter Erde?",
+   "Wie können wir alle unseren Beitrag dazu leisten, dass die Welt ein besserer Ort wird?"
+  ],
+  "blocks": [
+   {
+    "type": "statement",
+    "text": "Nicht nur reden, sondern handeln. Nicht nur visionieren, sondern Pläne in die Tat umsetzen. Packen wir's kollektiv an! Gemeinsam schaffen wir das!"
+   },
+   {
+    "type": "lead",
+    "text": "Mitten in dieser turbulenten, die Menschheit verändernden Zeit sind diese Fragen so aktuell und wichtig wie selten zuvor."
+   },
+   {
+    "type": "p",
+    "text": "Die Karten der Welt werden gerade komplett neu gemischt. Niemand weiß genau, was passieren wird, was uns zwingt, nun wirklich im Hier und Jetzt zu leben und jeden Schritt einzeln zu nehmen."
+   },
+   {
+    "type": "p",
+    "text": "Viele von uns, die es gewohnt sind, die Kontrolle zu behalten und vorauszuplanen, durften in den letzten Jahren lernen, loszulassen."
+   },
+   {
+    "type": "statement",
+    "text": "Lass alles los. Und schau, was bleibt."
+   },
+   {
+    "type": "photo",
+    "id": "sch-tipi-innen"
+   },
+   {
+    "type": "lead",
+    "text": "Und nun? Was kommt?"
+   },
+   {
+    "type": "p",
+    "text": "Lasst uns nach innen gehen, nach innen schauen. Was siehst du?"
+   },
+   {
+    "type": "p",
+    "text": "Welche bewussten Entscheidungen triffst du bezüglich deines Konsums, deiner Ernährung, deiner Lebensgestaltung, deiner Ideale und Werte? Deiner Spiritualität?"
+   },
+   {
+    "type": "p",
+    "text": "Lasst uns diese besondere Zeit des Neubeginns nutzen."
+   },
+   {
+    "type": "quote",
+    "text": "Reflexion. Meditation. Reinigung. Heilung. Kreativität. Neuausrichtung. Vision. Kreation. Vertrauen."
+   },
+   {
+    "type": "statement",
+    "text": "Hold the vision. Trust the process."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-web-42-kuehl",
+     "shape": "rect",
+     "position": "50% 55%",
+     "alt": {
+      "de": "Gruppe im Kreis in der Kindhaltung um die Feuerstelle",
+      "en": "The group in a circle in child's pose around the fire pit"
+     }
+    }
+   },
+   {
+    "type": "heading",
+    "text": "4 Tage in Mutter Natur"
+   },
+   {
+    "type": "lead",
+    "text": "Endlich wieder GEMEINSCHAFT ALS TRIBE erfahren. Spüren, was dadurch möglich wird."
+   },
+   {
+    "type": "p",
+    "text": "Tag 1: Zusammenkommen & Stärkung. Wir sind der Tribe! Wir sind stärker als jemals zuvor und wir schließen uns zusammen."
+   },
+   {
+    "type": "p",
+    "text": "Tag 2: Rückblick & Reinigung. Was haben wir erlebt? Was hat sich verändert? Was darf noch abgegeben und gereinigt werden?"
+   },
+   {
+    "type": "p",
+    "text": "Tag 3: Heilung & Transformation. Was darf in die Heilung gehen? Wie können wir uns gegenseitig dabei unterstützen? Was darf sich verändern?"
+   },
+   {
+    "type": "p",
+    "text": "Tag 4: Neuausrichtung & Vision. Was nun? Wohin geht die Reise für uns persönlich und fürs Kollektiv? Wie können wir das neue Zeitalter aktiv mitgestalten?"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-web-43-kuehl",
+     "shape": "oval",
+     "position": "45% 50%",
+     "alt": {
+      "de": "Gemeinsam am Zeremonienfeuer",
+      "en": "Together at the ceremonial fire"
+     }
+    }
+   },
+   {
+    "type": "statement",
+    "text": "Ein besonderes Retreat für tiefgehende physische, psychische und spirituelle Reinigung und Neuausrichtung, um GEMEINSAM eine NEUE ERDE zu kreieren 🪶"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-mandala",
+     "shape": "circle",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Erdmandala aus Erde, Blättern und Kerzen",
+      "en": "Earth mandala of soil, leaves and candles"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "Zeit, uns wahrhaft zu begegnen. Mit all unseren Träumen und Wünschen, Gaben und Geschenken, Ängsten und Sorgen, Zweifeln und Themen, Wunden und Wundern."
+   },
+   {
+    "type": "quote",
+    "text": "Alles darf sein."
+   },
+   {
+    "type": "p",
+    "text": "Lass uns diese besondere Zeit des Neubeginns nutzen. Lass uns zusammenkommen im Kreis - als der Tribe, der wir sind. Umgeben und umhüllt von den Elementen."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sch-tipi-spitze",
+     "sch-felsen",
+     "sch-baum",
+     "sch-sternennacht",
+     "sch-huette-nacht",
+     "sch-schwitzhuette",
+     "sch-elena-deck",
+     "ic-elena-portraet",
+     "ic-elena-augen-zu"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Gemeinsam werden wir erleben und erfahren"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentische und bodenständige Spiritualität & Tiefenpsychologie",
+     "Tiefe Prozessarbeit",
+     "Sound Healing & Singkreise",
+     "Astrologie",
+     "Geführte Meditationen",
+     "Tanzen",
+     "Yoga Nidra - psychic sleep meditation",
+     "Stille",
+     "Rituale & Zeremonien",
+     "Naturtherapie",
+     "Bewusste Redekreise",
+     "Therapeutisches Schreiben",
+     "Authentic Relating & Aufstellungsarbeit",
+     "Yoga",
+     "Schreiben",
+     "Schwitzhütten-Ritual!",
+     "Wanderung zu einem magischen Kraftort",
+     "Nachhaltige Bienenhaltung hautnah",
+     "Spirituelle und psychologische Wegbegleitung",
+     "und vieles, vieles mehr!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Selbstverständlich wirst du mit gesunder und ausgewogener Vollwertkost versorgt."
+   },
+   {
+    "type": "photo",
+    "id": "sch-bienen"
+   },
+   {
+    "type": "lead",
+    "text": "Wir werden in tiefen Kontakt mit Mutter Erde gehen und spüren, wie sie uns in unserem Prozess trägt und unterstützt."
+   },
+   {
+    "type": "p",
+    "text": "Weil wir ein Teil von ihr sind. Weil sie unsere Große Mutter ist."
+   },
+   {
+    "type": "statement",
+    "text": "Es ist an der Zeit, findest du nicht auch?"
+   },
+   {
+    "type": "photo",
+    "id": "sch-rauch-kreis"
+   },
+   {
+    "type": "p",
+    "text": "Mein Verständnis und Zugang zu Heilung und Retreats ist ein ganzheitlicher. Anstatt mich nur auf analytische Therapie zu stützen, bei der ausschließlich gesprochen, analysiert und gedacht wird - etwas, das wir in unserer modernen westlichen Gesellschaft ohnehin viel zu viel und durchaus krankhaft tun -, integriere ich bei meinen Retreats verschiedene und abwechslungsreiche ganzheitliche Ansätze."
+   },
+   {
+    "type": "lead",
+    "text": "Ich glaube an"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Die Kraft der Stille",
+     "Die Medizin des Yoga, der Meditation und des Atems",
+     "Die Wichtigkeit der Bewegung",
+     "Die Magie des Tarot",
+     "Die Früchte des Spielens und des Musizierens",
+     "Die Bedeutung von ganzheitlicher Traumatherapie, Transpersoneller Therapie und Prozessarbeit"
+    ]
+   },
+   {
+    "type": "quote",
+    "text": "Und an den Schlüssel zu allem - das Leben im Einklang und der tiefen Harmonie mit Mutter Natur."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-kreis-garten",
+     "shape": "arch",
+     "position": "50% 45%",
+     "alt": {
+      "de": "Zeremonie im Garten",
+      "en": "A ceremony in the garden"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "Wir erfahren und erleben mit unserem ganzen Sein, durch praktische Übungen, Zeremonien und Aktivitäten, den direkten Zusammenhang dieser Methoden und ihrer Medizin mit uns und unserem täglichen Leben - sodass wir uns in bewussten Redekreisen ums Feuer herum wahrlich öffnen und endlich einmal in die Tiefe gehen können in all den Themen, die so oft zu kurz kommen und über die wir dringend reden sollten - ganz einfach, weil sie wichtig sind, weil wir es sind."
+   },
+   {
+    "type": "p",
+    "text": "Ferner reisen wir in die Astraldimension und in Traumwelten, indem wir intensiv mit Yoga Nidra arbeiten."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Alte Glaubenssätze dauerhaft auflösen - Zellen auf epigenetischer Ebene neu programmieren - Manifestieren auf hoher Frequenz"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine geführte Tiefenmeditation, die ihren Ursprung im jahrtausendealten indischen Tantra hat. Durch eine tiefe Entspannung von Körper, Geist und Seele und den Wechsel unserer Gehirnströme zu Theta-Wellen (dieselben Wellen, die bei Hypnose aktiviert werden), betreten wir einen tranceähnlichen Raum zwischen Wachsein und Schlaf. Hierdurch bekommen wir direkten Zugang zu unserem Unterbewusstsein und allem Unbewussten in uns und den astralen Dimensionen des Bewusstseins."
+   },
+   {
+    "type": "p",
+    "text": "Durch die direkte Arbeit mit unserem Unterbewusstsein hat alles, was wir uns in diesem Zustand selbst sagen, und alles, was wir hören und erfahren, einen immensen, tiefen und wertvollen Einfluss."
+   },
+   {
+    "type": "quote",
+    "text": "Ein ins Unterbewusstsein gepflanzter Impuls kann sich viel eher in unserem Leben entfalten als ein im Wachzustand gegebener!"
+   },
+   {
+    "type": "p",
+    "text": "Wir lernen außerdem, zwischen verschiedenen Zuständen wie Wachsein, Schlafen, Dösen und Träumen besser zu unterscheiden und luzider, das heißt bewusster und wacher, zu werden, was uns auch dabei hilft, angenehmere Träume und Nächte zu erleben. Somit trainieren wir luzides Träumen und außerkörperliche Erfahrungen (Astralreisen)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra ist eine holistische (ganzheitliche) Therapie- und Heilmethode, die wissenschaftlich erforscht und bewiesen ist und weltweit erfolgreich bei Schlafstörungen, Angstpatienten, Alpträumen, in der Traumatherapie und vielem mehr eingesetzt wird."
+   },
+   {
+    "type": "p",
+    "text": "Auch darf ich seit Jahren bei den TeilnehmerInnen meiner Nidra-Kurse beobachten, wie diese Reise ins Unterbewusstsein kreative (Schreib-)Prozesse auf magische und sehr tiefe Art und Weise ankurbelt und entfalten lässt. Außerdem werden durch Yoga Nidra unsere Zellen auf epigenetischer Ebene neu programmiert und alte Glaubenssätze umgeschrieben."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "Mehr über Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sch-feuer-gitarre",
+     "sch-altar-tuch",
+     "sch-feuer-kerze",
+     "sch-feuer-kreis",
+     "ic-kerzen-gitarre"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sch-tipi-aussen"
+   },
+   {
+    "type": "p",
+    "text": "Wir als menschliche Gemeinschaft sind nun mehr als jemals zuvor gefordert und gebeten, die Energien positiv zu halten, in der Liebe und fest in uns verankert zu bleiben, Licht auszusenden ins kollektive Bewusstsein und somit alles und alle um uns herum zu stärken und zu unterstützen."
+   },
+   {
+    "type": "p",
+    "text": "Lass uns die Krise als Chance des Erwachens sehen. Als Neubeginn, als lang nötig gewesene und herbeigesehnte Transformation für uns und für Mutter Erde."
+   },
+   {
+    "type": "lead",
+    "text": "Lasst uns niemals die Wirkkraft und Bedeutung dessen unterschätzen, was wir im Kleinen verändern können!"
+   },
+   {
+    "type": "p",
+    "text": "Alles fängt klein an und schlägt dann Wellen. Inspiriert andere. Jeder große Wandel hat im kleinen Kreis begonnen. Und im Individuum."
+   },
+   {
+    "type": "quote",
+    "text": "Politischer Aktivismus ohne Spiritualität ist seelenlos. Spiritualität, die nicht ins Handeln kommt und die politische Dimension nicht mit einbezieht, dreht sich oft im Kreis und verfehlt ihr Wirkungspotenzial."
+   },
+   {
+    "type": "statement",
+    "text": "Spiritueller Aktivismus ist kraftvoll!"
+   },
+   {
+    "type": "statement",
+    "text": "Let's be the change we want to see in the world! All we have is now."
+   },
+   {
+    "type": "statement",
+    "text": "We're the ones we've been waiting for.",
+    "strong": true
+   },
+   {
+    "type": "photo",
+    "id": "sch-gruppe-altar"
+   },
+   {
+    "type": "lead",
+    "text": "Die Prozesse und Ergebnisse meiner bisherigen Retreats waren atemberaubend und haben sämtliche meiner Erwartungen übertroffen."
+   },
+   {
+    "type": "statement",
+    "text": "Wenn nicht jetzt, wann dann? Wenn nicht wir, wer dann?"
+   }
+  ],
+  "closing": [
+   "Bist du bereit?",
+   "Auf wen wartest du? Wir sind diejenigen, auf die wir gewartet haben!",
+   "Wir brauchen DICH!",
+   "Deine Elena Judith"
+  ],
+  "places": "Bei diesem Retreat gibt es nur sehr wenige Plätze, da ich ausschließlich mit sehr kleinen Gruppen arbeite, um wirklich in die Tiefe gehen zu können!"
+ },
+ "en": {
+  "eyebrow": "SHAMANIC RETREAT · 4 DAYS IN MOTHER NATURE",
+  "title": "We are the ones we've been waiting for",
+  "subtitle": "Shamanic Retreat",
+  "claim": "A 4-day shamanic retreat with yoga and nature therapy, creative writing, ceremonies & process work in Mother Nature",
+  "dateLabel": "DATE",
+  "date": "Next date in planning · waiting list",
+  "questions": [
+   "Who are you?",
+   "How are you personally experiencing these times?",
+   "What has changed in your life?",
+   "What was transformed in you and through you?",
+   "Where do we go from here? For you, for the collective consciousness, for humanity and for Mother Earth?",
+   "How can we all do our part to make the world a better place?"
+  ],
+  "blocks": [
+   {
+    "type": "statement",
+    "text": "Not just talking, but acting. Not just envisioning, but putting plans into action. Let's tackle it collectively! Together we can do it!"
+   },
+   {
+    "type": "lead",
+    "text": "In the middle of these turbulent times that are changing humanity, these questions are more relevant and important than ever."
+   },
+   {
+    "type": "p",
+    "text": "The cards of the world are being completely reshuffled. Nobody knows exactly what will happen, which forces us to truly live in the here and now and to take each step one at a time."
+   },
+   {
+    "type": "p",
+    "text": "Many of us who are used to staying in control and planning ahead have had to learn to let go in recent years."
+   },
+   {
+    "type": "statement",
+    "text": "Let go of everything. And see what remains."
+   },
+   {
+    "type": "photo",
+    "id": "sch-tipi-innen"
+   },
+   {
+    "type": "lead",
+    "text": "And now? What comes next?"
+   },
+   {
+    "type": "p",
+    "text": "Let us go inwards and look inside. What do you see?"
+   },
+   {
+    "type": "p",
+    "text": "What conscious choices do you make about your consumption, your food, the way you live, your ideals and values? Your spirituality?"
+   },
+   {
+    "type": "p",
+    "text": "Let us use this special time of new beginnings."
+   },
+   {
+    "type": "quote",
+    "text": "Reflection. Meditation. Cleansing. Healing. Creativity. Realignment. Vision. Creation. Trust."
+   },
+   {
+    "type": "statement",
+    "text": "Hold the vision. Trust the process."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-web-42-kuehl",
+     "shape": "rect",
+     "position": "50% 55%",
+     "alt": {
+      "de": "Gruppe im Kreis in der Kindhaltung um die Feuerstelle",
+      "en": "The group in a circle in child's pose around the fire pit"
+     }
+    }
+   },
+   {
+    "type": "heading",
+    "text": "4 days in Mother Nature"
+   },
+   {
+    "type": "lead",
+    "text": "Finally experiencing COMMUNITY AS A TRIBE again. Feeling what becomes possible through it."
+   },
+   {
+    "type": "p",
+    "text": "Day 1: Coming together & strengthening. We are the tribe! We are stronger than ever before and we join together."
+   },
+   {
+    "type": "p",
+    "text": "Day 2: Looking back & cleansing. What have we experienced? What has changed? What may still be released and cleansed?"
+   },
+   {
+    "type": "p",
+    "text": "Day 3: Healing & transformation. What may be healed? How can we support each other in this? What may change?"
+   },
+   {
+    "type": "p",
+    "text": "Day 4: Realignment & vision. What now? Where is the journey taking us personally and as a collective? How can we actively shape the new age?"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-web-43-kuehl",
+     "shape": "oval",
+     "position": "45% 50%",
+     "alt": {
+      "de": "Gemeinsam am Zeremonienfeuer",
+      "en": "Together at the ceremonial fire"
+     }
+    }
+   },
+   {
+    "type": "statement",
+    "text": "A special retreat for deep physical, mental and spiritual cleansing and realignment, to create a NEW EARTH TOGETHER 🪶"
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-mandala",
+     "shape": "circle",
+     "position": "50% 50%",
+     "alt": {
+      "de": "Erdmandala aus Erde, Blättern und Kerzen",
+      "en": "Earth mandala of soil, leaves and candles"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "Time to truly meet each other. With all our dreams and wishes, gifts and talents, fears and worries, doubts and issues, wounds and wonders."
+   },
+   {
+    "type": "quote",
+    "text": "Everything may be."
+   },
+   {
+    "type": "p",
+    "text": "Let us use this special time of new beginnings. Let us come together in a circle - as the tribe we are. Surrounded and embraced by the elements."
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sch-tipi-spitze",
+     "sch-felsen",
+     "sch-baum",
+     "sch-sternennacht",
+     "sch-huette-nacht",
+     "sch-schwitzhuette",
+     "sch-elena-deck",
+     "ic-elena-portraet",
+     "ic-elena-augen-zu"
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Together we will experience"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "Authentic and grounded spirituality & depth psychology",
+     "Deep process work",
+     "Sound healing & singing circles",
+     "Astrology",
+     "Guided meditations",
+     "Dancing",
+     "Yoga Nidra - psychic sleep meditation",
+     "Silence",
+     "Rituals & ceremonies",
+     "Nature therapy",
+     "Conscious talking circles",
+     "Therapeutic writing",
+     "Authentic relating & constellation work",
+     "Yoga",
+     "Writing",
+     "Sweat lodge ritual!",
+     "A hike to a magical place of power",
+     "Sustainable beekeeping up close",
+     "Spiritual and psychological guidance",
+     "and much, much more!"
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Of course you will be provided with healthy, balanced wholefood meals."
+   },
+   {
+    "type": "photo",
+    "id": "sch-bienen"
+   },
+   {
+    "type": "lead",
+    "text": "We will come into deep contact with Mother Earth and feel how she carries and supports us in our process."
+   },
+   {
+    "type": "p",
+    "text": "Because we are part of her. Because she is our Great Mother."
+   },
+   {
+    "type": "statement",
+    "text": "It is time, don't you think?"
+   },
+   {
+    "type": "photo",
+    "id": "sch-rauch-kreis"
+   },
+   {
+    "type": "p",
+    "text": "My understanding of and approach to healing and retreats is holistic. Instead of relying only on analytical therapy, where we just talk, analyse and think - something we already do far too much, and in an unhealthy way, in our modern Western society - I bring a variety of holistic approaches into my retreats."
+   },
+   {
+    "type": "lead",
+    "text": "I believe in"
+   },
+   {
+    "type": "pills",
+    "items": [
+     "The power of silence",
+     "The medicine of yoga, meditation and breath",
+     "The importance of movement",
+     "The magic of tarot",
+     "The fruits of playing and making music",
+     "The importance of holistic trauma therapy, transpersonal therapy and process work"
+    ]
+   },
+   {
+    "type": "quote",
+    "text": "And in the key to everything - living in tune and in deep harmony with Mother Nature."
+   },
+   {
+    "type": "photo",
+    "photo": {
+     "id": "sch-kreis-garten",
+     "shape": "arch",
+     "position": "50% 45%",
+     "alt": {
+      "de": "Zeremonie im Garten",
+      "en": "A ceremony in the garden"
+     }
+    }
+   },
+   {
+    "type": "p",
+    "text": "With our whole being, through practical exercises, ceremonies and activities, we experience the direct connection between these methods, their medicine, ourselves and our daily lives - so that in conscious talking circles around the fire we can truly open up and finally go deep into all the topics that so often get too little space and that we urgently need to talk about - simply because they matter, because we matter."
+   },
+   {
+    "type": "p",
+    "text": "We also travel into the astral dimension and into dream worlds by working intensively with Yoga Nidra."
+   },
+   {
+    "type": "heading",
+    "text": "Biohacking meets Hypnotherapy"
+   },
+   {
+    "type": "lead",
+    "text": "Dissolving old beliefs for good - reprogramming cells on an epigenetic level - manifesting on a high frequency"
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a guided deep meditation that has its origins in the ancient Indian tradition of Tantra. Through deep relaxation of body, mind and soul and the shift of our brain waves to theta waves (the same waves that are activated in hypnosis), we enter a trance-like space between waking and sleep. In this way we gain direct access to our subconscious, to everything unconscious within us and to the astral dimensions of consciousness."
+   },
+   {
+    "type": "p",
+    "text": "Because we work directly with our subconscious, everything we tell ourselves in this state and everything we hear and experience has an immense, deep and valuable influence."
+   },
+   {
+    "type": "quote",
+    "text": "An impulse planted in the subconscious can unfold in our lives far more easily than one given in the waking state!"
+   },
+   {
+    "type": "p",
+    "text": "We also learn to distinguish more clearly between states such as waking, sleeping, dozing and dreaming and to become more lucid, that is, more aware and awake, which also helps us to have more pleasant dreams and nights. In this way we practise lucid dreaming and out-of-body experiences (astral travel)."
+   },
+   {
+    "type": "p",
+    "text": "Yoga Nidra is a holistic method of therapy and healing that has been researched scientifically and is used successfully around the world for sleep disorders, anxiety, nightmares, in trauma therapy and much more."
+   },
+   {
+    "type": "p",
+    "text": "For years I have also been able to observe in the participants of my Nidra courses how this journey into the subconscious sparks creative (writing) processes and lets them unfold in a magical and very deep way. Yoga Nidra also reprograms our cells on an epigenetic level and rewrites old beliefs."
+   },
+   {
+    "type": "link",
+    "href": "/yoga-nidra/",
+    "text": "More about Yoga Nidra"
+   },
+   {
+    "type": "carousel",
+    "ids": [
+     "sch-feuer-gitarre",
+     "sch-altar-tuch",
+     "sch-feuer-kerze",
+     "sch-feuer-kreis",
+     "ic-kerzen-gitarre"
+    ]
+   },
+   {
+    "type": "photo",
+    "id": "sch-tipi-aussen"
+   },
+   {
+    "type": "p",
+    "text": "As a human community we are now called and asked more than ever to keep our energy positive, to stay in love and firmly anchored in ourselves, to send light into the collective consciousness and so to strengthen and support everything and everyone around us."
+   },
+   {
+    "type": "p",
+    "text": "Let us see the crisis as a chance to awaken. As a new beginning, as a long overdue and longed-for transformation for us and for Mother Earth."
+   },
+   {
+    "type": "lead",
+    "text": "Let us never underestimate the power and meaning of what we can change on a small scale!"
+   },
+   {
+    "type": "p",
+    "text": "Everything starts small and then makes waves. It inspires others. Every great change began in a small circle. And in the individual."
+   },
+   {
+    "type": "quote",
+    "text": "Political activism without spirituality is soulless. Spirituality that does not turn into action and leaves out the political dimension often goes round in circles and misses its potential for impact."
+   },
+   {
+    "type": "statement",
+    "text": "Spiritual activism is powerful!"
+   },
+   {
+    "type": "statement",
+    "text": "Let's be the change we want to see in the world! All we have is now."
+   },
+   {
+    "type": "statement",
+    "text": "We're the ones we've been waiting for.",
+    "strong": true
+   },
+   {
+    "type": "photo",
+    "id": "sch-gruppe-altar"
+   },
+   {
+    "type": "lead",
+    "text": "The processes and results of my previous retreats were breathtaking and exceeded all my expectations."
+   },
+   {
+    "type": "statement",
+    "text": "If not now, when? If not us, who?"
+   }
+  ],
+  "closing": [
+   "Are you ready?",
+   "Who are you waiting for? We are the ones we've been waiting for!",
+   "We need YOU!",
+   "Yours, Elena Judith"
+  ],
+  "places": "There are only very few places on this retreat, because I only work with very small groups so that we can really go deep!"
+ }
+}

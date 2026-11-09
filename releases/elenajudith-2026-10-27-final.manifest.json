@@ -1,0 +1,1237 @@
+{
+  "target": "https://elenajudith.tuni.site",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T17:08:34.032757+00:00",
+  "root": "dist",
+  "files": [
+    {
+      "path": "11-sessions/index.html",
+      "sha256": "dca0ae5163d3bf76cd9c4cfd5c3628975d11dcd463525356723054d48c5a4d39",
+      "bytes": 32656
+    },
+    {
+      "path": "404.html",
+      "sha256": "207a3fd76a6f1d5fa20ba23bf053c8ea2bf2fbbd7baf11c6659280d60f767a60",
+      "bytes": 5972
+    },
+    {
+      "path": "a/index.html",
+      "sha256": "2a2507637cf02a3c73ff7633285e26ab236cf02fd744fc83ecc07cfca33d7a15",
+      "bytes": 23991
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "23b3e4caf8dd629df3c4e543ff61072661074eb199c0b7f2a4263c9e0ab170bd",
+      "bytes": 27855
+    },
+    {
+      "path": "assets/favicon.svg",
+      "sha256": "7597dbd0c6a0111393738f7c69dff4a307e65db11705e3a7abd5731e8ba3880a",
+      "bytes": 228
+    },
+    {
+      "path": "assets/fonts/cormorant-garamond-latin-400-italic.woff2",
+      "sha256": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2",
+      "bytes": 23660
+    },
+    {
+      "path": "assets/fonts/cormorant-garamond-latin-400-normal.woff2",
+      "sha256": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2",
+      "bytes": 22876
+    },
+    {
+      "path": "assets/fonts/dm-sans-latin-400-normal.woff2",
+      "sha256": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+      "bytes": 14200
+    },
+    {
+      "path": "assets/fonts/dm-sans-latin-500-normal.woff2",
+      "sha256": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+      "bytes": 14304
+    },
+    {
+      "path": "assets/icon-180.png",
+      "sha256": "f890d95b1d24d5e895814c3f526593c75f3ba1a1a86ea6dbf1b3780351a32cc5",
+      "bytes": 3890
+    },
+    {
+      "path": "assets/icon-192.png",
+      "sha256": "f57244c49306513138b9ca1f416b2a1dab1cd0a0c5ea2f47fa874d327dd40858",
+      "bytes": 4228
+    },
+    {
+      "path": "assets/icon-32.png",
+      "sha256": "0ef943a13c1b070be6c8841c06f8e5ffe195b2dfa1efd1143ddefcd9465f22f4",
+      "bytes": 656
+    },
+    {
+      "path": "assets/icon-512.png",
+      "sha256": "f9bdf4eb31fd759e674ae1f4c5245efa793be5d078e47ca97399fe2cac0cc97d",
+      "bytes": 15321
+    },
+    {
+      "path": "assets/icon-96.png",
+      "sha256": "b5603ae8e6ff49915dbbe470296fef44d1e4110be3604cc2841fd8895a9f00b6",
+      "bytes": 1867
+    },
+    {
+      "path": "assets/main.js",
+      "sha256": "a0a5b11c205a847fae58dd39006589a3da405d166858bfe44f5bafd944d02f16",
+      "bytes": 9210
+    },
+    {
+      "path": "assets/social-portrait.jpg",
+      "sha256": "b0259278d3d5becc1771e87b4082c8b8285eb1664bf1b581bf88ddfa72e4e73a",
+      "bytes": 228516
+    },
+    {
+      "path": "assets/styles.css",
+      "sha256": "5c0bfa81c128106b6efa0ea0da14fb332b1ad364c9b1c47cddd3677a65bc1a96",
+      "bytes": 52618
+    },
+    {
+      "path": "contact/index.html",
+      "sha256": "6f5bcbbabfb2aaeefcc76548d067070949268093dcd32e2d05d1fcc92543d656",
+      "bytes": 15196
+    },
+    {
+      "path": "dreaming-reality/index.html",
+      "sha256": "8048c4b0dabb38d025dfa444b7dc504bc882f683bfe5ddcafde60ef6030b8a0f",
+      "bytes": 26018
+    },
+    {
+      "path": "en/11-sessions/index.html",
+      "sha256": "53d48db0f514d80af6cce9c2f0a21c7f95196cfb6c744e8da4c3738c572302c3",
+      "bytes": 32664
+    },
+    {
+      "path": "en/404.html",
+      "sha256": "2bf070ae34f29e44e423b1338746e3bcb69b27d91d3af534c9ea07ef520d162c",
+      "bytes": 5975
+    },
+    {
+      "path": "en/a/index.html",
+      "sha256": "e0cfb77bbdb23469d3416afde10b8a955ff798202eba3126271f66ee648083ec",
+      "bytes": 23936
+    },
+    {
+      "path": "en/about/index.html",
+      "sha256": "8d1130dd46984e34be700b60cec4efe2c16e224f923a26881e8b3b67ddc5f29d",
+      "bytes": 27819
+    },
+    {
+      "path": "en/contact/index.html",
+      "sha256": "09291d32aef215df0007073bbcf957e5d13a2ef62cf4978287d91b7d67b1b8ab",
+      "bytes": 15159
+    },
+    {
+      "path": "en/dreaming-reality/index.html",
+      "sha256": "78f5b227accb6ce7a12ecd0ea51992d96cf3ee39fb3683d64c904d01e8847e29",
+      "bytes": 26072
+    },
+    {
+      "path": "en/impressum/index.html",
+      "sha256": "a542954e9373d7a86c2f907d72d028d3ba2e29541deb7b58061b9951407f484d",
+      "bytes": 9823
+    },
+    {
+      "path": "en/index.html",
+      "sha256": "c9f1ea1a67adea40e388e0a7af229140972b0a4619fb4c9c4376faa45205ebaf",
+      "bytes": 23927
+    },
+    {
+      "path": "en/inner-child/index.html",
+      "sha256": "63eb57f6a37571a8fe973b6cf62aa577df0d93853f59928ec9511720648fac03",
+      "bytes": 31081
+    },
+    {
+      "path": "en/kambo/index.html",
+      "sha256": "9f2829565bc86acf97c07686ee4fdde291b358aeab6cab12734bb1ec7359293c",
+      "bytes": 13512
+    },
+    {
+      "path": "en/kraft/index.html",
+      "sha256": "5fe6291fcb2f94388ee407191a1589f334a7c8904b78285c1a80008fd4e30531",
+      "bytes": 37347
+    },
+    {
+      "path": "en/music/index.html",
+      "sha256": "673f825c3b450da217110b7276d40b7e0c1ce817ac0845c305eced0c6c5d1926",
+      "bytes": 15100
+    },
+    {
+      "path": "en/my-art/index.html",
+      "sha256": "3c30f5c0474c7b8d32276447508a624910ab4698e55390dfb49828699c0fb958",
+      "bytes": 11756
+    },
+    {
+      "path": "en/photography/index.html",
+      "sha256": "1db5ffef818069aa544852c74ca9d230422d60dd9d578744677e5f4a9d3ce3e5",
+      "bytes": 10307
+    },
+    {
+      "path": "en/schamanisches-retreat/index.html",
+      "sha256": "9108bcb8b47a5f934ce4338b5bdbe87837c7d5701e14868e0e9f42e718deca39",
+      "bytes": 36803
+    },
+    {
+      "path": "en/services/index.html",
+      "sha256": "0815b3b7785b3e20c6052c7e494f2259a65ba4c9afbb769eb21da641d2ddc463",
+      "bytes": 64045
+    },
+    {
+      "path": "en/silent-retreat/index.html",
+      "sha256": "23192d2e84e2660cd99eee5a42b22bdfacb03ce5ce238c1f3974ce8109d228de",
+      "bytes": 34261
+    },
+    {
+      "path": "en/song-of-the-soul/index.html",
+      "sha256": "20b638abe7b9061cb0ceb0186ad7a2c50a858ef702206db799aa42b7a2a3c237",
+      "bytes": 43192
+    },
+    {
+      "path": "en/wise-in-her-ways-1/index.html",
+      "sha256": "2d9d20a6f13d9b27f45b6b8d55d0addae872328a2adabaebd5384b1ecf909272",
+      "bytes": 36745
+    },
+    {
+      "path": "en/yoga-nidra/index.html",
+      "sha256": "e63f22a05b7a977e454fe7321fee3b1e30722c0ea527a7217a557c48bd86318c",
+      "bytes": 22938
+    },
+    {
+      "path": "favicon.ico",
+      "sha256": "4297e7d2159b3e85768dd47a4b1e5e96364a77e9656dbfe3dbb6bab6cda850b8",
+      "bytes": 678
+    },
+    {
+      "path": "images/elena-garden-1600.webp",
+      "sha256": "e8168295905a1124e5f7487c648b1fc9b87fe15384ba909ecbfc12b109c3ca66",
+      "bytes": 201888
+    },
+    {
+      "path": "images/elena-garden-480.webp",
+      "sha256": "ba9120117f77fc27f922594a1a5cf1af6bf35280c25976d12ddaa852ff03fcd3",
+      "bytes": 63822
+    },
+    {
+      "path": "images/elena-garden-960.webp",
+      "sha256": "4a5a567cf4f59184253b56baa6a1e2593fbb257a3248dc858bcfafeb3d223869",
+      "bytes": 155938
+    },
+    {
+      "path": "images/elena-studio-1600.webp",
+      "sha256": "228e2b6c1849815cece43d80348221aac50fd9c73dfe4b95e955e847437c32d6",
+      "bytes": 111664
+    },
+    {
+      "path": "images/elena-studio-480.webp",
+      "sha256": "922ff42917a8305e4c57ace8b30a9569e7311e583d6bb89c678c63fad589b384",
+      "bytes": 20236
+    },
+    {
+      "path": "images/elena-studio-960.webp",
+      "sha256": "51e852c68b371e96290bccea3ce726e9c29fc8fd205018f7aaddfc6198666da7",
+      "bytes": 53180
+    },
+    {
+      "path": "images/portrait-amelia-e1639059137478-1600.webp",
+      "sha256": "36af2bb357d0cadea6a44c91c76f9eef1d1e78f985197e45974a95d69207a22a",
+      "bytes": 124424
+    },
+    {
+      "path": "images/portrait-amelia-e1639059137478-480.webp",
+      "sha256": "763a8d7c6304b2792c67ad833cb008caf9cdd9aac3900b244c776931071e8ac7",
+      "bytes": 35282
+    },
+    {
+      "path": "images/portrait-amelia-e1639059137478-960.webp",
+      "sha256": "b5ff87f5b40e226a2056326a1618db5515f6591d2f352faa93560c73259d28a8",
+      "bytes": 98586
+    },
+    {
+      "path": "images/portrait-andrew-1600.webp",
+      "sha256": "110da53b853d9db2810b4cca15ea25540ebe2bd4730f9989a2649b0ab7274646",
+      "bytes": 174620
+    },
+    {
+      "path": "images/portrait-andrew-480.webp",
+      "sha256": "e9b8020fb73fda2bbe82efdecaaaff513e7329333f78690c5b0b3850cbc18c40",
+      "bytes": 113934
+    },
+    {
+      "path": "images/portrait-andrew-960.webp",
+      "sha256": "110da53b853d9db2810b4cca15ea25540ebe2bd4730f9989a2649b0ab7274646",
+      "bytes": 174620
+    },
+    {
+      "path": "images/portrait-daria-1600.webp",
+      "sha256": "b0c56d92cdf7dec01bffc9ad95205f67d2466d55deebf0d5d8c4fa3b592344bd",
+      "bytes": 40954
+    },
+    {
+      "path": "images/portrait-daria-480.webp",
+      "sha256": "d0bdd07051229c0be1675ea4e011d3c6c2dd71d9d4b55798f32b9e0681b5081d",
+      "bytes": 21266
+    },
+    {
+      "path": "images/portrait-daria-960.webp",
+      "sha256": "b0c56d92cdf7dec01bffc9ad95205f67d2466d55deebf0d5d8c4fa3b592344bd",
+      "bytes": 40954
+    },
+    {
+      "path": "images/portrait-denise-e1639059003788-1600.webp",
+      "sha256": "554a7b4d41b2dbb0b4e4789235efb10c804eab06df2d61794c632610794e792d",
+      "bytes": 38022
+    },
+    {
+      "path": "images/portrait-denise-e1639059003788-480.webp",
+      "sha256": "554a7b4d41b2dbb0b4e4789235efb10c804eab06df2d61794c632610794e792d",
+      "bytes": 38022
+    },
+    {
+      "path": "images/portrait-denise-e1639059003788-960.webp",
+      "sha256": "554a7b4d41b2dbb0b4e4789235efb10c804eab06df2d61794c632610794e792d",
+      "bytes": 38022
+    },
+    {
+      "path": "images/portrait-elena-1600.webp",
+      "sha256": "63e4bf317a441a24df91d7070af28ad24117e3326bd492bd0f098015df96b45b",
+      "bytes": 21286
+    },
+    {
+      "path": "images/portrait-elena-480.webp",
+      "sha256": "0c3738a26cb917e117eca4f4076d707a818f074fbf7bda89aa965cd092511309",
+      "bytes": 12698
+    },
+    {
+      "path": "images/portrait-elena-960.webp",
+      "sha256": "63e4bf317a441a24df91d7070af28ad24117e3326bd492bd0f098015df96b45b",
+      "bytes": 21286
+    },
+    {
+      "path": "images/portrait-franzi-1600.webp",
+      "sha256": "470f24a5d20cf4889b1373464216aac4ac11dcacbbc7d75046575a9e7e2e2c05",
+      "bytes": 12970
+    },
+    {
+      "path": "images/portrait-franzi-480.webp",
+      "sha256": "470f24a5d20cf4889b1373464216aac4ac11dcacbbc7d75046575a9e7e2e2c05",
+      "bytes": 12970
+    },
+    {
+      "path": "images/portrait-franzi-960.webp",
+      "sha256": "470f24a5d20cf4889b1373464216aac4ac11dcacbbc7d75046575a9e7e2e2c05",
+      "bytes": 12970
+    },
+    {
+      "path": "images/portrait-imad-1600.webp",
+      "sha256": "bfb1d089c15191af61d0fc281b79beb91574413f5a825673b3ba167cd91d6d59",
+      "bytes": 150254
+    },
+    {
+      "path": "images/portrait-imad-480.webp",
+      "sha256": "92d2cf37d3c9a725d9f7c8f57006db980ffc9e062819fb2db1d857c0304f60e9",
+      "bytes": 59956
+    },
+    {
+      "path": "images/portrait-imad-960.webp",
+      "sha256": "bfb1d089c15191af61d0fc281b79beb91574413f5a825673b3ba167cd91d6d59",
+      "bytes": 150254
+    },
+    {
+      "path": "images/portrait-jasminwe-1600.webp",
+      "sha256": "684e7277ee3f6309078e388f67784b18509cf0e61a6c45256146c8cd92786387",
+      "bytes": 12558
+    },
+    {
+      "path": "images/portrait-jasminwe-480.webp",
+      "sha256": "684e7277ee3f6309078e388f67784b18509cf0e61a6c45256146c8cd92786387",
+      "bytes": 12558
+    },
+    {
+      "path": "images/portrait-jasminwe-960.webp",
+      "sha256": "684e7277ee3f6309078e388f67784b18509cf0e61a6c45256146c8cd92786387",
+      "bytes": 12558
+    },
+    {
+      "path": "images/portrait-katrin-1600.webp",
+      "sha256": "5931db18dcb5a222a7f60c7e44125fb63cea07efc28da5028045affe10755aa1",
+      "bytes": 83044
+    },
+    {
+      "path": "images/portrait-katrin-480.webp",
+      "sha256": "8de1750165876c9783a1c2c98720fcc0338fd4b5e43362b641e86d95b9ac470a",
+      "bytes": 56854
+    },
+    {
+      "path": "images/portrait-katrin-960.webp",
+      "sha256": "5931db18dcb5a222a7f60c7e44125fb63cea07efc28da5028045affe10755aa1",
+      "bytes": 83044
+    },
+    {
+      "path": "images/portrait-kristin-inner-e1639058618751-1600.webp",
+      "sha256": "7141218a40a6336b773204213bc9c65752793b94fe6d0766f813ff2437bb64e5",
+      "bytes": 119340
+    },
+    {
+      "path": "images/portrait-kristin-inner-e1639058618751-480.webp",
+      "sha256": "d007279a0aa704ea16434ea153324d86410e63437bbe4725431568bda43c8b55",
+      "bytes": 76472
+    },
+    {
+      "path": "images/portrait-kristin-inner-e1639058618751-960.webp",
+      "sha256": "7141218a40a6336b773204213bc9c65752793b94fe6d0766f813ff2437bb64e5",
+      "bytes": 119340
+    },
+    {
+      "path": "images/portrait-kristina-1600.webp",
+      "sha256": "f7490e6f36a46bdda6eef40815550b4cf7ef3da01f4dcce46882f8a7471de639",
+      "bytes": 67980
+    },
+    {
+      "path": "images/portrait-kristina-480.webp",
+      "sha256": "aee7612ea499d3cb696f7ce05702b95c0533369293647df428c94eab022a910d",
+      "bytes": 66554
+    },
+    {
+      "path": "images/portrait-kristina-960.webp",
+      "sha256": "f7490e6f36a46bdda6eef40815550b4cf7ef3da01f4dcce46882f8a7471de639",
+      "bytes": 67980
+    },
+    {
+      "path": "images/portrait-marcel-e1639061537125-1600.webp",
+      "sha256": "95e805ba1ea37fdda9bebf88f1a4261b1af26c9158f8ed311f585d97da5bba8b",
+      "bytes": 32374
+    },
+    {
+      "path": "images/portrait-marcel-e1639061537125-480.webp",
+      "sha256": "3c657e40bffbb028de755af2dfdebeeb00fbdb735dfd0ba435e3009b5b4e11f0",
+      "bytes": 28470
+    },
+    {
+      "path": "images/portrait-marcel-e1639061537125-960.webp",
+      "sha256": "95e805ba1ea37fdda9bebf88f1a4261b1af26c9158f8ed311f585d97da5bba8b",
+      "bytes": 32374
+    },
+    {
+      "path": "images/portrait-melanie-1600.webp",
+      "sha256": "e132ec911ebe059e3b4a69963502cef0c0173c514e2df5142226d591ecb0aa14",
+      "bytes": 183796
+    },
+    {
+      "path": "images/portrait-melanie-480.webp",
+      "sha256": "babd3f02e859e2522122a4297af84507ae15de1a4f2cfef868d6d68a6640980b",
+      "bytes": 121240
+    },
+    {
+      "path": "images/portrait-melanie-960.webp",
+      "sha256": "e132ec911ebe059e3b4a69963502cef0c0173c514e2df5142226d591ecb0aa14",
+      "bytes": 183796
+    },
+    {
+      "path": "images/portrait-nadine-1600.webp",
+      "sha256": "b88ff6315be6313645421aec92879139a0c47e8bf3da395db9e9bf29b7663211",
+      "bytes": 49014
+    },
+    {
+      "path": "images/portrait-nadine-480.webp",
+      "sha256": "eb51bb1e9ae1c57155e753d45df1635802b95cf2d7b5d59b368bb123b64502b5",
+      "bytes": 24724
+    },
+    {
+      "path": "images/portrait-nadine-960.webp",
+      "sha256": "b88ff6315be6313645421aec92879139a0c47e8bf3da395db9e9bf29b7663211",
+      "bytes": 49014
+    },
+    {
+      "path": "images/portrait-natalie-1600.webp",
+      "sha256": "3b11632638f4729380047aee5f7faf6c127eca70629a1b9ad6388afce7a24e9a",
+      "bytes": 32710
+    },
+    {
+      "path": "images/portrait-natalie-480.webp",
+      "sha256": "aeec6a06e00c5f2e01027949c832a4d40ddbb8596276014ecfe6de27af2c7502",
+      "bytes": 16892
+    },
+    {
+      "path": "images/portrait-natalie-960.webp",
+      "sha256": "3b11632638f4729380047aee5f7faf6c127eca70629a1b9ad6388afce7a24e9a",
+      "bytes": 32710
+    },
+    {
+      "path": "images/portrait-nina-1600.webp",
+      "sha256": "4d91d634aa66351ef2b6d98acc25f43a1387ad447999928dd7cf1c4f56517e50",
+      "bytes": 20940
+    },
+    {
+      "path": "images/portrait-nina-480.webp",
+      "sha256": "33929d031d2a30283ceaafed1ec29c6740ff7ff37efe34e326cf9423bf9ae772",
+      "bytes": 16228
+    },
+    {
+      "path": "images/portrait-nina-960.webp",
+      "sha256": "4d91d634aa66351ef2b6d98acc25f43a1387ad447999928dd7cf1c4f56517e50",
+      "bytes": 20940
+    },
+    {
+      "path": "images/portrait-rike-1600.webp",
+      "sha256": "dc1895e1bdd4fd5e8acd7faf1de384efd175dd9c91c04107f13c464848b0058e",
+      "bytes": 142372
+    },
+    {
+      "path": "images/portrait-rike-480.webp",
+      "sha256": "7b1202af5d7fad51a53fca0f503010a073d91848f0f34f5c3fe063e45d0e2c69",
+      "bytes": 61770
+    },
+    {
+      "path": "images/portrait-rike-960.webp",
+      "sha256": "dc1895e1bdd4fd5e8acd7faf1de384efd175dd9c91c04107f13c464848b0058e",
+      "bytes": 142372
+    },
+    {
+      "path": "images/portrait-vanessa-1600.webp",
+      "sha256": "f8ede049581e5051a5dcbf57105f3cabc9fa7be5e06bb1b5412fd4ab400fb6fd",
+      "bytes": 80004
+    },
+    {
+      "path": "images/portrait-vanessa-480.webp",
+      "sha256": "3b4f003287d980dbf477101a8658ae84fed2b3b75eb72ef3b536450b146fdc67",
+      "bytes": 41244
+    },
+    {
+      "path": "images/portrait-vanessa-960.webp",
+      "sha256": "f8ede049581e5051a5dcbf57105f3cabc9fa7be5e06bb1b5412fd4ab400fb6fd",
+      "bytes": 80004
+    },
+    {
+      "path": "images/v2-artwork-1600.webp",
+      "sha256": "fe73e1326ae7bd80d528a78cf3d9b275eb49f215403e859b961c15b37ede5c9c",
+      "bytes": 73440
+    },
+    {
+      "path": "images/v2-artwork-480.webp",
+      "sha256": "0d8a255993b5461b015bb5e84546d5796057bfced67ba25b7e0d3cce51145c3f",
+      "bytes": 55696
+    },
+    {
+      "path": "images/v2-artwork-960.webp",
+      "sha256": "fe73e1326ae7bd80d528a78cf3d9b275eb49f215403e859b961c15b37ede5c9c",
+      "bytes": 73440
+    },
+    {
+      "path": "images/v2-circle-1600.webp",
+      "sha256": "8fb73904eaa91fb50aac8ae7c5cebabcf5cc9c0aab921ea3e3093421182a2456",
+      "bytes": 139014
+    },
+    {
+      "path": "images/v2-circle-480.webp",
+      "sha256": "641077d009bed271bf12ccd3667e5b981844da3dcfc3b5c6287a2a1ea79e22ba",
+      "bytes": 54542
+    },
+    {
+      "path": "images/v2-circle-960.webp",
+      "sha256": "8fb73904eaa91fb50aac8ae7c5cebabcf5cc9c0aab921ea3e3093421182a2456",
+      "bytes": 139014
+    },
+    {
+      "path": "images/v2-concert-1600.webp",
+      "sha256": "702b9a5801bd5ec6a382785c436e450b435f372dd377a57e970b188a95c71624",
+      "bytes": 187864
+    },
+    {
+      "path": "images/v2-concert-480.webp",
+      "sha256": "434777a19a49ebb1891deb892d6647045d64c3880c571bdaf006b2963c120b7c",
+      "bytes": 36706
+    },
+    {
+      "path": "images/v2-concert-960.webp",
+      "sha256": "3a580d86c2d664cb21127a1b1709838a10ad9aacd56ea4c38eb22142f5dfa711",
+      "bytes": 92742
+    },
+    {
+      "path": "images/v2-forest-1600.webp",
+      "sha256": "efc2f3bc2c66f559a53cce25c656042c6a604524c465f0bdd779f0ea93cd8665",
+      "bytes": 189182
+    },
+    {
+      "path": "images/v2-forest-480.webp",
+      "sha256": "48fb8dae763327de52b1cd75a4068cc0716a2bad9b195b26b7b7179375b47ab8",
+      "bytes": 45240
+    },
+    {
+      "path": "images/v2-forest-960.webp",
+      "sha256": "ace387b78a4923d8fc2408b35d2a781ac50fecc0d07c6f2a4d6ef0f67de33f9c",
+      "bytes": 138172
+    },
+    {
+      "path": "images/v2-garden-1600.webp",
+      "sha256": "3a0bd07e8b42f7feb7ecf329b7cced061c3495afaea627567a1874f47bb21f71",
+      "bytes": 300182
+    },
+    {
+      "path": "images/v2-garden-480.webp",
+      "sha256": "25f4d690b960e8e21664fa89b7d1fe697f3532d7b54efca7f8898831be22593a",
+      "bytes": 61628
+    },
+    {
+      "path": "images/v2-garden-960.webp",
+      "sha256": "000a6722c7f5944625a68796b1b3ffaca1edd6f94bd7f5facf71ff0153abeb41",
+      "bytes": 155380
+    },
+    {
+      "path": "images/v2-guitar-1600.webp",
+      "sha256": "24a772c68aa0bd3e4d6a2a2c917c1065e0dc6248afdd5a297b4d35f983e792c7",
+      "bytes": 384692
+    },
+    {
+      "path": "images/v2-guitar-480.webp",
+      "sha256": "401143c8f1d289258f4199430ecbf66de5648300d9c9f12f3e426a74a6e0e289",
+      "bytes": 43346
+    },
+    {
+      "path": "images/v2-guitar-960.webp",
+      "sha256": "7fa2f91524acaca5cd24c97c99a0bbae0521c06c1f391418161d84e1d61b0b4c",
+      "bytes": 157868
+    },
+    {
+      "path": "images/v2-lisa-1600.webp",
+      "sha256": "cfaaa2930398bcb9f750e64cbc423cfc13a86f9ebdcb5ed08e140481b67a262f",
+      "bytes": 16176
+    },
+    {
+      "path": "images/v2-lisa-480.webp",
+      "sha256": "cfaaa2930398bcb9f750e64cbc423cfc13a86f9ebdcb5ed08e140481b67a262f",
+      "bytes": 16176
+    },
+    {
+      "path": "images/v2-lisa-960.webp",
+      "sha256": "cfaaa2930398bcb9f750e64cbc423cfc13a86f9ebdcb5ed08e140481b67a262f",
+      "bytes": 16176
+    },
+    {
+      "path": "images/v2-place-1600.webp",
+      "sha256": "7cce8fd469f9f5cc80e0121263b2b8f0c492c5dbb1e53865b46b678af5f440e6",
+      "bytes": 512880
+    },
+    {
+      "path": "images/v2-place-480.webp",
+      "sha256": "e9b05fa30b2740cbae4adff4d29c74393f68df91ebf3fb372326af8e88046663",
+      "bytes": 47856
+    },
+    {
+      "path": "images/v2-place-960.webp",
+      "sha256": "e7de6d4ec82768e0076e5eb3b626d448388b3a68c682b3c3b016ca2e7bcaf5bb",
+      "bytes": 197058
+    },
+    {
+      "path": "images/v2-portrait-1600.webp",
+      "sha256": "b0faea816e0adf1418b304f6e6a4c35308a3f3f83259700db3dc8fbfc8eda2cc",
+      "bytes": 289138
+    },
+    {
+      "path": "images/v2-portrait-480.webp",
+      "sha256": "0ea3feafef632e7a3e4784eb87ec798fa5e0f24ebeafad1437446d5c3a8ba3b2",
+      "bytes": 44020
+    },
+    {
+      "path": "images/v2-portrait-960.webp",
+      "sha256": "86564822a5f01ed0a12eadf2b56bd68bd7667b8f859a62f6a7a54baf6ccbd0b7",
+      "bytes": 128438
+    },
+    {
+      "path": "images/v2-rocks-1600.webp",
+      "sha256": "223202711ffe84f436bfe074140fcff072645ac89fb1dcdec49d3dd9a162e78f",
+      "bytes": 277606
+    },
+    {
+      "path": "images/v2-rocks-480.webp",
+      "sha256": "a98de6a4812436578218a7d7d667aca677159dab5f7ea67b944302ffdf53c411",
+      "bytes": 23506
+    },
+    {
+      "path": "images/v2-rocks-960.webp",
+      "sha256": "a4d83129c3b657ee846b4c43ed3af31901c534ed533cb3d9b9c8f09affd1b5fe",
+      "bytes": 95292
+    },
+    {
+      "path": "images/v2-sabrina-1600.webp",
+      "sha256": "8f67fd42b0ade3b6e78f5037b28087a6fc742366bd7bf1dfa934ea32c7cf1b6a",
+      "bytes": 227958
+    },
+    {
+      "path": "images/v2-sabrina-480.webp",
+      "sha256": "8b954ba3db6163baeee41919b1101d3cd087f0da8b66a169cc6d9b1b825d15b4",
+      "bytes": 60750
+    },
+    {
+      "path": "images/v2-sabrina-960.webp",
+      "sha256": "1494bceb5a1e0eb02f2c2144f8ae3a241db2f06754c28dd9a85063abf46182ae",
+      "bytes": 164182
+    },
+    {
+      "path": "images/v2-soul-1600.webp",
+      "sha256": "3555318c35ab5f72cd3efec46e67158121d70872152e9ddd6dfcb380e1796fe5",
+      "bytes": 72860
+    },
+    {
+      "path": "images/v2-soul-480.webp",
+      "sha256": "63402f00e4d2767d92e959da00bba8c2a8faed35207611c04ea0b974d9457c3f",
+      "bytes": 12456
+    },
+    {
+      "path": "images/v2-soul-960.webp",
+      "sha256": "77fd916f0cfa72788d2c521ff6738acec81b4841660044286f5b071398c0debf",
+      "bytes": 31348
+    },
+    {
+      "path": "images/v2-stilllife-1600.webp",
+      "sha256": "2376b932c5e3c75d5c01eec19556895caf879bd6d5d3dd090ef227b0d495132e",
+      "bytes": 114642
+    },
+    {
+      "path": "images/v2-stilllife-480.webp",
+      "sha256": "30473dd84045c0941f5f7dd02673b87170b61d84ef44e8effc5e699b5fce4999",
+      "bytes": 56468
+    },
+    {
+      "path": "images/v2-stilllife-960.webp",
+      "sha256": "2376b932c5e3c75d5c01eec19556895caf879bd6d5d3dd090ef227b0d495132e",
+      "bytes": 114642
+    },
+    {
+      "path": "images/web-01-1600.webp",
+      "sha256": "18aa56a5bfa13593b803674d121efd9000fd7c9214feebc6a174d3cea0ca4853",
+      "bytes": 38980
+    },
+    {
+      "path": "images/web-01-480.webp",
+      "sha256": "8efca33d166479b69ffc8eaa371809d2ce93e504514673580cfe12a077fd9be4",
+      "bytes": 35422
+    },
+    {
+      "path": "images/web-01-960.webp",
+      "sha256": "18aa56a5bfa13593b803674d121efd9000fd7c9214feebc6a174d3cea0ca4853",
+      "bytes": 38980
+    },
+    {
+      "path": "images/web-02-1600.webp",
+      "sha256": "97a5eb15d9dc9dd958d623d53a9caca207dc19a031edba202e1febd9c3bf2f74",
+      "bytes": 226886
+    },
+    {
+      "path": "images/web-02-480.webp",
+      "sha256": "325a0a6ca38e41a677388987c3d758c600fdfcdeadf6cfbed5e93d6b5a88b440",
+      "bytes": 71780
+    },
+    {
+      "path": "images/web-02-960.webp",
+      "sha256": "97a5eb15d9dc9dd958d623d53a9caca207dc19a031edba202e1febd9c3bf2f74",
+      "bytes": 226886
+    },
+    {
+      "path": "images/web-03-1600.webp",
+      "sha256": "6d3c3d152e6d8eda74ec28c02bc4aaed46e0814b266fdcb3792ceef6abf2374b",
+      "bytes": 167414
+    },
+    {
+      "path": "images/web-03-480.webp",
+      "sha256": "e0dda5c1635a76a44018ed53368c4bf75cc7f25e79f157fab0f24eea81186927",
+      "bytes": 93098
+    },
+    {
+      "path": "images/web-03-960.webp",
+      "sha256": "6d3c3d152e6d8eda74ec28c02bc4aaed46e0814b266fdcb3792ceef6abf2374b",
+      "bytes": 167414
+    },
+    {
+      "path": "images/web-05-1600.webp",
+      "sha256": "2818f3ba0e52fd26492f533830b6bdc7c4d42596afa7d512d6eb0452c2385c92",
+      "bytes": 185166
+    },
+    {
+      "path": "images/web-05-480.webp",
+      "sha256": "0de522c48563d58de83fc36918b9ae9af535ca2354d92e9233a38fb0c721679d",
+      "bytes": 42460
+    },
+    {
+      "path": "images/web-05-960.webp",
+      "sha256": "aaefa4aaf11159c659f4fdc890673db9ccba6fb5404b281d06655e5eb1777dd4",
+      "bytes": 104856
+    },
+    {
+      "path": "images/web-07-1600.webp",
+      "sha256": "751313fc61520f40befbaa36d12896feb6bf9bc2d99b3b4b768040d405547f94",
+      "bytes": 104052
+    },
+    {
+      "path": "images/web-07-480.webp",
+      "sha256": "69c7c53eda81dc657011c93c5f22b70cc36daf3b682f03b865971fc01fcd68d9",
+      "bytes": 58848
+    },
+    {
+      "path": "images/web-07-960.webp",
+      "sha256": "751313fc61520f40befbaa36d12896feb6bf9bc2d99b3b4b768040d405547f94",
+      "bytes": 104052
+    },
+    {
+      "path": "images/web-10-1600.webp",
+      "sha256": "d0ca60e156c697b32f1811343048cc19614efb98815c362fd2fbbfda23a3309a",
+      "bytes": 8918
+    },
+    {
+      "path": "images/web-10-480.webp",
+      "sha256": "d0ca60e156c697b32f1811343048cc19614efb98815c362fd2fbbfda23a3309a",
+      "bytes": 8918
+    },
+    {
+      "path": "images/web-10-960.webp",
+      "sha256": "d0ca60e156c697b32f1811343048cc19614efb98815c362fd2fbbfda23a3309a",
+      "bytes": 8918
+    },
+    {
+      "path": "images/web-12-1600.webp",
+      "sha256": "3141cfc515277e1c4e8b3c92e51be6a1e983b904edb9690145d8c7282516230b",
+      "bytes": 29274
+    },
+    {
+      "path": "images/web-12-480.webp",
+      "sha256": "4a1c0afde824b87635237158cfd8d9dffc39104de616e17515c9243c362c238f",
+      "bytes": 19838
+    },
+    {
+      "path": "images/web-12-960.webp",
+      "sha256": "3141cfc515277e1c4e8b3c92e51be6a1e983b904edb9690145d8c7282516230b",
+      "bytes": 29274
+    },
+    {
+      "path": "images/web-15-1600.webp",
+      "sha256": "77a9103b3e84589a7acbc31686574318b5481821e974f655d678e0ac16f6c5c3",
+      "bytes": 43506
+    },
+    {
+      "path": "images/web-15-480.webp",
+      "sha256": "3a1caf65ad2e6803292935c018e409c00db2850916ac44e0e7acf65344c86c7a",
+      "bytes": 28216
+    },
+    {
+      "path": "images/web-15-960.webp",
+      "sha256": "77a9103b3e84589a7acbc31686574318b5481821e974f655d678e0ac16f6c5c3",
+      "bytes": 43506
+    },
+    {
+      "path": "images/web-16-1600.webp",
+      "sha256": "2a3b786a032bbf3ab89676b19a05080de58ed4241d9b0c1fad1856684c6ee63c",
+      "bytes": 94368
+    },
+    {
+      "path": "images/web-16-480.webp",
+      "sha256": "4046fd3faf26db1596728d6911fe9de25ce143133869cc365d1ff51c82531ab8",
+      "bytes": 39914
+    },
+    {
+      "path": "images/web-16-960.webp",
+      "sha256": "2a3b786a032bbf3ab89676b19a05080de58ed4241d9b0c1fad1856684c6ee63c",
+      "bytes": 94368
+    },
+    {
+      "path": "images/web-19-1600.webp",
+      "sha256": "4df3eff71cc487ef4b29dd7ed2c0449ca7a791aed8034a5009f072a28f0ed4c6",
+      "bytes": 170090
+    },
+    {
+      "path": "images/web-19-480.webp",
+      "sha256": "3aaa71e75e78654f885b62094ea9800c04486d1cb871980c2a4cc25a301d0f30",
+      "bytes": 34886
+    },
+    {
+      "path": "images/web-19-960.webp",
+      "sha256": "7f29a27243199a05921d2804857de82ce8f663062c38d03b06eb468de53cf98b",
+      "bytes": 109070
+    },
+    {
+      "path": "images/web-20-1600.webp",
+      "sha256": "1e72ad2e7523425f81135163d6feca21353328cbb5ba3cc089be6b01bda4614d",
+      "bytes": 310758
+    },
+    {
+      "path": "images/web-20-480.webp",
+      "sha256": "6535d24387e261aa307c55451b864a119dc048240198705ec6dc471216a11bcb",
+      "bytes": 105032
+    },
+    {
+      "path": "images/web-20-960.webp",
+      "sha256": "1e72ad2e7523425f81135163d6feca21353328cbb5ba3cc089be6b01bda4614d",
+      "bytes": 310758
+    },
+    {
+      "path": "images/web-22-1600.webp",
+      "sha256": "b8bc856c09f3abeb593d9946fe4fcb22948029b1c0083bece0000c21a0a51029",
+      "bytes": 17070
+    },
+    {
+      "path": "images/web-22-480.webp",
+      "sha256": "b8bc856c09f3abeb593d9946fe4fcb22948029b1c0083bece0000c21a0a51029",
+      "bytes": 17070
+    },
+    {
+      "path": "images/web-22-960.webp",
+      "sha256": "b8bc856c09f3abeb593d9946fe4fcb22948029b1c0083bece0000c21a0a51029",
+      "bytes": 17070
+    },
+    {
+      "path": "images/web-23-1600.webp",
+      "sha256": "f30b792c830dc6986963c82fbb754de90394aef1d0d24554932ac2e8f6d531ad",
+      "bytes": 92602
+    },
+    {
+      "path": "images/web-23-480.webp",
+      "sha256": "a101be0fd82482504b960753902d3b69719b874b7c7e21e91ada40b8b74d64e2",
+      "bytes": 73144
+    },
+    {
+      "path": "images/web-23-960.webp",
+      "sha256": "f30b792c830dc6986963c82fbb754de90394aef1d0d24554932ac2e8f6d531ad",
+      "bytes": 92602
+    },
+    {
+      "path": "images/web-24-1600.webp",
+      "sha256": "6dee33d2660b555116ff5dc0f3c6686a635053366f152d3f6311278adb76e717",
+      "bytes": 97892
+    },
+    {
+      "path": "images/web-24-480.webp",
+      "sha256": "e56ecfccd446d5d44cf4aa1e04a44d533bc90135dfe412a9f6284f8e2a64ff83",
+      "bytes": 62610
+    },
+    {
+      "path": "images/web-24-960.webp",
+      "sha256": "6dee33d2660b555116ff5dc0f3c6686a635053366f152d3f6311278adb76e717",
+      "bytes": 97892
+    },
+    {
+      "path": "images/web-27-1600.webp",
+      "sha256": "8ed5cc80e69c14f7937836843f11b3b4b5e45b52d7fd76a22710e51e28c451d1",
+      "bytes": 244482
+    },
+    {
+      "path": "images/web-27-480.webp",
+      "sha256": "d5465b19da5fb2fb923a9ced11f619552fe21371e1861258df5aa54c59243cf6",
+      "bytes": 60726
+    },
+    {
+      "path": "images/web-27-960.webp",
+      "sha256": "4f9b6b892d0213deb2001abe0b3179ec8911ff72f7f2aa19a2e644e21624f252",
+      "bytes": 149156
+    },
+    {
+      "path": "images/web-28-1600.webp",
+      "sha256": "faf69160d3f215817032a8e65b5217fa484bbf8a1971421666037fb788bbd978",
+      "bytes": 798722
+    },
+    {
+      "path": "images/web-28-480.webp",
+      "sha256": "8919c06c3b3f8632bfca855d96894272ecae4120557998bc1752b558951e4b2f",
+      "bytes": 100470
+    },
+    {
+      "path": "images/web-28-960.webp",
+      "sha256": "15c0e434015055dd881c11473cda994d4b418a4ec3067bae2586d5b7b76fea23",
+      "bytes": 346342
+    },
+    {
+      "path": "images/web-34-1600.webp",
+      "sha256": "c810ed076ec5d049bd91ad95df4eacab835150b6c098295bff387397c6b96067",
+      "bytes": 98106
+    },
+    {
+      "path": "images/web-34-480.webp",
+      "sha256": "e44c405f73148c25c16fb7f12931acdae83ede4937ea2844209cd62979aba6a4",
+      "bytes": 45640
+    },
+    {
+      "path": "images/web-34-960.webp",
+      "sha256": "c810ed076ec5d049bd91ad95df4eacab835150b6c098295bff387397c6b96067",
+      "bytes": 98106
+    },
+    {
+      "path": "images/web-36-1600.webp",
+      "sha256": "e9bebcb8c5265a91ee829d04d564ca27db061d2e519a9935d34aaf21152504a0",
+      "bytes": 69512
+    },
+    {
+      "path": "images/web-36-480.webp",
+      "sha256": "a18fe11c3068b4ad0204f55d6a3e4214f71c8245042786ec5df6cf7cd419f2cd",
+      "bytes": 32528
+    },
+    {
+      "path": "images/web-36-960.webp",
+      "sha256": "e9bebcb8c5265a91ee829d04d564ca27db061d2e519a9935d34aaf21152504a0",
+      "bytes": 69512
+    },
+    {
+      "path": "images/web-37-1600.webp",
+      "sha256": "1262c94d0993200e86050c9c7f1bee687f039569cadee22b1ba1a87af044ce01",
+      "bytes": 155324
+    },
+    {
+      "path": "images/web-37-480.webp",
+      "sha256": "548defdaa78b43f968b4c12b4c9fc8eb11ce8dc3d92c6b73b4f59de7e558063d",
+      "bytes": 88430
+    },
+    {
+      "path": "images/web-37-960.webp",
+      "sha256": "1262c94d0993200e86050c9c7f1bee687f039569cadee22b1ba1a87af044ce01",
+      "bytes": 155324
+    },
+    {
+      "path": "images/web-38-1600.webp",
+      "sha256": "6d31fa18db681d4c4d95e33ddf8ea6504f583371ddf6876e0f960456ec0046c0",
+      "bytes": 87700
+    },
+    {
+      "path": "images/web-38-480.webp",
+      "sha256": "e18692878e372f2df4f96bd0c3580a2b75354d1e93c4d178b7e2bd82071ff272",
+      "bytes": 51734
+    },
+    {
+      "path": "images/web-38-960.webp",
+      "sha256": "6d31fa18db681d4c4d95e33ddf8ea6504f583371ddf6876e0f960456ec0046c0",
+      "bytes": 87700
+    },
+    {
+      "path": "images/web-39-1600.webp",
+      "sha256": "003ef55faf00892adab16b1ce8363856664c2b841e097d062702bb158affbbfd",
+      "bytes": 67540
+    },
+    {
+      "path": "images/web-39-480.webp",
+      "sha256": "cf5819a1bd1f35450f3b1e7d45ae31e7ca706daaf405084e26489c9af8bc1966",
+      "bytes": 28326
+    },
+    {
+      "path": "images/web-39-960.webp",
+      "sha256": "003ef55faf00892adab16b1ce8363856664c2b841e097d062702bb158affbbfd",
+      "bytes": 67540
+    },
+    {
+      "path": "images/web-40-1600.webp",
+      "sha256": "d65311158ebc3861bde9c3d2f8b02e0163d9f529dc0259221cc81899e9d7fc78",
+      "bytes": 155242
+    },
+    {
+      "path": "images/web-40-480.webp",
+      "sha256": "ffe2dd0411b4c17a6c65bc6180e6c4417c2938b73f9a3de153703def3fb10968",
+      "bytes": 41696
+    },
+    {
+      "path": "images/web-40-960.webp",
+      "sha256": "d65311158ebc3861bde9c3d2f8b02e0163d9f529dc0259221cc81899e9d7fc78",
+      "bytes": 155242
+    },
+    {
+      "path": "images/web-42-1600.webp",
+      "sha256": "b433cd46189521578e339e175702eab8c96625d88c57a2b05bbe0d7450c49e45",
+      "bytes": 420452
+    },
+    {
+      "path": "images/web-42-480.webp",
+      "sha256": "6a4edfb1cd2f071b672d34a6b6982bb3bf11fe782a045f98c4a6c7e54ddedd5f",
+      "bytes": 64368
+    },
+    {
+      "path": "images/web-42-960.webp",
+      "sha256": "e92e60f76783b67b3435cc8400b9f685f8e6f24382237ed209ddb75096cc6959",
+      "bytes": 242076
+    },
+    {
+      "path": "images/web-43-1600.webp",
+      "sha256": "7e7fc5d1abcbe158dba7e831e10aaeb6d9bc3cd55fa8c3020321b1675a69b601",
+      "bytes": 192854
+    },
+    {
+      "path": "images/web-43-480.webp",
+      "sha256": "2732f210bfcc164663b9aed691b326400640ceff40ac01f03bdb50ffca0f8c5f",
+      "bytes": 30276
+    },
+    {
+      "path": "images/web-43-960.webp",
+      "sha256": "d4c75c0dc45af543751669d669145e4b1342965e577bf57a8c2eb608d87db016",
+      "bytes": 102068
+    },
+    {
+      "path": "images/web-44-1600.webp",
+      "sha256": "b58aa28d87c550cd82224802c3fdb0252c9863edc1de9f7f9b4cb67a79aa27c7",
+      "bytes": 138214
+    },
+    {
+      "path": "images/web-44-480.webp",
+      "sha256": "abc2ea6932ea4d7b2c737869a74fd882504a548fe97d130b9e99bdea9cd77fab",
+      "bytes": 89288
+    },
+    {
+      "path": "images/web-44-960.webp",
+      "sha256": "b58aa28d87c550cd82224802c3fdb0252c9863edc1de9f7f9b4cb67a79aa27c7",
+      "bytes": 138214
+    },
+    {
+      "path": "images/web-45-1600.webp",
+      "sha256": "8b1a304cb336ec5f529d2074b167c0c7a4368a96b51eeefe060b5b400fa0294a",
+      "bytes": 107752
+    },
+    {
+      "path": "images/web-45-480.webp",
+      "sha256": "c41dd2be30a8faa8fc01f8504ed3a81ed80a7f6bb87efe74d50c3f952e918d91",
+      "bytes": 64690
+    },
+    {
+      "path": "images/web-45-960.webp",
+      "sha256": "8b1a304cb336ec5f529d2074b167c0c7a4368a96b51eeefe060b5b400fa0294a",
+      "bytes": 107752
+    },
+    {
+      "path": "images/web-46-1600.webp",
+      "sha256": "55173bd8782c659af6bb5624f49c2394d7ec22af19482ffbcd34b4b109ea1075",
+      "bytes": 70036
+    },
+    {
+      "path": "images/web-46-480.webp",
+      "sha256": "b084b1aebc8f877f7619c384331667e53d7f5c3801b1e742e243d73e665563a0",
+      "bytes": 34546
+    },
+    {
+      "path": "images/web-46-960.webp",
+      "sha256": "55173bd8782c659af6bb5624f49c2394d7ec22af19482ffbcd34b4b109ea1075",
+      "bytes": 70036
+    },
+    {
+      "path": "images/web-47-1600.webp",
+      "sha256": "5e589523e439a7070c47f5584c0e1ea4a6fd182d4ca2b9eb35c6dc801133eb62",
+      "bytes": 266638
+    },
+    {
+      "path": "images/web-47-480.webp",
+      "sha256": "fcaa85ac3e77fceebbfe70f52becf173ff0b52fa6d988193b1866a8c313ef038",
+      "bytes": 34700
+    },
+    {
+      "path": "images/web-47-960.webp",
+      "sha256": "e21c918f1466ec8ddbe4e4deaf13a6ab7779ce6a37fbc4dde8f9cb79f537797f",
+      "bytes": 135856
+    },
+    {
+      "path": "images/web-53-1600.webp",
+      "sha256": "57b7738400a650609b2667ab9f8462bbc1b02fb5282fc1ab1b58bb87d602acfd",
+      "bytes": 22222
+    },
+    {
+      "path": "images/web-53-480.webp",
+      "sha256": "f958ec3c174b430ecca291e1d20603e28615cf285e360a66373536f2a4b6f4e9",
+      "bytes": 10500
+    },
+    {
+      "path": "images/web-53-960.webp",
+      "sha256": "57b7738400a650609b2667ab9f8462bbc1b02fb5282fc1ab1b58bb87d602acfd",
+      "bytes": 22222
+    },
+    {
+      "path": "impressum/index.html",
+      "sha256": "22560741697a15691a09543364b0fc75e1c596c199e6bff9c4381fdcd9b28b47",
+      "bytes": 9767
+    },
+    {
+      "path": "index.html",
+      "sha256": "8a7e69fe7bfef2c78cfa56b30239471324fa4146dfefcd338d0dd29c0f9133c1",
+      "bytes": 24025
+    },
+    {
+      "path": "inner-child/index.html",
+      "sha256": "0fb03216c1da369787b241fcd79f200479f78935334bcd6f8249c199ec509964",
+      "bytes": 31098
+    },
+    {
+      "path": "kambo/index.html",
+      "sha256": "ab4072aa7bf01cfb375231b9707f87dfa8a77a8065b07764636eb8b38b646b68",
+      "bytes": 13478
+    },
+    {
+      "path": "kraft/index.html",
+      "sha256": "edca7e0387a6a96e45ddd7f83d54aae9c64f09bf4539db396386fb6c5f4cfb2f",
+      "bytes": 37417
+    },
+    {
+      "path": "music/index.html",
+      "sha256": "f6a9f12289a664015b138d20623795ba0111e8d0176367d418581fc5497e5031",
+      "bytes": 15323
+    },
+    {
+      "path": "my-art/index.html",
+      "sha256": "5d2eedd8dd1548d76f7aa4ed3e452658f226e1f74074404a9bdda18aa80516c7",
+      "bytes": 11762
+    },
+    {
+      "path": "photography/index.html",
+      "sha256": "1eb269cd94570541786b9cd7c544a51d492f7bc61c8c99e4c46067d0dd096798",
+      "bytes": 10261
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "bytes": 26
+    },
+    {
+      "path": "schamanisches-retreat/index.html",
+      "sha256": "564f4d6ebc31519ae62141f59b3b37fa634cdab543ab98ed6d17f1f210c3f469",
+      "bytes": 36876
+    },
+    {
+      "path": "services/index.html",
+      "sha256": "6ece844fe15252694f13b6cab6b27c89ab23c56e25552e6e5b6c4c1e491f8861",
+      "bytes": 64107
+    },
+    {
+      "path": "silent-retreat/index.html",
+      "sha256": "4e45d8feddaa5b7b2ab82e764b198c2bcbb780f35cd4059f92ebf1a459d93030",
+      "bytes": 34323
+    },
+    {
+      "path": "site.webmanifest",
+      "sha256": "172c9ec224fb1a4496e228eabeee19c7dd5a32e3ddcac1088eafd46e5b31b38e",
+      "bytes": 464
+    },
+    {
+      "path": "song-of-the-soul/index.html",
+      "sha256": "2cda095399038f8eaf0120b6a01e7905abcdb1872582b49f689e412f0b2464e7",
+      "bytes": 43338
+    },
+    {
+      "path": "wise-in-her-ways-1/index.html",
+      "sha256": "2955a9900e287207592c48f4bca61cbdb51f2df653abcb432db6d782566f7ef7",
+      "bytes": 36884
+    },
+    {
+      "path": "yoga-nidra/index.html",
+      "sha256": "ff30168f859db08b525c1b3b298471467115e178c09e6e66eecfe660ff59e24c",
+      "bytes": 22954
+    }
+  ],
+  "archive": "elenajudith-2026-10-27-final.tar.gz",
+  "archiveSha256": "a4aaf605cee0de861effab583b6104797c617ceddd177f8b20dc9f4d42f2d050",
+  "archiveBytes": 18866450,
+  "fileCount": 242,
+  "htmlCount": 40,
+  "redirects": [
+    {
+      "from": "/draft-2/*",
+      "to": "/*",
+      "status": 308,
+      "preserveQuery": true
+    },
+    {
+      "from": "/en/draft-2/*",
+      "to": "/en/*",
+      "status": 308,
+      "preserveQuery": true
+    }
+  ]
+}

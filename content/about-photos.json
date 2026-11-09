@@ -1,0 +1,271 @@
+{
+  "description": "Fotos der Seite „Über mich“ aus dem Drive-Ordner „about me website“ (Auswahl von Elena bestätigt, 28.10.2026). role: single = Einzelfoto, wide = breites Einzelfoto, carousel = Karussell, header = Foto oben neben der Überschrift (ersetzt das Porträt, das schon auf der Startseite steht). before = Nummer des Drive-Absatzes, vor dem das Einzelfoto steht. Reihenfolge der Karussell-Fotos = Reihenfolge hier. Bilder neu erzeugen: npm run images:about shape (Einzelfotos): arch = Bogen, rect = Rechteck mit weichen Ecken, oval, circle = Kreis.",
+  "photos": [
+    {
+      "id": "about-dschungel-blick",
+      "role": "single",
+      "file": "assets/originals/about-dschungel-blick.jpg",
+      "url": "https://drive.google.com/file/d/1ES71g5lZ8Vb9x-NtQEGw3F-zsoO75YiQ/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "58E8377A-1AA9-4C5C-9EEE-FFAD71D0A612.JPG",
+      "alt": {
+        "de": "Elena steht zwischen großen Blättern im Dschungel und schaut nach oben",
+        "en": "Elena standing among large jungle leaves, looking up"
+      },
+      "before": 3,
+      "shape": "arch"
+    },
+    {
+      "id": "about-gitarre-singen",
+      "role": "single",
+      "file": "assets/originals/about-gitarre-singen.jpg",
+      "url": "",
+      "page": "Drive-Ordner Musik",
+      "name": "Upload (Olivenbaum mit Gitarre)",
+      "alt": {
+        "de": "Elena lacht mit ihrer Gitarre vor einem alten Olivenbaum",
+        "en": "Elena laughing with her guitar in front of an old olive tree"
+      },
+      "before": 8,
+      "shape": "rect",
+      "position": "50% 40%"
+    },
+    {
+      "id": "about-gebet-baum",
+      "role": "single",
+      "file": "assets/originals/about-gebet-baum.jpg",
+      "url": "https://drive.google.com/file/d/1XABgl0RCB9gcW98Kjsc9HIg1XXIB2GiU/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_0136.JPG",
+      "alt": {
+        "de": "Elena mit aneinandergelegten Händen neben einem alten Baum, schwarz-weiß",
+        "en": "Elena with her palms together beside an old tree, black and white"
+      },
+      "before": 12,
+      "shape": "oval"
+    },
+    {
+      "id": "about-herz-bach",
+      "role": "single",
+      "file": "assets/originals/about-herz-bach.jpg",
+      "url": "https://drive.google.com/file/d/1yTBN1Jnu1Y613C5wzsKmikROQmsxQq4h/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_9424.JPG",
+      "alt": {
+        "de": "Elena sitzt am Bach, die Hände auf dem Herzen",
+        "en": "Elena sitting by a stream, hands on her heart"
+      },
+      "before": 21,
+      "shape": "rect"
+    },
+    {
+      "id": "about-wueste",
+      "role": "wide",
+      "file": "assets/originals/about-wueste.jpg",
+      "url": "https://drive.google.com/file/d/1RBFwXKLx2j9BzhPRQ7g-ey-XWlhXGXXF/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_7757.JPG",
+      "alt": {
+        "de": "Elena liegt mit ausgebreiteten Armen in der Wüste, von oben fotografiert",
+        "en": "Elena lying with outstretched arms in the desert, seen from above"
+      },
+      "before": 30,
+      "credit": "Carmi & Yarmi"
+    },
+    {
+      "id": "about-olivenbaum-portraet",
+      "role": "single",
+      "file": "assets/originals/about-olivenbaum-portraet.jpg",
+      "url": "https://drive.google.com/file/d/1ZpQl2N0HhlhlRHZgN7kMpNiihbDDvzD9/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "DSC_1140 2.JPG",
+      "alt": {
+        "de": "Porträt von Elena an einem alten Olivenbaum",
+        "en": "Portrait of Elena at an old olive tree"
+      },
+      "before": 33,
+      "shape": "circle"
+    },
+    {
+      "id": "about-apfel",
+      "role": "header",
+      "file": "assets/originals/about-apfel.jpg",
+      "url": "https://drive.google.com/file/d/1qCiZEEqUnX90es78A5GxjEbtgu4wbMte/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_0129.JPG",
+      "alt": {
+        "de": "Elena sitzt im Gras und hält einen Apfel, schwarz-weiß",
+        "en": "Elena sitting in the grass holding an apple, black and white"
+      }
+    },
+    {
+      "id": "about-sonnenlicht",
+      "role": "carousel",
+      "file": "assets/originals/about-sonnenlicht.jpg",
+      "url": "https://drive.google.com/file/d/1ViJ6JeqD6GZwDDsAYqIHiITm3wDlUkzy/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_5204.JPEG",
+      "alt": {
+        "de": "Elena breitet im Sonnenlicht ein helles Tuch aus",
+        "en": "Elena spreading a light shawl in the sunlight"
+      }
+    },
+    {
+      "id": "about-trommel",
+      "role": "carousel",
+      "file": "assets/originals/about-trommel.jpg",
+      "url": "https://drive.google.com/file/d/13TnNFw8Fffqcp6qj0-Afr284DuniGSAn/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_3628.heic",
+      "alt": {
+        "de": "Elena spielt eine Rahmentrommel auf einer Holzterrasse über einem grünen Tal",
+        "en": "Elena playing a frame drum on a wooden deck above a green valley"
+      }
+    },
+    {
+      "id": "about-dschungel-laecheln",
+      "role": "carousel",
+      "file": "assets/originals/about-dschungel-laecheln.jpg",
+      "url": "https://drive.google.com/file/d/127AOWdsGf6i7k-2yxAJ5zolquk0ym6KH/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "29AA38CC-2B45-427B-8668-2B43034E4BFC.JPG",
+      "alt": {
+        "de": "Elena lächelt zwischen Palmblättern",
+        "en": "Elena smiling among palm leaves"
+      }
+    },
+    {
+      "id": "about-portraet-zoepfe",
+      "role": "carousel",
+      "file": "assets/originals/about-portraet-zoepfe.jpg",
+      "url": "https://drive.google.com/file/d/1DmmaWqpXp9NsYWj7ytIT3niSJgZ-CH4E/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "ac590d38-afa8-4a06-9f0f-35c247b86797.jpg",
+      "alt": {
+        "de": "Porträt von Elena mit Zöpfen und Halsreif, die Hand auf dem Herzen",
+        "en": "Portrait of Elena with braids and a neck ring, hand on her heart"
+      }
+    },
+    {
+      "id": "about-gitarre-poncho",
+      "role": "carousel",
+      "file": "assets/originals/about-gitarre-poncho.jpg",
+      "url": "https://drive.google.com/file/d/1onBgsJR6oHNlMrics0V_odE0a5NfHfhz/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_6082.PNG",
+      "alt": {
+        "de": "Elena spielt Gitarre in einem weißen Poncho unter Bäumen",
+        "en": "Elena playing the guitar in a white poncho under trees"
+      }
+    },
+    {
+      "id": "about-farn",
+      "role": "carousel",
+      "file": "assets/originals/about-farn.jpg",
+      "url": "https://drive.google.com/file/d/1Ay2oGThGz0x1xgvK_lm3Fszz0XHZckNw/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_0167.JPEG",
+      "alt": {
+        "de": "Elena mit geschlossenen Augen an einem Farnblatt, schwarz-weiß",
+        "en": "Elena with her eyes closed beside a fern, black and white"
+      }
+    },
+    {
+      "id": "about-mikrofon",
+      "role": "carousel",
+      "file": "assets/originals/about-mikrofon.jpg",
+      "url": "https://drive.google.com/file/d/1TDXMT0ccra8y0DuH084y4lFwA1h5shZD/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "Inspiredby_being-246.jpeg",
+      "alt": {
+        "de": "Elena singt lächelnd am Mikrofon",
+        "en": "Elena smiling as she sings into a microphone"
+      }
+    },
+    {
+      "id": "about-dschungel-direkt",
+      "role": "carousel",
+      "file": "assets/originals/about-dschungel-direkt.jpg",
+      "url": "https://drive.google.com/file/d/1XKZSkyIsHwMcby5QGkZa9wuS5WTAXUn-/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "D90BC70D-CFA2-429B-9BC8-98541AFAB39D.JPG",
+      "alt": {
+        "de": "Elena zwischen Dschungelpflanzen, den Blick in die Kamera",
+        "en": "Elena among jungle plants, looking into the camera"
+      }
+    },
+    {
+      "id": "about-wiese-herz",
+      "role": "carousel",
+      "file": "assets/originals/about-wiese-herz.jpg",
+      "url": "https://drive.google.com/file/d/1U6Rib--ttGNTzcZyjRXFUkI4jmcHabsK/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_9430.JPG",
+      "alt": {
+        "de": "Elena auf einer Wiese, eine Hand auf dem Herzen",
+        "en": "Elena in a meadow, one hand on her heart"
+      }
+    },
+    {
+      "id": "about-kristall",
+      "role": "carousel",
+      "file": "assets/originals/about-kristall.jpg",
+      "url": "https://drive.google.com/file/d/1INW-I7K8hVsjxew2ZAq5IHh7q1kUEuJo/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "DSC_1256 2.JPG",
+      "alt": {
+        "de": "Elena lehnt mit geschlossenen Augen an einer großen Kristalldruse",
+        "en": "Elena leaning against a large crystal geode with her eyes closed"
+      }
+    },
+    {
+      "id": "about-gitarre-olivenbaum",
+      "role": "carousel",
+      "file": "assets/originals/about-gitarre-olivenbaum.jpg",
+      "url": "https://drive.google.com/file/d/1S_nRLEdXzttBV-m9KBYAl7sowwpyp4N7/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "DSC_1205 2.JPG",
+      "alt": {
+        "de": "Elena mit Gitarre vor einem alten Olivenbaum",
+        "en": "Elena with a guitar in front of an old olive tree"
+      }
+    },
+    {
+      "id": "about-felsen-wueste",
+      "role": "carousel",
+      "file": "assets/originals/about-felsen-wueste.jpg",
+      "url": "https://drive.google.com/file/d/1Fils0xg37A5Vu-8rvu2sX6wqPZ1SnZ5g/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_7753.JPG",
+      "alt": {
+        "de": "Elena liegt auf einem großen Felsen in der Wüste, von oben fotografiert",
+        "en": "Elena lying on a large rock in the desert, seen from above"
+      },
+      "credit": "Carmi & Yarmi"
+    },
+    {
+      "id": "about-esel",
+      "role": "carousel",
+      "file": "assets/originals/about-esel.jpg",
+      "url": "https://drive.google.com/file/d/1wT1hVQd8fl6SrxtjTYZBNAC95R5lYFgb/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_1842.HEIC",
+      "alt": {
+        "de": "Elena lächelt neben einem Esel auf einer Wiese",
+        "en": "Elena smiling beside a donkey in a meadow"
+      }
+    },
+    {
+      "id": "about-steinhaus",
+      "role": "carousel",
+      "file": "assets/originals/about-steinhaus.jpg",
+      "url": "https://drive.google.com/file/d/1X5-lzFHbhStSFBMpclU6nVxzdI6MtwCH/view",
+      "page": "https://drive.google.com/drive/folders/1ibLKXgpSr02mq2wDcasMz3zwULslZN2Y",
+      "name": "IMG_7776.HEIC",
+      "alt": {
+        "de": "Elena im mintgrünen Kleid an einem alten Baum vor einem Steinhaus",
+        "en": "Elena in a mint green dress by an old tree in front of a stone house"
+      }
+    }
+  ]
+}

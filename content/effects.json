@@ -1,0 +1,44 @@
+{
+  "status": "source-derived adaptations; central XMS effects registry not implemented in inspected project",
+  "catalogue": {
+    "repository": "/Users/akefnet/Dev/TuniSite/ContentManagementSystem/prototypes/codex/cms-v1-astra",
+    "ref": "9363cfe32875efd41cea160992e6a67e0cf45983",
+    "file": "data/content-catalogue.json"
+  },
+  "effects": [
+    {
+      "id": "source-reveal",
+      "catalogueBinding": "waszaehlt--paartherapie--5",
+      "catalogueType": "section.testimonials",
+      "source": "/Users/akefnet/Dev/ABCollaboration/waszaehlt/sites/astro/src/components/sections/PaartherapieTestimonialsSection.astro",
+      "sourcePattern": "testimonial-reveal: opacity 0 to 1; translateY 8px to 0; 450ms ease; 200ms delay",
+      "adaptation": "450ms ease, 8px; no delay; once on viewport entry and on manual testimonial changes",
+      "implementation": "src/main.js",
+      "reducedMotion": "disabled; content remains visible without JavaScript"
+    },
+    {
+      "id": "source-card-image-shift",
+      "catalogueBinding": "waszaehlt--index--4",
+      "catalogueType": "section.cards",
+      "source": "/Users/akefnet/Dev/ABCollaboration/waszaehlt/sites/astro/src/components/sections/AngeboteSection.astro",
+      "sourcePattern": "400ms ease-in-out wrapper translateY(-64px) with CTA reveal",
+      "adaptation": "image-only translateY(-8px), 400ms ease-in-out; text and links always visible",
+      "implementation": "src/styles.css",
+      "reducedMotion": "disabled; motion gated to hover-capable fine pointers"
+    },
+    {
+      "id": "testimonial-crossfade",
+      "sourcePattern": "Opacity transition; editorial extension of the existing testimonial reveal",
+      "adaptation": "Portrait, name and quote crossfade together over 800ms; 9-second automatic interval only when visible; explicit pause, hover/focus pause and manual controls",
+      "implementation": "src/main.js and src/styles.css",
+      "reducedMotion": "No automatic rotation or transition"
+    },
+    {
+      "id": "draft2-photo-sequence",
+      "sourcePattern": "Project-specific manual photo sequence; no additional CMS registry binding claimed",
+      "adaptation": "Horizontal scroll snap with manual buttons, swipe and keyboard arrows; no automatic photo rotation",
+      "implementation": "src/main.js and src/styles.css",
+      "reducedMotion": "Programmatic scroll uses instant behavior; smooth scrolling disabled"
+    }
+  ]
+}

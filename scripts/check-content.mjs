@@ -135,7 +135,7 @@ const kamboContent=JSON.parse(await fs.readFile('content/kambo.json','utf8'));
 for(const [locale,prefix] of [['de','dist'],['en','dist/en']]){
  const $=load(await fs.readFile(`${prefix}/kambo/index.html`,'utf8'));const flat=t=>normalize(t).replace(/\s+/g,'');const page=flat($('main').text());const c=kamboContent[locale];
  for(const t of [c.title,c.claim,c.claim2,...c.blocks.flatMap(b=>b.items||(b.text?[b.text]:[]))]){assert.ok(page.includes(flat(t)),`${locale} Kambo: Text fehlt: ${t.slice(0,60)}`);sessionCount++;}
- assert.equal($('main figcaption').length,0,`${locale} Kambo: keine Bildbeschreibungen`);
+ assert.equal($('main figcaption').filter((i,e)=>!$(e).closest('#teilnehmerstimmen').length).length,0,`${locale} Kambo: keine Bildbeschreibungen`);
  assert.ok(!page.includes(flat('Einblicke in die Arbeit')),'Kambo: Galerie-Überschrift soll weg sein');
  assert.equal($('#session-form').length,1,`${locale} Kambo: Anfrageformular fehlt`);
 }

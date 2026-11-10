@@ -4907,6 +4907,20 @@
    "position": "53% 55%"
   },
   {
+   "id": "tp-thomas",
+   "role": "portrait",
+   "shape": "circle",
+   "file": "assets/originals/tp-thomas.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Thomas",
+   "alt": {
+    "de": "Thomas",
+    "en": "Thomas"
+   },
+   "position": "50% 45%"
+  },
+  {
    "id": "tp-swantje",
    "role": "portrait",
    "shape": "circle",

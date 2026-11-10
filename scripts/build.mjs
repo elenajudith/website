@@ -12,7 +12,7 @@ await fs.mkdir('dist/assets/fonts',{recursive:true});
 await fs.copyFile('src/main.js','dist/assets/main.js');
 for(const [family,variants] of [['cormorant-garamond',['400-normal','400-italic','600-normal']],['dm-sans',['400-normal','500-normal']]])for(const variant of variants){const file=`${family}-latin-${variant}.woff2`;await fs.copyFile(`node_modules/@fontsource/${family}/files/${file}`,`dist/assets/fonts/${file}`);}
 const pages=[['',render.home],['about',render.about],['11-sessions',render.sessions],['services',render.services],['yoga-nidra',render.yoga],['kambo',render.kambo],['my-art',render.art],['contact',render.contact],['impressum',render.impressum],...[...render.site.retreats,...render.site.courses].map(r=>[r.slug,()=>render.detail(r)])];
-const newPages=[...pages,['music',render.art],['datenschutz',render.impressum],['photography',render.art],['astrologie-human-design',()=>render.sessions('/astrologie-human-design/','Astrologie & Human Design')]];
+const newPages=[...pages,['music',render.art],['datenschutz',render.impressum],['photography',render.art],['stimmen',render.impressum],['astrologie-human-design',()=>render.sessions('/astrologie-human-design/','Astrologie & Human Design')]];
 const quotes=Object.fromEntries(['de','en'].map(locale=>[locale,load(localize(render.home(),{locale}))('.testimonials').toString()]));
 for(const [route,fn] of newPages){
  const pageRoute=route?`/${route}/`:'/';

@@ -12,7 +12,7 @@ const reading=docs.find(d=>d.id==='1TiNWH0AcoQoG9anl3mQpyrF7SLPUUvaK');
 // Superseded biographies only. The source snapshots retain every original widget.
 export const excludedBiographies=new Set(['644ea0b1','0a7ca18','c4b8a63','5eb66937','3e16de8c','51f53e94','6319b28e']);
 const textual=new Set(['heading','text-editor','button','call-to-action','animated-headline','icon-box']);
-const routes=new Set(['','about','11-sessions','astrologie-human-design','services','yoga-nidra','kambo','my-art','contact','impressum','datenschutz','music','photography',...site.retreats.map(r=>r.slug),...site.courses.map(r=>r.slug)]);
+const routes=new Set(['','about','11-sessions','astrologie-human-design','services','yoga-nidra','kambo','my-art','contact','impressum','datenschutz','music','photography','stimmen',...site.retreats.map(r=>r.slug),...site.courses.map(r=>r.slug)]);
 // Elena 2026-10-29: auf allen Seiten nur der normale Bindestrich, keine langen Striche (– —).
 export const plainDashes=s=>s.replace(/[\u2012\u2013\u2014\u2015\u2212]/g,'-');
 export const normalize=s=>plainDashes(s).replace(/\s+/g,' ').trim();
@@ -88,7 +88,7 @@ function homeQuotes(locale){return quoteCarousel(elenaQuotes,locale,locale==='en
 function quoteCarousel(quotes,locale,heading){
  const en=locale==='en',total=String(quotes.length).padStart(2,'0');
  const paras=list=>list.map(p=>`<p>${esc(p)}</p>`).join('');
- return `<section class="testimonials home-testimonials" id="teilnehmerstimmen" data-section="testimonials"><div class="shell testimonial-grid"><div class="testimonial-heading"><div><h2>${heading}</h2></div><div class="quote-controls" hidden><button data-quote-prev aria-label="${en?'Previous testimonial':'Vorherige Teilnehmerstimme'}">←</button><span data-quote-counter aria-hidden="true">01 / ${total}</span><button data-quote-next aria-label="${en?'Next testimonial':'Nächste Teilnehmerstimme'}">→</button><button class="quote-playback" data-quote-playback data-text-play="${en?'Play':'Abspielen'}" data-text-pause="Pause" data-label-play="${en?'Start automatic rotation':'Automatischen Wechsel starten'}" data-label-pause="${en?'Pause automatic rotation':'Automatischen Wechsel pausieren'}">Pause</button></div></div><div class="quote-stage" aria-live="off" aria-atomic="true">${quotes.map((q,i)=>{
+ return `<section class="testimonials home-testimonials" id="teilnehmerstimmen" data-section="testimonials"><div class="shell testimonial-grid"><div class="testimonial-heading"><div><h2>${heading}</h2><a class="text-link all-voices" href="${en?'/en':''}/stimmen/">${en?'Read all voices':'Alle Stimmen lesen'}</a></div><div class="quote-controls" hidden><button data-quote-prev aria-label="${en?'Previous testimonial':'Vorherige Teilnehmerstimme'}">←</button><span data-quote-counter aria-hidden="true">01 / ${total}</span><button data-quote-next aria-label="${en?'Next testimonial':'Nächste Teilnehmerstimme'}">→</button><button class="quote-playback" data-quote-playback data-text-play="${en?'Play':'Abspielen'}" data-text-pause="Pause" data-label-play="${en?'Start automatic rotation':'Automatischen Wechsel starten'}" data-label-pause="${en?'Pause automatic rotation':'Automatischen Wechsel pausieren'}">Pause</button></div></div><div class="quote-stage" aria-live="off" aria-atomic="true">${quotes.map((q,i)=>{
   const source=images.find(img=>img.id===q.image),v=source?.variants[0];
   const words=q.paragraphs.join(' ').split(/\s+/);
   let body;
@@ -159,6 +159,27 @@ const PLANET_ICONS={
 const readingValue=r=>`${r.group}: ${r.name}`;
 // Elena 2026-10-29: Übersicht „1:1 Begleitung“ mit allen Einzelangeboten (Texte: content/sessions-overview.json)
 const sessionsOverviewData=JSON.parse(fs.readFileSync(new URL('../content/sessions-overview.json',import.meta.url)));
+// Elena 2026-11-10: eigene Seite mit allen Stimmen zum Durchklicken
+function allQuotes(){
+ const seen=new Set(),out=[];
+ const add=q=>{if(!q||!q.paragraphs||!q.paragraphs.length)return;const k=(q.name+'|'+q.paragraphs[0].slice(0,40)).toLowerCase();if(seen.has(k))return;seen.add(k);out.push(q);};
+ retreatQuotes('').forEach(add);sessionQuotes.forEach(add);yogaPageQuotes('de').forEach(add);
+ elenaQuotes.filter(q=>/Kambo/i.test(q.context)).forEach(add);courseQuotes('a').forEach(add);courseQuotes('dreaming-reality').forEach(add);
+ return out;
+}
+const quoteCat=q=>/Kambo/i.test(q.context)?'kambo':/Yoga Nidra/i.test(q.context)?'yoga':/Reading/i.test(q.context)?'reading':/Onlinekurs|Archetyp|Dreaming/i.test(q.context)?'kurse':'retreats';
+function stimmenMain(locale){
+ const en=locale==='en',t=(de,e)=>en?e:de,qs=allQuotes();
+ const cats=[['all',t('Alle','All')],['retreats','Retreats'],['yoga','Yoga Nidra'],['kambo','Kambo'],['reading','Readings'],['kurse',t('Kurse','Courses')]].filter(([k])=>k==='all'||qs.some(q=>quoteCat(q)===k));
+ const paras=list=>list.map(p=>`<p>${esc(p)}</p>`).join('');
+ const cards=qs.map(q=>{const source=images.find(img=>img.id===q.image),v=source?.variants[0];const words=q.paragraphs.join(' ').split(/\s+/);let body;
+  if(words.length>EXCERPT_WORDS+10){const ex=words.slice(0,EXCERPT_WORDS).join(' ').replace(/[,;:–-]$/,'')+' …';body=`<div class="quote-excerpt"><p>${esc(ex)}</p></div><div class="quote-full" hidden>${paras(q.paragraphs)}</div><button type="button" class="quote-more" aria-expanded="false" data-text-more="${t('Weiterlesen','Read more')}" data-text-less="${t('Weniger anzeigen','Show less')}">${t('Weiterlesen','Read more')}</button>`;}else body=paras(q.paragraphs);
+  return `<figure class="voice-card" data-cat="${quoteCat(q)}"><div class="voice-head"><div class="quote-portrait">${v?`<img src="/${v.file}" width="${v.width}" height="${v.height}" loading="lazy" alt="${esc(q.name)}">`:`<span class="quote-initial" aria-hidden="true">${esc(q.name.charAt(0))}</span>`}</div><figcaption><strong>${esc(q.name)}</strong><small>${esc(q.context)}</small></figcaption></div><blockquote lang="${q.lang}">${body}</blockquote></figure>`;}).join('');
+ return `<section class="page-intro shell overview-intro"><p class="eyebrow">${t('ERFAHRUNGEN','EXPERIENCES')}</p><h1>${t('Stimmen','Voices')}</h1><p class="overview-lead">${t(`Was Menschen nach Retreats, Zeremonien, Sessions und Kursen mit mir erzählen. ${qs.length} Stimmen von über 3.000 Menschen, die ich begleiten durfte.`,`What people share after retreats, ceremonies, sessions and courses with me. ${qs.length} voices from more than 3,000 people I have been allowed to accompany.`)}</p></section>
+<section class="voices shell"><div class="voice-filter" role="group" aria-label="${t('Stimmen filtern','Filter voices')}">${cats.map(([k,l],i)=>`<button type="button" data-filter="${k}" aria-pressed="${i?'false':'true'}">${l}</button>`).join('')}</div><div class="voice-grid">${cards}</div></section>
+<section class="overview-help"><div class="shell"><h2>${t('Magst du deine eigene Erfahrung machen?','Would you like to have your own experience?')}</h2><a class="button" href="${en?'/en':''}/contact/">${t('Schreib mir','Write to me')}</a></div></section>
+<script>document.querySelectorAll('.voice-filter button').forEach(b=>b.addEventListener('click',()=>{const f=b.dataset.filter;document.querySelectorAll('.voice-filter button').forEach(x=>x.setAttribute('aria-pressed',x===b?'true':'false'));document.querySelectorAll('.voice-card').forEach(c=>{c.hidden=!(f==='all'||c.dataset.cat===f);});}));</script>`;
+}
 // Elena 2026-11-09: Kunst-Seite nur noch mit zwei Kacheln (Musik, Kleidung)
 function artMain(locale){
  const en=locale==='en',t=(de,e)=>en?e:de,p=en?'/en':'',etsy=site.social.etsy||'https://www.etsy.com/shop/aestheticmattersshop';
@@ -449,6 +470,9 @@ export function finalize(html,{locale='de',route='/'}){
   $('main').html(sessionsMain(locale));
  }else if(slug==='datenschutz'){
   $('main').html(datenschutzMain(locale));
+ }else if(slug==='stimmen'){
+  $('title').text(en?'Voices · Elena Judith':'Stimmen · Elena Judith');$('meta[name=description]').attr('content',en?'Experiences of people who have been on retreats, ceremonies, sessions and courses with Elena Judith.':'Erfahrungen von Menschen, die mit Elena Judith in Retreats, Zeremonien, Sessions und Kursen waren.');
+  $('main').html(stimmenMain(locale));
  }else if(slug==='my-art'){
   $('main').html(artMain(locale));
  }else if(slug==='music'){
@@ -524,5 +548,6 @@ export function finalize(html,{locale='de',route='/'}){
  $('.revolution-dash').text('');
  // Elena 2026-11-03: Link zur Datenschutzerklärung neben dem Impressum
  $('.site-footer a[href$="/impressum/"]').each((_,el)=>{if(!$(el).next('a[href$="/datenschutz/"]').length)$(el).after(`<a href="${en?'/en':''}/datenschutz/">${en?'Privacy':'Datenschutz'}</a>`);});
+ $('.site-footer a[href$="/datenschutz/"]').each((_,el)=>{if(!$(el).next('a[href$="/stimmen/"]').length)$(el).after(`<a href="${en?'/en':''}/stimmen/">${en?'Voices':'Stimmen'}</a>`);});
  return $.html();
 }

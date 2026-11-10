@@ -48,7 +48,7 @@ try{
  await fs.cp('dist',temp,{recursive:true});
  await finishMetadata(temp,{...config,indexable:true,publishedDraft:1});
  const sitemap=load(await fs.readFile(path.join(temp,'sitemap.xml'),'utf8'),{xmlMode:true});
- assert.equal(sitemap('url').length,42); // Elena 2026-11-03: +Datenschutz (de/en)
+ assert.equal(sitemap('url').length,44); // Elena 2026-11-03: +Datenschutz (de/en)
  for(const el of sitemap('loc').toArray()){
   const url=new URL(sitemap(el).text());assert.ok(!url.pathname.includes('/draft-2/'));assert.ok(!url.pathname.includes('404'));
  }

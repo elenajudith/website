@@ -6,7 +6,7 @@
   "whatsapp": "https://wa.me/4917697672396",
   "social": {"instagram": "https://www.instagram.com/aestheticmatters/", "soundcloud": "https://soundcloud.com/elena-judith", "youtube": "https://www.youtube.com/channel/UCFYaXrnHty3oEImfCGH6WUw", "etsy": "https://www.etsy.com/shop/aestheticmattersshop"},
   "navigation": [
-    {"label": "Über mich", "href": "/about/"},
+    {"label": "Über mich", "href": "/about/", "children": [{"label": "Stimmen", "href": "/stimmen/"}]},
     {"label": "1:1 Begleitung", "href": "/11-sessions/", "children": [{"label": "Astrologie & Human Design", "href": "/astrologie-human-design/"}, {"label": "Yoga Nidra", "href": "/yoga-nidra/"}, {"label": "Kambo", "href": "/kambo/"}]},
     {"label": "Retreats & Kurse", "href": "/services/", "children": [{"label": "Alle Retreats", "href": "/services/#retreats"}, {"label": "Onlinekurse", "href": "/services/#kurse"}, {"label": "Einblicke & Erinnerungen", "href": "/services/#einblicke"}]},
     {"label": "Kunst", "href": "/my-art/"},

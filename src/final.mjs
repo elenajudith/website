@@ -160,7 +160,7 @@ const readingValue=r=>`${r.group}: ${r.name}`;
 // Elena 2026-10-29: Übersicht „1:1 Begleitung“ mit allen Einzelangeboten (Texte: content/sessions-overview.json)
 const sessionsOverviewData=JSON.parse(fs.readFileSync(new URL('../content/sessions-overview.json',import.meta.url)));
 // Elena 2026-11-16: Link-Seite für Instagram (nicht im Menü)
-const FUDDER_URL='';
+const FUDDER_URL='https://www.badische-zeitung.de/7-tipps-fuer-einen-erholsamen-schlaf';
 function linksMain(locale){
  const en=locale==='en',t=(de,e)=>en?e:de,p=en?'/en':'';
  const L=[[t('Meine Website','My website'),p+'/',0],['Nowhere 26 · DJ-Set','https://soundcloud.com/elena-judith/nowhere26/s-lRypHIpDVx1',1],[t('SoundCloud-Profil','SoundCloud profile'),'https://soundcloud.com/elena-judith',1],

@@ -12,7 +12,7 @@ const reading=docs.find(d=>d.id==='1TiNWH0AcoQoG9anl3mQpyrF7SLPUUvaK');
 // Superseded biographies only. The source snapshots retain every original widget.
 export const excludedBiographies=new Set(['644ea0b1','0a7ca18','c4b8a63','5eb66937','3e16de8c','51f53e94','6319b28e']);
 const textual=new Set(['heading','text-editor','button','call-to-action','animated-headline','icon-box']);
-const routes=new Set(['','about','11-sessions','astrologie-human-design','services','yoga-nidra','kambo','my-art','contact','impressum','datenschutz','music','photography','stimmen',...site.retreats.map(r=>r.slug),...site.courses.map(r=>r.slug)]);
+const routes=new Set(['','about','11-sessions','astrologie-human-design','services','yoga-nidra','kambo','my-art','contact','impressum','datenschutz','music','photography','stimmen','links',...site.retreats.map(r=>r.slug),...site.courses.map(r=>r.slug)]);
 // Elena 2026-10-29: auf allen Seiten nur der normale Bindestrich, keine langen Striche (– —).
 export const plainDashes=s=>s.replace(/[\u2012\u2013\u2014\u2015\u2212]/g,'-');
 export const normalize=s=>plainDashes(s).replace(/\s+/g,' ').trim();
@@ -159,6 +159,16 @@ const PLANET_ICONS={
 const readingValue=r=>`${r.group}: ${r.name}`;
 // Elena 2026-10-29: Übersicht „1:1 Begleitung“ mit allen Einzelangeboten (Texte: content/sessions-overview.json)
 const sessionsOverviewData=JSON.parse(fs.readFileSync(new URL('../content/sessions-overview.json',import.meta.url)));
+// Elena 2026-11-16: Link-Seite für Instagram (nicht im Menü)
+const FUDDER_URL='';
+function linksMain(locale){
+ const en=locale==='en',t=(de,e)=>en?e:de,p=en?'/en':'';
+ const L=[[t('Meine Website','My website'),p+'/',0],['Nowhere 26 · DJ-Set','https://soundcloud.com/elena-judith/nowhere26/s-lRypHIpDVx1',1],[t('SoundCloud-Profil','SoundCloud profile'),'https://soundcloud.com/elena-judith',1],
+  ...(FUDDER_URL?[[t('Tipps für besseren Schlaf (fudder)','Tips for better sleep (fudder)'),FUDDER_URL,1]]:[]),
+  [t('Etsy-Shop','Etsy shop'),site.social.etsy||'https://www.etsy.com/shop/aestheticmattersshop',1],['Lucid Dreaming & Dream Analysis Course',p+'/dreaming-reality/',0],[t('1:1 Begleitung','1:1 guidance'),p+'/11-sessions/',0]];
+ const src=images.find(i=>i.id==='about-sonnenlicht'),v=src?.variants[0];
+ return `<section class="links-page"><div class="links-inner">${v?`<img class="links-avatar" src="/${v.file}" alt="Elena Judith" width="120" height="120">`:''}<h1>Elena Judith</h1><p class="links-sub">${t('Retreats · Begleitung · Musik · Fotografie','Retreats · Guidance · Music · Photography')}</p><ul>${L.map(([l,h,x])=>`<li><a class="links-btn" href="${esc(h)}"${x?' target="_blank" rel="noopener"':''}>${esc(l)}</a></li>`).join('')}</ul></div></section>`;
+}
 // Elena 2026-11-10: eigene Seite mit allen Stimmen zum Durchklicken
 function allQuotes(){
  const seen=new Set(),out=[];
@@ -470,6 +480,9 @@ export function finalize(html,{locale='de',route='/'}){
   $('main').html(sessionsMain(locale));
  }else if(slug==='datenschutz'){
   $('main').html(datenschutzMain(locale));
+ }else if(slug==='links'){
+  $('title').text('Links · Elena Judith');$('head').append('<meta name="robots" content="noindex">');
+  $('main').html(linksMain(locale));
  }else if(slug==='stimmen'){
   $('title').text(en?'Voices · Elena Judith':'Stimmen · Elena Judith');$('meta[name=description]').attr('content',en?'Experiences of people who have been on retreats, ceremonies, sessions and courses with Elena Judith.':'Erfahrungen von Menschen, die mit Elena Judith in Retreats, Zeremonien, Sessions und Kursen waren.');
   $('main').html(stimmenMain(locale));

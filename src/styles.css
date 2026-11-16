@@ -652,3 +652,13 @@ footer .wordmark .logo-img{height:64px}
 .voice-card blockquote{margin:0;font-size:15px;line-height:1.65}
 .voice-card blockquote p+p{margin-top:.8em}
 .all-voices{display:inline-block;margin-top:14px;font-size:13px}
+
+/* Elena 2026-11-16: Link-Seite */
+.links-page{padding:60px 20px 90px}
+.links-inner{max-width:480px;margin:0 auto;text-align:center}
+.links-avatar{display:block;margin:0 auto;width:120px;height:120px;border-radius:50%;object-fit:cover;object-position:50% 30%}
+.links-inner h1{font-size:36px;margin:18px 0 6px}
+.links-sub{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:30px}
+.links-inner ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px}
+.links-btn{display:block;padding:16px 20px;border:1px solid var(--ink);color:var(--ink);text-decoration:none;font-size:15px;letter-spacing:.04em;transition:background .25s,color .25s}
+.links-btn:hover{background:var(--ink);color:var(--paper,#f4f1ea)}

@@ -4193,6 +4193,146 @@
    "position": "50% 35%"
   },
   {
+   "id": "fo-spiegel-laecheln",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-laecheln.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau sitzt lächelnd auf einem Stein im Bach",
+    "en": "A woman sitting and smiling on a rock in a stream"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-spiegel-wasserfall",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-wasserfall.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau hält im Bach vor dem Wasserfall einen goldenen Spiegel",
+    "en": "A woman holding a golden mirror in the stream before a waterfall"
+   },
+   "position": "60% 60%"
+  },
+  {
+   "id": "fo-spiegel-blick",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-blick.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau blickt lächelnd nach oben ins Licht",
+    "en": "A woman smiling and looking up into the light"
+   },
+   "position": "55% 30%"
+  },
+  {
+   "id": "fo-spiegel-gehalten",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-gehalten.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau hält einen goldenen Spiegel vor sich im Wald",
+    "en": "A woman holding a golden mirror in front of her in the forest"
+   },
+   "position": "55% 40%"
+  },
+  {
+   "id": "fo-spiegel-leopard",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-leopard.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau im Leopardenrock sitzt auf Felsen neben einem Spiegel",
+    "en": "A woman in a leopard skirt sitting on rocks beside a mirror"
+   },
+   "position": "50% 45%"
+  },
+  {
+   "id": "fo-spiegel-herz",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-herz.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau sieht sich im Spiegel an, die Hand auf dem Herzen",
+    "en": "A woman looking at herself in a mirror, hand on her heart"
+   },
+   "position": "70% 50%"
+  },
+  {
+   "id": "fo-spiegel-ruecken",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-ruecken.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau im blauen Kleid blickt auf den Bach",
+    "en": "A woman in a blue dress looking at the stream"
+   },
+   "position": "40% 50%"
+  },
+  {
+   "id": "fo-spiegel-blau",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-blau.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Spiegelbild einer Frau im blauen Kleid zwischen Farnen",
+    "en": "Reflection of a woman in a blue dress among ferns"
+   },
+   "position": "50% 40%"
+  },
+  {
+   "id": "fo-spiegel-teich",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-teich.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Gestalt im Wasser hält einen Spiegel vor das Gesicht",
+    "en": "A figure in the water holding a mirror before her face"
+   },
+   "position": "60% 60%"
+  },
+  {
+   "id": "fo-spiegel-moos",
+   "role": "photography",
+   "shape": "rect",
+   "file": "assets/originals/fo-spiegel-moos.jpg",
+   "url": "",
+   "page": "Upload",
+   "name": "Katharina",
+   "alt": {
+    "de": "Eine Frau betrachtet ihr Spiegelbild zwischen Moos und Gräsern",
+    "en": "A woman looking at her reflection among moss and grasses"
+   },
+   "position": "40% 45%"
+  },
+  {
    "id": "fo-drei-blueten",
    "role": "photography",
    "shape": "rect",

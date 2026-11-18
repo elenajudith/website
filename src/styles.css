@@ -662,3 +662,6 @@ footer .wordmark .logo-img{height:64px}
 .links-inner ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px}
 .links-btn{display:block;padding:16px 20px;border:1px solid var(--ink);color:var(--ink);text-decoration:none;font-size:15px;letter-spacing:.04em;transition:background .25s,color .25s}
 .links-btn:hover{background:var(--ink);color:var(--paper,#f4f1ea)}
+
+/* Elena 2026-11-18: bei langen Texten wandert das Foto beim Scrollen mit (keine großen Lücken) */
+@media(min-width:901px){.sessions-pair{align-items:start}.sessions-pair .pair-photo{position:sticky;top:130px;align-self:start}}
